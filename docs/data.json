@@ -1,6 +1,2461 @@
 {
- "updated_at": null,
- "baseline": false,
+ "updated_at": "2026-07-10 20:08",
+ "baseline": true,
  "new_badge_days": 14,
- "products": []
+ "products": [
+  {
+   "key": "0010001|WR0001F",
+   "bank": "우리은행",
+   "name": "우리SUPER주거래적금",
+   "dcls_month": "202606",
+   "join_way": "영업점,인터넷,스마트폰,전화(텔레뱅킹)",
+   "join_member": "실명의 개인",
+   "join_deny": "1",
+   "spcl_cnd": "1.거래실적 인정기간 중 입출식 계좌에서 아래 실적월수가 계약기간의 1/2이상인 경우\n-급여/연금 이체:연 0.7%p\n-공과금 이체:0.3%p\n-우리카드 신용/체크카드 결제금액 10만원 이상 출금:연 0.3%p\n2.우리은행 상품서비스 마케팅 동의 항목 중 전화(휴대폰) 및 SMS항목을 모두 동의 후 만기해지시점까지 유지:연 0.1%p\n3.금리우대쿠폰을 적용",
+   "mtrt_int": "만기 후\n- 1개월이내 : 만기시점약정이율×50%\n- 1개월초과 6개월이내: 만기시점약정이율×30%\n- 6개월초과 : 만기시점약정이율×20%\n\n※ 만기시점 약정이율 : 일반정기적금 금리",
+   "max_limit": null,
+   "etc_note": "1. 가입기간 : 1년/2년/3년\n2. 가입금액 : 월 50만원 이내",
+   "options": [
+    {
+     "save_trm": 12,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.15,
+     "intr_rate2": 3.55
+    },
+    {
+     "save_trm": 12,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "정액적립식",
+     "intr_rate": 2.15,
+     "intr_rate2": 3.55
+    },
+    {
+     "save_trm": 24,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.15,
+     "intr_rate2": 3.55
+    },
+    {
+     "save_trm": 24,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "정액적립식",
+     "intr_rate": 2.15,
+     "intr_rate2": 3.55
+    },
+    {
+     "save_trm": 36,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.15,
+     "intr_rate2": 3.55
+    },
+    {
+     "save_trm": 36,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "정액적립식",
+     "intr_rate": 2.15,
+     "intr_rate2": 3.55
+    }
+   ],
+   "best_rate": 3.55,
+   "best_base_rate": 2.15,
+   "best_term": 12,
+   "naver_url": "https://search.naver.com/search.naver?query=%EC%9A%B0%EB%A6%AC%EC%9D%80%ED%96%89%20%EC%9A%B0%EB%A6%ACSUPER%EC%A3%BC%EA%B1%B0%EB%9E%98%EC%A0%81%EA%B8%88",
+   "first_seen": "2026-07-10"
+  },
+  {
+   "key": "0010001|WR0001L",
+   "bank": "우리은행",
+   "name": "WON적금",
+   "dcls_month": "202606",
+   "join_way": "스마트폰,전화(텔레뱅킹)",
+   "join_member": "실명의 개인",
+   "join_deny": "1",
+   "spcl_cnd": "1. 아래 각 항(가, 나)의 조건을 충족하는 경우 합산 최대 연 0.2%p 우대\n가. 이 적금을 우리꿈통장, WON통장에 연결하여 가입하는 경우 : 0.1%p\n나. 우리 오픈뱅킹 서비스에 타행계좌가 등록되어 있는 경우 : 연 0.1%p",
+   "mtrt_int": "만기 후\n- 1개월이내 : 만기시점약정이율×50%\n- 1개월초과 6개월이내: 만기시점약정이율×30%\n- 6개월초과 : 만기시점약정이율×20%\n\n※ 만기시점 약정이율 : 일반정기적금 금리",
+   "max_limit": null,
+   "etc_note": "1. 가입기간 : 1년\n2. 가입금액 : 월 50만원 이내",
+   "options": [
+    {
+     "save_trm": 12,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.95,
+     "intr_rate2": 3.15
+    },
+    {
+     "save_trm": 12,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "정액적립식",
+     "intr_rate": 2.95,
+     "intr_rate2": 3.15
+    }
+   ],
+   "best_rate": 3.15,
+   "best_base_rate": 2.95,
+   "best_term": 12,
+   "naver_url": "https://search.naver.com/search.naver?query=%EC%9A%B0%EB%A6%AC%EC%9D%80%ED%96%89%20WON%EC%A0%81%EA%B8%88",
+   "first_seen": "2026-07-10"
+  },
+  {
+   "key": "0010002|00266451",
+   "bank": "한국스탠다드차타드은행",
+   "name": "퍼스트가계적금",
+   "dcls_month": "202606",
+   "join_way": "영업점,인터넷,스마트폰",
+   "join_member": "개인(개인사업자 포함)",
+   "join_deny": "1",
+   "spcl_cnd": "없음",
+   "mtrt_int": "만기 후 1개월: 약정이율의 50%\n만기 후 1개월 초과 1년 이내: 약정이율의 30%\n만기 후 1년 초과: 약정이율의 10%",
+   "max_limit": 10000000,
+   "etc_note": "해당없음",
+   "options": [
+    {
+     "save_trm": 6,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "정액적립식",
+     "intr_rate": 2.4,
+     "intr_rate2": 2.4
+    },
+    {
+     "save_trm": 6,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.3,
+     "intr_rate2": 2.3
+    },
+    {
+     "save_trm": 12,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "정액적립식",
+     "intr_rate": 2.7,
+     "intr_rate2": 2.7
+    },
+    {
+     "save_trm": 12,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.55,
+     "intr_rate2": 2.55
+    },
+    {
+     "save_trm": 24,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "정액적립식",
+     "intr_rate": 2.75,
+     "intr_rate2": 2.75
+    },
+    {
+     "save_trm": 24,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.6,
+     "intr_rate2": 2.6
+    },
+    {
+     "save_trm": 36,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "정액적립식",
+     "intr_rate": 2.8,
+     "intr_rate2": 2.8
+    },
+    {
+     "save_trm": 36,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.65,
+     "intr_rate2": 2.65
+    }
+   ],
+   "best_rate": 2.8,
+   "best_base_rate": 2.8,
+   "best_term": 36,
+   "naver_url": "https://search.naver.com/search.naver?query=%ED%95%9C%EA%B5%AD%EC%8A%A4%ED%83%A0%EB%8B%A4%EB%93%9C%EC%B0%A8%ED%83%80%EB%93%9C%EC%9D%80%ED%96%89%20%ED%8D%BC%EC%8A%A4%ED%8A%B8%EA%B0%80%EA%B3%84%EC%A0%81%EA%B8%88",
+   "first_seen": "2026-07-10"
+  },
+  {
+   "key": "0010016|10521001001166004",
+   "bank": "아이엠뱅크",
+   "name": "iM함께적금",
+   "dcls_month": "202606",
+   "join_way": "영업점,인터넷,스마트폰",
+   "join_member": "실명의 개인 및 개인사업자",
+   "join_deny": "1",
+   "spcl_cnd": "*최고우대금리:연0.85%p\n-전월 총수신 평잔 30만원 이상 또는 첫만남플러스통장 보유:연0.10%p\n-당행 주택청약상품 보유 \n-신규일 \"iM함께예금\" 동시 가입 및 만기 보유 \n각 연0.20%p\n-당행 오픈뱅킹서비스에 다른 은행 계좌 등록:연0.30%p                       \n*해당 상품을 인터넷/모바일뱅킹을 통해 가입:연0.05%p",
+   "mtrt_int": "만기 후 1개월 미만 경과: 약정이자율 x 50%\n만기 후 3개월 미만 경과: 약정이자율 x 25%\n만기 후 3개월 이상 경과: 약정이자율 x 10%",
+   "max_limit": null,
+   "etc_note": "계좌당 가입 최저한도 : 10만원",
+   "options": [
+    {
+     "save_trm": 12,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "정액적립식",
+     "intr_rate": 2.75,
+     "intr_rate2": 3.6
+    }
+   ],
+   "best_rate": 3.6,
+   "best_base_rate": 2.75,
+   "best_term": 12,
+   "naver_url": "https://search.naver.com/search.naver?query=%EC%95%84%EC%9D%B4%EC%97%A0%EB%B1%85%ED%81%AC%20iM%ED%95%A8%EA%BB%98%EC%A0%81%EA%B8%88",
+   "first_seen": "2026-07-10"
+  },
+  {
+   "key": "0010017|01020400490002",
+   "bank": "부산은행",
+   "name": "펫 적금",
+   "dcls_month": "202606",
+   "join_way": "영업점,스마트폰",
+   "join_member": "실명의 개인고객(1인 1계좌)",
+   "join_deny": "1",
+   "spcl_cnd": "*우대이율 6개월제 최대 0.55%, 12개월제 최대 0.90%",
+   "mtrt_int": "- 만기후 1년이내:가입기간별 일반정기적금 기본이율 x 50%\n- 만기후 1년초과:가입기간별 일반정기적금 기본이율 x 20%",
+   "max_limit": 500000,
+   "etc_note": "1. 가입한도: 월 1만원 이상 50만원 이하 원단위\n2. 정기적립식",
+   "options": [
+    {
+     "save_trm": 6,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "정액적립식",
+     "intr_rate": 1.95,
+     "intr_rate2": 2.5
+    },
+    {
+     "save_trm": 12,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "정액적립식",
+     "intr_rate": 2.0,
+     "intr_rate2": 2.9
+    }
+   ],
+   "best_rate": 2.9,
+   "best_base_rate": 2.0,
+   "best_term": 12,
+   "naver_url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%EC%9D%80%ED%96%89%20%ED%8E%AB%20%EC%A0%81%EA%B8%88",
+   "first_seen": "2026-07-10"
+  },
+  {
+   "key": "0010017|01020400510001",
+   "bank": "부산은행",
+   "name": "저탄소 실천 적금",
+   "dcls_month": "202606",
+   "join_way": "영업점,인터넷,스마트폰",
+   "join_member": "제한없음",
+   "join_deny": "1",
+   "spcl_cnd": "조건 달성여부에 따라 우대금리 적용\n*개인형 우대이율: 최대0.5%\n*기업형(개인사업자 및 법인)우대이율: 최대0.4%",
+   "mtrt_int": "- 만기후 1년이내:가입기간별 일반정기적금 기본이율 x 50%\n- 만기후 1년초과:가입기간별 일반정기적금 기본이율 x 20%",
+   "max_limit": 10000000,
+   "etc_note": "1. 가입한도: 월 1만원 이상 1천만원 이하 원단위 (월 1천만원 이하 불입 가능)\n2. 자유적립식",
+   "options": [
+    {
+     "save_trm": 6,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.05,
+     "intr_rate2": 2.55
+    },
+    {
+     "save_trm": 12,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.1,
+     "intr_rate2": 2.6
+    },
+    {
+     "save_trm": 24,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 1.7,
+     "intr_rate2": 2.2
+    },
+    {
+     "save_trm": 36,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 1.7,
+     "intr_rate2": 2.2
+    }
+   ],
+   "best_rate": 2.6,
+   "best_base_rate": 2.1,
+   "best_term": 12,
+   "naver_url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%EC%9D%80%ED%96%89%20%EC%A0%80%ED%83%84%EC%86%8C%20%EC%8B%A4%EC%B2%9C%20%EC%A0%81%EA%B8%88",
+   "first_seen": "2026-07-10"
+  },
+  {
+   "key": "0010017|01020400530001",
+   "bank": "부산은행",
+   "name": "BNK내맘대로 \n적금",
+   "dcls_month": "202606",
+   "join_way": "영업점,인터넷,스마트폰",
+   "join_member": "제한없음",
+   "join_deny": "1",
+   "spcl_cnd": "*우대이율 최대 0.2%\n- 신규시 우대이율 0.05% 및 해지시 우대이율 최대 0.15%",
+   "mtrt_int": "- 만기후 1년이내:가입기간별 일반정기적금 기본이율 x 50%\n- 만기후 1년초과:가입기간별 일반정기적금 기본이율 x 20%",
+   "max_limit": null,
+   "etc_note": "1. 가입금액 :  1천원 이상\n2. 가입기간 :  6개월 이상 60개월 이하(일단위)\n3. 자유적립식",
+   "options": [
+    {
+     "save_trm": 6,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.2,
+     "intr_rate2": 2.4
+    },
+    {
+     "save_trm": 12,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.25,
+     "intr_rate2": 2.45
+    },
+    {
+     "save_trm": 24,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 1.75,
+     "intr_rate2": 1.95
+    },
+    {
+     "save_trm": 36,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 1.75,
+     "intr_rate2": 1.95
+    }
+   ],
+   "best_rate": 2.45,
+   "best_base_rate": 2.25,
+   "best_term": 12,
+   "naver_url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%EC%9D%80%ED%96%89%20BNK%EB%82%B4%EB%A7%98%EB%8C%80%EB%A1%9C%20%0A%EC%A0%81%EA%B8%88",
+   "first_seen": "2026-07-10"
+  },
+  {
+   "key": "0010017|01020400660001",
+   "bank": "부산은행",
+   "name": "부산이라 좋다\nBig적금",
+   "dcls_month": "202606",
+   "join_way": "스마트폰",
+   "join_member": "만 14세이상 실명의 개인고객(1인 1계좌)",
+   "join_deny": "1",
+   "spcl_cnd": "*우대이율 6개월 미만 최대2.00%, 6개월 이상 2.20%",
+   "mtrt_int": "- 만기후 1년이내:가입기간별 일반정기적금 기본이율 x 50%\n- 만기후 1년초과:가입기간별 일반정기적금 기본이율 x 20%",
+   "max_limit": 1000000,
+   "etc_note": "1. 가입한도: 월 1천원 이상 100만원 이하 원단위\n2. 자유적립식",
+   "options": [
+    {
+     "save_trm": 1,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.2,
+     "intr_rate2": 4.2
+    },
+    {
+     "save_trm": 3,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.2,
+     "intr_rate2": 4.2
+    },
+    {
+     "save_trm": 6,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.2,
+     "intr_rate2": 4.4
+    },
+    {
+     "save_trm": 12,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.2,
+     "intr_rate2": 4.4
+    }
+   ],
+   "best_rate": 4.4,
+   "best_base_rate": 2.2,
+   "best_term": 6,
+   "naver_url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%EC%9D%80%ED%96%89%20%EB%B6%80%EC%82%B0%EC%9D%B4%EB%9D%BC%20%EC%A2%8B%EB%8B%A4%0ABig%EC%A0%81%EA%B8%88",
+   "first_seen": "2026-07-10"
+  },
+  {
+   "key": "0010017|01020400700001",
+   "bank": "부산은행",
+   "name": "Only One 주거래 우대적금",
+   "dcls_month": "202606",
+   "join_way": "영업점,스마트폰",
+   "join_member": "만14세 이상 실명의 개인(1인 1계좌)",
+   "join_deny": "1",
+   "spcl_cnd": "* 우대이율 최대 2.5%\n- 공통 우대이율 최대 2%\n- 가입자격별 우대이율 최대 0.5%",
+   "mtrt_int": "- 만기후 1년이내:가입기간별 일반정기적금 기본이율 x 50%\n- 만기후 1년초과:가입기간별 일반정기적금 기본이율 x 20%",
+   "max_limit": 500000,
+   "etc_note": "1.가입금(적립)금액 : 월 1천원 이상 50만원 이하\n2. 가입기간 : 12개월",
+   "options": [
+    {
+     "save_trm": 12,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.0,
+     "intr_rate2": 4.5
+    }
+   ],
+   "best_rate": 4.5,
+   "best_base_rate": 2.0,
+   "best_term": 12,
+   "naver_url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%EC%9D%80%ED%96%89%20Only%20One%20%EC%A3%BC%EA%B1%B0%EB%9E%98%20%EC%9A%B0%EB%8C%80%EC%A0%81%EA%B8%88",
+   "first_seen": "2026-07-10"
+  },
+  {
+   "key": "0010019|TD11330029000",
+   "bank": "광주은행",
+   "name": "해피라이프_여행스케치적금V",
+   "dcls_month": "202606",
+   "join_way": "영업점,스마트폰",
+   "join_member": "제한없음(단,국가및지방자치단체제외)",
+   "join_deny": "1",
+   "spcl_cnd": "▶ 최고우대금리 1.20%p  \n①해피라이프_여행스케치외화적금V 동일자가입 0.5%p \n②해지원금 기준 500만원이상 : 최고0.2%p\n③신용(체크)카드사용실적300만원이상:최고 0.3%p\n④개인(신용)정보 동의: 0.2%p",
+   "mtrt_int": "*만기후 1개월 이내: 만기일 당시 최초 가입 기간별 고시금리의 1/2 \n*만기후 1개월 초과: 0.1%",
+   "max_limit": 5000000,
+   "etc_note": "1. 가입기간 : 6개월이상 3년제\n2. 가입금액 : 월5만원 이상 5백만원 이하 (1인1계좌)",
+   "options": [
+    {
+     "save_trm": 6,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "정액적립식",
+     "intr_rate": 2.4,
+     "intr_rate2": 3.6
+    },
+    {
+     "save_trm": 6,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.2,
+     "intr_rate2": 3.4
+    },
+    {
+     "save_trm": 12,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "정액적립식",
+     "intr_rate": 2.5,
+     "intr_rate2": 3.7
+    },
+    {
+     "save_trm": 12,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.3,
+     "intr_rate2": 3.5
+    },
+    {
+     "save_trm": 24,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "정액적립식",
+     "intr_rate": 2.4,
+     "intr_rate2": 3.6
+    },
+    {
+     "save_trm": 24,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.2,
+     "intr_rate2": 3.4
+    },
+    {
+     "save_trm": 36,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "정액적립식",
+     "intr_rate": 2.4,
+     "intr_rate2": 3.6
+    },
+    {
+     "save_trm": 36,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.2,
+     "intr_rate2": 3.4
+    }
+   ],
+   "best_rate": 3.7,
+   "best_base_rate": 2.5,
+   "best_term": 12,
+   "naver_url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%EC%9D%80%ED%96%89%20%ED%95%B4%ED%94%BC%EB%9D%BC%EC%9D%B4%ED%94%84_%EC%97%AC%ED%96%89%EC%8A%A4%EC%BC%80%EC%B9%98%EC%A0%81%EA%B8%88V",
+   "first_seen": "2026-07-10"
+  },
+  {
+   "key": "0010019|TD11330030000",
+   "bank": "광주은행",
+   "name": "여행스케치_남도투어적금",
+   "dcls_month": "202606",
+   "join_way": "영업점,스마트폰",
+   "join_member": "만14세이상 개인 및 개인사업자",
+   "join_deny": "1",
+   "spcl_cnd": "▶ 최고우대금리 1.9%p \n①예금가입일~만기일전일까지 당행이선정한 전라남도 관광지 방문 인증시 : 최고 1.5%p\n②신용(체크)카드사용실적300만원이상:최고 0.3%p\n③개인(신용)정보 동의: 0.1%p",
+   "mtrt_int": "만기후 1개월 이내: 만기일 당시 최초 가입 기간별 고시금리의 1/2 \n만기후 1개월 초과: 0.1%",
+   "max_limit": 1000000,
+   "etc_note": "1. 가입기간 :12개월제,18개월제\n2. 가입금액 : 월 5만원 이상 1백만원 이하 (1인1계좌)\n※ 18개월 정액식 기본금리 3.3%, 최고금리 5.2%",
+   "options": [
+    {
+     "save_trm": 12,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "정액적립식",
+     "intr_rate": 2.2,
+     "intr_rate2": 4.1
+    },
+    {
+     "save_trm": 12,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.0,
+     "intr_rate2": 3.9
+    }
+   ],
+   "best_rate": 4.1,
+   "best_base_rate": 2.2,
+   "best_term": 12,
+   "naver_url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%EC%9D%80%ED%96%89%20%EC%97%AC%ED%96%89%EC%8A%A4%EC%BC%80%EC%B9%98_%EB%82%A8%EB%8F%84%ED%88%AC%EC%96%B4%EC%A0%81%EA%B8%88",
+   "first_seen": "2026-07-10"
+  },
+  {
+   "key": "0010019|TD11330031000",
+   "bank": "광주은행",
+   "name": "VIP플러스적금",
+   "dcls_month": "202606",
+   "join_way": "영업점,인터넷,스마트폰",
+   "join_member": "실명의 개인",
+   "join_deny": "1",
+   "spcl_cnd": "▶ 최고우대금리 0.50%p  \n①이 예금가입시 VIP고객이거나 가입일 이후부터 만기일전일까지 VIP고객에 선정된 경험이 있는 경우 : 0.3%p \n②이 예금 가입일에 정기예금 500만원이상(만기 1년이상) 가입하고 만기일 전일까지 유지한 경우 : 0.2%p",
+   "mtrt_int": "*만기후 1개월 이내: 만기일 당시 최초 가입 기간별 고시금리의 1/2 \n*만기후 1개월 초과: 0.1%",
+   "max_limit": 5000000,
+   "etc_note": "1. 가입기간 : 1년제\n2. 가입금액 : 월10만원 이상 5백만원 이하 (1인1계좌)",
+   "options": [
+    {
+     "save_trm": 12,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "정액적립식",
+     "intr_rate": 2.4,
+     "intr_rate2": 2.9
+    },
+    {
+     "save_trm": 12,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.2,
+     "intr_rate2": 2.7
+    }
+   ],
+   "best_rate": 2.9,
+   "best_base_rate": 2.4,
+   "best_term": 12,
+   "naver_url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%EC%9D%80%ED%96%89%20VIP%ED%94%8C%EB%9F%AC%EC%8A%A4%EC%A0%81%EA%B8%88",
+   "first_seen": "2026-07-10"
+  },
+  {
+   "key": "0010020|220002101",
+   "bank": "제주은행",
+   "name": "jbank 저금통적금",
+   "dcls_month": "202606",
+   "join_way": "인터넷,스마트폰",
+   "join_member": "개인 및 개인사업자",
+   "join_deny": "1",
+   "spcl_cnd": "* 거래조건에 따라 최고 2.1%p 우대금리 적용\n① 자투리 출금계좌 평잔 50만원 이상 유지 : 0.8%p\n② 첫거래고객 or JBANK저금통적금 1개월 내 재신규 : 0.5%p\n③ 신규가입 시점에서 적금 목표금액 최소 30만원 이상 설정하고, 적금 신규일로부터 3개월 내 잔액이 목표금액 이상인 경우 :0.5%p\n④ 추천인 우대금리 : 0.30%p",
+   "mtrt_int": "- 만기후 1개월 이내 : (일반)정기적금 기본이자율의 50%\n(단, 최저금리 0.1%)\n- 만기후 1개월 초과 3개월 이내 : (일반)정기적금 기본이자율의 25%\n(단, 최저금리 0.1%)\n- 만기후 3개월 초과 : 0.1%",
+   "max_limit": 500000,
+   "etc_note": "월 납입한도 50만원 이하",
+   "options": [
+    {
+     "save_trm": 6,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.3,
+     "intr_rate2": 4.4
+    },
+    {
+     "save_trm": 12,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.6,
+     "intr_rate2": 4.7
+    }
+   ],
+   "best_rate": 4.7,
+   "best_base_rate": 2.6,
+   "best_term": 12,
+   "naver_url": "https://search.naver.com/search.naver?query=%EC%A0%9C%EC%A3%BC%EC%9D%80%ED%96%89%20jbank%20%EC%A0%80%EA%B8%88%ED%86%B5%EC%A0%81%EA%B8%88",
+   "first_seen": "2026-07-10"
+  },
+  {
+   "key": "0010020|220002501",
+   "bank": "제주은행",
+   "name": "MZ 플랜적금",
+   "dcls_month": "202606",
+   "join_way": "영업점,인터넷,스마트폰",
+   "join_member": "개인 및 개인사업자",
+   "join_deny": "1",
+   "spcl_cnd": "①매월 1회이상 지속적 납입시:1년제: 0.50%\n② 목표 금액 달성:0.50%\n③ 신용카드,체크카드 합산 사용액 월10만원 이상 사용: 0.50%\n* 청년이니까응원합니다 이벤트 : 0.50%",
+   "mtrt_int": "- 만기후 1개월 이내 : (일반)정기적금 기본이자율의 50%\n(단, 최저금리 0.1%)\n- 만기후 1개월 초과 3개월 이내 : (일반)정기적금 기본이자율의 25%\n(단, 최저금리 0.1%)\n- 만기후 3개월 초과 : 0.1%",
+   "max_limit": 300000,
+   "etc_note": "월 납입한도 30만원 이하",
+   "options": [
+    {
+     "save_trm": 12,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.95,
+     "intr_rate2": 4.95
+    },
+    {
+     "save_trm": 24,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 3.15,
+     "intr_rate2": 5.15
+    }
+   ],
+   "best_rate": 5.15,
+   "best_base_rate": 3.15,
+   "best_term": 24,
+   "naver_url": "https://search.naver.com/search.naver?query=%EC%A0%9C%EC%A3%BC%EC%9D%80%ED%96%89%20MZ%20%ED%94%8C%EB%9E%9C%EC%A0%81%EA%B8%88",
+   "first_seen": "2026-07-10"
+  },
+  {
+   "key": "0010020|220002701",
+   "bank": "제주은행",
+   "name": "사이버우대매일부금",
+   "dcls_month": "202606",
+   "join_way": "인터넷,스마트폰",
+   "join_member": "개인 및 개인사업자",
+   "join_deny": "1",
+   "spcl_cnd": "최고 0.4%p 추가 우대금리 제공\n1. 비대면채널 신규시 0.1%p\n2. 아래의 조건 충족시 0.3%p 추가 우대금리 제공\n①탐나는 J 직장인통장\n②탐나는 J 주거래통장\n가입고객이 기본우대 요건 충족 후 이 상품 가입시 0.1%p\n③달리자 파킹통장 가입 고객이 이 상품 가입시 0.3%p\n(단, ①, ②, ③항은 중복적용 불가)",
+   "mtrt_int": "- 만기후 1개월 이내 : (일반)정기적금 기본이자율의 50%\n(단, 최저금리 0.1%)\n- 만기후 1개월 초과 3개월 이내 : (일반)정기적금 기본이자율의 25%\n(단, 최저금리 0.1%)\n- 만기후 3개월 초과 : 0.1%",
+   "max_limit": null,
+   "etc_note": "가입 최소금액 1천원 이상,\n매 입금별 1천원 이상",
+   "options": [
+    {
+     "save_trm": 6,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.1,
+     "intr_rate2": 2.5
+    },
+    {
+     "save_trm": 12,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.4,
+     "intr_rate2": 2.8
+    },
+    {
+     "save_trm": 24,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.45,
+     "intr_rate2": 2.85
+    },
+    {
+     "save_trm": 36,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.55,
+     "intr_rate2": 2.95
+    }
+   ],
+   "best_rate": 2.95,
+   "best_base_rate": 2.55,
+   "best_term": 36,
+   "naver_url": "https://search.naver.com/search.naver?query=%EC%A0%9C%EC%A3%BC%EC%9D%80%ED%96%89%20%EC%82%AC%EC%9D%B4%EB%B2%84%EC%9A%B0%EB%8C%80%EB%A7%A4%EC%9D%BC%EB%B6%80%EA%B8%88",
+   "first_seen": "2026-07-10"
+  },
+  {
+   "key": "0010022|10-01-30-031-0018-0000",
+   "bank": "전북은행",
+   "name": "JB 다이렉트적금(자유적립식)",
+   "dcls_month": "202606",
+   "join_way": "인터넷,스마트폰",
+   "join_member": "실명의 개인 및 개인사업자(임의단체 제외)",
+   "join_deny": "1",
+   "spcl_cnd": "추가우대금리 :\n당행 계좌간 자동이체를 통해 이 예금으로 자동이체 된 금액에 0.1% 금리 우대",
+   "mtrt_int": "√만기후 1개월이내 경과분 : 만기일 현재 계약기간별 정기적금(자유적립식) 실행이율의 1/2\n√만기후 1개월초과 경과분 : 연 0.1%",
+   "max_limit": 10000000,
+   "etc_note": "1. 초회불입금 1만원이상, 1인당 월별 최고 1천만원이내\n2. 만기직전 1개월간 적립합계는 이전기간 적립금액을 초과할 수 없음\n3. 인터넷뱅킹/스마트폰뱅킹 가입상품",
+   "options": [
+    {
+     "save_trm": 12,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 3.4,
+     "intr_rate2": 3.5
+    },
+    {
+     "save_trm": 24,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 3.1,
+     "intr_rate2": 3.2
+    },
+    {
+     "save_trm": 36,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 3.0,
+     "intr_rate2": 3.1
+    }
+   ],
+   "best_rate": 3.5,
+   "best_base_rate": 3.4,
+   "best_term": 12,
+   "naver_url": "https://search.naver.com/search.naver?query=%EC%A0%84%EB%B6%81%EC%9D%80%ED%96%89%20JB%20%EB%8B%A4%EC%9D%B4%EB%A0%89%ED%8A%B8%EC%A0%81%EA%B8%88%28%EC%9E%90%EC%9C%A0%EC%A0%81%EB%A6%BD%EC%8B%9D%29",
+   "first_seen": "2026-07-10"
+  },
+  {
+   "key": "0010022|10-01-30-031-0036",
+   "bank": "전북은행",
+   "name": "JB 다이렉트적금(정액적립식)",
+   "dcls_month": "202606",
+   "join_way": "인터넷,스마트폰",
+   "join_member": "실명의 개인 및 개인사업자(임의단체 제외)",
+   "join_deny": "1",
+   "spcl_cnd": "추가우대금리 :\n당행 계좌간 자동이체를 통해 6회이상 입금한 경우 \n연 0.1% 금리우대",
+   "mtrt_int": "√만기후 1개월이내 경과분 : 만기일 현재 계약기간별 정기적금(정액적립식) 실행이율의 1/2\n√만기후 1개월초과 경과분 : 연 0.1%",
+   "max_limit": 5000000,
+   "etc_note": "1. 초회불입금 1만원이상, 1인당 월별 최고 5백만원이내\n2. 인터넷뱅킹/스마트폰뱅킹 가입상품",
+   "options": [
+    {
+     "save_trm": 12,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "정액적립식",
+     "intr_rate": 3.5,
+     "intr_rate2": 3.6
+    },
+    {
+     "save_trm": 24,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "정액적립식",
+     "intr_rate": 3.2,
+     "intr_rate2": 3.3
+    },
+    {
+     "save_trm": 36,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "정액적립식",
+     "intr_rate": 3.1,
+     "intr_rate2": 3.2
+    }
+   ],
+   "best_rate": 3.6,
+   "best_base_rate": 3.5,
+   "best_term": 12,
+   "naver_url": "https://search.naver.com/search.naver?query=%EC%A0%84%EB%B6%81%EC%9D%80%ED%96%89%20JB%20%EB%8B%A4%EC%9D%B4%EB%A0%89%ED%8A%B8%EC%A0%81%EA%B8%88%28%EC%A0%95%EC%95%A1%EC%A0%81%EB%A6%BD%EC%8B%9D%29",
+   "first_seen": "2026-07-10"
+  },
+  {
+   "key": "0010024|21000111",
+   "bank": "경남은행",
+   "name": "행복 DREAM 적금",
+   "dcls_month": "202606",
+   "join_way": "영업점,인터넷,스마트폰",
+   "join_member": "실명의 개인 및 개인사업자",
+   "join_deny": "1",
+   "spcl_cnd": "①신규일로부터 6개월전까지 당행 적금 미보유 0.2%\n②월부금이 50만원 이상인 경우 0.2%\n③이 예금을 자동이체로 납입하는 경우 0.2%\n④신규일로부터 익월 말일까지 신용(체크)카드를 최초로 발급하고 동 기간내에 10만원이상 이용실적이 있는경우 0.2%\n⑤이 예금 가입전 경남은행 마케팅동의가 되어있는경우 0.2%",
+   "mtrt_int": "만기후 1개월 이내: 일반정기예금 기본이율의 50%\n만기후 1개월 초과: 일반정기예금 기본이율의 20%",
+   "max_limit": 999999999,
+   "etc_note": "1. 계약기간은 1년 이상 3년 이하 월단위로 한다.\n2. 적립금액은 5만원 이상, 최고금액은 제한없음",
+   "options": [
+    {
+     "save_trm": 12,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "정액적립식",
+     "intr_rate": 2.7,
+     "intr_rate2": 3.7
+    },
+    {
+     "save_trm": 24,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "정액적립식",
+     "intr_rate": 2.6,
+     "intr_rate2": 3.6
+    },
+    {
+     "save_trm": 36,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "정액적립식",
+     "intr_rate": 2.6,
+     "intr_rate2": 3.6
+    }
+   ],
+   "best_rate": 3.7,
+   "best_base_rate": 2.7,
+   "best_term": 12,
+   "naver_url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EB%82%A8%EC%9D%80%ED%96%89%20%ED%96%89%EB%B3%B5%20DREAM%20%EC%A0%81%EA%B8%88",
+   "first_seen": "2026-07-10"
+  },
+  {
+   "key": "0010024|21001116",
+   "bank": "경남은행",
+   "name": "BNK더조은자유적금",
+   "dcls_month": "202606",
+   "join_way": "인터넷,스마트폰",
+   "join_member": "거래대상자는 제한을 두지 아니한다. 다만, 국가 및 지방자치단체는 이 예금을 거래할 수 없다.",
+   "join_deny": "1",
+   "spcl_cnd": "①오픈뱅킹서비스 가입 0.10%(만기까지 유지)\n②당행 입출금통장에서 자동이체시 입금건별 0.10%\n③이 상품 신규시 금리우대쿠폰을 등록할 경우 0.30%\n④마케팅동의 0.20%",
+   "mtrt_int": "만기후 1개월 이내: 일반정기예금 기본이율의 50%\n만기후 1개월 초과: 일반정기예금 기본이율의 20%",
+   "max_limit": 5000000,
+   "etc_note": "1. 계약기간은 6개월 이상 2년 이내 월단위로 한다.\n2. 초입금 1만원 이상 월별 500만원 이내에서 자유롭게 저축\n3. 최대 저축횟수는 999회 이내",
+   "options": [
+    {
+     "save_trm": 6,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 3.0,
+     "intr_rate2": 3.7
+    },
+    {
+     "save_trm": 12,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 3.1,
+     "intr_rate2": 3.8
+    },
+    {
+     "save_trm": 24,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 3.2,
+     "intr_rate2": 3.9
+    }
+   ],
+   "best_rate": 3.9,
+   "best_base_rate": 3.2,
+   "best_term": 24,
+   "naver_url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EB%82%A8%EC%9D%80%ED%96%89%20BNK%EB%8D%94%EC%A1%B0%EC%9D%80%EC%9E%90%EC%9C%A0%EC%A0%81%EA%B8%88",
+   "first_seen": "2026-07-10"
+  },
+  {
+   "key": "0010024|21001199",
+   "bank": "경남은행",
+   "name": "BNK 위더스자유적금",
+   "dcls_month": "202606",
+   "join_way": "영업점,인터넷,스마트폰,기타",
+   "join_member": "실명의 개인 및 개인사업자",
+   "join_deny": "1",
+   "spcl_cnd": "①ESG 실천 우대금리 1.00%\n②신규고객 우대금리 1.00%\n- 당행 1년 이내예적금(청약포함)신규해지 이력미보유\n③마케팅동의우대금리 0.50%",
+   "mtrt_int": "만기후 1개월 이내: 일반정기예금 기본이율의 50%\n만기후 1개월 초과: 일반정기예금 기본이율의 20%",
+   "max_limit": 1000000,
+   "etc_note": "1.계약기간은 1개월 이상 36개월 이하 월단위로 한다.\n2..1인 1계좌로 가입가능\n2.매월 최소 1만원 이상, 최고 월 100만원 이하 (천원 단위)",
+   "options": [
+    {
+     "save_trm": 1,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 1.45,
+     "intr_rate2": 3.95
+    },
+    {
+     "save_trm": 6,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 1.8,
+     "intr_rate2": 4.3
+    },
+    {
+     "save_trm": 12,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.1,
+     "intr_rate2": 4.6
+    },
+    {
+     "save_trm": 24,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.1,
+     "intr_rate2": 4.6
+    },
+    {
+     "save_trm": 36,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.1,
+     "intr_rate2": 4.6
+    }
+   ],
+   "best_rate": 4.6,
+   "best_base_rate": 2.1,
+   "best_term": 12,
+   "naver_url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EB%82%A8%EC%9D%80%ED%96%89%20BNK%20%EC%9C%84%EB%8D%94%EC%8A%A4%EC%9E%90%EC%9C%A0%EC%A0%81%EA%B8%88",
+   "first_seen": "2026-07-10"
+  },
+  {
+   "key": "0010024|21001236",
+   "bank": "경남은행",
+   "name": "오면우대! 하면우대!\n정기적금",
+   "dcls_month": "202606",
+   "join_way": "영업점,인터넷,스마트폰",
+   "join_member": "실명의 개인",
+   "join_deny": "1",
+   "spcl_cnd": "신규고객\n①적금가입시3.0%\n②상품가입 전 마케팅동의시0.1%\n③이 적금 신규월 포함 3개월 동안 10만원 이상 경남은행 카드 대금결제시2.0%\n기존고객\n①급여 또는 연금입금시1.5%\n②공과금 자동이체시 2.0%\n③경남은행 카드이용시(8회이상&10만원이상 카드대금 결제보유)1.5%\n④상품가입 전 마케팅동의시0.1%",
+   "mtrt_int": "만기후 1개월 이내: 일반정기예금 기본이율의 50%\n만기후 1개월 초과: 일반정기예금 기본이율의 20%",
+   "max_limit": 500000,
+   "etc_note": "1.계악기간은 1년제로 한다.\n2. 적립금액은 매월 10만원이상, 50만원 이하(1만원 이상)",
+   "options": [
+    {
+     "save_trm": 12,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "정액적립식",
+     "intr_rate": 1.9,
+     "intr_rate2": 7.0
+    }
+   ],
+   "best_rate": 7.0,
+   "best_base_rate": 1.9,
+   "best_term": 12,
+   "naver_url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EB%82%A8%EC%9D%80%ED%96%89%20%EC%98%A4%EB%A9%B4%EC%9A%B0%EB%8C%80%21%20%ED%95%98%EB%A9%B4%EC%9A%B0%EB%8C%80%21%0A%EC%A0%95%EA%B8%B0%EC%A0%81%EA%B8%88",
+   "first_seen": "2026-07-10"
+  },
+  {
+   "key": "0010024|21001259",
+   "bank": "경남은행",
+   "name": "오늘도세이브적금",
+   "dcls_month": "202606",
+   "join_way": "인터넷,스마트폰,기타",
+   "join_member": "실명의 개인 및 개인사업자",
+   "join_deny": "1",
+   "spcl_cnd": "①마케팅동의 0.15%\n②목돈마련 축하이율 0.30~1.00%\n③친구 추천번호 0.30~0.60%",
+   "mtrt_int": "만기후 1개월 이내: 일반정기예금 기본이율의 50%\n만기후 1개월 초과: 일반정기예금 기본이율의 20%",
+   "max_limit": 100000,
+   "etc_note": "1. 계약기간은 1개월 이상 6개월 이내 월단위로 한다.\n2. 초입금 일 1천원 이상 10만원 이하 자유롭게 저축\n3. 최대 저축횟수는 999회 이내",
+   "options": [
+    {
+     "save_trm": 1,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.75,
+     "intr_rate2": 4.5
+    },
+    {
+     "save_trm": 3,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.75,
+     "intr_rate2": 4.5
+    },
+    {
+     "save_trm": 6,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.75,
+     "intr_rate2": 4.5
+    }
+   ],
+   "best_rate": 4.5,
+   "best_base_rate": 2.75,
+   "best_term": 1,
+   "naver_url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EB%82%A8%EC%9D%80%ED%96%89%20%EC%98%A4%EB%8A%98%EB%8F%84%EC%84%B8%EC%9D%B4%EB%B8%8C%EC%A0%81%EA%B8%88",
+   "first_seen": "2026-07-10"
+  },
+  {
+   "key": "0010024|21001292",
+   "bank": "경남은행",
+   "name": "주거래 프리미엄 적금",
+   "dcls_month": "202606",
+   "join_way": "영업점,인터넷,스마트폰",
+   "join_member": "실명의 개인 및 개인사업자",
+   "join_deny": "1",
+   "spcl_cnd": "①주거래우대 0.5%\n②공과금 자동이체 0.4~0.6%\n③신규고객 0.2%\n④주택청약종합저축 보유 0.1%\n⑤ 전자명함을 통한 신규 시 0.2%",
+   "mtrt_int": "만기후 1개월 이내: 일반정기예금 기본이율의 50%\n만기후 1개월 초과: 일반정기예금 기본이율의 20%",
+   "max_limit": 999999999,
+   "etc_note": "1.계악기간은 1년제, 2년제, 3년제로 한다.\n2. 적립금액은 매월 1만원이상, 최고금액은 제한없음",
+   "options": [
+    {
+     "save_trm": 12,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "정액적립식",
+     "intr_rate": 2.5,
+     "intr_rate2": 4.1
+    },
+    {
+     "save_trm": 24,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "정액적립식",
+     "intr_rate": 2.35,
+     "intr_rate2": 3.95
+    },
+    {
+     "save_trm": 36,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "정액적립식",
+     "intr_rate": 2.35,
+     "intr_rate2": 3.95
+    }
+   ],
+   "best_rate": 4.1,
+   "best_base_rate": 2.5,
+   "best_term": 12,
+   "naver_url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EB%82%A8%EC%9D%80%ED%96%89%20%EC%A3%BC%EA%B1%B0%EB%9E%98%20%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84%20%EC%A0%81%EA%B8%88",
+   "first_seen": "2026-07-10"
+  },
+  {
+   "key": "0010026|01211210113",
+   "bank": "중소기업은행",
+   "name": "IBK D-day적금(자유적립식)",
+   "dcls_month": "202606",
+   "join_way": "스마트폰",
+   "join_member": "실명의 개인\n(개인사업자 제외)",
+   "join_deny": "1",
+   "spcl_cnd": "최고 연 1.5%p\n1. 목표달성 축하금리 : 연 1.0%p\n  - 당행 입출금식 계좌에서 이 적금으로 자동이체를 통해 3회 이상 납입하고 만기일 전일까지 목표금액(신규 시 직접 설정) 이상 납입하는 경우\n2. 최초거래고객 우대금리 : 연 0.5%p",
+   "mtrt_int": "만기일 당시 정기적금 만기후금리 적용\n- 1개월 이내: 만기일 당시 약정금리x50%\n- 1월 초과 6개월 이내: 만기일 당시 약정금리x30%\n- 6개월 초과: 만기일 당시 약정금리x20%",
+   "max_limit": 600000,
+   "etc_note": "1인당 3계좌 가입 가능하며, 계좌당 20만원 이내 납입 가능",
+   "options": [
+    {
+     "save_trm": 1,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.45,
+     "intr_rate2": 3.95
+    },
+    {
+     "save_trm": 3,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.45,
+     "intr_rate2": 3.95
+    },
+    {
+     "save_trm": 6,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.65,
+     "intr_rate2": 4.15
+    },
+    {
+     "save_trm": 12,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.85,
+     "intr_rate2": 4.35
+    }
+   ],
+   "best_rate": 4.35,
+   "best_base_rate": 2.85,
+   "best_term": 12,
+   "naver_url": "https://search.naver.com/search.naver?query=%EC%A4%91%EC%86%8C%EA%B8%B0%EC%97%85%EC%9D%80%ED%96%89%20IBK%20D-day%EC%A0%81%EA%B8%88%28%EC%9E%90%EC%9C%A0%EC%A0%81%EB%A6%BD%EC%8B%9D%29",
+   "first_seen": "2026-07-10"
+  },
+  {
+   "key": "0010026|01211210121",
+   "bank": "중소기업은행",
+   "name": "IBK탄소제로적금(자유적립식)",
+   "dcls_month": "202606",
+   "join_way": "스마트폰",
+   "join_member": "실명의 개인\n(개인사업자 제외)",
+   "join_deny": "1",
+   "spcl_cnd": "최고 연 2.00%p\n1. 에너지 절감 우대금리 : 최대 연 1.00%p\n2. 최초거래고객 우대금리 : 연 0.50%p\n3. 지로 또는 공과금 자동이체 우대금리 : 연 0.50%p",
+   "mtrt_int": "만기일 당시 정기적금 만기후금리 적용\n- 1개월 이내: 만기일 당시 약정금리x50%\n- 1월 초과 6개월 이내: 만기일 당시 약정금리x30%\n- 6개월 초과: 만기일 당시 약정금리x20%",
+   "max_limit": 1000000,
+   "etc_note": "1인당 1계좌 가입 가능하며, 계좌당 최소 1만원 이상 1백만원까지 납입 가능",
+   "options": [
+    {
+     "save_trm": 12,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.5,
+     "intr_rate2": 4.5
+    }
+   ],
+   "best_rate": 4.5,
+   "best_base_rate": 2.5,
+   "best_term": 12,
+   "naver_url": "https://search.naver.com/search.naver?query=%EC%A4%91%EC%86%8C%EA%B8%B0%EC%97%85%EC%9D%80%ED%96%89%20IBK%ED%83%84%EC%86%8C%EC%A0%9C%EB%A1%9C%EC%A0%81%EA%B8%88%28%EC%9E%90%EC%9C%A0%EC%A0%81%EB%A6%BD%EC%8B%9D%29",
+   "first_seen": "2026-07-10"
+  },
+  {
+   "key": "0010026|01211210122",
+   "bank": "중소기업은행",
+   "name": "IBK중기근로자우대적금\n(자유적립식)",
+   "dcls_month": "202606",
+   "join_way": "영업점,스마트폰",
+   "join_member": "중소기업에서 근무하는\n실명의 개인\n(개인사업자 제외)",
+   "join_deny": "3",
+   "spcl_cnd": "최고 연 2.20%p\n1. 가입시점 중소기업 근로자로 확인된 경우 : 재직기간에 따라 최고 연 1.2%p\n2. 당행 급여이체 실적(월50만원 이상) 6개월 이상\n   인 경우 : 연 1.0%p",
+   "mtrt_int": "만기일 당시 정기적금 만기후금리 적용\n- 1개월 이내: 만기일 당시 약정금리x50%\n- 1월 초과 6개월 이내: 만기일 당시 약정금리x30%\n- 6개월 초과: 만기일 당시 약정금리x20%",
+   "max_limit": 1000000,
+   "etc_note": "1인당 1계좌 가입 가능하며, 계좌당 100만원까지 납입 가능",
+   "options": [
+    {
+     "save_trm": 12,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.5,
+     "intr_rate2": 4.7
+    }
+   ],
+   "best_rate": 4.7,
+   "best_base_rate": 2.5,
+   "best_term": 12,
+   "naver_url": "https://search.naver.com/search.naver?query=%EC%A4%91%EC%86%8C%EA%B8%B0%EC%97%85%EC%9D%80%ED%96%89%20IBK%EC%A4%91%EA%B8%B0%EA%B7%BC%EB%A1%9C%EC%9E%90%EC%9A%B0%EB%8C%80%EC%A0%81%EA%B8%88%0A%28%EC%9E%90%EC%9C%A0%EC%A0%81%EB%A6%BD%EC%8B%9D%29",
+   "first_seen": "2026-07-10"
+  },
+  {
+   "key": "0010026|01211210129",
+   "bank": "중소기업은행",
+   "name": "IBK모으기통장(자유적립식)",
+   "dcls_month": "202606",
+   "join_way": "영업점,스마트폰",
+   "join_member": "실명의 개인\n(개인사업자 제외)",
+   "join_deny": "1",
+   "spcl_cnd": "최고 연 0.20%p\n1. 자동이체 우대금리 : 연 0.20%p\n- 6개월 이상 12개월 미만 : 3회\n 12개월 이상 24개월 미만 : 6회\n 24개월 이상 36개월 미만 : 12회\n 36개월 : 18회",
+   "mtrt_int": "만기일 당시 정기적금 만기후금리 적용\n- 1개월 이내: 만기일 당시 약정금리x50%\n- 1월 초과 6개월 이내: 만기일 당시 약정금리x30%\n- 6개월 초과: 만기일 당시 약정금리x20%",
+   "max_limit": 15000000,
+   "etc_note": "1인당 5계좌 가입 가능하며, 계좌당 최소 1천원 이상 3백만원까지 납입 가능",
+   "options": [
+    {
+     "save_trm": 6,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.45,
+     "intr_rate2": 2.65
+    },
+    {
+     "save_trm": 12,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.55,
+     "intr_rate2": 2.75
+    },
+    {
+     "save_trm": 24,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.55,
+     "intr_rate2": 2.75
+    },
+    {
+     "save_trm": 36,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.55,
+     "intr_rate2": 2.75
+    }
+   ],
+   "best_rate": 2.75,
+   "best_base_rate": 2.55,
+   "best_term": 12,
+   "naver_url": "https://search.naver.com/search.naver?query=%EC%A4%91%EC%86%8C%EA%B8%B0%EC%97%85%EC%9D%80%ED%96%89%20IBK%EB%AA%A8%EC%9C%BC%EA%B8%B0%ED%86%B5%EC%9E%A5%28%EC%9E%90%EC%9C%A0%EC%A0%81%EB%A6%BD%EC%8B%9D%29",
+   "first_seen": "2026-07-10"
+  },
+  {
+   "key": "0010030|03101",
+   "bank": "한국산업은행",
+   "name": "KDB 기업정기적금",
+   "dcls_month": "202606",
+   "join_way": "영업점,인터넷",
+   "join_member": "개인사업자, 조합(비영리법인 포함), 법인",
+   "join_deny": "1",
+   "spcl_cnd": "해당없음",
+   "mtrt_int": "* 만기후 1년 이내 : 만기일 현재 고시된 일반 정기적금 해당예금기간 기본이율의 1/2\n* 만기후 1년 초과 : 만기일 현재 고시된 보통예금 이율",
+   "max_limit": null,
+   "etc_note": "해당없음",
+   "options": [
+    {
+     "save_trm": 6,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "정액적립식",
+     "intr_rate": 2.72,
+     "intr_rate2": 2.72
+    },
+    {
+     "save_trm": 12,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "정액적립식",
+     "intr_rate": 3.16,
+     "intr_rate2": 3.16
+    },
+    {
+     "save_trm": 24,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "정액적립식",
+     "intr_rate": 3.39,
+     "intr_rate2": 3.39
+    },
+    {
+     "save_trm": 36,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "정액적립식",
+     "intr_rate": 3.6,
+     "intr_rate2": 3.6
+    }
+   ],
+   "best_rate": 3.6,
+   "best_base_rate": 3.6,
+   "best_term": 36,
+   "naver_url": "https://search.naver.com/search.naver?query=%ED%95%9C%EA%B5%AD%EC%82%B0%EC%97%85%EC%9D%80%ED%96%89%20KDB%20%EA%B8%B0%EC%97%85%EC%A0%95%EA%B8%B0%EC%A0%81%EA%B8%88",
+   "first_seen": "2026-07-10"
+  },
+  {
+   "key": "0010030|03700",
+   "bank": "한국산업은행",
+   "name": "KDB 자유적금",
+   "dcls_month": "202606",
+   "join_way": "영업점,인터넷,스마트폰",
+   "join_member": "개인, 개인사업자, 임의단체",
+   "join_deny": "1",
+   "spcl_cnd": "해당없음",
+   "mtrt_int": "* 만기후 1년 이내 : 만기일 현재 고시된 일반 정기적금 해당예금기간 기본이율의 1/2\n* 만기후 1년 초과 : 만기일 현재 고시된 보통예금 이율",
+   "max_limit": 5000000,
+   "etc_note": "해당없음",
+   "options": [
+    {
+     "save_trm": 1,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.61,
+     "intr_rate2": 2.61
+    },
+    {
+     "save_trm": 3,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.61,
+     "intr_rate2": 2.61
+    },
+    {
+     "save_trm": 6,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 3.02,
+     "intr_rate2": 3.02
+    },
+    {
+     "save_trm": 12,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 3.36,
+     "intr_rate2": 3.36
+    },
+    {
+     "save_trm": 24,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 3.49,
+     "intr_rate2": 3.49
+    },
+    {
+     "save_trm": 36,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 3.7,
+     "intr_rate2": 3.7
+    }
+   ],
+   "best_rate": 3.7,
+   "best_base_rate": 3.7,
+   "best_term": 36,
+   "naver_url": "https://search.naver.com/search.naver?query=%ED%95%9C%EA%B5%AD%EC%82%B0%EC%97%85%EC%9D%80%ED%96%89%20KDB%20%EC%9E%90%EC%9C%A0%EC%A0%81%EA%B8%88",
+   "first_seen": "2026-07-10"
+  },
+  {
+   "key": "0010927|010200100051",
+   "bank": "국민은행",
+   "name": "KB국민프리미엄적금(정액)",
+   "dcls_month": "202606",
+   "join_way": "영업점,인터넷,스마트폰,전화(텔레뱅킹)",
+   "join_member": "실명의 개인",
+   "join_deny": "1",
+   "spcl_cnd": "① 단체가입/나라사랑/쿠폰 우대이율: \n    1년: 연 0.6%p, 2년: 연 0.7%p,\n    3년: 연 0.9%p, 5년: 연 1.0%p \n   (중복적용되지 않음, 계약기간별차등적용)\n② 교차거래 우대이율: 연 0.3%p",
+   "mtrt_int": "- 1개월 이내 : 기본이율 X 50%\n- 1개월 초과  ~ 3개월 이내 : 기본이율 X 30%\n- 3개월 초과 : 0.1%",
+   "max_limit": null,
+   "etc_note": "1인 1계좌",
+   "options": [
+    {
+     "save_trm": 12,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "정액적립식",
+     "intr_rate": 2.5,
+     "intr_rate2": 3.4
+    },
+    {
+     "save_trm": 24,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "정액적립식",
+     "intr_rate": 2.7,
+     "intr_rate2": 3.7
+    },
+    {
+     "save_trm": 36,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "정액적립식",
+     "intr_rate": 2.8,
+     "intr_rate2": 4.0
+    }
+   ],
+   "best_rate": 4.0,
+   "best_base_rate": 2.8,
+   "best_term": 36,
+   "naver_url": "https://search.naver.com/search.naver?query=%EA%B5%AD%EB%AF%BC%EC%9D%80%ED%96%89%20KB%EA%B5%AD%EB%AF%BC%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84%EC%A0%81%EA%B8%88%28%EC%A0%95%EC%95%A1%29",
+   "first_seen": "2026-07-10"
+  },
+  {
+   "key": "0010927|010200100070",
+   "bank": "국민은행",
+   "name": "KB내맘대로적금",
+   "dcls_month": "202606",
+   "join_way": "인터넷,스마트폰",
+   "join_member": "실명의 개인 또는 개인사업자",
+   "join_deny": "1",
+   "spcl_cnd": "신규 시 다음의 9가지 우대이율 항목 중 6가지를 자유롭게 선택하고, 아래 우대이율 적용조건 충족 시 항목 당 각 연0.1%p의 우대이율 적용\n(최고 연0.6%p)\n - 우대이율 항목 : 급여이체, 카드결제계좌, 자동이체 저축, 아파트관리비 이체, KB스타뱅킹 이체, 장기거래, 첫 거래, 주택청약종합저축, 소중한 날",
+   "mtrt_int": "- 1개월 이내 : 기본이율 X 50%\n- 1개월 초과  ~ 3개월 이내 : 기본이율 X 30%\n- 3개월 초과 : 0.1%",
+   "max_limit": null,
+   "etc_note": "인터넷뱅킹/KB스타뱅킹 전용상품",
+   "options": [
+    {
+     "save_trm": 6,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "정액적립식",
+     "intr_rate": 2.3,
+     "intr_rate2": 2.9
+    },
+    {
+     "save_trm": 12,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "정액적립식",
+     "intr_rate": 2.55,
+     "intr_rate2": 3.15
+    },
+    {
+     "save_trm": 24,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "정액적립식",
+     "intr_rate": 2.75,
+     "intr_rate2": 3.35
+    },
+    {
+     "save_trm": 36,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "정액적립식",
+     "intr_rate": 2.95,
+     "intr_rate2": 3.55
+    }
+   ],
+   "best_rate": 3.55,
+   "best_base_rate": 2.95,
+   "best_term": 36,
+   "naver_url": "https://search.naver.com/search.naver?query=%EA%B5%AD%EB%AF%BC%EC%9D%80%ED%96%89%20KB%EB%82%B4%EB%A7%98%EB%8C%80%EB%A1%9C%EC%A0%81%EA%B8%88",
+   "first_seen": "2026-07-10"
+  },
+  {
+   "key": "0010927|010200100084",
+   "bank": "국민은행",
+   "name": "KB맑은하늘적금",
+   "dcls_month": "202606",
+   "join_way": "영업점,인터넷,스마트폰",
+   "join_member": "실명의 개인",
+   "join_deny": "1",
+   "spcl_cnd": "맑은하늘을 위한 미션별 제공조건을 달성하는 경우 각 미션별 우대이율 제공\n - 1년제 최고 연 0.8%p, 2년제 최고 연 0.9%p, 3년제 최고 연 1.0%p\n① 종이통장 줄이기 미션: 연 0.1%p\n② 종이서식 줄이기 미션: 연 0.2%p\n③ 대중교통 미션: 1년제 연 0.4%p, 2년제 연 0.5%p, 3년제 연 0.6%p\n④ 퀴즈미션: 연 0.1%p",
+   "mtrt_int": "- 1개월 이내 : 기본이율 X 50%\n- 1개월 초과  ~ 3개월 이내 : 기본이율 X 30%\n- 3개월 초과 : 0.1%",
+   "max_limit": null,
+   "etc_note": "공동명의 불가\n(1인 최대 3계좌)",
+   "options": [
+    {
+     "save_trm": 12,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.45,
+     "intr_rate2": 3.25
+    },
+    {
+     "save_trm": 24,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.55,
+     "intr_rate2": 3.45
+    },
+    {
+     "save_trm": 36,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.85,
+     "intr_rate2": 3.85
+    }
+   ],
+   "best_rate": 3.85,
+   "best_base_rate": 2.85,
+   "best_term": 36,
+   "naver_url": "https://search.naver.com/search.naver?query=%EA%B5%AD%EB%AF%BC%EC%9D%80%ED%96%89%20KB%EB%A7%91%EC%9D%80%ED%95%98%EB%8A%98%EC%A0%81%EA%B8%88",
+   "first_seen": "2026-07-10"
+  },
+  {
+   "key": "0010927|010200100104",
+   "bank": "국민은행",
+   "name": "KB 특★한 적금",
+   "dcls_month": "202606",
+   "join_way": "스마트폰",
+   "join_member": "실명의 개인",
+   "join_deny": "1",
+   "spcl_cnd": "항목별 적용 조건 충족시, 최고 연 4.0%p\n① 목표달성 축하 우대이율: 최고 연 1.0%p\n    50만원 이하: 연 0.5%p, 50만원 초과: 연 1.0%p \n② 별 모으기 우대이율 : 최고 연 1.0%p\n    10개: 연 0.5%p, 20개: 연 1.0%p\n③ 함께해요 우대이율: 최고 연 2.0%p",
+   "mtrt_int": "- 1개월 이내 : 기본이율 X 50%\n- 1개월 초과  ~ 3개월 이내 : 기본이율 X 30%\n- 3개월 초과 : 0.1%",
+   "max_limit": null,
+   "etc_note": "개인사업자, 임의단체 및\n공동명의 가입 불가\n(1인 최대 3계좌)",
+   "options": [
+    {
+     "save_trm": 1,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.0,
+     "intr_rate2": 6.0
+    },
+    {
+     "save_trm": 3,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.0,
+     "intr_rate2": 6.0
+    },
+    {
+     "save_trm": 6,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.0,
+     "intr_rate2": 6.0
+    }
+   ],
+   "best_rate": 6.0,
+   "best_base_rate": 2.0,
+   "best_term": 1,
+   "naver_url": "https://search.naver.com/search.naver?query=%EA%B5%AD%EB%AF%BC%EC%9D%80%ED%96%89%20KB%20%ED%8A%B9%E2%98%85%ED%95%9C%20%EC%A0%81%EA%B8%88",
+   "first_seen": "2026-07-10"
+  },
+  {
+   "key": "0011625|230-0119-85",
+   "bank": "신한은행",
+   "name": "신한 알.쏠 적금",
+   "dcls_month": "202606",
+   "join_way": "영업점,스마트폰",
+   "join_member": "제한없음",
+   "join_deny": "1",
+   "spcl_cnd": "※가산금리 최고 연 1.30%\n- 소득이체 : 연 0.6%\n- 카드이용 : 연 0.3%\n- 오픈뱅킹 : 연 0.6%\n- 청약보유 : 연 0.3%\n- 마케팅동의 : 연 0.1%\n※ 우대금리 항목별 자세한 적용 조건은 상품설명서 참조",
+   "mtrt_int": "-1개월 이하:(일반) 정기적금 기본금리 1/2\n(단, 최저금리 0.10%)\n-1개월 초과~6개월 이하: (일반) 정기적금 기본금리의 1/4\n(단, 최저금리 0.10%)\n-6개월 초과 0.10%",
+   "max_limit": 3000000,
+   "etc_note": "1. 가입한도: \n월300만원 이하\n2. 1인 다계좌",
+   "options": [
+    {
+     "save_trm": 12,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.45,
+     "intr_rate2": 3.75
+    },
+    {
+     "save_trm": 24,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.45,
+     "intr_rate2": 3.75
+    },
+    {
+     "save_trm": 36,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.45,
+     "intr_rate2": 3.75
+    }
+   ],
+   "best_rate": 3.75,
+   "best_base_rate": 2.45,
+   "best_term": 12,
+   "naver_url": "https://search.naver.com/search.naver?query=%EC%8B%A0%ED%95%9C%EC%9D%80%ED%96%89%20%EC%8B%A0%ED%95%9C%20%EC%95%8C.%EC%8F%A0%20%EC%A0%81%EA%B8%88",
+   "first_seen": "2026-07-10"
+  },
+  {
+   "key": "0013175|10-047-1360-0002",
+   "bank": "농협은행주식회사",
+   "name": "NH올원e 미니적금",
+   "dcls_month": "202606",
+   "join_way": "스마트폰",
+   "join_member": "개인",
+   "join_deny": "1",
+   "spcl_cnd": "1. 자동이체 입금횟수 우대금리 : 최고 0.5%p\n - 5회이상 : 0.2%p, 10회이상 : 0.3%p, 15회이상 0.5%p\n2. 목표금액 달성 축하금리  : 0.5%p\n3. MZ세대(만 19~34세)) 우대금리 : 0.5%p\n4. 직전 1년간 당행 예적금(청약포함) 미보유 고객 : 0.2%p",
+   "mtrt_int": "만기후 1년 이내 : 만기시점 계약기간별 자유로우대적금 기본금리의 1/2\n만기후 1년 초과 : 보통예금 금리",
+   "max_limit": 1550000,
+   "etc_note": "가입기간 1개월 이상 6개월 이하(일 단위)\n\n초입금 및 매일 1천원이상  5만원이내(천원 단위)",
+   "options": [
+    {
+     "save_trm": 1,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 1.85,
+     "intr_rate2": 3.55
+    },
+    {
+     "save_trm": 3,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 1.95,
+     "intr_rate2": 3.65
+    },
+    {
+     "save_trm": 6,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.15,
+     "intr_rate2": 3.85
+    }
+   ],
+   "best_rate": 3.85,
+   "best_base_rate": 2.15,
+   "best_term": 6,
+   "naver_url": "https://search.naver.com/search.naver?query=%EB%86%8D%ED%98%91%EC%9D%80%ED%96%89%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20NH%EC%98%AC%EC%9B%90e%20%EB%AF%B8%EB%8B%88%EC%A0%81%EA%B8%88",
+   "first_seen": "2026-07-10"
+  },
+  {
+   "key": "0013175|10-047-1365-0001",
+   "bank": "농협은행주식회사",
+   "name": "NH1934월복리적금",
+   "dcls_month": "202606",
+   "join_way": "영업점,인터넷,스마트폰",
+   "join_member": "만19세~만34세 개인 및 개인사업자",
+   "join_deny": "3",
+   "spcl_cnd": "1. 급여실적 : 1.0%p (①/② 중복 적용 불가)\n ① 급여이체 실적 : 1.0%p\n ② 개인사업자 계좌 실적 :1.0%p\n2. 비대면 채널 이체 실적 : 0.3%p\n3. 마케팅 동의 : 0.2%p\n4. 농업계고 및 청년농부사관학교 졸업자 : 2.0%p",
+   "mtrt_int": "만기후 1년 이내 : 만기시점 계약기간별 기본금리의 1/2\n만기후 1년 초과 : 보통예금 금리",
+   "max_limit": 500000,
+   "etc_note": "초입금 및 매회 1만원 이상, 월 50만원 이내 자유적립\n\n급여이체 실적과 개인사업자 계좌 실적 우대금리는 중복 적용 불가\n\n * 급여입금실적 인정기준\n  - 가입기간 12개월 이하 : 3개월 이상 급여이체\n  - 가입기간 24개월 이하 : 12개월 이상 급여이체",
+   "options": [
+    {
+     "save_trm": 6,
+     "intr_rate_type_nm": "복리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.15,
+     "intr_rate2": 5.65
+    },
+    {
+     "save_trm": 12,
+     "intr_rate_type_nm": "복리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.3,
+     "intr_rate2": 5.8
+    },
+    {
+     "save_trm": 24,
+     "intr_rate_type_nm": "복리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.35,
+     "intr_rate2": 5.85
+    }
+   ],
+   "best_rate": 5.85,
+   "best_base_rate": 2.35,
+   "best_term": 24,
+   "naver_url": "https://search.naver.com/search.naver?query=%EB%86%8D%ED%98%91%EC%9D%80%ED%96%89%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20NH1934%EC%9B%94%EB%B3%B5%EB%A6%AC%EC%A0%81%EA%B8%88",
+   "first_seen": "2026-07-10"
+  },
+  {
+   "key": "0013175|10-047-1381-0001",
+   "bank": "농협은행주식회사",
+   "name": "NH내가Green초록세상적금",
+   "dcls_month": "202606",
+   "join_way": "영업점,인터넷,스마트폰",
+   "join_member": "개인",
+   "join_deny": "1",
+   "spcl_cnd": "※ 우대금리 최대한도 : 1.0%p(연%, 세전)\n1. 온실가스 줄이기 실천서약서 동의 : 0.1%p\n2. 통장미발급 : 0.3%p\n3. 손하나로인증 서비스 등록 : 0.2%p\n4. 대중교통이용 : 0.2%p\n5. NH내가Green초록세상예금 동시 보유 : 0.2%p",
+   "mtrt_int": "만기후 1년 이내 : 만기시점 계약기간별 기본금리의 1/2\n만기후 1년 초과 : 보통예금 금리",
+   "max_limit": 500000,
+   "etc_note": "초입금5만원 이상 및 매회 1만원 이상, 매월50만원이내\n(단, 만기일 전 3개월 이내에는 이전 적립금 합계액을 초과하여 입금불가)\n\n※자세한 사항은 상품설명서 참조",
+   "options": [
+    {
+     "save_trm": 12,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.3,
+     "intr_rate2": 3.3
+    },
+    {
+     "save_trm": 24,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.35,
+     "intr_rate2": 3.35
+    },
+    {
+     "save_trm": 36,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.4,
+     "intr_rate2": 3.4
+    }
+   ],
+   "best_rate": 3.4,
+   "best_base_rate": 2.4,
+   "best_term": 36,
+   "naver_url": "https://search.naver.com/search.naver?query=%EB%86%8D%ED%98%91%EC%9D%80%ED%96%89%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20NH%EB%82%B4%EA%B0%80Green%EC%B4%88%EB%A1%9D%EC%84%B8%EC%83%81%EC%A0%81%EA%B8%88",
+   "first_seen": "2026-07-10"
+  },
+  {
+   "key": "0013175|10-047-1387-0001",
+   "bank": "농협은행주식회사",
+   "name": "NH고향사랑기부적금",
+   "dcls_month": "202606",
+   "join_way": "영업점,인터넷,스마트폰",
+   "join_member": "개인",
+   "join_deny": "1",
+   "spcl_cnd": "1. 고향사랑기부금 납부고객 우대 : 0.5%p\n\n2-1. 만 65세 이상 고령자 우대 : 0.1%p\n2-2. 만 19~34세 MZ고객 우대 : 0.3%p\n\n3. 고향사랑특별금리 : 0.05%p(금리시장상황에 따라 변동 가능)\n - 고향사랑특별금리는 상품 가입고객 모두에게 적용",
+   "mtrt_int": "만기후 1년 이내 : 만기시점 계약기간별 기본금리의 1/2\n만기후 1년 초과 : 보통예금 금리",
+   "max_limit": 500000,
+   "etc_note": "1.초입금1만원 이상 및 매회 1천원 이상, 매월50만원이내\n\n2. 고향사랑기부금 우대금리는 농협은행/농축협 영업점 또는 고향사랑e음 홈페이지를 통한 고향사랑기부금 납부실적이 확인되는 경우 제공\n\n3. 연간 판매액의 0.1% 공익기금 적립\n\n※자세한 사항은 상품설명서 참조",
+   "options": [
+    {
+     "save_trm": 12,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.6,
+     "intr_rate2": 3.45
+    },
+    {
+     "save_trm": 24,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.65,
+     "intr_rate2": 3.5
+    },
+    {
+     "save_trm": 36,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.7,
+     "intr_rate2": 3.55
+    }
+   ],
+   "best_rate": 3.55,
+   "best_base_rate": 2.7,
+   "best_term": 36,
+   "naver_url": "https://search.naver.com/search.naver?query=%EB%86%8D%ED%98%91%EC%9D%80%ED%96%89%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20NH%EA%B3%A0%ED%96%A5%EC%82%AC%EB%9E%91%EA%B8%B0%EB%B6%80%EC%A0%81%EA%B8%88",
+   "first_seen": "2026-07-10"
+  },
+  {
+   "key": "0013175|10-059-1264-0001",
+   "bank": "농협은행주식회사",
+   "name": "NH직장인월복리적금",
+   "dcls_month": "202606",
+   "join_way": "영업점,인터넷,스마트폰",
+   "join_member": "만18세이상 개인",
+   "join_deny": "3",
+   "spcl_cnd": "1. 급여입금실적 보유 고객 중\n - 가입기간 중 3개월 이상 급여이체시 : 0.3%p\n - 주택청약종합저축 또는 펀드가입 : 0.2%p\n - NH채움카드 결제실적 1백만원 이상 : 0.2%p\n2. 인터넷(스마트)뱅킹 또는 올원뱅크로 가입 : 0.1%p",
+   "mtrt_int": "만기후 3개월 이내 : 만기시점 국고채 1년물 금리\n만기후 1년 이내 : 만기시점 채움적금 계약기간별 고시금리의 50%\n만기후 1년 초과 : 만기시점 보통예금 금리",
+   "max_limit": 3000000,
+   "etc_note": "초입금 및 매회 입금 1만원 이상 원 단위,  1인당 분기별 3백만원 이내 적립 가능\n(단,계약기간 3/4 경과 후 적립할 수 있는 금액은 이전 적립누계액의 1/2이내)",
+   "options": [
+    {
+     "save_trm": 12,
+     "intr_rate_type_nm": "복리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.81,
+     "intr_rate2": 3.61
+    },
+    {
+     "save_trm": 24,
+     "intr_rate_type_nm": "복리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.6,
+     "intr_rate2": 3.4
+    },
+    {
+     "save_trm": 36,
+     "intr_rate_type_nm": "복리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.6,
+     "intr_rate2": 3.4
+    }
+   ],
+   "best_rate": 3.61,
+   "best_base_rate": 2.81,
+   "best_term": 12,
+   "naver_url": "https://search.naver.com/search.naver?query=%EB%86%8D%ED%98%91%EC%9D%80%ED%96%89%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20NH%EC%A7%81%EC%9E%A5%EC%9D%B8%EC%9B%94%EB%B3%B5%EB%A6%AC%EC%A0%81%EA%B8%88",
+   "first_seen": "2026-07-10"
+  },
+  {
+   "key": "0013909|52",
+   "bank": "주식회사 하나은행",
+   "name": "주거래하나 월복리적금",
+   "dcls_month": "202606",
+   "join_way": "영업점,인터넷,스마트폰",
+   "join_member": "실명의 개인\n또는 개인사업자",
+   "join_deny": "1",
+   "spcl_cnd": "최고 연1.0%\n- 주거래하나우대(연 0.5%) : 적금만기 전전월말기준 본인명의 당행입출금통장을 통해 계약기간 1/2이상 이체된 주거래실적 1종  - 주거래플러스우대(연 0.9%) : 주거래 하나우대와 동일요건의 거래실적 2종이상 경우 \n- 온라인.재예치우대 연 최대 0.1%",
+   "mtrt_int": "1개월 이내 : 지급당시 해당기간별 일반정기적금 기본금리 1/2\n1개월 초과 : 지급당시 해당기간별 일반정기적금 기본금리 1/4",
+   "max_limit": 3000000,
+   "etc_note": "1. 1인 1계좌만 가능\n(급여하나월복리적금,연금하나 월복리적금과 중복가입 불가)\n2. 가입금액 \n - 최저1만원~300만원이하\n3. 적립한도\n 분기당 1만원이상 300만원\n (자유적립식)",
+   "options": [
+    {
+     "save_trm": 12,
+     "intr_rate_type_nm": "복리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.75,
+     "intr_rate2": 3.75
+    },
+    {
+     "save_trm": 24,
+     "intr_rate_type_nm": "복리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.8,
+     "intr_rate2": 3.8
+    },
+    {
+     "save_trm": 36,
+     "intr_rate_type_nm": "복리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.85,
+     "intr_rate2": 3.85
+    }
+   ],
+   "best_rate": 3.85,
+   "best_base_rate": 2.85,
+   "best_term": 36,
+   "naver_url": "https://search.naver.com/search.naver?query=%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20%ED%95%98%EB%82%98%EC%9D%80%ED%96%89%20%EC%A3%BC%EA%B1%B0%EB%9E%98%ED%95%98%EB%82%98%20%EC%9B%94%EB%B3%B5%EB%A6%AC%EC%A0%81%EA%B8%88",
+   "first_seen": "2026-07-10"
+  },
+  {
+   "key": "0013909|53",
+   "bank": "주식회사 하나은행",
+   "name": "내맘적금",
+   "dcls_month": "202606",
+   "join_way": "영업점,인터넷,스마트폰,전화(텔레뱅킹)",
+   "join_member": "실명의 개인\n또는 개인사업자(1인 다계좌 가능)",
+   "join_deny": "1",
+   "spcl_cnd": "하나은행 통장에서 계약기간의 1/2이상 월부금 자동이체실적 충족 시 연 0.50%",
+   "mtrt_int": "1개월 이내 : 지급당시 해당기간별 일반정기적금 기본금리 1/2\n1개월 초과 : 지급당시 해당기간별 일반정기적금 기본금리 1/4",
+   "max_limit": 10000000,
+   "etc_note": "1. 1인 다계좌 가능\n2. 가입금액\n   - 1천원 이상~1,000만원 이하(원단위)\n3. 적립한도\n    - 자유적립식 : 매월 1원 이상~1,000만원 이하(원단위)\n    - 정액적립식 : 매월 1천원 이상~1,000만원 이하(원단위)",
+   "options": [
+    {
+     "save_trm": 6,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "정액적립식",
+     "intr_rate": 2.0,
+     "intr_rate2": 2.5
+    },
+    {
+     "save_trm": 6,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 1.5,
+     "intr_rate2": 2.0
+    },
+    {
+     "save_trm": 12,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "정액적립식",
+     "intr_rate": 2.1,
+     "intr_rate2": 2.6
+    },
+    {
+     "save_trm": 12,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 1.5,
+     "intr_rate2": 2.0
+    },
+    {
+     "save_trm": 24,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "정액적립식",
+     "intr_rate": 2.2,
+     "intr_rate2": 2.7
+    },
+    {
+     "save_trm": 24,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 1.6,
+     "intr_rate2": 2.1
+    },
+    {
+     "save_trm": 36,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "정액적립식",
+     "intr_rate": 2.3,
+     "intr_rate2": 2.8
+    },
+    {
+     "save_trm": 36,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 1.7,
+     "intr_rate2": 2.2
+    }
+   ],
+   "best_rate": 2.8,
+   "best_base_rate": 2.3,
+   "best_term": 36,
+   "naver_url": "https://search.naver.com/search.naver?query=%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20%ED%95%98%EB%82%98%EC%9D%80%ED%96%89%20%EB%82%B4%EB%A7%98%EC%A0%81%EA%B8%88",
+   "first_seen": "2026-07-10"
+  },
+  {
+   "key": "0014674|01012000200000000003",
+   "bank": "주식회사 케이뱅크",
+   "name": "코드K 자유적금",
+   "dcls_month": "202606",
+   "join_way": "스마트폰",
+   "join_member": "만 17세 이상 실명의 개인 및 개인사업자",
+   "join_deny": "1",
+   "spcl_cnd": "금리우대 코드를 입력하는 경우 우대금리 적용",
+   "mtrt_int": "만기 후 \n- 1개월 이내: 만기시점 기본금리 X 50% \n- 1개월 초과 ~ 6개월 이내: 만기시점 기본금리 X 30%\n- 6개월 초과: 연 0.20%",
+   "max_limit": 300000,
+   "etc_note": "가입금액: 1만원 이상 30만원 이하\n가입기간: 6개월, 1년, 2년, 3년 \n(1인 최대 15계좌)",
+   "options": [
+    {
+     "save_trm": 1,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.8,
+     "intr_rate2": 2.8
+    },
+    {
+     "save_trm": 3,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 3.0,
+     "intr_rate2": 3.0
+    },
+    {
+     "save_trm": 6,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 3.5,
+     "intr_rate2": 3.5
+    },
+    {
+     "save_trm": 12,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 3.7,
+     "intr_rate2": 3.7
+    },
+    {
+     "save_trm": 24,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 3.0,
+     "intr_rate2": 3.0
+    },
+    {
+     "save_trm": 36,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 3.0,
+     "intr_rate2": 3.0
+    }
+   ],
+   "best_rate": 3.7,
+   "best_base_rate": 3.7,
+   "best_term": 12,
+   "naver_url": "https://search.naver.com/search.naver?query=%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20%EC%BC%80%EC%9D%B4%EB%B1%85%ED%81%AC%20%EC%BD%94%EB%93%9CK%20%EC%9E%90%EC%9C%A0%EC%A0%81%EA%B8%88",
+   "first_seen": "2026-07-10"
+  },
+  {
+   "key": "0014674|01012000200000000004",
+   "bank": "주식회사 케이뱅크",
+   "name": "궁금한 적금",
+   "dcls_month": "202606",
+   "join_way": "스마트폰",
+   "join_member": "만 17세 이상 실명의 개인 및 개인사업자",
+   "join_deny": "1",
+   "spcl_cnd": "입금할 때마다 우대금리를 랜덤으로 제공하며, 입금 시 제공되는 우대금리를 누적으로 합산하여 만기 해지 시 적용 (최고 연 6.0%)",
+   "mtrt_int": "만기 후 \n- 1개월 이내: 만기시점 기본금리 X 50% \n- 1개월 초과 ~ 6개월 이내: 만기시점 기본금리 X 30%\n- 6개월 초과: 연 0.20%",
+   "max_limit": null,
+   "etc_note": "가입금액: 0원\n가입기간: 31일\n(1인 최대 1계좌)\n적립방법 : 연결계좌를 통한 직접 입금만 가능하며, 입금은 신규일부터 만기일 전일까지 1일 1회 가능\n납입금액 : 1일(1회) 최소 100원, 최대 5만원",
+   "options": [
+    {
+     "save_trm": 1,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 0.7,
+     "intr_rate2": 6.7
+    }
+   ],
+   "best_rate": 6.7,
+   "best_base_rate": 0.7,
+   "best_term": 1,
+   "naver_url": "https://search.naver.com/search.naver?query=%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20%EC%BC%80%EC%9D%B4%EB%B1%85%ED%81%AC%20%EA%B6%81%EA%B8%88%ED%95%9C%20%EC%A0%81%EA%B8%88",
+   "first_seen": "2026-07-10"
+  },
+  {
+   "key": "0014674|01012000200000000005",
+   "bank": "주식회사 케이뱅크",
+   "name": "데굴데굴 농장",
+   "dcls_month": "202606",
+   "join_way": "스마트폰",
+   "join_member": "만 17세 이상 실명의 개인 및 개인사업자",
+   "join_deny": "1",
+   "spcl_cnd": "금리우대 코드를 입력하는 경우 우대금리 적용",
+   "mtrt_int": "만기 후\n- 1개월 이내: 만기시점 기본금리 X 50%\n- 1개월 초과 ~ 6개월 이내: 만기시점 기본금리 X 30%\n- 6개월 초과: 연 0.20%",
+   "max_limit": 10000000,
+   "etc_note": "가입금액: 1만원 이상 1천만원 이하\n가입기간: 6개월 , 1년\n(1인 최대1계좌)",
+   "options": [
+    {
+     "save_trm": 6,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 3.0,
+     "intr_rate2": 3.0
+    },
+    {
+     "save_trm": 12,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 3.0,
+     "intr_rate2": 3.0
+    }
+   ],
+   "best_rate": 3.0,
+   "best_base_rate": 3.0,
+   "best_term": 6,
+   "naver_url": "https://search.naver.com/search.naver?query=%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20%EC%BC%80%EC%9D%B4%EB%B1%85%ED%81%AC%20%EB%8D%B0%EA%B5%B4%EB%8D%B0%EA%B5%B4%20%EB%86%8D%EC%9E%A5",
+   "first_seen": "2026-07-10"
+  },
+  {
+   "key": "0014674|01012000200000000006",
+   "bank": "주식회사 케이뱅크",
+   "name": "마이키즈 적금",
+   "dcls_month": "202606",
+   "join_way": "스마트폰",
+   "join_member": "만 17세 미만의 실명의 개인",
+   "join_deny": "1",
+   "spcl_cnd": "1. 입금실적에 따라 우대금리 적용\n2. 금리쿠폰을 입력시 우대금리 적용",
+   "mtrt_int": "만기 후\n- 1개월 이내: 만기시점 기본금리 X 50%\n- 1개월 초과 ~ 6개월 이내: 만기시점 기본금리 X 30%\n- 6개월 초과: 연 0.20%",
+   "max_limit": 300000,
+   "etc_note": "가입금액: 0원 / 최대 납입금액 : 월 30만원 \n가입기간 : 1년,2년,3년,4년,5년\n ㅇ 4년 금리: 최저 연 3.3% ~ 최고 연 8.3%\n ㅇ 5년 금리: 최저 연 3.5% ~ 최고 연 8.5%",
+   "options": [
+    {
+     "save_trm": 12,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 3.0,
+     "intr_rate2": 8.0
+    },
+    {
+     "save_trm": 24,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 3.0,
+     "intr_rate2": 8.0
+    },
+    {
+     "save_trm": 36,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 3.3,
+     "intr_rate2": 8.3
+    }
+   ],
+   "best_rate": 8.3,
+   "best_base_rate": 3.3,
+   "best_term": 36,
+   "naver_url": "https://search.naver.com/search.naver?query=%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20%EC%BC%80%EC%9D%B4%EB%B1%85%ED%81%AC%20%EB%A7%88%EC%9D%B4%ED%82%A4%EC%A6%88%20%EC%A0%81%EA%B8%88",
+   "first_seen": "2026-07-10"
+  },
+  {
+   "key": "0014674|01012000210000000000",
+   "bank": "주식회사 케이뱅크",
+   "name": "주거래우대 자유적금",
+   "dcls_month": "202606",
+   "join_way": "스마트폰",
+   "join_member": "만 17세 이상 실명의 개인 및 개인사업자",
+   "join_deny": "1",
+   "spcl_cnd": "급여이체 또는 통신비 자동이체, 체크카드 고객에게 우대금리 제공 (최고 연 0.6%)",
+   "mtrt_int": "만기 후 \n- 1개월 이내: 만기시점 기본금리 X 50% \n- 1개월 초과 ~ 6개월 이내: 만기시점 기본금리 X 30%\n- 6개월 초과: 연 0.20%",
+   "max_limit": 3000000,
+   "etc_note": "가입금액: 1천원 이상 300만원 이하\n가입기간: 6개월 ~ 36개월\n(1인 최대 3계좌)",
+   "options": [
+    {
+     "save_trm": 6,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 3.2,
+     "intr_rate2": 3.8
+    },
+    {
+     "save_trm": 12,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 3.6,
+     "intr_rate2": 4.2
+    },
+    {
+     "save_trm": 24,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 3.4,
+     "intr_rate2": 4.0
+    },
+    {
+     "save_trm": 36,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 3.4,
+     "intr_rate2": 4.0
+    }
+   ],
+   "best_rate": 4.2,
+   "best_base_rate": 3.6,
+   "best_term": 12,
+   "naver_url": "https://search.naver.com/search.naver?query=%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20%EC%BC%80%EC%9D%B4%EB%B1%85%ED%81%AC%20%EC%A3%BC%EA%B1%B0%EB%9E%98%EC%9A%B0%EB%8C%80%20%EC%9E%90%EC%9C%A0%EC%A0%81%EA%B8%88",
+   "first_seen": "2026-07-10"
+  },
+  {
+   "key": "0014807|10140114300011",
+   "bank": "수협은행",
+   "name": "Sh해양플라스틱Zero!적금\n(정액적립식)",
+   "dcls_month": "202606",
+   "join_way": "영업점,인터넷,스마트폰",
+   "join_member": "실명의 개인",
+   "join_deny": "1",
+   "spcl_cnd": "* 최대우대금리:0.5%\n1. 해양플라스틱감축서약 : 0.1% (신규시) \n2. 봉사활동 또는 상품홍보 : 0.2% (만기시) \n3. 입출금통장 최초신규 : 0.2% (만기시)\n4. 자동이체 출금실적 : 0.2% (만기시)\n - 수협신용카드 / 당행 펀드 / 수협체크카드",
+   "mtrt_int": "* 만기후 1년 이내\n - 만기당시 일반정기적금 \n계약기간별 기본금리 1/2\n* 만기후 1년 초과\n - 만기당시 보통예금 기본금리",
+   "max_limit": 1000000,
+   "etc_note": "- 1인 1계좌 \n- 월 가입한도 : 100만원",
+   "options": [
+    {
+     "save_trm": 12,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "정액적립식",
+     "intr_rate": 3.5,
+     "intr_rate2": 4.0
+    },
+    {
+     "save_trm": 24,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "정액적립식",
+     "intr_rate": 3.0,
+     "intr_rate2": 3.5
+    },
+    {
+     "save_trm": 36,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "정액적립식",
+     "intr_rate": 3.3,
+     "intr_rate2": 3.8
+    }
+   ],
+   "best_rate": 4.0,
+   "best_base_rate": 3.5,
+   "best_term": 12,
+   "naver_url": "https://search.naver.com/search.naver?query=%EC%88%98%ED%98%91%EC%9D%80%ED%96%89%20Sh%ED%95%B4%EC%96%91%ED%94%8C%EB%9D%BC%EC%8A%A4%ED%8B%B1Zero%21%EC%A0%81%EA%B8%88%0A%28%EC%A0%95%EC%95%A1%EC%A0%81%EB%A6%BD%EC%8B%9D%29",
+   "first_seen": "2026-07-10"
+  },
+  {
+   "key": "0014807|10140114700041",
+   "bank": "수협은행",
+   "name": "헤이(Hey)적금\n(정액적립식)",
+   "dcls_month": "202606",
+   "join_way": "스마트폰",
+   "join_member": "실명의 개인",
+   "join_deny": "1",
+   "spcl_cnd": "*최대우대금리  :0.9%\n1. 마케팅동의 : 0.1% (신규시)\n2. 자동이체 납입 : 0.8% (만기시)",
+   "mtrt_int": "* 만기 후 1년이내\n - 만기당시 일반정기적금 \n계약기간별 기본금리 1/2\n* 만기후 1년 초과\n - 만기당시 보통예금 기본금리",
+   "max_limit": 1000000,
+   "etc_note": "- 1인 1계좌 \n- 월 가입한도 : 100만원",
+   "options": [
+    {
+     "save_trm": 6,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "정액적립식",
+     "intr_rate": 2.5,
+     "intr_rate2": 3.4
+    },
+    {
+     "save_trm": 12,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "정액적립식",
+     "intr_rate": 2.8,
+     "intr_rate2": 3.7
+    }
+   ],
+   "best_rate": 3.7,
+   "best_base_rate": 2.8,
+   "best_term": 12,
+   "naver_url": "https://search.naver.com/search.naver?query=%EC%88%98%ED%98%91%EC%9D%80%ED%96%89%20%ED%97%A4%EC%9D%B4%28Hey%29%EC%A0%81%EA%B8%88%0A%28%EC%A0%95%EC%95%A1%EC%A0%81%EB%A6%BD%EC%8B%9D%29",
+   "first_seen": "2026-07-10"
+  },
+  {
+   "key": "0014807|10141109800021",
+   "bank": "수협은행",
+   "name": "Sh월복리자유적금",
+   "dcls_month": "202606",
+   "join_way": "영업점,인터넷,스마트폰",
+   "join_member": "실명의 개인 및 개인사업자",
+   "join_deny": "1",
+   "spcl_cnd": "*최대우대금리:0.7%\n-첫거래고객:0.3%\n-카드거래:최대0.3%\n-복수거래:0.1%\n-요구불거래:최대0.2%\n-인터넷뱅킹고객:0.1%\n-자동이체실적:0.1%",
+   "mtrt_int": "* 만기후 1년 이내\n - 만기당시 상호부금\n계약기간별 기본금리 1/2\n* 만기후 1년 초과\n - 만기당시 보통예금 기본금리",
+   "max_limit": 1000000,
+   "etc_note": "- 1인 1계좌\n- 월 가입한도 : 100만원",
+   "options": [
+    {
+     "save_trm": 12,
+     "intr_rate_type_nm": "복리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.2,
+     "intr_rate2": 2.9
+    },
+    {
+     "save_trm": 24,
+     "intr_rate_type_nm": "복리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 1.8,
+     "intr_rate2": 2.5
+    },
+    {
+     "save_trm": 36,
+     "intr_rate_type_nm": "복리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 1.9,
+     "intr_rate2": 2.6
+    }
+   ],
+   "best_rate": 2.9,
+   "best_base_rate": 2.2,
+   "best_term": 12,
+   "naver_url": "https://search.naver.com/search.naver?query=%EC%88%98%ED%98%91%EC%9D%80%ED%96%89%20Sh%EC%9B%94%EB%B3%B5%EB%A6%AC%EC%9E%90%EC%9C%A0%EC%A0%81%EA%B8%88",
+   "first_seen": "2026-07-10"
+  },
+  {
+   "key": "0014807|10141114300011",
+   "bank": "수협은행",
+   "name": "Sh해양플라스틱Zero!적금\n(자유적립식)",
+   "dcls_month": "202606",
+   "join_way": "영업점,인터넷,스마트폰",
+   "join_member": "실명의 개인",
+   "join_deny": "1",
+   "spcl_cnd": "* 최대우대금리:0.5%\n1. 해양플라스틱감축서약 : 0.1% (신규시) \n2. 봉사활동 또는 상품홍보 : 0.2% (만기시) \n3. 입출금통장 최초신규 : 0.2% (만기시)\n4. 자동이체 출금실적 : 0.2% (만기시)\n - 수협신용카드 / 당행 펀드 / 수협체크카드",
+   "mtrt_int": "* 만기후 1년 이내\n - 만기당시 상호부금 \n계약기간별 기본금리 1/2\n* 만기후 1년 초과\n - 만기당시 보통예금 기본금리",
+   "max_limit": 200000,
+   "etc_note": "- 1인 1계좌 \n- 월 가입한도 : 20만원",
+   "options": [
+    {
+     "save_trm": 12,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 3.65,
+     "intr_rate2": 4.15
+    },
+    {
+     "save_trm": 24,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.85,
+     "intr_rate2": 3.35
+    },
+    {
+     "save_trm": 36,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.85,
+     "intr_rate2": 3.35
+    }
+   ],
+   "best_rate": 4.15,
+   "best_base_rate": 3.65,
+   "best_term": 12,
+   "naver_url": "https://search.naver.com/search.naver?query=%EC%88%98%ED%98%91%EC%9D%80%ED%96%89%20Sh%ED%95%B4%EC%96%91%ED%94%8C%EB%9D%BC%EC%8A%A4%ED%8B%B1Zero%21%EC%A0%81%EA%B8%88%0A%28%EC%9E%90%EC%9C%A0%EC%A0%81%EB%A6%BD%EC%8B%9D%29",
+   "first_seen": "2026-07-10"
+  },
+  {
+   "key": "0014807|10141114700041",
+   "bank": "수협은행",
+   "name": "헤이(Hey)적금\n(자유적립식)",
+   "dcls_month": "202606",
+   "join_way": "스마트폰",
+   "join_member": "실명의개인",
+   "join_deny": "1",
+   "spcl_cnd": "*최대우대금리 : 0.9%\n1. 마케팅동의 : 0.1% (신규시)\n2. 자동이체 납입 : 0.8% (만기시)",
+   "mtrt_int": "*만기 후 1년이내\n - 만기당시 상호부금 \n계약기간별 기본금리 1/2\n* 만기후 1년 초과\n - 만기당시 보통예금 기본금리",
+   "max_limit": 1000000,
+   "etc_note": "- 1인 1계좌 \n- 월 가입한도 : 100만원",
+   "options": [
+    {
+     "save_trm": 6,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.9,
+     "intr_rate2": 3.8
+    },
+    {
+     "save_trm": 12,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 3.2,
+     "intr_rate2": 4.1
+    }
+   ],
+   "best_rate": 4.1,
+   "best_base_rate": 3.2,
+   "best_term": 12,
+   "naver_url": "https://search.naver.com/search.naver?query=%EC%88%98%ED%98%91%EC%9D%80%ED%96%89%20%ED%97%A4%EC%9D%B4%28Hey%29%EC%A0%81%EA%B8%88%0A%28%EC%9E%90%EC%9C%A0%EC%A0%81%EB%A6%BD%EC%8B%9D%29",
+   "first_seen": "2026-07-10"
+  },
+  {
+   "key": "0015130|10-01-30-355-0002",
+   "bank": "주식회사 카카오뱅크",
+   "name": "카카오뱅크 자유적금",
+   "dcls_month": "202606",
+   "join_way": "스마트폰",
+   "join_member": "만 14세 이상의 실명의 개인",
+   "join_deny": "1",
+   "spcl_cnd": "자동이체시 우대금리 제공 : 연 0.20%p\n - 제공조건 : 전체 계약월수의 1/2이상을 자동이체로 납입하고 만기 해지하는 경우\n - 유의사항 : 만기 자동연장된 원리금은 우대금리를 제공하지 않음",
+   "mtrt_int": "- 만기 후 1개월 이내 : 가입(또는 자동연장)시점 기본금리x50%\n- 만기 후 1개월초과 3개월 이내 : 가입(또는 자동연장)시점 기본금리x30%\n- 만기 후 3개월 초과 : 0.20%",
+   "max_limit": null,
+   "etc_note": "1. 가입방법 : 스마트폰\n2. 가입금액 : 1천원 이상(원단위)\n3. 가입기간 : 6개월 이상 ~ 36개월 이하(월, 일단위 지정 가능)\n4. 월 적립한도 : 1천원 이상 월 300만원 이하 원단위(단, 자동연장된 원리금은 월 적립한도에 포함되지 않음)",
+   "options": [
+    {
+     "save_trm": 6,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 3.5,
+     "intr_rate2": 3.7
+    },
+    {
+     "save_trm": 12,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 3.65,
+     "intr_rate2": 3.85
+    },
+    {
+     "save_trm": 24,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 3.0,
+     "intr_rate2": 3.2
+    },
+    {
+     "save_trm": 36,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 3.0,
+     "intr_rate2": 3.2
+    }
+   ],
+   "best_rate": 3.85,
+   "best_base_rate": 3.65,
+   "best_term": 12,
+   "naver_url": "https://search.naver.com/search.naver?query=%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B1%85%ED%81%AC%20%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B1%85%ED%81%AC%20%EC%9E%90%EC%9C%A0%EC%A0%81%EA%B8%88",
+   "first_seen": "2026-07-10"
+  },
+  {
+   "key": "0015130|10-01-30-355-0005",
+   "bank": "주식회사 카카오뱅크",
+   "name": "카카오뱅크 26주적금",
+   "dcls_month": "202606",
+   "join_way": "스마트폰",
+   "join_member": "만 14세 이상의 실명의 개인",
+   "join_deny": "1",
+   "spcl_cnd": "자동이체 연속 성공 우대금리 제공 : 최고 연 3.00%p\n- 제공조건\n① 7주차까지 자동이체 납입을 연속 성공하고 만기해지 하는 경우 연 1.00%p 제공\n② 26주차까지 자동이체 납입을 연속 성공하고 만기해지 하는 경우 연 2.00%p 추가 제공\n- 유의사항 : 자동이체 실패한 주차를 빈자리채우기 하여도 성공으로 인정되지 않음",
+   "mtrt_int": "- 만기 후 1개월 이내 : 가입시점 기본금리x50%\n- 만기 후 1개월초과 3개월 이내 : 가입시점 기본금리x30%\n- 만기 후 3개월 초과 : 0.20%",
+   "max_limit": null,
+   "etc_note": "1. 가입방법 : 스마트폰\n2. 가입금액 : 1천원, 2천원, 3천원, 5천원, 1만원\n3. 가입기간 : 6개월\n4. 26주적금서비스(자동이체)를 통해서 납입이 가능하며, 그 외의 입금은 모두 제한됨\n(단, 26주적금 서비스를 통한 납입 실패 시 빈자리 채우기로 납입 가능)",
+   "options": [
+    {
+     "save_trm": 6,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.0,
+     "intr_rate2": 5.0
+    }
+   ],
+   "best_rate": 5.0,
+   "best_base_rate": 2.0,
+   "best_term": 6,
+   "naver_url": "https://search.naver.com/search.naver?query=%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B1%85%ED%81%AC%20%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B1%85%ED%81%AC%2026%EC%A3%BC%EC%A0%81%EA%B8%88",
+   "first_seen": "2026-07-10"
+  },
+  {
+   "key": "0015130|10-01-30-355-0006",
+   "bank": "주식회사 카카오뱅크",
+   "name": "카카오뱅크 한달적금",
+   "dcls_month": "202606",
+   "join_way": "스마트폰",
+   "join_member": "만 14세 이상의 실명의 개인",
+   "join_deny": "1",
+   "spcl_cnd": "매일/보너스 우대금리 제공 : 최고 연 5.50%p\n- 제공조건\n① 매일 우대금리 : 매 입금 시 마다 연 0.10%p 제공(최대 연 3.10%p)\n② 보너스 우대금리 : 누적하여 5/10/15/20/25/31회 입금 시 해당 우대금리 제공(최대 연 2.40%p)\n- 유의사항 : 만기 해지하는 경우에만 제공",
+   "mtrt_int": "- 만기 후 1개월 이내 : 가입시점 기본금리x50%\n- 만기 후 1개월초과 3개월 이내 : 가입시점 기본금리x30%\n- 만기 후 3개월 초과 : 0.20%",
+   "max_limit": null,
+   "etc_note": "1. 가입방법 : 스마트폰\n2. 납입금액 : 1회 100원 이상 3만원 이하(원단위)\n3. 가입기간 : 31일\n4. 직접 납입을 통해서 1일 1회만 입금 가능하며, 그 외의 입금은 모두 제한됨",
+   "options": [
+    {
+     "save_trm": 1,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 0.5,
+     "intr_rate2": 6.0
+    }
+   ],
+   "best_rate": 6.0,
+   "best_base_rate": 0.5,
+   "best_term": 1,
+   "naver_url": "https://search.naver.com/search.naver?query=%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B1%85%ED%81%AC%20%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B1%85%ED%81%AC%20%ED%95%9C%EB%8B%AC%EC%A0%81%EA%B8%88",
+   "first_seen": "2026-07-10"
+  },
+  {
+   "key": "0015130|10-01-30-355-0007",
+   "bank": "주식회사 카카오뱅크",
+   "name": "카카오뱅크 우리아이적금",
+   "dcls_month": "202606",
+   "join_way": "스마트폰",
+   "join_member": "우리아이통장을 보유한 만 0세 이상 만 17세 미만의 실명의 개인",
+   "join_deny": "1",
+   "spcl_cnd": "자동이체시 우대금리 제공 : 연 4.00%p\n - 제공조건 : 전체 계약월수의 1/2이상을 자동이체로 납입하고 만기 해지하는 경우\n - 유의사항 : 만기 자동연장된 원리금은 우대금리를 제공하지 않음",
+   "mtrt_int": "- 만기 후 1개월 이내 : 가입시점 기본금리x50%\n- 만기 후 1개월초과 3개월 이내 : 가입시점 기본금리x30%\n- 만기 후 3개월 초과 : 0.20%",
+   "max_limit": null,
+   "etc_note": "1. 가입방법: 스마트폰 \n2. 가입기간 : 12개월 \n3. 월 적립한도: 1천원 이상 월 20만원 이하 원단위(단, 자동연장된 원리금은 월 적립한도에 포함되지 않음)\n4. 우리아이서비스를 통해 법정대리인으로 확인된 부 또는 모가 본인을 대리하여 가입 가능",
+   "options": [
+    {
+     "save_trm": 12,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 3.0,
+     "intr_rate2": 7.0
+    }
+   ],
+   "best_rate": 7.0,
+   "best_base_rate": 3.0,
+   "best_term": 12,
+   "naver_url": "https://search.naver.com/search.naver?query=%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B1%85%ED%81%AC%20%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B1%85%ED%81%AC%20%EC%9A%B0%EB%A6%AC%EC%95%84%EC%9D%B4%EC%A0%81%EA%B8%88",
+   "first_seen": "2026-07-10"
+  },
+  {
+   "key": "0017801|1001303001001",
+   "bank": "토스뱅크 주식회사",
+   "name": "토스뱅크 키워봐요 적금",
+   "dcls_month": "202606",
+   "join_way": "스마트폰",
+   "join_member": "· 토스뱅크 통장 또는 토스뱅크 서브 통장을 보유한 실명의 개인",
+   "join_deny": "1",
+   "spcl_cnd": "· 적금 가입 시 설정되는 주 단위 자동이체를 통하여 25회 이상 적립한 경우 : 연 2.00% 제공",
+   "mtrt_int": "· 만기 후 1개월 이내 : 만기시점 기본금리 X 50% \n· 만기 후 1개월 초과 3개월 이내 : 만기시점 기본금리 X 20% \n· 만기 후 3개월 초과 : 연 0.10%",
+   "max_limit": 1000000,
+   "etc_note": "· 1인 1계좌 (단, 이벤트 등으로 토스뱅크가 복수의 계좌개설을 허용하는 경우 추가 개설 가능)\n· 가입금액 : 0원\n· 우대금리는 우대조건을 달성하고 만기 해지하는 경우에만 제공됨",
+   "options": [
+    {
+     "save_trm": 6,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 1.8,
+     "intr_rate2": 3.8
+    }
+   ],
+   "best_rate": 3.8,
+   "best_base_rate": 1.8,
+   "best_term": 6,
+   "naver_url": "https://search.naver.com/search.naver?query=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC%20%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC%20%ED%82%A4%EC%9B%8C%EB%B4%90%EC%9A%94%20%EC%A0%81%EA%B8%88",
+   "first_seen": "2026-07-10"
+  },
+  {
+   "key": "0017801|1001303001003",
+   "bank": "토스뱅크 주식회사",
+   "name": "토스뱅크 굴비 적금",
+   "dcls_month": "202606",
+   "join_way": "스마트폰",
+   "join_member": "· 토스뱅크 통장 또는 토스뱅크 서브 통장을 보유한 실명의 개인",
+   "join_deny": "1",
+   "spcl_cnd": "· 만기 해지 시 : 연 2.50% 제공",
+   "mtrt_int": "· 만기 후 1개월 이내 : 만기시점 기본금리 X 50% \n· 만기 후 1개월 초과 3개월 이내 : 만기시점 기본금리 X 20% \n· 만기 후 3개월 초과 : 연 0.10%",
+   "max_limit": 300000,
+   "etc_note": "· 1인 1계좌 (단, 이벤트 등으로 토스뱅크가 복수의 계좌개설을 허용하는 경우 추가 개설 가능)\n· 가입금액 : 0원\n· 우대금리는 만기 해지하는 경우에만 제공됨",
+   "options": [
+    {
+     "save_trm": 6,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 1.8,
+     "intr_rate2": 4.3
+    }
+   ],
+   "best_rate": 4.3,
+   "best_base_rate": 1.8,
+   "best_term": 6,
+   "naver_url": "https://search.naver.com/search.naver?query=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC%20%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC%20%EA%B5%B4%EB%B9%84%20%EC%A0%81%EA%B8%88",
+   "first_seen": "2026-07-10"
+  },
+  {
+   "key": "0017801|1001303001004",
+   "bank": "토스뱅크 주식회사",
+   "name": "토스뱅크 자유 적금",
+   "dcls_month": "202606",
+   "join_way": "스마트폰",
+   "join_member": "· 토스뱅크 통장 또는 토스뱅크 서브 통장을 보유한 실명의 개인",
+   "join_deny": "1",
+   "spcl_cnd": "· 적금 가입 시 설정되는 월 단위 자동이체를 모두 성공하는 경우 : 연 0.50% 제공",
+   "mtrt_int": "· 만기 후 1개월 이내 : 만기시점 기본금리 X 50% \n· 만기 후 1개월 초과 3개월 이내 : 만기시점 기본금리 X 20% \n· 만기 후 3개월 초과 : 연 0.10%",
+   "max_limit": 3000000,
+   "etc_note": "· 1인 1계좌 (단, 이벤트 등으로 토스뱅크가 복수의 계좌개설을 허용하는 경우 추가 개설 가능)\n· 가입금액 : 0원 이상 300만원 이하\n· 우대금리는 만기 해지하는 경우에만 제공됨",
+   "options": [
+    {
+     "save_trm": 3,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 1.3,
+     "intr_rate2": 1.8
+    },
+    {
+     "save_trm": 6,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 1.8,
+     "intr_rate2": 2.3
+    },
+    {
+     "save_trm": 12,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.5,
+     "intr_rate2": 3.0
+    },
+    {
+     "save_trm": 24,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.5,
+     "intr_rate2": 3.0
+    },
+    {
+     "save_trm": 36,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.5,
+     "intr_rate2": 3.0
+    }
+   ],
+   "best_rate": 3.0,
+   "best_base_rate": 2.5,
+   "best_term": 12,
+   "naver_url": "https://search.naver.com/search.naver?query=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC%20%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC%20%EC%9E%90%EC%9C%A0%20%EC%A0%81%EA%B8%88",
+   "first_seen": "2026-07-10"
+  },
+  {
+   "key": "0017801|1001303001005",
+   "bank": "토스뱅크 주식회사",
+   "name": "토스뱅크 아이 적금",
+   "dcls_month": "202606",
+   "join_way": "스마트폰",
+   "join_member": "· 토스뱅크 아이 통장을 보유한 15세 이하 실명의 개인",
+   "join_deny": "3",
+   "spcl_cnd": "· 적금 가입 시 설정되는 월 단위 자동이체를 모두 성공하는 경우 : 연 2.50% 제공",
+   "mtrt_int": "· 만기 후 1개월 이내 : 만기시점 기본금리 X 50% \n· 만기 후 1개월 초과 3개월 이내 : 만기시점 기본금리 X 20% \n· 만기 후 3개월 초과 : 연 0.10%",
+   "max_limit": 200000,
+   "etc_note": "· 1인 1계좌 \n· 가입금액 : 0원\n· 우대금리는 만기 해지하는 경우에만 제공됨",
+   "options": [
+    {
+     "save_trm": 12,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.5,
+     "intr_rate2": 5.0
+    }
+   ],
+   "best_rate": 5.0,
+   "best_base_rate": 2.5,
+   "best_term": 12,
+   "naver_url": "https://search.naver.com/search.naver?query=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC%20%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC%20%EC%95%84%EC%9D%B4%20%EC%A0%81%EA%B8%88",
+   "first_seen": "2026-07-10"
+  }
+ ]
 }
