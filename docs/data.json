@@ -1,6 +1,7 @@
 {
- "updated_at": "2026-07-10 20:08",
+ "updated_at": "2026-07-10 22:17",
  "baseline": true,
+ "baseline_date": "2026-07-10",
  "new_badge_days": 14,
  "products": [
   {
@@ -63,7 +64,8 @@
    "best_base_rate": 2.15,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%9A%B0%EB%A6%AC%EC%9D%80%ED%96%89%20%EC%9A%B0%EB%A6%ACSUPER%EC%A3%BC%EA%B1%B0%EB%9E%98%EC%A0%81%EA%B8%88",
-   "first_seen": "2026-07-10"
+   "first_seen": "2026-07-10",
+   "is_baseline": true
   },
   {
    "key": "0010001|WR0001L",
@@ -97,7 +99,8 @@
    "best_base_rate": 2.95,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%9A%B0%EB%A6%AC%EC%9D%80%ED%96%89%20WON%EC%A0%81%EA%B8%88",
-   "first_seen": "2026-07-10"
+   "first_seen": "2026-07-10",
+   "is_baseline": true
   },
   {
    "key": "0010002|00266451",
@@ -173,7 +176,8 @@
    "best_base_rate": 2.8,
    "best_term": 36,
    "naver_url": "https://search.naver.com/search.naver?query=%ED%95%9C%EA%B5%AD%EC%8A%A4%ED%83%A0%EB%8B%A4%EB%93%9C%EC%B0%A8%ED%83%80%EB%93%9C%EC%9D%80%ED%96%89%20%ED%8D%BC%EC%8A%A4%ED%8A%B8%EA%B0%80%EA%B3%84%EC%A0%81%EA%B8%88",
-   "first_seen": "2026-07-10"
+   "first_seen": "2026-07-10",
+   "is_baseline": true
   },
   {
    "key": "0010016|10521001001166004",
@@ -200,7 +204,8 @@
    "best_base_rate": 2.75,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%95%84%EC%9D%B4%EC%97%A0%EB%B1%85%ED%81%AC%20iM%ED%95%A8%EA%BB%98%EC%A0%81%EA%B8%88",
-   "first_seen": "2026-07-10"
+   "first_seen": "2026-07-10",
+   "is_baseline": true
   },
   {
    "key": "0010017|01020400490002",
@@ -234,7 +239,8 @@
    "best_base_rate": 2.0,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%EC%9D%80%ED%96%89%20%ED%8E%AB%20%EC%A0%81%EA%B8%88",
-   "first_seen": "2026-07-10"
+   "first_seen": "2026-07-10",
+   "is_baseline": true
   },
   {
    "key": "0010017|01020400510001",
@@ -282,7 +288,8 @@
    "best_base_rate": 2.1,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%EC%9D%80%ED%96%89%20%EC%A0%80%ED%83%84%EC%86%8C%20%EC%8B%A4%EC%B2%9C%20%EC%A0%81%EA%B8%88",
-   "first_seen": "2026-07-10"
+   "first_seen": "2026-07-10",
+   "is_baseline": true
   },
   {
    "key": "0010017|01020400530001",
@@ -330,7 +337,8 @@
    "best_base_rate": 2.25,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%EC%9D%80%ED%96%89%20BNK%EB%82%B4%EB%A7%98%EB%8C%80%EB%A1%9C%20%0A%EC%A0%81%EA%B8%88",
-   "first_seen": "2026-07-10"
+   "first_seen": "2026-07-10",
+   "is_baseline": true
   },
   {
    "key": "0010017|01020400660001",
@@ -378,7 +386,8 @@
    "best_base_rate": 2.2,
    "best_term": 6,
    "naver_url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%EC%9D%80%ED%96%89%20%EB%B6%80%EC%82%B0%EC%9D%B4%EB%9D%BC%20%EC%A2%8B%EB%8B%A4%0ABig%EC%A0%81%EA%B8%88",
-   "first_seen": "2026-07-10"
+   "first_seen": "2026-07-10",
+   "is_baseline": true
   },
   {
    "key": "0010017|01020400700001",
@@ -405,7 +414,8 @@
    "best_base_rate": 2.0,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%EC%9D%80%ED%96%89%20Only%20One%20%EC%A3%BC%EA%B1%B0%EB%9E%98%20%EC%9A%B0%EB%8C%80%EC%A0%81%EA%B8%88",
-   "first_seen": "2026-07-10"
+   "first_seen": "2026-07-10",
+   "is_baseline": true
   },
   {
    "key": "0010019|TD11330029000",
@@ -481,7 +491,8 @@
    "best_base_rate": 2.5,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%EC%9D%80%ED%96%89%20%ED%95%B4%ED%94%BC%EB%9D%BC%EC%9D%B4%ED%94%84_%EC%97%AC%ED%96%89%EC%8A%A4%EC%BC%80%EC%B9%98%EC%A0%81%EA%B8%88V",
-   "first_seen": "2026-07-10"
+   "first_seen": "2026-07-10",
+   "is_baseline": true
   },
   {
    "key": "0010019|TD11330030000",
@@ -515,7 +526,8 @@
    "best_base_rate": 2.2,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%EC%9D%80%ED%96%89%20%EC%97%AC%ED%96%89%EC%8A%A4%EC%BC%80%EC%B9%98_%EB%82%A8%EB%8F%84%ED%88%AC%EC%96%B4%EC%A0%81%EA%B8%88",
-   "first_seen": "2026-07-10"
+   "first_seen": "2026-07-10",
+   "is_baseline": true
   },
   {
    "key": "0010019|TD11330031000",
@@ -549,7 +561,8 @@
    "best_base_rate": 2.4,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%EC%9D%80%ED%96%89%20VIP%ED%94%8C%EB%9F%AC%EC%8A%A4%EC%A0%81%EA%B8%88",
-   "first_seen": "2026-07-10"
+   "first_seen": "2026-07-10",
+   "is_baseline": true
   },
   {
    "key": "0010020|220002101",
@@ -583,7 +596,8 @@
    "best_base_rate": 2.6,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%A0%9C%EC%A3%BC%EC%9D%80%ED%96%89%20jbank%20%EC%A0%80%EA%B8%88%ED%86%B5%EC%A0%81%EA%B8%88",
-   "first_seen": "2026-07-10"
+   "first_seen": "2026-07-10",
+   "is_baseline": true
   },
   {
    "key": "0010020|220002501",
@@ -617,7 +631,8 @@
    "best_base_rate": 3.15,
    "best_term": 24,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%A0%9C%EC%A3%BC%EC%9D%80%ED%96%89%20MZ%20%ED%94%8C%EB%9E%9C%EC%A0%81%EA%B8%88",
-   "first_seen": "2026-07-10"
+   "first_seen": "2026-07-10",
+   "is_baseline": true
   },
   {
    "key": "0010020|220002701",
@@ -665,7 +680,8 @@
    "best_base_rate": 2.55,
    "best_term": 36,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%A0%9C%EC%A3%BC%EC%9D%80%ED%96%89%20%EC%82%AC%EC%9D%B4%EB%B2%84%EC%9A%B0%EB%8C%80%EB%A7%A4%EC%9D%BC%EB%B6%80%EA%B8%88",
-   "first_seen": "2026-07-10"
+   "first_seen": "2026-07-10",
+   "is_baseline": true
   },
   {
    "key": "0010022|10-01-30-031-0018-0000",
@@ -706,7 +722,8 @@
    "best_base_rate": 3.4,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%A0%84%EB%B6%81%EC%9D%80%ED%96%89%20JB%20%EB%8B%A4%EC%9D%B4%EB%A0%89%ED%8A%B8%EC%A0%81%EA%B8%88%28%EC%9E%90%EC%9C%A0%EC%A0%81%EB%A6%BD%EC%8B%9D%29",
-   "first_seen": "2026-07-10"
+   "first_seen": "2026-07-10",
+   "is_baseline": true
   },
   {
    "key": "0010022|10-01-30-031-0036",
@@ -747,7 +764,8 @@
    "best_base_rate": 3.5,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%A0%84%EB%B6%81%EC%9D%80%ED%96%89%20JB%20%EB%8B%A4%EC%9D%B4%EB%A0%89%ED%8A%B8%EC%A0%81%EA%B8%88%28%EC%A0%95%EC%95%A1%EC%A0%81%EB%A6%BD%EC%8B%9D%29",
-   "first_seen": "2026-07-10"
+   "first_seen": "2026-07-10",
+   "is_baseline": true
   },
   {
    "key": "0010024|21000111",
@@ -788,7 +806,8 @@
    "best_base_rate": 2.7,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EB%82%A8%EC%9D%80%ED%96%89%20%ED%96%89%EB%B3%B5%20DREAM%20%EC%A0%81%EA%B8%88",
-   "first_seen": "2026-07-10"
+   "first_seen": "2026-07-10",
+   "is_baseline": true
   },
   {
    "key": "0010024|21001116",
@@ -829,7 +848,8 @@
    "best_base_rate": 3.2,
    "best_term": 24,
    "naver_url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EB%82%A8%EC%9D%80%ED%96%89%20BNK%EB%8D%94%EC%A1%B0%EC%9D%80%EC%9E%90%EC%9C%A0%EC%A0%81%EA%B8%88",
-   "first_seen": "2026-07-10"
+   "first_seen": "2026-07-10",
+   "is_baseline": true
   },
   {
    "key": "0010024|21001199",
@@ -884,7 +904,8 @@
    "best_base_rate": 2.1,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EB%82%A8%EC%9D%80%ED%96%89%20BNK%20%EC%9C%84%EB%8D%94%EC%8A%A4%EC%9E%90%EC%9C%A0%EC%A0%81%EA%B8%88",
-   "first_seen": "2026-07-10"
+   "first_seen": "2026-07-10",
+   "is_baseline": true
   },
   {
    "key": "0010024|21001236",
@@ -911,7 +932,8 @@
    "best_base_rate": 1.9,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EB%82%A8%EC%9D%80%ED%96%89%20%EC%98%A4%EB%A9%B4%EC%9A%B0%EB%8C%80%21%20%ED%95%98%EB%A9%B4%EC%9A%B0%EB%8C%80%21%0A%EC%A0%95%EA%B8%B0%EC%A0%81%EA%B8%88",
-   "first_seen": "2026-07-10"
+   "first_seen": "2026-07-10",
+   "is_baseline": true
   },
   {
    "key": "0010024|21001259",
@@ -952,7 +974,8 @@
    "best_base_rate": 2.75,
    "best_term": 1,
    "naver_url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EB%82%A8%EC%9D%80%ED%96%89%20%EC%98%A4%EB%8A%98%EB%8F%84%EC%84%B8%EC%9D%B4%EB%B8%8C%EC%A0%81%EA%B8%88",
-   "first_seen": "2026-07-10"
+   "first_seen": "2026-07-10",
+   "is_baseline": true
   },
   {
    "key": "0010024|21001292",
@@ -993,7 +1016,8 @@
    "best_base_rate": 2.5,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EB%82%A8%EC%9D%80%ED%96%89%20%EC%A3%BC%EA%B1%B0%EB%9E%98%20%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84%20%EC%A0%81%EA%B8%88",
-   "first_seen": "2026-07-10"
+   "first_seen": "2026-07-10",
+   "is_baseline": true
   },
   {
    "key": "0010026|01211210113",
@@ -1041,7 +1065,8 @@
    "best_base_rate": 2.85,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%A4%91%EC%86%8C%EA%B8%B0%EC%97%85%EC%9D%80%ED%96%89%20IBK%20D-day%EC%A0%81%EA%B8%88%28%EC%9E%90%EC%9C%A0%EC%A0%81%EB%A6%BD%EC%8B%9D%29",
-   "first_seen": "2026-07-10"
+   "first_seen": "2026-07-10",
+   "is_baseline": true
   },
   {
    "key": "0010026|01211210121",
@@ -1068,7 +1093,8 @@
    "best_base_rate": 2.5,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%A4%91%EC%86%8C%EA%B8%B0%EC%97%85%EC%9D%80%ED%96%89%20IBK%ED%83%84%EC%86%8C%EC%A0%9C%EB%A1%9C%EC%A0%81%EA%B8%88%28%EC%9E%90%EC%9C%A0%EC%A0%81%EB%A6%BD%EC%8B%9D%29",
-   "first_seen": "2026-07-10"
+   "first_seen": "2026-07-10",
+   "is_baseline": true
   },
   {
    "key": "0010026|01211210122",
@@ -1095,7 +1121,8 @@
    "best_base_rate": 2.5,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%A4%91%EC%86%8C%EA%B8%B0%EC%97%85%EC%9D%80%ED%96%89%20IBK%EC%A4%91%EA%B8%B0%EA%B7%BC%EB%A1%9C%EC%9E%90%EC%9A%B0%EB%8C%80%EC%A0%81%EA%B8%88%0A%28%EC%9E%90%EC%9C%A0%EC%A0%81%EB%A6%BD%EC%8B%9D%29",
-   "first_seen": "2026-07-10"
+   "first_seen": "2026-07-10",
+   "is_baseline": true
   },
   {
    "key": "0010026|01211210129",
@@ -1143,7 +1170,8 @@
    "best_base_rate": 2.55,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%A4%91%EC%86%8C%EA%B8%B0%EC%97%85%EC%9D%80%ED%96%89%20IBK%EB%AA%A8%EC%9C%BC%EA%B8%B0%ED%86%B5%EC%9E%A5%28%EC%9E%90%EC%9C%A0%EC%A0%81%EB%A6%BD%EC%8B%9D%29",
-   "first_seen": "2026-07-10"
+   "first_seen": "2026-07-10",
+   "is_baseline": true
   },
   {
    "key": "0010030|03101",
@@ -1191,7 +1219,8 @@
    "best_base_rate": 3.6,
    "best_term": 36,
    "naver_url": "https://search.naver.com/search.naver?query=%ED%95%9C%EA%B5%AD%EC%82%B0%EC%97%85%EC%9D%80%ED%96%89%20KDB%20%EA%B8%B0%EC%97%85%EC%A0%95%EA%B8%B0%EC%A0%81%EA%B8%88",
-   "first_seen": "2026-07-10"
+   "first_seen": "2026-07-10",
+   "is_baseline": true
   },
   {
    "key": "0010030|03700",
@@ -1253,7 +1282,8 @@
    "best_base_rate": 3.7,
    "best_term": 36,
    "naver_url": "https://search.naver.com/search.naver?query=%ED%95%9C%EA%B5%AD%EC%82%B0%EC%97%85%EC%9D%80%ED%96%89%20KDB%20%EC%9E%90%EC%9C%A0%EC%A0%81%EA%B8%88",
-   "first_seen": "2026-07-10"
+   "first_seen": "2026-07-10",
+   "is_baseline": true
   },
   {
    "key": "0010927|010200100051",
@@ -1294,7 +1324,8 @@
    "best_base_rate": 2.8,
    "best_term": 36,
    "naver_url": "https://search.naver.com/search.naver?query=%EA%B5%AD%EB%AF%BC%EC%9D%80%ED%96%89%20KB%EA%B5%AD%EB%AF%BC%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84%EC%A0%81%EA%B8%88%28%EC%A0%95%EC%95%A1%29",
-   "first_seen": "2026-07-10"
+   "first_seen": "2026-07-10",
+   "is_baseline": true
   },
   {
    "key": "0010927|010200100070",
@@ -1342,7 +1373,8 @@
    "best_base_rate": 2.95,
    "best_term": 36,
    "naver_url": "https://search.naver.com/search.naver?query=%EA%B5%AD%EB%AF%BC%EC%9D%80%ED%96%89%20KB%EB%82%B4%EB%A7%98%EB%8C%80%EB%A1%9C%EC%A0%81%EA%B8%88",
-   "first_seen": "2026-07-10"
+   "first_seen": "2026-07-10",
+   "is_baseline": true
   },
   {
    "key": "0010927|010200100084",
@@ -1383,7 +1415,8 @@
    "best_base_rate": 2.85,
    "best_term": 36,
    "naver_url": "https://search.naver.com/search.naver?query=%EA%B5%AD%EB%AF%BC%EC%9D%80%ED%96%89%20KB%EB%A7%91%EC%9D%80%ED%95%98%EB%8A%98%EC%A0%81%EA%B8%88",
-   "first_seen": "2026-07-10"
+   "first_seen": "2026-07-10",
+   "is_baseline": true
   },
   {
    "key": "0010927|010200100104",
@@ -1424,7 +1457,8 @@
    "best_base_rate": 2.0,
    "best_term": 1,
    "naver_url": "https://search.naver.com/search.naver?query=%EA%B5%AD%EB%AF%BC%EC%9D%80%ED%96%89%20KB%20%ED%8A%B9%E2%98%85%ED%95%9C%20%EC%A0%81%EA%B8%88",
-   "first_seen": "2026-07-10"
+   "first_seen": "2026-07-10",
+   "is_baseline": true
   },
   {
    "key": "0011625|230-0119-85",
@@ -1465,7 +1499,8 @@
    "best_base_rate": 2.45,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%8B%A0%ED%95%9C%EC%9D%80%ED%96%89%20%EC%8B%A0%ED%95%9C%20%EC%95%8C.%EC%8F%A0%20%EC%A0%81%EA%B8%88",
-   "first_seen": "2026-07-10"
+   "first_seen": "2026-07-10",
+   "is_baseline": true
   },
   {
    "key": "0013175|10-047-1360-0002",
@@ -1506,7 +1541,8 @@
    "best_base_rate": 2.15,
    "best_term": 6,
    "naver_url": "https://search.naver.com/search.naver?query=%EB%86%8D%ED%98%91%EC%9D%80%ED%96%89%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20NH%EC%98%AC%EC%9B%90e%20%EB%AF%B8%EB%8B%88%EC%A0%81%EA%B8%88",
-   "first_seen": "2026-07-10"
+   "first_seen": "2026-07-10",
+   "is_baseline": true
   },
   {
    "key": "0013175|10-047-1365-0001",
@@ -1547,7 +1583,8 @@
    "best_base_rate": 2.35,
    "best_term": 24,
    "naver_url": "https://search.naver.com/search.naver?query=%EB%86%8D%ED%98%91%EC%9D%80%ED%96%89%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20NH1934%EC%9B%94%EB%B3%B5%EB%A6%AC%EC%A0%81%EA%B8%88",
-   "first_seen": "2026-07-10"
+   "first_seen": "2026-07-10",
+   "is_baseline": true
   },
   {
    "key": "0013175|10-047-1381-0001",
@@ -1588,7 +1625,8 @@
    "best_base_rate": 2.4,
    "best_term": 36,
    "naver_url": "https://search.naver.com/search.naver?query=%EB%86%8D%ED%98%91%EC%9D%80%ED%96%89%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20NH%EB%82%B4%EA%B0%80Green%EC%B4%88%EB%A1%9D%EC%84%B8%EC%83%81%EC%A0%81%EA%B8%88",
-   "first_seen": "2026-07-10"
+   "first_seen": "2026-07-10",
+   "is_baseline": true
   },
   {
    "key": "0013175|10-047-1387-0001",
@@ -1629,7 +1667,8 @@
    "best_base_rate": 2.7,
    "best_term": 36,
    "naver_url": "https://search.naver.com/search.naver?query=%EB%86%8D%ED%98%91%EC%9D%80%ED%96%89%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20NH%EA%B3%A0%ED%96%A5%EC%82%AC%EB%9E%91%EA%B8%B0%EB%B6%80%EC%A0%81%EA%B8%88",
-   "first_seen": "2026-07-10"
+   "first_seen": "2026-07-10",
+   "is_baseline": true
   },
   {
    "key": "0013175|10-059-1264-0001",
@@ -1670,7 +1709,8 @@
    "best_base_rate": 2.81,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EB%86%8D%ED%98%91%EC%9D%80%ED%96%89%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20NH%EC%A7%81%EC%9E%A5%EC%9D%B8%EC%9B%94%EB%B3%B5%EB%A6%AC%EC%A0%81%EA%B8%88",
-   "first_seen": "2026-07-10"
+   "first_seen": "2026-07-10",
+   "is_baseline": true
   },
   {
    "key": "0013909|52",
@@ -1711,7 +1751,8 @@
    "best_base_rate": 2.85,
    "best_term": 36,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20%ED%95%98%EB%82%98%EC%9D%80%ED%96%89%20%EC%A3%BC%EA%B1%B0%EB%9E%98%ED%95%98%EB%82%98%20%EC%9B%94%EB%B3%B5%EB%A6%AC%EC%A0%81%EA%B8%88",
-   "first_seen": "2026-07-10"
+   "first_seen": "2026-07-10",
+   "is_baseline": true
   },
   {
    "key": "0013909|53",
@@ -1787,7 +1828,8 @@
    "best_base_rate": 2.3,
    "best_term": 36,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20%ED%95%98%EB%82%98%EC%9D%80%ED%96%89%20%EB%82%B4%EB%A7%98%EC%A0%81%EA%B8%88",
-   "first_seen": "2026-07-10"
+   "first_seen": "2026-07-10",
+   "is_baseline": true
   },
   {
    "key": "0014674|01012000200000000003",
@@ -1849,7 +1891,8 @@
    "best_base_rate": 3.7,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20%EC%BC%80%EC%9D%B4%EB%B1%85%ED%81%AC%20%EC%BD%94%EB%93%9CK%20%EC%9E%90%EC%9C%A0%EC%A0%81%EA%B8%88",
-   "first_seen": "2026-07-10"
+   "first_seen": "2026-07-10",
+   "is_baseline": true
   },
   {
    "key": "0014674|01012000200000000004",
@@ -1876,7 +1919,8 @@
    "best_base_rate": 0.7,
    "best_term": 1,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20%EC%BC%80%EC%9D%B4%EB%B1%85%ED%81%AC%20%EA%B6%81%EA%B8%88%ED%95%9C%20%EC%A0%81%EA%B8%88",
-   "first_seen": "2026-07-10"
+   "first_seen": "2026-07-10",
+   "is_baseline": true
   },
   {
    "key": "0014674|01012000200000000005",
@@ -1910,7 +1954,8 @@
    "best_base_rate": 3.0,
    "best_term": 6,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20%EC%BC%80%EC%9D%B4%EB%B1%85%ED%81%AC%20%EB%8D%B0%EA%B5%B4%EB%8D%B0%EA%B5%B4%20%EB%86%8D%EC%9E%A5",
-   "first_seen": "2026-07-10"
+   "first_seen": "2026-07-10",
+   "is_baseline": true
   },
   {
    "key": "0014674|01012000200000000006",
@@ -1951,7 +1996,8 @@
    "best_base_rate": 3.3,
    "best_term": 36,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20%EC%BC%80%EC%9D%B4%EB%B1%85%ED%81%AC%20%EB%A7%88%EC%9D%B4%ED%82%A4%EC%A6%88%20%EC%A0%81%EA%B8%88",
-   "first_seen": "2026-07-10"
+   "first_seen": "2026-07-10",
+   "is_baseline": true
   },
   {
    "key": "0014674|01012000210000000000",
@@ -1999,7 +2045,8 @@
    "best_base_rate": 3.6,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20%EC%BC%80%EC%9D%B4%EB%B1%85%ED%81%AC%20%EC%A3%BC%EA%B1%B0%EB%9E%98%EC%9A%B0%EB%8C%80%20%EC%9E%90%EC%9C%A0%EC%A0%81%EA%B8%88",
-   "first_seen": "2026-07-10"
+   "first_seen": "2026-07-10",
+   "is_baseline": true
   },
   {
    "key": "0014807|10140114300011",
@@ -2040,7 +2087,8 @@
    "best_base_rate": 3.5,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%88%98%ED%98%91%EC%9D%80%ED%96%89%20Sh%ED%95%B4%EC%96%91%ED%94%8C%EB%9D%BC%EC%8A%A4%ED%8B%B1Zero%21%EC%A0%81%EA%B8%88%0A%28%EC%A0%95%EC%95%A1%EC%A0%81%EB%A6%BD%EC%8B%9D%29",
-   "first_seen": "2026-07-10"
+   "first_seen": "2026-07-10",
+   "is_baseline": true
   },
   {
    "key": "0014807|10140114700041",
@@ -2074,7 +2122,8 @@
    "best_base_rate": 2.8,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%88%98%ED%98%91%EC%9D%80%ED%96%89%20%ED%97%A4%EC%9D%B4%28Hey%29%EC%A0%81%EA%B8%88%0A%28%EC%A0%95%EC%95%A1%EC%A0%81%EB%A6%BD%EC%8B%9D%29",
-   "first_seen": "2026-07-10"
+   "first_seen": "2026-07-10",
+   "is_baseline": true
   },
   {
    "key": "0014807|10141109800021",
@@ -2115,7 +2164,8 @@
    "best_base_rate": 2.2,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%88%98%ED%98%91%EC%9D%80%ED%96%89%20Sh%EC%9B%94%EB%B3%B5%EB%A6%AC%EC%9E%90%EC%9C%A0%EC%A0%81%EA%B8%88",
-   "first_seen": "2026-07-10"
+   "first_seen": "2026-07-10",
+   "is_baseline": true
   },
   {
    "key": "0014807|10141114300011",
@@ -2156,7 +2206,8 @@
    "best_base_rate": 3.65,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%88%98%ED%98%91%EC%9D%80%ED%96%89%20Sh%ED%95%B4%EC%96%91%ED%94%8C%EB%9D%BC%EC%8A%A4%ED%8B%B1Zero%21%EC%A0%81%EA%B8%88%0A%28%EC%9E%90%EC%9C%A0%EC%A0%81%EB%A6%BD%EC%8B%9D%29",
-   "first_seen": "2026-07-10"
+   "first_seen": "2026-07-10",
+   "is_baseline": true
   },
   {
    "key": "0014807|10141114700041",
@@ -2190,7 +2241,8 @@
    "best_base_rate": 3.2,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%88%98%ED%98%91%EC%9D%80%ED%96%89%20%ED%97%A4%EC%9D%B4%28Hey%29%EC%A0%81%EA%B8%88%0A%28%EC%9E%90%EC%9C%A0%EC%A0%81%EB%A6%BD%EC%8B%9D%29",
-   "first_seen": "2026-07-10"
+   "first_seen": "2026-07-10",
+   "is_baseline": true
   },
   {
    "key": "0015130|10-01-30-355-0002",
@@ -2238,7 +2290,8 @@
    "best_base_rate": 3.65,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B1%85%ED%81%AC%20%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B1%85%ED%81%AC%20%EC%9E%90%EC%9C%A0%EC%A0%81%EA%B8%88",
-   "first_seen": "2026-07-10"
+   "first_seen": "2026-07-10",
+   "is_baseline": true
   },
   {
    "key": "0015130|10-01-30-355-0005",
@@ -2265,7 +2318,8 @@
    "best_base_rate": 2.0,
    "best_term": 6,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B1%85%ED%81%AC%20%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B1%85%ED%81%AC%2026%EC%A3%BC%EC%A0%81%EA%B8%88",
-   "first_seen": "2026-07-10"
+   "first_seen": "2026-07-10",
+   "is_baseline": true
   },
   {
    "key": "0015130|10-01-30-355-0006",
@@ -2292,7 +2346,8 @@
    "best_base_rate": 0.5,
    "best_term": 1,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B1%85%ED%81%AC%20%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B1%85%ED%81%AC%20%ED%95%9C%EB%8B%AC%EC%A0%81%EA%B8%88",
-   "first_seen": "2026-07-10"
+   "first_seen": "2026-07-10",
+   "is_baseline": true
   },
   {
    "key": "0015130|10-01-30-355-0007",
@@ -2319,7 +2374,8 @@
    "best_base_rate": 3.0,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B1%85%ED%81%AC%20%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B1%85%ED%81%AC%20%EC%9A%B0%EB%A6%AC%EC%95%84%EC%9D%B4%EC%A0%81%EA%B8%88",
-   "first_seen": "2026-07-10"
+   "first_seen": "2026-07-10",
+   "is_baseline": true
   },
   {
    "key": "0017801|1001303001001",
@@ -2346,7 +2402,8 @@
    "best_base_rate": 1.8,
    "best_term": 6,
    "naver_url": "https://search.naver.com/search.naver?query=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC%20%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC%20%ED%82%A4%EC%9B%8C%EB%B4%90%EC%9A%94%20%EC%A0%81%EA%B8%88",
-   "first_seen": "2026-07-10"
+   "first_seen": "2026-07-10",
+   "is_baseline": true
   },
   {
    "key": "0017801|1001303001003",
@@ -2373,7 +2430,8 @@
    "best_base_rate": 1.8,
    "best_term": 6,
    "naver_url": "https://search.naver.com/search.naver?query=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC%20%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC%20%EA%B5%B4%EB%B9%84%20%EC%A0%81%EA%B8%88",
-   "first_seen": "2026-07-10"
+   "first_seen": "2026-07-10",
+   "is_baseline": true
   },
   {
    "key": "0017801|1001303001004",
@@ -2428,7 +2486,8 @@
    "best_base_rate": 2.5,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC%20%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC%20%EC%9E%90%EC%9C%A0%20%EC%A0%81%EA%B8%88",
-   "first_seen": "2026-07-10"
+   "first_seen": "2026-07-10",
+   "is_baseline": true
   },
   {
    "key": "0017801|1001303001005",
@@ -2455,7 +2514,8 @@
    "best_base_rate": 2.5,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC%20%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC%20%EC%95%84%EC%9D%B4%20%EC%A0%81%EA%B8%88",
-   "first_seen": "2026-07-10"
+   "first_seen": "2026-07-10",
+   "is_baseline": true
   }
  ]
 }
