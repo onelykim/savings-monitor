@@ -1,0 +1,39 @@
+name: 적금 상품 모니터
+
+on:
+  schedule:
+    - cron: "7 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: monitor
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: 적금 상품 수집 및 신규 감지
+        env:
+          FSS_AUTH_KEY: ${{ secrets.FSS_AUTH_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          SITE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
+        run: python3 monitor.py
+
+      - name: 변경사항 커밋
+        run: |
+          git config user.name "savings-monitor-bot"
+          git config user.email "actions@github.com"
+          git add docs/data.json
+          if git diff --cached --quiet; then
+            echo "데이터 변경 없음"
+          else
+            git commit -m "데이터 갱신 $(TZ=Asia/Seoul date '+%Y-%m-%d %H:%M') [skip ci]"
+            git push
+          fi
