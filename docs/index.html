@@ -73,6 +73,32 @@ h2{font-size:17px;margin:0 0 12px}
 .toggle{display:flex;align-items:center;gap:6px;font-size:14px;color:var(--ink-2);
   border:1px solid var(--axis);border-radius:8px;padding:6px 10px;cursor:pointer;user-select:none}
 .toggle input{accent-color:var(--series-1)}
+/* 비교 기능 */
+.cmp-bar{position:sticky;bottom:12px;z-index:5;display:none;margin-top:14px;
+  background:var(--ink-1);color:var(--page);border-radius:12px;padding:10px 16px;
+  align-items:center;justify-content:space-between;gap:10px;box-shadow:0 4px 18px rgba(0,0,0,.25)}
+.cmp-bar.on{display:flex}
+.cmp-bar button{border:0;border-radius:8px;padding:8px 14px;font-size:14px;font-weight:700;cursor:pointer}
+.cmp-bar .go{background:var(--series-1);color:#fff}
+.cmp-bar .clear{background:transparent;color:var(--page);text-decoration:underline}
+.cmp-panel{display:none}
+.cmp-panel.on{display:block}
+.cmp-grid{overflow-x:auto}
+.cmp-grid table{min-width:560px}
+.cmp-grid th{cursor:default;font-size:13px;color:var(--ink-1)}
+.cmp-grid td,.cmp-grid th{border-bottom:1px solid var(--grid);padding:9px 10px;vertical-align:top}
+.cmp-grid td.h{font-size:12.5px;color:var(--ink-2);white-space:nowrap;font-weight:600}
+.cmp-grid .win{font-weight:700;color:var(--good)}
+.cmp-grid .big{font-size:20px;font-weight:700;font-variant-numeric:tabular-nums}
+.cmp-close{float:right;border:1px solid var(--axis);background:none;color:var(--ink-2);
+  border-radius:8px;padding:4px 10px;font-size:13px;cursor:pointer}
+td.chk,th.chk{width:34px;text-align:center;padding:9px 4px}
+td.chk input{width:16px;height:16px;accent-color:var(--series-1);cursor:pointer}
+/* 표 안 금리 막대 */
+.rate-cell{position:relative;min-width:120px}
+.rate-cell .bar{position:absolute;left:0;top:6px;bottom:6px;background:var(--seq-250);
+  opacity:.35;border-radius:0 3px 3px 0;z-index:0}
+.rate-cell .v{position:relative;z-index:1;font-weight:700;font-variant-numeric:tabular-nums}
 /* 테이블 */
 .tbl-wrap{overflow-x:auto}
 table{width:100%;border-collapse:collapse;font-size:14px}
@@ -122,8 +148,15 @@ footer a{color:var(--ink-3)}
     <p class="chart-note">막대 길이 = 최고우대금리(연 %, 세전). 은행별 우대조건 충족 시 기준.</p>
   </section>
 
+  <section class="card cmp-panel" id="cmpPanel">
+    <button class="cmp-close" id="cmpClose">✕ 닫기</button>
+    <h2>⚖️ 선택 상품 비교</h2>
+    <div class="cmp-grid" id="cmpGrid"></div>
+  </section>
+
   <section class="card">
     <h2>전체 상품 비교표</h2>
+    <p class="count-note" style="margin:0 0 10px">체크박스로 상품을 골라(최대 3개) 나란히 비교할 수 있어요.</p>
     <div class="filters">
       <input type="search" id="q" placeholder="은행·상품명 검색">
       <select id="bankSel"><option value="">모든 은행</option></select>
@@ -137,6 +170,7 @@ footer a{color:var(--ink-3)}
     <div class="tbl-wrap">
       <table>
         <thead><tr id="headRow">
+          <th class="chk"></th>
           <th data-k="bank">은행</th>
           <th data-k="name">상품명</th>
           <th data-k="base" style="text-align:right">기본금리</th>
@@ -148,6 +182,13 @@ footer a{color:var(--ink-3)}
       </table>
     </div>
     <p class="count-note" id="countNote"></p>
+    <div class="cmp-bar" id="cmpBar">
+      <span id="cmpCount">0개 선택됨</span>
+      <span>
+        <button class="clear" id="cmpClear">선택 해제</button>
+        <button class="go" id="cmpGo">나란히 비교 →</button>
+      </span>
+    </div>
   </section>
 
   <footer>
@@ -157,8 +198,9 @@ footer a{color:var(--ink-3)}
 </div>
 
 <script>
-const TG_CHANNEL = "";  // 예: "mysavingsalert" — 채널 개설 후 자동 설정됨
+const TG_CHANNEL = "heeendoong_jeokgeum";
 let DATA=null, sortKey="best", sortDir=-1;
+const selected=new Set();
 
 const $=s=>document.querySelector(s);
 const fmt=r=>r.toFixed(2);
@@ -170,8 +212,19 @@ function rateFor(p, term){
   const o=opts.reduce((a,b)=>b.intr_rate2>a.intr_rate2?b:a);
   return {base:o.intr_rate, best:o.intr_rate2, term:o.save_trm};
 }
+function baselineDate(){
+  if(DATA.baseline_date) return DATA.baseline_date;
+  // 구버전 데이터: 가장 이른 first_seen = 첫 수집일(기준선)
+  let min=null;
+  for(const p of DATA.products||[]) if(p.first_seen&&(!min||p.first_seen<min)) min=p.first_seen;
+  return min;
+}
+function isBaseline(p){
+  if(typeof p.is_baseline==="boolean") return p.is_baseline;
+  return p.first_seen===baselineDate(); // 구버전 데이터 호환
+}
 function isNew(p){
-  if(!DATA||!p.first_seen) return false;
+  if(!DATA||!p.first_seen||isBaseline(p)) return false;
   const days=(Date.now()-new Date(p.first_seen+"T00:00:00+09:00"))/864e5;
   return days<=(DATA.new_badge_days||14);
 }
@@ -244,20 +297,54 @@ function renderTable(){
     th.innerHTML=th.textContent.replace(/ [▲▼]$/,"");
     if(th.dataset.k===sortKey) th.innerHTML+=` <span class="arrow">${sortDir<0?"▼":"▲"}</span>`;
   });
-  if(!rows.length){$("#tbody").innerHTML=`<tr><td colspan="6" class="empty">조건에 맞는 상품이 없습니다.</td></tr>`}
+  const maxBest=Math.max(...rows.map(r=>r.best),0.01);
+  if(!rows.length){$("#tbody").innerHTML=`<tr><td colspan="7" class="empty">조건에 맞는 상품이 없습니다.</td></tr>`}
   else $("#tbody").innerHTML=rows.map((r,i)=>`
     <tr class="row" data-i="${i}">
+      <td class="chk"><input type="checkbox" data-key="${r.p.key}" ${selected.has(r.p.key)?"checked":""} ${!selected.has(r.p.key)&&selected.size>=3?"disabled":""}></td>
       <td class="bank-cell">${esc(r.bank)}</td>
       <td>${esc(r.name)}${isNew(r.p)?'<span class="badge">NEW</span>':''}</td>
       <td class="num">${fmt(r.base)}%</td>
-      <td class="num"><span class="best">${fmt(r.best)}%</span></td>
+      <td class="num rate-cell"><span class="bar" style="width:${(r.best/maxBest*100).toFixed(1)}%"></span><span class="v">${fmt(r.best)}%</span></td>
       <td class="num">${r.term}개월</td>
-      <td>${r.first_seen}</td>
+      <td>${isBaseline(r.p)?'<span style="color:var(--ink-3)" title="첫 수집 시점부터 있던 상품">–</span>':r.first_seen}</td>
     </tr>`).join("");
   $("#countNote").textContent=`${rows.length}개 상품 표시 중 · 금리 기준: ${$("#termSel").value?$("#termSel").value+"개월":"상품별 최고 기간"}`;
   window._rows=rows;
 }
 
+function updateCmpBar(){
+  $("#cmpBar").classList.toggle("on",selected.size>0);
+  $("#cmpCount").textContent=`${selected.size}개 선택됨 (최대 3개)`;
+}
+function renderCompare(){
+  const ps=[...selected].map(k=>DATA.products.find(p=>p.key===k)).filter(Boolean);
+  if(!ps.length){$("#cmpPanel").classList.remove("on");return}
+  const terms=[...new Set(ps.flatMap(p=>p.options.map(o=>o.save_trm)))].sort((a,b)=>a-b);
+  const bestOf=Math.max(...ps.map(p=>p.best_rate));
+  const rateRow=t=>ps.map(p=>{
+    const o=(p.options||[]).filter(x=>x.save_trm===t).reduce((a,b)=>!a||b.intr_rate2>a.intr_rate2?b:a,null);
+    if(!o) return "<td class='num' style='color:var(--ink-3)'>–</td>";
+    const top=Math.max(...ps.map(q=>{const m=(q.options||[]).filter(x=>x.save_trm===t);return m.length?Math.max(...m.map(x=>x.intr_rate2)):-1}));
+    return `<td class="num ${o.intr_rate2===top?"win":""}">${fmt(o.intr_rate)} → <b>${fmt(o.intr_rate2)}%</b></td>`;
+  }).join("");
+  const row=(label,cells)=>`<tr><td class="h">${label}</td>${cells}</tr>`;
+  $("#cmpGrid").innerHTML=`<table>
+    <thead><tr><th style="width:110px"></th>${ps.map(p=>`<th>${esc(p.bank)}<br><span style="font-weight:400">${esc(p.name)}</span>${isNew(p)?'<span class="badge">NEW</span>':''}</th>`).join("")}</tr></thead>
+    <tbody>
+      ${row("최고우대금리",ps.map(p=>`<td class="num big ${p.best_rate===bestOf?"win":""}">${fmt(p.best_rate)}%<div style="font-size:12px;font-weight:400;color:var(--ink-2)">${p.best_term}개월 기준</div></td>`).join(""))}
+      ${terms.map(t=>row(`${t}개월 금리`,rateRow(t))).join("")}
+      ${row("우대조건",ps.map(p=>`<td style="font-size:13px">${esc(p.spcl_cnd)||"없음"}</td>`).join(""))}
+      ${row("가입대상",ps.map(p=>`<td style="font-size:13px">${esc(p.join_member)||"-"}</td>`).join(""))}
+      ${row("가입방법",ps.map(p=>`<td style="font-size:13px">${esc(p.join_way)||"-"}</td>`).join(""))}
+      ${row("월 최고한도",ps.map(p=>`<td class="num">${p.max_limit?Number(p.max_limit).toLocaleString()+"원":"제한 없음"}</td>`).join(""))}
+      ${row("만기 후",ps.map(p=>`<td style="font-size:13px">${esc((p.mtrt_int||"-").slice(0,120))}</td>`).join(""))}
+      ${row("링크",ps.map(p=>`<td><a href="${p.naver_url}" target="_blank" rel="noopener" style="color:var(--series-1);font-weight:600;text-decoration:none">네이버 검색 →</a></td>`).join(""))}
+    </tbody></table>
+  <p class="count-note">초록색 = 해당 항목에서 가장 유리한 상품 · 금리는 기본 → 최고우대 순</p>`;
+  $("#cmpPanel").classList.add("on");
+  $("#cmpPanel").scrollIntoView({behavior:"smooth",block:"start"});
+}
 function toggleDetail(tr){
   const next=tr.nextElementSibling;
   if(next&&next.classList.contains("detail")){next.remove();return}
@@ -266,7 +353,7 @@ function toggleDetail(tr){
   const opts=p.options.map(o=>`${o.save_trm}개월 ${fmt(o.intr_rate)}→<b>${fmt(o.intr_rate2)}%</b>`).join(" · ");
   const d=document.createElement("tr");
   d.className="detail";
-  d.innerHTML=`<td colspan="6"><dl>
+  d.innerHTML=`<td colspan="7"><dl>
     <dt>기간별 금리</dt><dd>${opts||"-"}</dd>
     <dt>우대조건</dt><dd>${esc(p.spcl_cnd)||"없음"}</dd>
     <dt>가입대상</dt><dd>${esc(p.join_member)||"-"}</dd>
@@ -306,8 +393,20 @@ async function init(){
     renderTable();
   });
   $("#tbody").addEventListener("click",e=>{
+    if(e.target.matches("td.chk input")){
+      const k=e.target.dataset.key;
+      if(e.target.checked){ if(selected.size<3) selected.add(k); }
+      else selected.delete(k);
+      updateCmpBar(); renderTable();
+      if($("#cmpPanel").classList.contains("on")) renderCompare();
+      return;
+    }
+    if(e.target.closest("td.chk")) return;
     const tr=e.target.closest("tr.row"); if(tr) toggleDetail(tr);
   });
+  $("#cmpGo").addEventListener("click",renderCompare);
+  $("#cmpClear").addEventListener("click",()=>{selected.clear();updateCmpBar();renderTable();$("#cmpPanel").classList.remove("on")});
+  $("#cmpClose").addEventListener("click",()=>$("#cmpPanel").classList.remove("on"));
 }
 init();
 </script>

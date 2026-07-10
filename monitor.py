@@ -204,15 +204,27 @@ def main():
     prev = load_prev()
     prev_products = {p["key"]: p for p in prev.get("products", [])}
     baseline_done = bool(prev.get("baseline"))
+    # 기준선 날짜: 첫 수집일. 이 날짜에 확인된 상품은 '신규'로 취급하지 않는다.
+    baseline_date = prev.get("baseline_date")
+    if baseline_done and not baseline_date:
+        # 구버전 데이터 마이그레이션: 가장 이른 first_seen을 기준선으로 간주
+        seen_dates = [p.get("first_seen") for p in prev_products.values() if p.get("first_seen")]
+        baseline_date = min(seen_dates) if seen_dates else now.strftime("%Y-%m-%d")
+    if not baseline_done:
+        baseline_date = now.strftime("%Y-%m-%d")
 
-    # first_seen 유지/부여
+    # first_seen 유지/부여 + 기준선 소속 여부
     new_products = []
     for p in products:
         old = prev_products.get(p["key"])
         if old:
             p["first_seen"] = old.get("first_seen") or now.strftime("%Y-%m-%d")
+            # 기준선 플래그 유지 (구버전 데이터는 first_seen==기준선일이면 기준선 상품으로 간주)
+            p["is_baseline"] = bool(old.get("is_baseline",
+                                            old.get("first_seen") == baseline_date))
         else:
             p["first_seen"] = now.strftime("%Y-%m-%d")
+            p["is_baseline"] = not baseline_done  # 첫 수집 때 있던 상품만 True
             if baseline_done:
                 new_products.append(p)
 
@@ -222,6 +234,7 @@ def main():
     data = {
         "updated_at": now.strftime("%Y-%m-%d %H:%M"),
         "baseline": True,
+        "baseline_date": baseline_date,
         "new_badge_days": NEW_BADGE_DAYS,
         "products": products,
     }
