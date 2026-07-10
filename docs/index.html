@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>적금 레이더 — 은행권 적금 실시간 비교</title>
+<meta name="description" content="국내 시중은행·인터넷은행 적금 상품을 매시간 자동 수집해 비교합니다. 신규 상품 알림 제공.">
+<style>
+:root{
+  --surface-1:#fcfcfb; --page:#f9f9f7;
+  --ink-1:#0b0b0b; --ink-2:#52514e; --ink-3:#898781;
+  --grid:#e1e0d9; --axis:#c3c2b7; --border:rgba(11,11,11,0.10);
+  --series-1:#2a78d6; --seq-250:#86b6ef; --seq-450:#2a78d6; --seq-600:#184f95;
+  --good:#006300; --new-bg:#e8f1fc; --new-ink:#1c5cab;
+}
+@media (prefers-color-scheme: dark){
+  :root{
+    --surface-1:#1a1a19; --page:#0d0d0d;
+    --ink-1:#ffffff; --ink-2:#c3c2b7; --ink-3:#898781;
+    --grid:#2c2c2a; --axis:#383835; --border:rgba(255,255,255,0.10);
+    --series-1:#3987e5; --seq-250:#86b6ef; --seq-450:#3987e5; --seq-600:#184f95;
+    --good:#0ca30c; --new-bg:#12253d; --new-ink:#86b6ef;
+  }
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--page);color:var(--ink-1);
+  font-family:system-ui,-apple-system,"Segoe UI","Apple SD Gothic Neo","Malgun Gothic",sans-serif;
+  font-size:15px;line-height:1.55}
+.wrap{max-width:1080px;margin:0 auto;padding:20px 16px 60px}
+header h1{font-size:26px;margin:8px 0 2px}
+header .sub{color:var(--ink-2);font-size:14px;margin:0}
+.meta{color:var(--ink-3);font-size:13px;margin-top:6px}
+.tg-btn{display:inline-block;margin-top:10px;padding:7px 14px;border-radius:8px;
+  background:var(--series-1);color:#fff;text-decoration:none;font-size:14px;font-weight:600}
+.card{background:var(--surface-1);border:1px solid var(--border);border-radius:12px;
+  padding:16px 18px;margin-top:18px}
+h2{font-size:17px;margin:0 0 12px}
+/* 스탯 타일 */
+.tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px;margin-top:18px}
+.tile{background:var(--surface-1);border:1px solid var(--border);border-radius:12px;padding:14px 16px}
+.tile .label{font-size:12.5px;color:var(--ink-2)}
+.tile .value{font-size:26px;font-weight:700;margin-top:2px}
+.tile .unit{font-size:14px;font-weight:500;color:var(--ink-2)}
+/* 신규 카드 */
+.new-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px}
+.new-card{border:1px solid var(--border);border-left:4px solid var(--series-1);
+  border-radius:10px;padding:12px 14px;background:var(--new-bg)}
+.new-card .bank{font-size:13px;color:var(--ink-2)}
+.new-card .name{font-weight:700;margin:2px 0 6px}
+.new-card .rate{font-size:20px;font-weight:700}
+.new-card .rate small{font-size:12.5px;font-weight:400;color:var(--ink-2)}
+.new-card .cond{font-size:13px;color:var(--ink-2);margin-top:6px;
+  display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.new-card a{color:var(--new-ink);font-size:13px;font-weight:600;text-decoration:none}
+.badge{display:inline-block;background:var(--series-1);color:#fff;border-radius:5px;
+  font-size:10.5px;font-weight:700;padding:1px 6px;vertical-align:2px;margin-left:6px}
+/* 바 차트 */
+.chart{margin-top:4px}
+.bar-row{display:grid;grid-template-columns:190px 1fr 64px;align-items:center;
+  gap:10px;padding:5px 0;border-radius:6px}
+.bar-row:hover{background:var(--page)}
+.bar-label{font-size:13px;color:var(--ink-2);text-align:right;
+  white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.bar-track{height:18px;position:relative}
+.bar-fill{height:100%;background:var(--series-1);border-radius:0 4px 4px 0;min-width:2px}
+.bar-val{font-size:13px;font-weight:600;font-variant-numeric:tabular-nums}
+.chart-note{font-size:12px;color:var(--ink-3);margin-top:8px}
+/* 필터 */
+.filters{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:12px}
+.filters select,.filters input[type=search]{padding:7px 10px;border:1px solid var(--axis);
+  border-radius:8px;background:var(--surface-1);color:var(--ink-1);font-size:14px}
+.filters input[type=search]{flex:1;min-width:160px}
+.toggle{display:flex;align-items:center;gap:6px;font-size:14px;color:var(--ink-2);
+  border:1px solid var(--axis);border-radius:8px;padding:6px 10px;cursor:pointer;user-select:none}
+.toggle input{accent-color:var(--series-1)}
+/* 테이블 */
+.tbl-wrap{overflow-x:auto}
+table{width:100%;border-collapse:collapse;font-size:14px}
+th{font-size:12.5px;color:var(--ink-2);text-align:left;padding:8px 10px;
+  border-bottom:1px solid var(--axis);cursor:pointer;white-space:nowrap;user-select:none}
+th .arrow{color:var(--series-1)}
+td{padding:9px 10px;border-bottom:1px solid var(--grid);vertical-align:top}
+td.num{font-variant-numeric:tabular-nums;text-align:right;white-space:nowrap}
+td .best{font-weight:700}
+tr.row{cursor:pointer}
+tr.row:hover{background:var(--page)}
+tr.detail td{background:var(--page);font-size:13.5px;color:var(--ink-2);padding:12px 16px}
+.detail dl{margin:0;display:grid;grid-template-columns:96px 1fr;gap:4px 10px}
+.detail dt{font-weight:600;color:var(--ink-1)}
+.detail dd{margin:0}
+.detail .links a{color:var(--series-1);font-weight:600;text-decoration:none;margin-right:14px}
+.bank-cell{white-space:nowrap}
+.count-note{font-size:13px;color:var(--ink-3);margin:4px 0 0}
+.empty{padding:30px;text-align:center;color:var(--ink-2)}
+footer{margin-top:26px;font-size:12.5px;color:var(--ink-3)}
+footer a{color:var(--ink-3)}
+@media (max-width:640px){
+  .bar-row{grid-template-columns:120px 1fr 56px}
+  header h1{font-size:22px}
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>📡 적금 레이더</h1>
+    <p class="sub">국내 시중은행·인터넷은행 적금 상품을 매시간 자동 수집해 비교합니다.</p>
+    <p class="meta" id="meta">데이터 불러오는 중…</p>
+    <a class="tg-btn" id="tgLink" href="#" style="display:none">📢 텔레그램 알림 채널 구독</a>
+  </header>
+
+  <div class="tiles" id="tiles"></div>
+
+  <section class="card" id="newSection" style="display:none">
+    <h2>🆕 최근 <span id="newDays">14</span>일 내 신규 상품</h2>
+    <div class="new-grid" id="newGrid"></div>
+  </section>
+
+  <section class="card">
+    <h2>🏆 최고우대금리 TOP 10</h2>
+    <div class="chart" id="chart"></div>
+    <p class="chart-note">막대 길이 = 최고우대금리(연 %, 세전). 은행별 우대조건 충족 시 기준.</p>
+  </section>
+
+  <section class="card">
+    <h2>전체 상품 비교표</h2>
+    <div class="filters">
+      <input type="search" id="q" placeholder="은행·상품명 검색">
+      <select id="bankSel"><option value="">모든 은행</option></select>
+      <select id="termSel">
+        <option value="" selected>모든 기간</option>
+        <option value="6">6개월</option><option value="12">12개월</option>
+        <option value="24">24개월</option><option value="36">36개월</option>
+      </select>
+      <label class="toggle"><input type="checkbox" id="newOnly">신규만</label>
+    </div>
+    <div class="tbl-wrap">
+      <table>
+        <thead><tr id="headRow">
+          <th data-k="bank">은행</th>
+          <th data-k="name">상품명</th>
+          <th data-k="base" style="text-align:right">기본금리</th>
+          <th data-k="best" style="text-align:right">최고우대금리</th>
+          <th data-k="term" style="text-align:right">기간</th>
+          <th data-k="first_seen">등록확인일</th>
+        </tr></thead>
+        <tbody id="tbody"></tbody>
+      </table>
+    </div>
+    <p class="count-note" id="countNote"></p>
+  </section>
+
+  <footer>
+    데이터 출처: <a href="https://finlife.fss.or.kr" target="_blank" rel="noopener">금융감독원 금융상품통합비교공시 「금융상품한눈에」</a> ·
+    금리는 세전 연이율이며 실제 조건은 각 은행 페이지에서 확인하세요. 본 사이트는 정보 제공 목적이며 금융상품 권유가 아닙니다.
+  </footer>
+</div>
+
+<script>
+const TG_CHANNEL = "";  // 예: "mysavingsalert" — 채널 개설 후 자동 설정됨
+let DATA=null, sortKey="best", sortDir=-1;
+
+const $=s=>document.querySelector(s);
+const fmt=r=>r.toFixed(2);
+
+function rateFor(p, term){
+  if(!term) return {base:p.best_base_rate, best:p.best_rate, term:p.best_term};
+  const opts=p.options.filter(o=>o.save_trm===+term);
+  if(!opts.length) return null;
+  const o=opts.reduce((a,b)=>b.intr_rate2>a.intr_rate2?b:a);
+  return {base:o.intr_rate, best:o.intr_rate2, term:o.save_trm};
+}
+function isNew(p){
+  if(!DATA||!p.first_seen) return false;
+  const days=(Date.now()-new Date(p.first_seen+"T00:00:00+09:00"))/864e5;
+  return days<=(DATA.new_badge_days||14);
+}
+function esc(s){return (s||"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;")}
+
+function renderTiles(ps){
+  const best=ps.reduce((a,b)=>b.best_rate>a.best_rate?b:a,ps[0]);
+  const avg=ps.reduce((s,p)=>s+p.best_rate,0)/ps.length;
+  const banks=new Set(ps.map(p=>p.bank)).size;
+  const newCnt=ps.filter(isNew).length;
+  $("#tiles").innerHTML=`
+    <div class="tile"><div class="label">전체 상품</div><div class="value">${ps.length}<span class="unit">개</span></div></div>
+    <div class="tile"><div class="label">참여 은행</div><div class="value">${banks}<span class="unit">곳</span></div></div>
+    <div class="tile"><div class="label">최고 우대금리</div><div class="value">${fmt(best.best_rate)}<span class="unit">%</span></div>
+      <div class="label" style="margin-top:2px">${esc(best.bank)}</div></div>
+    <div class="tile"><div class="label">평균 최고우대금리</div><div class="value">${fmt(avg)}<span class="unit">%</span></div></div>
+    <div class="tile"><div class="label">최근 ${DATA.new_badge_days||14}일 신규</div><div class="value">${newCnt}<span class="unit">건</span></div></div>`;
+}
+
+function renderNew(ps){
+  const news=ps.filter(isNew).sort((a,b)=>b.first_seen.localeCompare(a.first_seen)||b.best_rate-a.best_rate);
+  if(!news.length){$("#newSection").style.display="none";return}
+  $("#newSection").style.display="";
+  $("#newDays").textContent=DATA.new_badge_days||14;
+  $("#newGrid").innerHTML=news.map(p=>`
+    <div class="new-card">
+      <div class="bank">${esc(p.bank)} · ${p.first_seen} 확인</div>
+      <div class="name">${esc(p.name)}</div>
+      <div class="rate">연 ${fmt(p.best_rate)}% <small>(${p.best_term}개월 · 기본 ${fmt(p.best_base_rate)}%)</small></div>
+      <div class="cond">${esc(p.spcl_cnd)||"우대조건 없음"}</div>
+      <div style="margin-top:8px"><a href="${p.naver_url}" target="_blank" rel="noopener">네이버에서 자세히 →</a></div>
+    </div>`).join("");
+}
+
+function renderChart(ps){
+  const top=[...ps].sort((a,b)=>b.best_rate-a.best_rate).slice(0,10);
+  const max=top[0]?.best_rate||1;
+  $("#chart").innerHTML=top.map(p=>`
+    <div class="bar-row" title="${esc(p.bank)} ${esc(p.name)} — 최고 연 ${fmt(p.best_rate)}% (${p.best_term}개월)">
+      <div class="bar-label">${esc(p.bank)} ${esc(p.name)}${isNew(p)?'<span class="badge">NEW</span>':''}</div>
+      <div class="bar-track"><div class="bar-fill" style="width:${(p.best_rate/max*100).toFixed(1)}%"></div></div>
+      <div class="bar-val">${fmt(p.best_rate)}%</div>
+    </div>`).join("");
+}
+
+function currentRows(){
+  const q=$("#q").value.trim().toLowerCase();
+  const bank=$("#bankSel").value, term=$("#termSel").value, newOnly=$("#newOnly").checked;
+  let rows=[];
+  for(const p of DATA.products){
+    if(bank&&p.bank!==bank) continue;
+    if(newOnly&&!isNew(p)) continue;
+    if(q&&!(p.bank+p.name).toLowerCase().includes(q)) continue;
+    const r=rateFor(p,term);
+    if(!r) continue;
+    rows.push({p, base:r.base, best:r.best, term:r.term,
+      bank:p.bank, name:p.name, first_seen:p.first_seen||""});
+  }
+  rows.sort((a,b)=>{
+    const va=a[sortKey], vb=b[sortKey];
+    const c=(typeof va==="number")?va-vb:String(va).localeCompare(String(vb),"ko");
+    return c*sortDir;
+  });
+  return rows;
+}
+
+function renderTable(){
+  const rows=currentRows();
+  document.querySelectorAll("#headRow th").forEach(th=>{
+    th.innerHTML=th.textContent.replace(/ [▲▼]$/,"");
+    if(th.dataset.k===sortKey) th.innerHTML+=` <span class="arrow">${sortDir<0?"▼":"▲"}</span>`;
+  });
+  if(!rows.length){$("#tbody").innerHTML=`<tr><td colspan="6" class="empty">조건에 맞는 상품이 없습니다.</td></tr>`}
+  else $("#tbody").innerHTML=rows.map((r,i)=>`
+    <tr class="row" data-i="${i}">
+      <td class="bank-cell">${esc(r.bank)}</td>
+      <td>${esc(r.name)}${isNew(r.p)?'<span class="badge">NEW</span>':''}</td>
+      <td class="num">${fmt(r.base)}%</td>
+      <td class="num"><span class="best">${fmt(r.best)}%</span></td>
+      <td class="num">${r.term}개월</td>
+      <td>${r.first_seen}</td>
+    </tr>`).join("");
+  $("#countNote").textContent=`${rows.length}개 상품 표시 중 · 금리 기준: ${$("#termSel").value?$("#termSel").value+"개월":"상품별 최고 기간"}`;
+  window._rows=rows;
+}
+
+function toggleDetail(tr){
+  const next=tr.nextElementSibling;
+  if(next&&next.classList.contains("detail")){next.remove();return}
+  document.querySelectorAll("tr.detail").forEach(e=>e.remove());
+  const r=window._rows[+tr.dataset.i], p=r.p;
+  const opts=p.options.map(o=>`${o.save_trm}개월 ${fmt(o.intr_rate)}→<b>${fmt(o.intr_rate2)}%</b>`).join(" · ");
+  const d=document.createElement("tr");
+  d.className="detail";
+  d.innerHTML=`<td colspan="6"><dl>
+    <dt>기간별 금리</dt><dd>${opts||"-"}</dd>
+    <dt>우대조건</dt><dd>${esc(p.spcl_cnd)||"없음"}</dd>
+    <dt>가입대상</dt><dd>${esc(p.join_member)||"-"}</dd>
+    <dt>가입방법</dt><dd>${esc(p.join_way)||"-"}</dd>
+    <dt>만기 후</dt><dd>${esc(p.mtrt_int)||"-"}</dd>
+    <dt>최고한도</dt><dd>${p.max_limit?Number(p.max_limit).toLocaleString()+"원":"제한 없음"}</dd>
+    ${p.etc_note?`<dt>기타</dt><dd>${esc(p.etc_note)}</dd>`:""}
+    <dt>공시월</dt><dd>${p.dcls_month||"-"}</dd>
+  </dl>
+  <p class="links" style="margin:10px 0 0">
+    <a href="${p.naver_url}" target="_blank" rel="noopener">네이버 검색 →</a>
+    <a href="https://finlife.fss.or.kr/finlife/main/main.do" target="_blank" rel="noopener">금융상품한눈에 →</a>
+  </p></td>`;
+  tr.after(d);
+}
+
+async function init(){
+  try{
+    const res=await fetch("data.json?t="+Date.now());
+    DATA=await res.json();
+  }catch(e){ $("#meta").textContent="데이터를 불러오지 못했습니다."; return }
+  if(TG_CHANNEL){$("#tgLink").href="https://t.me/"+TG_CHANNEL;$("#tgLink").style.display="inline-block"}
+  const ps=DATA.products||[];
+  if(!ps.length){
+    $("#meta").textContent="⏳ 아직 첫 데이터 수집 전입니다. 인증키 승인 후 자동으로 채워집니다.";
+    return;
+  }
+  $("#meta").textContent=`마지막 갱신: ${DATA.updated_at} (KST) · 매시간 자동 갱신 · 출처: 금융감독원 공시`;
+  const banks=[...new Set(ps.map(p=>p.bank))].sort((a,b)=>a.localeCompare(b,"ko"));
+  $("#bankSel").innerHTML='<option value="">모든 은행</option>'+banks.map(b=>`<option>${esc(b)}</option>`).join("");
+  renderTiles(ps); renderNew(ps); renderChart(ps); renderTable();
+  ["q","bankSel","termSel","newOnly"].forEach(id=>$("#"+id).addEventListener("input",renderTable));
+  $("#headRow").addEventListener("click",e=>{
+    const th=e.target.closest("th"); if(!th) return;
+    const k=th.dataset.k;
+    if(sortKey===k) sortDir*=-1; else {sortKey=k; sortDir=(k==="bank"||k==="name")?1:-1}
+    renderTable();
+  });
+  $("#tbody").addEventListener("click",e=>{
+    const tr=e.target.closest("tr.row"); if(tr) toggleDetail(tr);
+  });
+}
+init();
+</script>
+</body>
+</html>
