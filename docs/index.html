@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>적금 레이더 — 은행권 적금 실시간 비교</title>
+<title>적금레이더 🛰️: 적금찾는 흰둥이! — 은행권 적금 실시간 비교</title>
 <meta name="description" content="국내 시중은행·인터넷은행 적금 상품을 매시간 자동 수집해 비교합니다. 신규 상품 알림 제공.">
 <style>
 :root{
@@ -129,7 +129,7 @@ footer a{color:var(--ink-3)}
 <body>
 <div class="wrap">
   <header>
-    <h1>📡 적금 레이더</h1>
+    <h1>적금레이더 🛰️: 적금찾는 흰둥이! 🐶</h1>
     <p class="sub">국내 시중은행·인터넷은행 적금 상품을 매시간 자동 수집해 비교합니다.</p>
     <p class="meta" id="meta">데이터 불러오는 중…</p>
     <a class="tg-btn" id="tgLink" href="#" style="display:none">📢 텔레그램 알림 채널 구독</a>
@@ -156,7 +156,7 @@ footer a{color:var(--ink-3)}
 
   <section class="card">
     <h2>전체 상품 비교표</h2>
-    <p class="count-note" style="margin:0 0 10px">체크박스로 상품을 골라(최대 3개) 나란히 비교할 수 있어요.</p>
+    <p class="count-note" style="margin:0 0 10px">체크박스로 상품을 골라(최대 3개) 나란히 비교할 수 있어요.✅ </p>
     <div class="filters">
       <input type="search" id="q" placeholder="은행·상품명 검색">
       <select id="bankSel"><option value="">모든 은행</option></select>
@@ -378,7 +378,7 @@ async function init(){
   if(TG_CHANNEL){$("#tgLink").href="https://t.me/"+TG_CHANNEL;$("#tgLink").style.display="inline-block"}
   const ps=DATA.products||[];
   if(!ps.length){
-    $("#meta").textContent="⏳ 아직 첫 데이터 수집 전입니다. 인증키 승인 후 자동으로 채워집니다.";
+    $("#meta").textContent="⏳ 흰둥이가 첫 데이터 수집 전입니다. 인증키 승인 후 자동으로 채워집니다.";
     return;
   }
   $("#meta").textContent=`마지막 갱신: ${DATA.updated_at} (KST) · 매시간 자동 갱신 · 출처: 금융감독원 공시`;
