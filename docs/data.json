@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-16 12:31",
+ "updated_at": "2026-07-16 15:27",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -1687,8 +1687,8 @@
      "save_trm": 12,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 2.8,
-     "intr_rate2": 3.6
+     "intr_rate": 2.81,
+     "intr_rate2": 3.61
     },
     {
      "save_trm": 24,
@@ -1705,8 +1705,8 @@
      "intr_rate2": 3.4
     }
    ],
-   "best_rate": 3.6,
-   "best_base_rate": 2.8,
+   "best_rate": 3.61,
+   "best_base_rate": 2.81,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EB%86%8D%ED%98%91%EC%9D%80%ED%96%89%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20NH%EC%A7%81%EC%9E%A5%EC%9D%B8%EC%9B%94%EB%B3%B5%EB%A6%AC%EC%A0%81%EA%B8%88",
    "first_seen": "2026-07-10",
