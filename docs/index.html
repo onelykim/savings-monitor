@@ -149,6 +149,12 @@ footer a{color:var(--ink-3)}
     <div class="new-grid" id="newGrid"></div>
   </section>
 
+  <section class="card" id="npSection" style="display:none">
+    <h2>📰 뉴스로 감지된 신상품 <span style="font-size:13px;font-weight:400;color:var(--ink-2)">(공시 반영 전일 수 있음)</span></h2>
+    <div class="new-grid" id="npGrid"></div>
+    <p class="chart-note">기사 제목에서 자동 추출한 정보라 금리·조건은 각 기사와 은행 앱에서 꼭 확인하세요. 금감원 공시에 등록되면 아래 비교표에 정식으로 합류합니다.</p>
+  </section>
+
   <section class="card" id="newsSection" style="display:none">
     <h2>📰 최신 적금 뉴스</h2>
     <ul class="news-list" id="newsList"></ul>
@@ -326,7 +332,24 @@ function renderTable(){
   window._rows=rows;
 }
 
+function renderNewsProducts(){
+  const cs=(DATA.news_products||[]).filter(c=>!c.in_disclosure);
+  if(!cs.length) return;
+  $("#npSection").style.display="";
+  $("#npGrid").innerHTML=cs.slice(0,6).map(c=>`
+    <div class="new-card" style="border-left-color:#eb6834;background:var(--surface-1)">
+      <div class="bank">📰 ${esc(c.bank)} · 첫 보도 ${c.first_news||"-"} · 기사 ${c.count}건</div>
+      <div class="name">${esc(c.name)}</div>
+      ${c.rate?`<div class="rate">연 ${Number(c.rate).toFixed(2)}% <small>(기사 기준)</small></div>`:""}
+      <div class="cond">${esc((c.articles&&c.articles[0]&&c.articles[0].title)||"")}</div>
+      <div style="margin-top:8px">${(c.articles||[]).slice(0,2).map((a,i)=>
+        `<a href="${a.link}" target="_blank" rel="noopener" style="margin-right:12px">기사 ${i+1} →</a>`).join("")}
+        <a href="https://search.naver.com/search.naver?query=${encodeURIComponent(c.bank+" "+c.name)}" target="_blank" rel="noopener">네이버 →</a>
+      </div>
+    </div>`).join("");
+}
 function renderNews(){
+  renderNewsProducts();
   const ns=DATA.news||[];
   if(!ns.length) return;
   $("#newsSection").style.display="";
