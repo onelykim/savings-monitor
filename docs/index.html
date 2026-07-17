@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="ko">
 <head>
@@ -302,6 +303,16 @@ function currentRows(){
     rows.push({p, base:r.base, best:r.best, term:r.term,
       bank:p.bank, name:p.name, first_seen:p.first_seen||""});
   }
+  // 뉴스로 감지된 상품도 표에 합류 (공시 미반영분만, 기간 필터 미선택 시)
+  if(!term){
+    for(const c of (DATA.news_products||[])){
+      if(c.in_disclosure) continue;
+      if(bank&&c.bank!==bank) continue;
+      if(q&&!(c.bank+c.name).toLowerCase().includes(q)) continue;
+      rows.push({np:c, isNews:true, bank:c.bank, name:c.name,
+        base:-1, best:c.rate||0, term:-1, first_seen:c.first_news||""});
+    }
+  }
   rows.sort((a,b)=>{
     const va=a[sortKey], vb=b[sortKey];
     const c=(typeof va==="number")?va-vb:String(va).localeCompare(String(vb),"ko");
@@ -318,7 +329,16 @@ function renderTable(){
   });
   const maxBest=Math.max(...rows.map(r=>r.best),0.01);
   if(!rows.length){$("#tbody").innerHTML=`<tr><td colspan="7" class="empty">조건에 맞는 상품이 없습니다.</td></tr>`}
-  else $("#tbody").innerHTML=rows.map((r,i)=>`
+  else $("#tbody").innerHTML=rows.map((r,i)=>r.isNews?`
+    <tr class="row" data-i="${i}">
+      <td class="chk"></td>
+      <td class="bank-cell">${esc(r.bank)}</td>
+      <td>${esc(r.name)}<span class="badge" style="background:#eb6834">📰 뉴스</span></td>
+      <td class="num" style="color:var(--ink-3)">–</td>
+      <td class="num rate-cell">${r.best>0?`<span class="bar" style="background:#eb6834;width:${(r.best/maxBest*100).toFixed(1)}%"></span><span class="v">${fmt(r.best)}%<span style="font-weight:400;color:var(--ink-3)">*</span></span>`:'<span style="color:var(--ink-3)">–</span>'}</td>
+      <td class="num" style="color:var(--ink-3)">–</td>
+      <td>${r.first_seen||"-"}</td>
+    </tr>`:`
     <tr class="row" data-i="${i}">
       <td class="chk"><input type="checkbox" data-key="${r.p.key}" ${selected.has(r.p.key)?"checked":""} ${!selected.has(r.p.key)&&selected.size>=3?"disabled":""}></td>
       <td class="bank-cell">${esc(r.bank)}</td>
@@ -328,7 +348,9 @@ function renderTable(){
       <td class="num">${r.term}개월</td>
       <td>${isBaseline(r.p)?'<span style="color:var(--ink-3)" title="첫 수집 시점부터 있던 상품">–</span>':r.first_seen}</td>
     </tr>`).join("");
-  $("#countNote").textContent=`${rows.length}개 상품 표시 중 · 금리 기준: ${$("#termSel").value?$("#termSel").value+"개월":"상품별 최고 기간"}`;
+  const newsCnt=rows.filter(r=>r.isNews).length;
+  $("#countNote").textContent=`${rows.length}개 상품 표시 중 · 금리 기준: ${$("#termSel").value?$("#termSel").value+"개월":"상품별 최고 기간"}`
+    +(newsCnt?` · 📰 ${newsCnt}개는 뉴스 기사 기준(*비공식) — 공시 등록 시 정식 데이터로 대체됩니다`:"");
   window._rows=rows;
 }
 
@@ -393,7 +415,25 @@ function toggleDetail(tr){
   const next=tr.nextElementSibling;
   if(next&&next.classList.contains("detail")){next.remove();return}
   document.querySelectorAll("tr.detail").forEach(e=>e.remove());
-  const r=window._rows[+tr.dataset.i], p=r.p;
+  const r=window._rows[+tr.dataset.i];
+  if(r.isNews){
+    const c=r.np;
+    const d=document.createElement("tr");
+    d.className="detail";
+    d.innerHTML=`<td colspan="7">
+      <p style="margin:0 0 8px">📰 <b>뉴스 기사에서 감지된 상품</b>입니다. 금리(${c.rate?fmt(c.rate)+"%":"미확인"})와 조건은 기사 기준(비공식)이며, 금감원 공시에 등록되면 정식 데이터로 대체됩니다.</p>
+      <dl>
+        <dt>첫 보도</dt><dd>${c.first_news||"-"}</dd>
+        <dt>관련 기사</dt><dd>${c.count}건</dd>
+      </dl>
+      <p class="links" style="margin:10px 0 0">
+        ${(c.articles||[]).slice(0,3).map((a,i)=>`<a href="${a.link}" target="_blank" rel="noopener">${esc(a.title.slice(0,40))}… →</a><br>`).join("")}
+        <a href="https://search.naver.com/search.naver?query=${encodeURIComponent(c.bank+" "+c.name)}" target="_blank" rel="noopener">네이버 검색 →</a>
+      </p></td>`;
+    tr.after(d);
+    return;
+  }
+  const p=r.p;
   const opts=p.options.map(o=>`${o.save_trm}개월 ${fmt(o.intr_rate)}→<b>${fmt(o.intr_rate2)}%</b>`).join(" · ");
   const d=document.createElement("tr");
   d.className="detail";
@@ -427,10 +467,13 @@ async function init(){
   }
   const months=ps.map(p=>p.dcls_month).filter(Boolean).sort();
   const dm=months[months.length-1]||"";
-  const dmTxt=dm.length===6?` · 상품정보는 ${dm.slice(0,4)}년 ${+dm.slice(4,6)}월 공시분(월 단위 갱신)`:"";
-  $("#meta").textContent=`마지막 확인: ${DATA.updated_at} (KST)${dmTxt} · 출처: 금융감독원 공시`;
+  const dmTxt=dm.length===6?` · 공시 상품정보: ${dm.slice(0,4)}년 ${+dm.slice(4,6)}월 공시분(월 단위 갱신)`:"";
+  const npCnt=(DATA.news_products||[]).filter(c=>!c.in_disclosure).length;
+  const npTxt=` · 📰 뉴스 신상품 감지: 매시간 (현재 ${npCnt}건, 공시 반영 전)`;
+  $("#meta").textContent=`마지막 확인: ${DATA.updated_at} (KST)${dmTxt}${npTxt} · 출처: 금융감독원 공시·구글/네이버 뉴스`;
   renderNews();
-  const banks=[...new Set(ps.map(p=>p.bank))].sort((a,b)=>a.localeCompare(b,"ko"));
+  const banks=[...new Set([...ps.map(p=>p.bank),
+    ...(DATA.news_products||[]).filter(c=>!c.in_disclosure).map(c=>c.bank)])].sort((a,b)=>a.localeCompare(b,"ko"));
   $("#bankSel").innerHTML='<option value="">모든 은행</option>'+banks.map(b=>`<option>${esc(b)}</option>`).join("");
   renderTiles(ps); renderNew(ps); renderChart(ps); renderTable();
   ["q","bankSel","termSel","newOnly"].forEach(id=>$("#"+id).addEventListener("input",renderTable));
