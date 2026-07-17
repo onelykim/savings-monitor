@@ -108,6 +108,89 @@ class ApiError(Exception):
         self.code = code
 
 
+# ──────────────────────── 뉴스 레이더 ────────────────────────
+NEWS_QUERIES = ['"적금" 출시 when:3d', '적금 특판 when:3d']
+NEWS_TITLE_KEYWORDS = ("출시", "특판", "신상", "선보", "내놓", "새로")
+
+
+def fetch_news():
+    """구글 뉴스 RSS에서 적금 신상품·특판 기사를 수집한다."""
+    import xml.etree.ElementTree as ET
+    from email.utils import parsedate_to_datetime
+
+    items, seen_links = [], set()
+    for q in NEWS_QUERIES:
+        url = ("https://news.google.com/rss/search?q=" + urllib.parse.quote(q)
+               + "&hl=ko&gl=KR&ceid=KR:ko")
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (rss-reader)"})
+            with urllib.request.urlopen(req, timeout=30) as r:
+                root = ET.fromstring(r.read())
+        except Exception as e:  # noqa: BLE001
+            print(f"뉴스 수집 실패({q}): {e}")
+            continue
+        for it in root.iter("item"):
+            title = (it.findtext("title") or "").strip()
+            link = (it.findtext("link") or "").strip()
+            source = (it.findtext("source") or "").strip()
+            if not title or not link or link in seen_links:
+                continue
+            if "적금" not in title:
+                continue
+            if not any(k in title for k in NEWS_TITLE_KEYWORDS):
+                continue
+            try:
+                date = parsedate_to_datetime(it.findtext("pubDate")).astimezone(KST).strftime("%Y-%m-%d")
+            except Exception:  # noqa: BLE001
+                date = ""
+            seen_links.add(link)
+            items.append({"title": title, "link": link, "source": source, "date": date})
+    items.sort(key=lambda n: n["date"], reverse=True)
+    return items
+
+
+def update_news(prev, data, site_url):
+    """새 기사 감지 → 텔레그램 속보 + data['news'] 갱신."""
+    import hashlib
+    seen = list(prev.get("news_seen") or [])
+    seen_set = set(seen)
+    seeded = bool(prev.get("news_seeded"))
+    try:
+        fetched = fetch_news()
+    except Exception as e:  # noqa: BLE001
+        fetched = []
+        print(f"뉴스 레이더 오류(무시): {e}")
+
+    fresh = []
+    for n in fetched:
+        h = hashlib.md5(n["link"].encode()).hexdigest()[:16]
+        if h in seen_set:
+            continue
+        seen.append(h)
+        seen_set.add(h)
+        fresh.append(n)
+
+    news_list = (fresh + (prev.get("news") or []))[:12]
+    data["news"] = news_list
+    data["news_seen"] = seen[-800:]
+    data["news_seeded"] = True
+
+    if not fetched and not prev.get("news"):
+        print("뉴스 레이더: 수집 결과 없음 (RSS 접근 실패 시 로그 확인)")
+    if fresh and seeded:
+        lines = []
+        for n in fresh[:5]:
+            meta = f" ({esc(n['source'])}{', ' + n['date'] if n['date'] else ''})" if n["source"] else ""
+            lines.append(f"• <a href=\"{n['link']}\">{esc(n['title'])}</a>{meta}")
+        send_telegram(
+            "📰 <b>적금 뉴스 레이더</b> 🐶 킁킁, 새 소식이에요!\n\n" + "\n".join(lines)
+            + f"\n\n아직 공시에 반영 전인 상품일 수 있어요 · 🌐 {site_url}"
+        )
+        print(f"뉴스 속보 {len(fresh)}건 발송")
+    elif fresh:
+        print(f"뉴스 기준선 저장 {len(fresh)}건 (첫 수집, 알림 생략)")
+
+
 def load_prev():
     try:
         with open(DATA_PATH, encoding="utf-8") as f:
@@ -169,8 +252,10 @@ def telegram_message_for_new(new_products, products, site_url):
     top5 = sorted(products, key=lambda x: -x["best_rate"])[:5]
     parts = [f"🆕 <b>신규 적금 {len(new_products)}건 등록!</b>"]
     for p in new_products[:10]:
+        dm = p.get("dcls_month") or ""
+        dm_txt = f" · {dm[:4]}년 {int(dm[4:6])}월 공시분" if len(dm) == 6 else ""
         parts.append(
-            f"\n🏦 <b>{esc(p['bank'])} — {esc(p['name'])}</b>\n"
+            f"\n🏦 <b>{esc(p['bank'])} — {esc(p['name'])}</b>{dm_txt}\n"
             f"📈 최고 연 <b>{p['best_rate']:.2f}%</b>"
             f" ({p['best_term']}개월, 기본 {p['best_base_rate']:.2f}%)\n"
             f"🎯 우대: {esc(p['spcl_cnd'][:90]) or '없음'}\n"
@@ -243,6 +328,7 @@ def main():
         "new_badge_days": NEW_BADGE_DAYS,
         "products": products,
     }
+    update_news(prev, data, site_url)
     os.makedirs(os.path.dirname(DATA_PATH), exist_ok=True)
     with open(DATA_PATH, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=1)

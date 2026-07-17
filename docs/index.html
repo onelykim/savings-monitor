@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>적금레이더 🛰️: 적금찾는 흰둥이! — 은행권 적금 실시간 비교</title>
+<title>적금레이더 🛰️: 적금찾는 흰둥이! 🐶</title>
 <meta name="description" content="국내 시중은행·인터넷은행 적금 상품을 매시간 자동 수집해 비교합니다. 신규 상품 알림 제공.">
 <style>
 :root{
@@ -73,6 +73,13 @@ h2{font-size:17px;margin:0 0 12px}
 .toggle{display:flex;align-items:center;gap:6px;font-size:14px;color:var(--ink-2);
   border:1px solid var(--axis);border-radius:8px;padding:6px 10px;cursor:pointer;user-select:none}
 .toggle input{accent-color:var(--series-1)}
+/* 뉴스 */
+.news-list{list-style:none;margin:0;padding:0}
+.news-list li{padding:8px 0;border-bottom:1px solid var(--grid);font-size:14.5px}
+.news-list li:last-child{border-bottom:0}
+.news-list a{color:var(--ink-1);text-decoration:none;font-weight:600}
+.news-list a:hover{color:var(--series-1)}
+.news-list .src{color:var(--ink-3);font-size:12.5px;margin-left:6px;white-space:nowrap}
 /* 비교 기능 */
 .cmp-bar{position:sticky;bottom:12px;z-index:5;display:none;margin-top:14px;
   background:var(--ink-1);color:var(--page);border-radius:12px;padding:10px 16px;
@@ -142,6 +149,12 @@ footer a{color:var(--ink-3)}
     <div class="new-grid" id="newGrid"></div>
   </section>
 
+  <section class="card" id="newsSection" style="display:none">
+    <h2>📰 최신 적금 뉴스</h2>
+    <ul class="news-list" id="newsList"></ul>
+    <p class="chart-note">구글 뉴스에서 매시간 수집한 신상품·특판 소식 — 아직 아래 공시 목록에 반영 전인 상품일 수 있어요.</p>
+  </section>
+
   <section class="card">
     <h2>🏆 최고우대금리 TOP 10</h2>
     <div class="chart" id="chart"></div>
@@ -156,7 +169,7 @@ footer a{color:var(--ink-3)}
 
   <section class="card">
     <h2>전체 상품 비교표</h2>
-    <p class="count-note" style="margin:0 0 10px">체크박스로 상품을 골라(최대 3개) 나란히 비교할 수 있어요.✅ </p>
+    <p class="count-note" style="margin:0 0 10px">체크박스로 상품을 골라(최대 3개) 나란히 비교할 수 있어요.</p>
     <div class="filters">
       <input type="search" id="q" placeholder="은행·상품명 검색">
       <select id="bankSel"><option value="">모든 은행</option></select>
@@ -313,6 +326,14 @@ function renderTable(){
   window._rows=rows;
 }
 
+function renderNews(){
+  const ns=DATA.news||[];
+  if(!ns.length) return;
+  $("#newsSection").style.display="";
+  $("#newsList").innerHTML=ns.slice(0,8).map(n=>
+    `<li><a href="${n.link}" target="_blank" rel="noopener">${esc(n.title)}</a>`+
+    `<span class="src">${esc(n.source||"")}${n.date?" · "+n.date:""}</span></li>`).join("");
+}
 function updateCmpBar(){
   $("#cmpBar").classList.toggle("on",selected.size>0);
   $("#cmpCount").textContent=`${selected.size}개 선택됨 (최대 3개)`;
@@ -378,10 +399,14 @@ async function init(){
   if(TG_CHANNEL){$("#tgLink").href="https://t.me/"+TG_CHANNEL;$("#tgLink").style.display="inline-block"}
   const ps=DATA.products||[];
   if(!ps.length){
-    $("#meta").textContent="⏳ 흰둥이가 첫 데이터 수집 전입니다. 인증키 승인 후 자동으로 채워집니다.";
+    $("#meta").textContent="⏳ 아직 첫 데이터 수집 전입니다. 인증키 승인 후 자동으로 채워집니다.";
     return;
   }
-  $("#meta").textContent=`마지막 갱신: ${DATA.updated_at} (KST) · 매시간 자동 갱신 · 출처: 금융감독원 공시`;
+  const months=ps.map(p=>p.dcls_month).filter(Boolean).sort();
+  const dm=months[months.length-1]||"";
+  const dmTxt=dm.length===6?` · 상품정보는 ${dm.slice(0,4)}년 ${+dm.slice(4,6)}월 공시분(월 단위 갱신)`:"";
+  $("#meta").textContent=`마지막 확인: ${DATA.updated_at} (KST)${dmTxt} · 출처: 금융감독원 공시`;
+  renderNews();
   const banks=[...new Set(ps.map(p=>p.bank))].sort((a,b)=>a.localeCompare(b,"ko"));
   $("#bankSel").innerHTML='<option value="">모든 은행</option>'+banks.map(b=>`<option>${esc(b)}</option>`).join("");
   renderTiles(ps); renderNew(ps); renderChart(ps); renderTable();
