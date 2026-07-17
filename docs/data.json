@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-18 04:22",
+ "updated_at": "2026-07-18 06:03",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2520,6 +2520,12 @@
  ],
  "news": [
   {
+   "title": "하나은행, '하나 만보기 적금' 출시…최대 4.5% 금리 - 네이트",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE44VVd5UVptWnNVNGtFQzRBSkVWUHYyODdCTXI2OHpHMlNqRnNjN0VKaTMtXzBqOVBqY2NIWXRGWE1VRVEwNGx3NkJJdnRwOGZ0a0FSZFRCMmlTWjk0RF9WMS13anhFN3k2cjhXNzJ3?oc=5",
+   "source": "네이트",
+   "date": "2026-07-15"
+  },
+  {
    "title": "토스, 하나은행과 ‘하나 만보기 적금’ 출시… 걸음 수 따라 최고 연 4.5% 금리 - 디지틀조선일보",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAwS0hMVU50aWZxb1FMYkNqV1JqNVJTZDFDQl8wcVVpTHJJRXJBZUhTSW1EbWtLVVhULWxYWEVqSk5GcHR0Q2VtMHRBX1NaZzloZ2JsUDVidGN5cjFZYy1reHRjRlhQMWV6X1Y0SWdQTE5oS05ObzZuYTBiQdIBe0FVX3lxTFAwS0hMVU50aWZxb1FMYkNqV1JqNVJTZDFDQl8wcVVpTHJJRXJBZUhTSW1EbWtLVVhULWxYWEVqSk5GcHR0Q2VtMHRBX1NaZzloZ2JsUDVidGN5cjFZYy1reHRjRlhQMWV6X1Y0SWdQTE5oS05ObzZuYTBiQQ?oc=5",
    "source": "디지틀조선일보",
@@ -2583,12 +2589,6 @@
    "title": "100일간 60만보 걸으면 연 4.5%…하나은행 ‘만보기 적금’ 출시 - 지이코노미",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kbTZlUm01azBxa1hzZnRnSFhnS2FnbGtqY3FKY3I2VzUteG9XT2lSd3J3TDlFVDNuYVZLT1hWNFc0b3NvSWxoNFVlY3pqdlM3ZEpRUEVTME5NM1VfSUJ6WXJuYWs4ZDA?oc=5",
    "source": "지이코노미",
-   "date": "2026-07-15"
-  },
-  {
-   "title": "[뉴스워커_하나은행] 걷기 연계 적금 출시…최고 연 4.5% 금리 - 뉴스워커",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4dWhkaDBxMmVBbXhiTWlsWTVlUHNzelVWMFM3OFdsQUYyWDlpY0RCb241NlRiZ00xMzlFM18wSkUyZExxbEFkLURaNVQzWGRtbTlFNHh6N0VyLTMxVVk3cjNqV0V2bDBnNUlZbXZMM1bSAXNBVV95cUxQM2xYTWZEUlpLMUU4cVJLWG9hTDZNV0Z6Sk05QklqeGJ5amU3dEthYUpWVHJ0ZWlKTHJqNTF2S3NOQmVZUl9YaTBvb1c2RXlvSzc1aW1pbFFuU29wZ0tKaW9rNS1hSS1hQkNVemhxenZXdk9F?oc=5",
-   "source": "뉴스워커",
    "date": "2026-07-15"
   }
  ],
@@ -2704,7 +2704,8 @@
   "9cc02d984947a40c",
   "200bea329972eb31",
   "1b1f9185af8de597",
-  "a0f90e352d6e5ed2"
+  "a0f90e352d6e5ed2",
+  "c352c3386ec77c9d"
  ],
  "news_seeded": true,
  "news_products": [
@@ -2714,7 +2715,7 @@
    "norm": "만보기적금",
    "rate": 4.5,
    "first_news": "2026-07-15",
-   "count": 29,
+   "count": 30,
    "articles": [
     {
      "title": "하나은행 ‘만보기적금’ 출시…걸음수 따라 우대금리 최고 연 4.5%",
