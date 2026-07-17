@@ -198,8 +198,13 @@ def main():
     except ApiError as e:
         if e.code == "010":
             print("인증키가 아직 승인되지 않았습니다(미등록 인증키). 다음 실행에서 재시도합니다.")
-            sys.exit(0)
-        raise
+        else:
+            print(f"금감원 API 오류: {e} — 일시적일 수 있으니 다음 실행에서 재시도합니다.")
+        sys.exit(0)
+    except Exception as e:  # noqa: BLE001
+        # 심야 점검·순간 장애 등 일시적 문제: 실패로 표시하지 않고 다음 시간에 재시도
+        print(f"수집 실패(일시적 장애 가능): {e} — 다음 실행에서 재시도합니다.")
+        sys.exit(0)
 
     prev = load_prev()
     prev_products = {p["key"]: p for p in prev.get("products", [])}
