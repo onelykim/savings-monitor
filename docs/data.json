@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-17 20:35",
+ "updated_at": "2026-07-17 22:56",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2520,6 +2520,12 @@
  ],
  "news": [
   {
+   "title": "하나은행·토스, 걷기 맞춤형 '하나 만보기 적금' 출시 - 포인트데일리",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TMUZSN0tRaERmZW9NUXVPMlN6NFU5MDVUdFJSLS13UWlIdHAyTHhEQ1VXQ0pHQmdHQlZEcTBfajd1VWJGcXp2S2F5X0lQV2VvZVRaeXUyUC1ra2I4SFZMc2VQMmVMLU1OODRYV1JHUEHSAXRBVV95cUxQLXhnU0dTdlFVVzM4VzlqZ0Jqb08zTThNUWF0YkNKckRGX3ZfVHpUOHdjSllfNG5EM1NhOG1ZVldfNFl6MzJ4T2RyekhMcW5uYXhIV0lOUGNHRDhPWXEzc3hRcDlobFdoSUM5YXZSb05ad1N4cg?oc=5",
+   "source": "포인트데일리",
+   "date": "2026-07-15"
+  },
+  {
    "title": "하나은행 ‘만보기적금’ 출시…걸음수 따라 우대금리 최고 연 4.5%",
    "link": "https://www.inthenews.co.kr/news/article.html?no=89401",
    "source": "네이버뉴스",
@@ -2584,12 +2590,6 @@
    "link": "https://it.chosun.com/news/articleView.html?idxno=2023092165573",
    "source": "네이버뉴스",
    "date": "2026-07-11"
-  },
-  {
-   "title": "[은행 뉴스브리핑] 우리은행 최고 연 13% '두근두근 행운적금' 재출시",
-   "link": "https://www.asiatime.co.kr/article/20260709500407",
-   "source": "네이버뉴스",
-   "date": "2026-07-09"
   }
  ],
  "news_seen": [
@@ -2689,7 +2689,8 @@
   "5a6dafd59ce89236",
   "bb8fdd5722c38541",
   "0de7bfadee4247ae",
-  "646a709324f0639c"
+  "646a709324f0639c",
+  "efd2ee5cdeae3db5"
  ],
  "news_seeded": true,
  "news_products": [
@@ -2699,7 +2700,7 @@
    "norm": "만보기적금",
    "rate": 4.5,
    "first_news": "2026-07-15",
-   "count": 16,
+   "count": 17,
    "articles": [
     {
      "title": "하나은행 ‘만보기적금’ 출시…걸음수 따라 우대금리 최고 연 4.5%",
