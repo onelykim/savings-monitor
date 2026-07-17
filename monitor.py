@@ -278,6 +278,7 @@ def main():
         sys.exit(1)
 
     now = datetime.now(KST)
+    products = None
     try:
         products = fetch_all_products(auth_key)
     except ApiError as e:
@@ -285,10 +286,21 @@ def main():
             print("인증키가 아직 승인되지 않았습니다(미등록 인증키). 다음 실행에서 재시도합니다.")
         else:
             print(f"금감원 API 오류: {e} — 일시적일 수 있으니 다음 실행에서 재시도합니다.")
-        sys.exit(0)
     except Exception as e:  # noqa: BLE001
         # 심야 점검·순간 장애 등 일시적 문제: 실패로 표시하지 않고 다음 시간에 재시도
         print(f"수집 실패(일시적 장애 가능): {e} — 다음 실행에서 재시도합니다.")
+
+    if products is None:
+        # 금감원 API가 죽어 있어도 뉴스 레이더는 독립적으로 계속 돈다
+        prev = load_prev()
+        if not prev.get("products"):
+            sys.exit(0)  # 아직 기준선도 없으면 할 일 없음
+        data = dict(prev)  # 상품 데이터는 마지막 성공본 유지 (updated_at 포함)
+        update_news(prev, data, os.environ.get("SITE_URL", "").strip() or "")
+        os.makedirs(os.path.dirname(DATA_PATH), exist_ok=True)
+        with open(DATA_PATH, "w", encoding="utf-8") as f:
+            json.dump(data, f, ensure_ascii=False, indent=1)
+        print("상품 수집은 건너뛰고 뉴스만 갱신했습니다.")
         sys.exit(0)
 
     prev = load_prev()
