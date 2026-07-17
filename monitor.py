@@ -112,9 +112,149 @@ class ApiError(Exception):
 NEWS_QUERIES = ['"적금" 출시 when:3d', '적금 특판 when:3d']
 NEWS_TITLE_KEYWORDS = ("출시", "특판", "신상", "선보", "내놓", "새로")
 
+# 기사 제목에서 은행명을 찾기 위한 별칭 사전 (별칭 → 표준명)
+BANK_ALIASES = [
+    ("KB국민은행", "국민은행"), ("국민은행", "국민은행"), ("국민銀", "국민은행"), ("KB", "국민은행"),
+    ("신한은행", "신한은행"), ("신한銀", "신한은행"),
+    ("하나은행", "하나은행"), ("하나銀", "하나은행"),
+    ("우리은행", "우리은행"), ("우리銀", "우리은행"),
+    ("NH농협은행", "NH농협은행"), ("농협은행", "NH농협은행"), ("농협銀", "NH농협은행"),
+    ("IBK기업은행", "IBK기업은행"), ("기업은행", "IBK기업은행"),
+    ("카카오뱅크", "카카오뱅크"), ("카뱅", "카카오뱅크"),
+    ("케이뱅크", "케이뱅크"), ("토스뱅크", "토스뱅크"),
+    ("SC제일은행", "SC제일은행"), ("씨티은행", "한국씨티은행"),
+    ("iM뱅크", "iM뱅크"), ("대구은행", "iM뱅크"),
+    ("부산은행", "부산은행"), ("경남은행", "경남은행"), ("광주은행", "광주은행"),
+    ("전북은행", "전북은행"), ("제주은행", "제주은행"), ("수협은행", "수협은행"),
+]
+
+
+def norm_name(s):
+    """상품명 비교용 정규화: 공백·따옴표 제거."""
+    import re
+    return re.sub(r"[\s'\"‘’“”「」]", "", s or "")
+
+
+def extract_news_product(title):
+    """기사 제목에서 (은행 표준명, 상품명, 최고금리)를 추출. 실패 항목은 None."""
+    import re
+    bank = None
+    for alias, canonical in BANK_ALIASES:
+        if alias in title:
+            bank = canonical
+            break
+    # 금리: '연 4.5%' 우선, 없으면 12% 이하의 일반 % 값
+    rate = None
+    m = re.findall(r"연\s*(\d+(?:\.\d+)?)\s*%", title)
+    if not m:
+        m = [x for x in re.findall(r"(\d+(?:\.\d+)?)\s*%", title) if float(x) <= 12]
+    if m:
+        rate = max(float(x) for x in m)
+    # 상품명: 따옴표 안에 '적금/예금'이 들어간 구절
+    name = None
+    for span in re.findall(r"['‘\"“「]([^'’\"”」]{2,30})['’\"”」]", title):
+        if "적금" in span or "예금" in span:
+            name = span.strip()
+            break
+    if not name:
+        # 따옴표 없는 경우: '○○적금' 형태의 고유명사 토큰 (일반 명사는 제외)
+        generic = {"적금", "예적금", "정기적금", "자유적립적금", "특판적금", "전용적금", "신상적금"}
+        for tok in re.findall(r"([가-힣A-Za-z0-9]{2,15}적금)", title.replace("·", "")):
+            if tok not in generic and not tok.endswith(("의적금", "인적금", "는적금")):
+                name = tok
+                break
+    return bank, name, rate
+
+
+def cluster_news_products(prev_clusters, articles, fresh_links, products):
+    """기사들을 상품 단위로 묶는다. 반환: (클러스터 목록, 새로 생긴 클러스터들)"""
+    clusters = [dict(c) for c in (prev_clusters or [])]
+    new_clusters = []
+    prod_norms = [(norm_name(p["bank"] + p["name"]), norm_name(p["name"])) for p in products]
+
+    for a in articles:
+        bank, name, rate = extract_news_product(a["title"])
+        if not bank:
+            continue
+        nn = norm_name(name) if name else None
+        target = None
+        for c in clusters:
+            if c["bank"] != bank:
+                continue
+            if nn and (nn in c["norm"] or c["norm"] in nn):
+                target = c
+                break
+            if not nn and rate and c.get("rate") == rate:
+                target = c  # 상품명 없는 기사는 은행+금리로 기존 클러스터에 붙임
+                break
+        if target is None:
+            if not nn:
+                continue  # 은행만 있고 상품명·매칭 단서가 없으면 클러스터 안 만듦
+            target = {"bank": bank, "name": name, "norm": nn, "rate": rate,
+                      "first_news": a["date"] or "", "count": 0, "articles": [],
+                      "in_disclosure": False}
+            clusters.append(target)
+            if a["link"] in fresh_links:
+                new_clusters.append(target)
+        target["count"] += 1
+        if rate and (not target.get("rate") or rate > target["rate"]):
+            target["rate"] = rate
+        if a["date"] and (not target["first_news"] or a["date"] < target["first_news"]):
+            target["first_news"] = a["date"]
+        if len(target["articles"]) < 4 and a["link"] not in [x["link"] for x in target["articles"]]:
+            target["articles"].append({"title": a["title"], "link": a["link"],
+                                       "source": a["source"], "date": a["date"]})
+
+    # 공시 목록에 이미 반영됐는지 매칭 (이름 포함 관계)
+    for c in clusters:
+        c["in_disclosure"] = any(
+            c["norm"] in pn or pn in c["norm"] or c["norm"] in bn
+            for bn, pn in prod_norms if pn
+        )
+    # 오래된 클러스터 정리 (기사 30일 지난 것, 최대 20개)
+    clusters.sort(key=lambda c: c.get("first_news") or "", reverse=True)
+    return clusters[:20], new_clusters
+
+
+def fetch_news_naver():
+    """네이버 뉴스 검색 API (키가 설정된 경우에만). 국내 매체 커버리지 보강."""
+    import re
+    from email.utils import parsedate_to_datetime
+    cid = os.environ.get("NAVER_CLIENT_ID", "").strip()
+    sec = os.environ.get("NAVER_CLIENT_SECRET", "").strip()
+    if not cid or not sec:
+        return []
+    items = []
+    for q in ("적금 출시", "적금 특판"):
+        url = ("https://openapi.naver.com/v1/search/news.json?query="
+               + urllib.parse.quote(q) + "&display=30&sort=date")
+        try:
+            req = urllib.request.Request(url, headers={
+                "X-Naver-Client-Id": cid, "X-Naver-Client-Secret": sec})
+            with urllib.request.urlopen(req, timeout=30) as r:
+                res = json.loads(r.read().decode())
+        except Exception as e:  # noqa: BLE001
+            print(f"네이버 뉴스 수집 실패({q}): {e}")
+            continue
+        for it in res.get("items", []):
+            title = re.sub(r"<[^>]+>", "", it.get("title", ""))
+            title = (title.replace("&quot;", '"').replace("&amp;", "&")
+                     .replace("&lt;", "<").replace("&gt;", ">").replace("&apos;", "'").strip())
+            link = (it.get("originallink") or it.get("link") or "").strip()
+            if not title or not link or "적금" not in title:
+                continue
+            if not any(k in title for k in NEWS_TITLE_KEYWORDS):
+                continue
+            try:
+                date = parsedate_to_datetime(it.get("pubDate")).astimezone(KST).strftime("%Y-%m-%d")
+            except Exception:  # noqa: BLE001
+                date = ""
+            items.append({"title": title, "link": link, "source": "네이버뉴스", "date": date})
+    return items
+
 
 def fetch_news():
-    """구글 뉴스 RSS에서 적금 신상품·특판 기사를 수집한다."""
+    """구글 뉴스 RSS(+네이버 API)에서 적금 신상품·특판 기사를 수집한다."""
     import xml.etree.ElementTree as ET
     from email.utils import parsedate_to_datetime
 
@@ -145,6 +285,14 @@ def fetch_news():
                 date = ""
             seen_links.add(link)
             items.append({"title": title, "link": link, "source": source, "date": date})
+    # 네이버 API 결과 병합 (링크·제목 중복 제거)
+    seen_titles = {norm_name(i["title"]) for i in items}
+    for n in fetch_news_naver():
+        if n["link"] in seen_links or norm_name(n["title"]) in seen_titles:
+            continue
+        seen_links.add(n["link"])
+        seen_titles.add(norm_name(n["title"]))
+        items.append(n)
     items.sort(key=lambda n: n["date"], reverse=True)
     return items
 
@@ -175,19 +323,46 @@ def update_news(prev, data, site_url):
     data["news_seen"] = seen[-800:]
     data["news_seeded"] = True
 
+    # ── 상품 단위 클러스터링 ──
+    products = data.get("products") or []
+    cluster_migrating = "news_products" not in prev
+    fresh_links = set() if cluster_migrating else {n["link"] for n in fresh}
+    cluster_input = (fresh + (prev.get("news") or [])) if cluster_migrating else fresh
+    clusters, new_clusters = cluster_news_products(
+        prev.get("news_products"), cluster_input, fresh_links, products)
+    data["news_products"] = clusters
+    if cluster_migrating and clusters:
+        print(f"뉴스 상품 클러스터 초기화: {len(clusters)}개 (알림 생략)")
+
     if not fetched and not prev.get("news"):
         print("뉴스 레이더: 수집 결과 없음 (RSS 접근 실패 시 로그 확인)")
-    if fresh and seeded:
-        lines = []
-        for n in fresh[:5]:
-            meta = f" ({esc(n['source'])}{', ' + n['date'] if n['date'] else ''})" if n["source"] else ""
-            lines.append(f"• <a href=\"{n['link']}\">{esc(n['title'])}</a>{meta}")
-        send_telegram(
-            "📰 <b>적금 뉴스 레이더</b> 🐶 킁킁, 새 소식이에요!\n\n" + "\n".join(lines)
-            + f"\n\n아직 공시에 반영 전인 상품일 수 있어요 · 🌐 {site_url}"
-        )
-        print(f"뉴스 속보 {len(fresh)}건 발송")
-    elif fresh:
+
+    if seeded and new_clusters:
+        # 새로 감지된 '상품' 단위 알림 (같은 상품 기사 여러 건 = 알림 1건)
+        for c in new_clusters[:3]:
+            rate_txt = f"\n📈 기사 기준 최고 <b>연 {c['rate']:.2f}%</b>" if c.get("rate") else ""
+            links = "\n".join(
+                f"• <a href=\"{a['link']}\">{esc(a['title'][:70])}</a>" for a in c["articles"][:3])
+            dis = "\n✅ 금감원 공시에도 등록된 상품이에요." if c["in_disclosure"] else \
+                  "\n⏳ 아직 금감원 공시 반영 전 — 정확한 조건은 기사·은행 앱에서 확인!"
+            send_telegram(
+                f"📰🆕 <b>뉴스에서 신상품 감지!</b> 🐶\n"
+                f"🏦 <b>{esc(c['bank'])} — {esc(c['name'])}</b>{rate_txt}\n"
+                f"🗞️ 관련 기사 {c['count']}건 (첫 보도 {c['first_news'] or '오늘'})\n"
+                f"{links}{dis}\n🌐 {site_url}"
+            )
+        print(f"뉴스 신상품 알림 {len(new_clusters[:3])}건 발송")
+
+    # 클러스터에 못 묶인 새 기사(은행명 미확인)는 간단 속보로
+    clustered_links = {a["link"] for c in clusters for a in c["articles"]}
+    loose = [n for n in fresh if n["link"] not in clustered_links
+             and extract_news_product(n["title"])[0] is None]
+    if seeded and loose and not cluster_migrating:
+        lines = [f"• <a href=\"{n['link']}\">{esc(n['title'][:70])}</a>" for n in loose[:3]]
+        send_telegram("📰 <b>적금 뉴스 레이더</b> 🐶\n" + "\n".join(lines)
+                      + f"\n\n🌐 {site_url}")
+        print(f"기타 뉴스 속보 {len(loose[:3])}건 발송")
+    elif fresh and not seeded:
         print(f"뉴스 기준선 저장 {len(fresh)}건 (첫 수집, 알림 생략)")
 
 
@@ -278,6 +453,7 @@ def main():
         sys.exit(1)
 
     now = datetime.now(KST)
+    products = None
     try:
         products = fetch_all_products(auth_key)
     except ApiError as e:
@@ -285,10 +461,21 @@ def main():
             print("인증키가 아직 승인되지 않았습니다(미등록 인증키). 다음 실행에서 재시도합니다.")
         else:
             print(f"금감원 API 오류: {e} — 일시적일 수 있으니 다음 실행에서 재시도합니다.")
-        sys.exit(0)
     except Exception as e:  # noqa: BLE001
         # 심야 점검·순간 장애 등 일시적 문제: 실패로 표시하지 않고 다음 시간에 재시도
         print(f"수집 실패(일시적 장애 가능): {e} — 다음 실행에서 재시도합니다.")
+
+    if products is None:
+        # 금감원 API가 죽어 있어도 뉴스 레이더는 독립적으로 계속 돈다
+        prev = load_prev()
+        if not prev.get("products"):
+            sys.exit(0)  # 아직 기준선도 없으면 할 일 없음
+        data = dict(prev)  # 상품 데이터는 마지막 성공본 유지 (updated_at 포함)
+        update_news(prev, data, os.environ.get("SITE_URL", "").strip() or "")
+        os.makedirs(os.path.dirname(DATA_PATH), exist_ok=True)
+        with open(DATA_PATH, "w", encoding="utf-8") as f:
+            json.dump(data, f, ensure_ascii=False, indent=1)
+        print("상품 수집은 건너뛰고 뉴스만 갱신했습니다.")
         sys.exit(0)
 
     prev = load_prev()
