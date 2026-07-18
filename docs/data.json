@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-18 19:25",
+ "updated_at": "2026-07-18 20:59",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2521,6 +2521,12 @@
  "news": [
   {
    "title": "군산원협, 100억 규모 예·적금 특판... 예금 최대 3.5%·적금 5.0% - 전민일보",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3enhyQXItYXRSWjN4MGNQUlRQR2xPZm0wV0lIZ251ckRBNFVwQWluY0hkaFJucGE3ZGF3aGhlN0dVZmctZEtHU3BGV3VGNTdDRWFmZzNRQ3JGb2xrMGtVZUtFUEsybWRLb0tGbg?oc=5",
+   "source": "전민일보",
+   "date": "2026-07-18"
+  },
+  {
+   "title": "군산원협, 100억 규모 예·적금 특판... 예금 최대 3.5%·적금 5.0% - 전민일보",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1wU0NQV1NRbV80eWM4WWswa0RVbklURU5SRUhMVnhuRGtXUWVOa2RhVXloS3JYcW5ILXlVakZrOENqTUllZ1FPdnBBVHdpZTEzWkNLT2lEeEZiWkIwQmVsWlRoNElmXy1mcFEw?oc=5",
    "source": "전민일보",
    "date": "2026-07-18"
@@ -2583,12 +2589,6 @@
    "title": "하나은행, '하나 만보기 적금' 출시…최대 4.5% 금리 - 네이트",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE44VVd5UVptWnNVNGtFQzRBSkVWUHYyODdCTXI2OHpHMlNqRnNjN0VKaTMtXzBqOVBqY2NIWXRGWE1VRVEwNGx3NkJJdnRwOGZ0a0FSZFRCMmlTWjk0RF9WMS13anhFN3k2cjhXNzJ3?oc=5",
    "source": "네이트",
-   "date": "2026-07-15"
-  },
-  {
-   "title": "토스, 하나은행과 ‘하나 만보기 적금’ 출시… 걸음 수 따라 최고 연 4.5% 금리 - 디지틀조선일보",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAwS0hMVU50aWZxb1FMYkNqV1JqNVJTZDFDQl8wcVVpTHJJRXJBZUhTSW1EbWtLVVhULWxYWEVqSk5GcHR0Q2VtMHRBX1NaZzloZ2JsUDVidGN5cjFZYy1reHRjRlhQMWV6X1Y0SWdQTE5oS05ObzZuYTBiQdIBe0FVX3lxTFAwS0hMVU50aWZxb1FMYkNqV1JqNVJTZDFDQl8wcVVpTHJJRXJBZUhTSW1EbWtLVVhULWxYWEVqSk5GcHR0Q2VtMHRBX1NaZzloZ2JsUDVidGN5cjFZYy1reHRjRlhQMWV6X1Y0SWdQTE5oS05ObzZuYTBiQQ?oc=5",
-   "source": "디지틀조선일보",
    "date": "2026-07-15"
   }
  ],
@@ -2715,7 +2715,8 @@
   "7038d2b271e3a2e1",
   "ff742f7608dccfef",
   "6c7d9aa311e1f2d4",
-  "56fe124db80d3950"
+  "56fe124db80d3950",
+  "12e47545556ebb16"
  ],
  "news_seeded": true,
  "news_products": [
