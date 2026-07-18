@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-18 17:54",
+ "updated_at": "2026-07-18 19:25",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2520,6 +2520,18 @@
  ],
  "news": [
   {
+   "title": "군산원협, 100억 규모 예·적금 특판... 예금 최대 3.5%·적금 5.0% - 전민일보",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1wU0NQV1NRbV80eWM4WWswa0RVbklURU5SRUhMVnhuRGtXUWVOa2RhVXloS3JYcW5ILXlVakZrOENqTUllZ1FPdnBBVHdpZTEzWkNLT2lEeEZiWkIwQmVsWlRoNElmXy1mcFEw?oc=5",
+   "source": "전민일보",
+   "date": "2026-07-18"
+  },
+  {
+   "title": "군산원협, 100억 규모 예·적금 특판... 예금 최대 3.5%·적금 5.0%",
+   "link": "http://www.jeonmin.co.kr/news/articleView.html?idxno=443528",
+   "source": "네이버뉴스",
+   "date": "2026-07-18"
+  },
+  {
    "title": "하나은행, ‘만보기 적금’ 출시 - 주간한국",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE95YVNCX0RUd3VEbkNEU0pwdHZZWHBLelVzRzZnUXUwY3Q0bjRRQkdYWXN5ZkNVazdYOTNtWXZYTjl4YkIzQ0dFUlF3aXNlQldmdERTRnlRcFA3Z0xKblAyY2EwaEtkbGtib2RlQURTUUFBaWtQ0gF0QVVfeXFMT3lhU0JfRFR3dURuQ0RTSnB0dllYcEt6VXNHNmdRdTBjdDRuNFFCR1hZc3lmQ1VrN1g5M21ZdlhOOXhiQjNDR0VSUXdpc2VCV2Z0RFNGeVFwUDdnTEpuUDJjYTBoS2Rsa2JvZGVBRFNRQUFpa1A?oc=5",
    "source": "주간한국",
@@ -2577,18 +2589,6 @@
    "title": "토스, 하나은행과 ‘하나 만보기 적금’ 출시… 걸음 수 따라 최고 연 4.5% 금리 - 디지틀조선일보",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAwS0hMVU50aWZxb1FMYkNqV1JqNVJTZDFDQl8wcVVpTHJJRXJBZUhTSW1EbWtLVVhULWxYWEVqSk5GcHR0Q2VtMHRBX1NaZzloZ2JsUDVidGN5cjFZYy1reHRjRlhQMWV6X1Y0SWdQTE5oS05ObzZuYTBiQdIBe0FVX3lxTFAwS0hMVU50aWZxb1FMYkNqV1JqNVJTZDFDQl8wcVVpTHJJRXJBZUhTSW1EbWtLVVhULWxYWEVqSk5GcHR0Q2VtMHRBX1NaZzloZ2JsUDVidGN5cjFZYy1reHRjRlhQMWV6X1Y0SWdQTE5oS05ObzZuYTBiQQ?oc=5",
    "source": "디지틀조선일보",
-   "date": "2026-07-15"
-  },
-  {
-   "title": "하나은행, 걷기와 금융 혜택 결합 '하나 만보기 적금' 출시 \"걸을수록 금리가 올라요\" - Queen 이코노미퀸",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOS0NRYkV4ck5MaTBzcHNQT2hMeGJLMFNlY1hTaDg0aktFeXBUZ1J5ejNtYU1rMGdvLW11UWp6Zll4bmVNQ1Q1YUkwOElXcXZsZVRCNEMzakNEOWNxMXhNX0RSalpCaWJZS3N5Z2o1RFJNM1U2ajlCZFlILTFiNGp0b2FCNG9LSENvVnBrYnZkekI?oc=5",
-   "source": "Queen 이코노미퀸",
-   "date": "2026-07-15"
-  },
-  {
-   "title": "목표액 직접 설계…다올저축은행. 'Fi 시드머니 적금' 출시 - 네이트",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwOXZMNWx0YnFRSmhIakY0SXZjRml5b3Q3RWctMXVyRkNxRm14ZTZKdEhjdExlT3ppaXhnNEFlT0h1bzNNNWRpMU1JRW9uTjVQd1FF?oc=5",
-   "source": "네이트",
    "date": "2026-07-15"
   }
  ],
@@ -2713,7 +2713,9 @@
   "d7d1ce7a1a197701",
   "f6bca3ed0e7fb2c8",
   "7038d2b271e3a2e1",
-  "ff742f7608dccfef"
+  "ff742f7608dccfef",
+  "6c7d9aa311e1f2d4",
+  "56fe124db80d3950"
  ],
  "news_seeded": true,
  "news_products": [
