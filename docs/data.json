@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-19 09:00",
+ "updated_at": "2026-07-19 12:40",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2520,6 +2520,18 @@
  ],
  "news": [
   {
+   "title": "군산원협, 100억 예적금 특판...\"지역경제 활성화\" - 한스경제",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5RcXYtR2UyV2l6QXd5NGxvNFFvcS16YmpxODZKZ29NUlFMcUxlMmNodDE3a1RZV1NTbzdCQXNTSmNCN2hOQURvcm1BYVJMNU1ZMXc3UktXWEtCX0VUcVhWU1l4WjREOXU1bVc0?oc=5",
+   "source": "한스경제",
+   "date": "2026-07-19"
+  },
+  {
+   "title": "군산원협, 100억 예적금 특판...\"지역경제 활성화\"",
+   "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=850981",
+   "source": "네이버뉴스",
+   "date": "2026-07-19"
+  },
+  {
    "title": "군산원예농협, 연 3.5~5.0% 예·적금 특판…총 100억 한도 - MSN",
    "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOZ1EwZUR0WXlqYWRvMGUwQXo3eTZ0Y2hzS1pVZUk2dEtHRDRrZTVkUTQ2YjNHS2hqUHM3TjFyVFYyV2dUdHVHODZMX1Z0dkZzYVgzcHFNUnpHQi1VVzBONHNKM3dWSi1rZ3I4UkJpeko1X3ZneElEX0VxX2FQX1d4Tmt2V0d3ajFuOUt0Z244Y01jblB2MnFqeG42UEREVmlrV1gwdExVRnFrbzNUVDBLYzA4amVzYTdpcUNFVThYSmk2QW8wNzV2WWsxRmhaUmdYSzJjRVlyNGp6empoV1dYZ2N5SHRFTmhISklFTWpUb19SeXhNaWtJdURsSVhObTFTQUdFM1ZKZkFuMUpTSlpQdVhiSFJUamsza3hMcjRvOC00X2tOV2w3YktfbWthbkpkempiNENPRHBMVk5nRWhIanpmSE9NQlVj?oc=5",
    "source": "MSN",
@@ -2578,18 +2590,6 @@
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfMFdGb3dLdmpVQXRBLWliTHpDdUxjbEF3SjJucm8wYk5tLUZvdFBhOVM2OUlyN1JQVDZXc0pBVXdjV1FDR3lSWnUtaERuRXRLa09yOUlfRkhkMmdhcnd2bTJHUl9aUGFBc3c?oc=5",
    "source": "파이낸셜리더스",
    "date": "2026-07-16"
-  },
-  {
-   "title": "토스, 하나은행과 '하나 만보기 적금' 출시...최대 연 4.5% - 컨슈머타임스",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YODU5LWxSYjFnN3B5Y3dvUG5YZk9WaWpEVkNyUE91OVBBT0J5aDdTSVVJVng0Z2hhOEpoT2tET3luM2pXMlJZc2o1VTNFTFV5c3JKNVZ5TFpnX0x5OXJGMnlxS19pQXgxMUE?oc=5",
-   "source": "컨슈머타임스",
-   "date": "2026-07-15"
-  },
-  {
-   "title": "하나은행, 토스 사용자 위한 ‘하나 만보기 적금’ 출시 - 내외경제TV",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE51dWNoXzFMeHZ2bWxHb08xazR6Ui1lb05wMDhfVXM5d3pDSDVTa1lHRXV1SThvUFRPU2t4ZXl1emV0UjAwMF9ndkc2dnRJRXBZVXROd2VaOFZFa2hQNEhhRXVWWG5jVnJiNTRz?oc=5",
-   "source": "내외경제TV",
-   "date": "2026-07-15"
   }
  ],
  "news_seen": [
@@ -2718,7 +2718,9 @@
   "56fe124db80d3950",
   "12e47545556ebb16",
   "7da137ab1f3a3b35",
-  "271c092805b5f195"
+  "271c092805b5f195",
+  "ee371bafdee30f7d",
+  "42ea8b276546ef35"
  ],
  "news_seeded": true,
  "news_products": [
