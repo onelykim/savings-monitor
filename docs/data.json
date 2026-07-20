@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-20 09:04",
+ "updated_at": "2026-07-20 12:56",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2520,6 +2520,30 @@
  ],
  "news": [
   {
+   "title": "제주은행, 최고 연 6.0% 금리 제공 '퍼스트 적금' 출시 - 제주도민일보",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yOF9BaE1FZjJoMXdjdzRhcmVFVDFJWl9Pb2xmWVRrdExJcXJtNUxJTDUwY3JiSzB6d3ZtSlBuZ3h1emlEaWpLRkhpUWZCeG9lV1NseE1JMTdQekhkM19oTkZ0SmNOY3hDb0ZkS3ZvSQ?oc=5",
+   "source": "제주도민일보",
+   "date": "2026-07-20"
+  },
+  {
+   "title": "제주은행, ‘퍼스트적금’ 출시···최고 연 6.0% - 이뉴스투데이",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9pM191VWJoWGdob2tydnRsSXlsdEZUNl9YbFZicDVVZC1hbloyVlhoa2EwS2pTek9SbldfVkdMWldFdlJ4UFpxd0oxQkE2MVlONzBwT1NYREx1XzN6OHlDRFY5SnJkSlBlU3VhYnJUZTfSAXRBVV95cUxQbWJGdGZJZENKZlc0YVBNVW5mdDVUXy1OaDVjalEwQU5TZjJnci1Id3J1dDBTcDFJSmNTdnloUEtwYUJidzdROUpKUHNKOGN5cmJLQ2FlelFrNjU0ZjhQdjRtTmRCY1A5VVE3Y0RkZjhkejFpSQ?oc=5",
+   "source": "이뉴스투데이",
+   "date": "2026-07-20"
+  },
+  {
+   "title": "제주은행, 최고 연 6.0% 금리 제공 '퍼스트 적금' 출시",
+   "link": "https://www.jejudomin.co.kr/news/articleView.html?idxno=320733",
+   "source": "네이버뉴스",
+   "date": "2026-07-20"
+  },
+  {
+   "title": "제주은행, '퍼스트적금' 출시···최고 연 6.0%",
+   "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2450063",
+   "source": "네이버뉴스",
+   "date": "2026-07-20"
+  },
+  {
    "title": "군산원협, 100억 예적금 특판...\"지역경제 활성화\" - 한스경제",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5RcXYtR2UyV2l6QXd5NGxvNFFvcS16YmpxODZKZ29NUlFMcUxlMmNodDE3a1RZV1NTbzdCQXNTSmNCN2hOQURvcm1BYVJMNU1ZMXc3UktXWEtCX0VUcVhWU1l4WjREOXU1bVc0?oc=5",
    "source": "한스경제",
@@ -2565,30 +2589,6 @@
    "title": "하나은행, ‘만보기 적금’ 출시 - 주간한국",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE95YVNCX0RUd3VEbkNEU0pwdHZZWHBLelVzRzZnUXUwY3Q0bjRRQkdYWXN5ZkNVazdYOTNtWXZYTjl4YkIzQ0dFUlF3aXNlQldmdERTRnlRcFA3Z0xKblAyY2EwaEtkbGtib2RlQURTUUFBaWtQ0gF0QVVfeXFMT3lhU0JfRFR3dURuQ0RTSnB0dllYcEt6VXNHNmdRdTBjdDRuNFFCR1hZc3lmQ1VrN1g5M21ZdlhOOXhiQjNDR0VSUXdpc2VCV2Z0RFNGeVFwUDdnTEpuUDJjYTBoS2Rsa2JvZGVBRFNRQUFpa1A?oc=5",
    "source": "주간한국",
-   "date": "2026-07-16"
-  },
-  {
-   "title": "하나은행, 토스와 '만보기 적금' 출시 - 이슈밸리",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUWWVzTW9xMXlWQkFYRUhlR0MxLUdrbzZ2WmFTa0hzRnVJWXM2d2FLZVhnWkZjMERMVDg5SnUzUXBXUzkxaFVsRHdGbWI5OURQZ2lQenhGYXlOUW9XN3Fjcmw0d0VlMU5CbUpzVFJR?oc=5",
-   "source": "이슈밸리",
-   "date": "2026-07-16"
-  },
-  {
-   "title": "하나은행, 토스와 ‘만보기 적금’ 출시…백일 걸으면 최고 연 4.5% 금리 제공 - 인사이트코리아",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1jSEtuYWN0bGNaT2xaTkMtcjQtdV9MNXZiQV9LMndiZjVNbHpHRjljV1ZsVUpHNHhUVGwzTzEtRmkyTkhlTjlpMF9OMTBGMXRRMDVHRm9JZGtlSVpxaWdZTXJsU2dldmZVNEgtQjVJQ0IxamvSAXdBVV95cUxPbGhpRE5aUHlCVDZUdWVxX1pyMGRVSFVQc05ETW51c1pVLWN2dGkwMUt5bWhoeklPNmJDYTFtYjRfWmNoXzZzT2dJUXFnWkU1NnFqck1NQUpwT0FFQnE5dmUyZEhpUlQyX2ZVTUI5b0RIODBBc3AzMA?oc=5",
-   "source": "인사이트코리아",
-   "date": "2026-07-15"
-  },
-  {
-   "title": "다올저축은행, 나만의 저축 플랜 설계 'Fi 시드머니 적금' 출시 - 데일리한국",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtSkp1UU4wMGRDNU1ibzFCNnFxXzItRElzYUVfN1ROVElZNjRKZXJ4U1dHVlduODJWajNSSWdhWU5OMEJra2FmZHExbDI5TTBWM0JxOGlmRWxXLUJHelVKYXRJMldDdFE2S25MaThJSUJKbnfSAXNBVV95cUxQbUpKdVFOMDBkQzVNYm8xQjZxcV8yLURJc2FFXzdUTlRJWTY0SmVyeFNXR1ZXbjgyVmozUklnYVlOTjBCa2thZmRxMWwyOU0wVjNCcThpZkVsVy1CR3pVSmF0STJXQ3RRNktuTGk4SUlCSm53?oc=5",
-   "source": "데일리한국",
-   "date": "2026-07-15"
-  },
-  {
-   "title": "하나은행, 토스 사용자를 위한 『하나 만보기 적금』 출시!! - 파이낸셜리더스",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfMFdGb3dLdmpVQXRBLWliTHpDdUxjbEF3SjJucm8wYk5tLUZvdFBhOVM2OUlyN1JQVDZXc0pBVXdjV1FDR3lSWnUtaERuRXRLa09yOUlfRkhkMmdhcnd2bTJHUl9aUGFBc3c?oc=5",
-   "source": "파이낸셜리더스",
    "date": "2026-07-16"
   }
  ],
@@ -2720,10 +2720,49 @@
   "7da137ab1f3a3b35",
   "271c092805b5f195",
   "ee371bafdee30f7d",
-  "42ea8b276546ef35"
+  "42ea8b276546ef35",
+  "cda3ea74c2526ced",
+  "27e48c80e0d1f236",
+  "5455ea2364f27d9b",
+  "fa1f4686255e4dd2"
  ],
  "news_seeded": true,
  "news_products": [
+  {
+   "bank": "제주은행",
+   "name": "퍼스트 적금",
+   "norm": "퍼스트적금",
+   "rate": 6.0,
+   "first_news": "2026-07-20",
+   "count": 4,
+   "articles": [
+    {
+     "title": "제주은행, 최고 연 6.0% 금리 제공 '퍼스트 적금' 출시 - 제주도민일보",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yOF9BaE1FZjJoMXdjdzRhcmVFVDFJWl9Pb2xmWVRrdExJcXJtNUxJTDUwY3JiSzB6d3ZtSlBuZ3h1emlEaWpLRkhpUWZCeG9lV1NseE1JMTdQekhkM19oTkZ0SmNOY3hDb0ZkS3ZvSQ?oc=5",
+     "source": "제주도민일보",
+     "date": "2026-07-20"
+    },
+    {
+     "title": "제주은행, ‘퍼스트적금’ 출시···최고 연 6.0% - 이뉴스투데이",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9pM191VWJoWGdob2tydnRsSXlsdEZUNl9YbFZicDVVZC1hbloyVlhoa2EwS2pTek9SbldfVkdMWldFdlJ4UFpxd0oxQkE2MVlONzBwT1NYREx1XzN6OHlDRFY5SnJkSlBlU3VhYnJUZTfSAXRBVV95cUxQbWJGdGZJZENKZlc0YVBNVW5mdDVUXy1OaDVjalEwQU5TZjJnci1Id3J1dDBTcDFJSmNTdnloUEtwYUJidzdROUpKUHNKOGN5cmJLQ2FlelFrNjU0ZjhQdjRtTmRCY1A5VVE3Y0RkZjhkejFpSQ?oc=5",
+     "source": "이뉴스투데이",
+     "date": "2026-07-20"
+    },
+    {
+     "title": "제주은행, 최고 연 6.0% 금리 제공 '퍼스트 적금' 출시",
+     "link": "https://www.jejudomin.co.kr/news/articleView.html?idxno=320733",
+     "source": "네이버뉴스",
+     "date": "2026-07-20"
+    },
+    {
+     "title": "제주은행, '퍼스트적금' 출시···최고 연 6.0%",
+     "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2450063",
+     "source": "네이버뉴스",
+     "date": "2026-07-20"
+    }
+   ],
+   "in_disclosure": false
+  },
   {
    "bank": "하나은행",
    "name": "만보기적금",
