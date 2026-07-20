@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-20 19:19",
+ "updated_at": "2026-07-20 22:11",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2520,6 +2520,12 @@
  ],
  "news": [
   {
+   "title": "제주은행, ‘저축의 시작’ 응원하는 최고 연 6.0% ‘퍼스트 적금’ 출시 - 일간제주",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrS3pHUmp3T1RwaWZ0aGVHN0tYcWg4N1lQblA2SngzeUR4UlNGOVYydllnTVJFQkh1R1V2RDVUcU9aaTlPaUtXTFlmeG5zMmdLYUJXY3VmZXpsSm5kRExGWDFMNGI4UEg2aTBZ?oc=5",
+   "source": "일간제주",
+   "date": "2026-07-20"
+  },
+  {
    "title": "제주은행, 최고 연 6.0% ‘퍼스트 적금’ 출시 - 제주의소리",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBhQVQ1bk5PSWo2N1BsMHlVSk9sQWtIS0g3T0U5eW4tZDBqSUNwcWhuR0hPVFdDeGlKNGttSzhDclpjX1NMUDEwUjV1VHRNRm1jc2VJU1gwbTFnVXg4ZW9yT25ZYWxhUUQxOWNZ?oc=5",
    "source": "제주의소리",
@@ -2583,12 +2589,6 @@
    "title": "제주은행, ‘퍼스트적금’ 출시···최고 연 6.0% - 이뉴스투데이",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9pM191VWJoWGdob2tydnRsSXlsdEZUNl9YbFZicDVVZC1hbloyVlhoa2EwS2pTek9SbldfVkdMWldFdlJ4UFpxd0oxQkE2MVlONzBwT1NYREx1XzN6OHlDRFY5SnJkSlBlU3VhYnJUZTfSAXRBVV95cUxQbWJGdGZJZENKZlc0YVBNVW5mdDVUXy1OaDVjalEwQU5TZjJnci1Id3J1dDBTcDFJSmNTdnloUEtwYUJidzdROUpKUHNKOGN5cmJLQ2FlelFrNjU0ZjhQdjRtTmRCY1A5VVE3Y0RkZjhkejFpSQ?oc=5",
    "source": "이뉴스투데이",
-   "date": "2026-07-20"
-  },
-  {
-   "title": "제주은행, 최고 연 6.0% 금리 제공 '퍼스트 적금' 출시",
-   "link": "https://www.jejudomin.co.kr/news/articleView.html?idxno=320733",
-   "source": "네이버뉴스",
    "date": "2026-07-20"
   }
  ],
@@ -2733,7 +2733,8 @@
   "b09826b1c5ffb8e2",
   "fd708018b61334f9",
   "d2c2709c04f44a4c",
-  "9e5aeaf69a4b6ccf"
+  "9e5aeaf69a4b6ccf",
+  "6552dbbb1954d1bb"
  ],
  "news_seeded": true,
  "news_products": [
@@ -2743,7 +2744,7 @@
    "norm": "퍼스트적금",
    "rate": 6.0,
    "first_news": "2026-07-20",
-   "count": 10,
+   "count": 11,
    "articles": [
     {
      "title": "제주은행, 최고 연 6.0% 금리 제공 '퍼스트 적금' 출시 - 제주도민일보",
