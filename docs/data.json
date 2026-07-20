@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-20 12:56",
+ "updated_at": "2026-07-20 15:56",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2520,6 +2520,42 @@
  ],
  "news": [
   {
+   "title": "제주은행, 최고 연 6.0% 금리우대 '퍼스트 적금' 출시 - 헤드라인제주",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8tQThONVdYWkxyLWtsNy16V2lHdWluUmtTT1RCSTVuanlPektMQnlOZ3NyRkg3VURjZVFYMzlKLWxucUhDT25vZHRYQnAxOWlYQkNNamJzeXZOVUVsdG1ZRldBZXN2S1BZVmhKMjNaeGJvdUU?oc=5",
+   "source": "헤드라인제주",
+   "date": "2026-07-20"
+  },
+  {
+   "title": "제주은행 연 최대 6.0% '퍼스트 적금' 출시 - 삼다일보",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IbzdaYmM3bUozdUhZajlIV2FTUEFRNjdHMkVvOTF3eU85cnZOMnh0TE5kU3NyUVlYcG1faTJUQjdFWmJmd2NLMFpNa0tSMUZfSnZZY0UxN2tzdjltRDA5dnVXQ2g3dk4waHpIXw?oc=5",
+   "source": "삼다일보",
+   "date": "2026-07-20"
+  },
+  {
+   "title": "'최고 연 19% 효과' 청년미래적금 내달 22일 출시…금리 공시 - MSN",
+   "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxQOUVzdEVjZVl4amtLXzRldXBVSzJOS0NzY3FJenNkMG4wVWprR2ZEM1dNZUN5SVZnQVJTOG5rczYySkNBcVdVQ21GREE4OVBUZENUWnJZVUl3eGxJZ3EyeUduX1NXS2dzMkM2TEQyZUlFd2VvZ0Yya1hqN2l4d0U3SkRsM09Fb1FBMEd2Ti05VnFuYnY2V1hYbGVvZFlkRldjR01mQU1sRmQ2bWpEYlJ0SHI3aENZdjJvbkZhV3o5R1N1LWNQT0dpU2hmRUtfalNyWlU5NHJBTWNyR2lvajVaSjhzZXZlRjRGWTdTVWVGUHhQYlFTcGg1NEdVSDMyVlJkMUR1ZlBsdzVVcy1LektWd0pDbmZBUEFjeng3UWU2M2lIcXIxWENJanNVeGdZOGQ3aE9GbGppRzcyeDRiRk1BWld4aFV0QjVwZVU1R05GcTBaeW41NWlxSzl6WFRTaG5SZXVhbDVrZXd1dnZ4bVUwTDBB?oc=5",
+   "source": "MSN",
+   "date": "2026-07-20"
+  },
+  {
+   "title": "제주은행, 최고 연 6.0% 금리우대 '퍼스트 적금' 출시",
+   "link": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=596168",
+   "source": "네이버뉴스",
+   "date": "2026-07-20"
+  },
+  {
+   "title": "제주은행 연 최대 6.0% '퍼스트 적금' 출시",
+   "link": "http://www.samdailbo.com/news/articleView.html?idxno=267742",
+   "source": "네이버뉴스",
+   "date": "2026-07-20"
+  },
+  {
+   "title": "군산원협, 100억 예적금 특판...\"지역경제 활성화\" | - 한스경제",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZOG9tZjc2SmpHcXByS0o2eHBnNFQwTWxLREllYkN0VE9fd2RqQzhoWnBSZzRyZkdGME9nQWg2V2U2RXQxdmFyWkZWbUxJZzIyclJoRjBYUFhQR09TS1FVWGt3Y2NtSkszNVlFNG80QQ?oc=5",
+   "source": "한스경제",
+   "date": "2026-07-19"
+  },
+  {
    "title": "제주은행, 최고 연 6.0% 금리 제공 '퍼스트 적금' 출시 - 제주도민일보",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yOF9BaE1FZjJoMXdjdzRhcmVFVDFJWl9Pb2xmWVRrdExJcXJtNUxJTDUwY3JiSzB6d3ZtSlBuZ3h1emlEaWpLRkhpUWZCeG9lV1NseE1JMTdQekhkM19oTkZ0SmNOY3hDb0ZkS3ZvSQ?oc=5",
    "source": "제주도민일보",
@@ -2554,42 +2590,6 @@
    "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=850981",
    "source": "네이버뉴스",
    "date": "2026-07-19"
-  },
-  {
-   "title": "군산원예농협, 연 3.5~5.0% 예·적금 특판…총 100억 한도 - MSN",
-   "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOZ1EwZUR0WXlqYWRvMGUwQXo3eTZ0Y2hzS1pVZUk2dEtHRDRrZTVkUTQ2YjNHS2hqUHM3TjFyVFYyV2dUdHVHODZMX1Z0dkZzYVgzcHFNUnpHQi1VVzBONHNKM3dWSi1rZ3I4UkJpeko1X3ZneElEX0VxX2FQX1d4Tmt2V0d3ajFuOUt0Z244Y01jblB2MnFqeG42UEREVmlrV1gwdExVRnFrbzNUVDBLYzA4amVzYTdpcUNFVThYSmk2QW8wNzV2WWsxRmhaUmdYSzJjRVlyNGp6empoV1dYZ2N5SHRFTmhISklFTWpUb19SeXhNaWtJdURsSVhObTFTQUdFM1ZKZkFuMUpTSlpQdVhiSFJUamsza3hMcjRvOC00X2tOV2w3YktfbWthbkpkempiNENPRHBMVk5nRWhIanpmSE9NQlVj?oc=5",
-   "source": "MSN",
-   "date": "2026-07-17"
-  },
-  {
-   "title": "청년미래적금 내달 22일 출시…은행별 우대금리 꼼꼼히 따져야 - 쿠키뉴스",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ZekhheHZsNDE4R2hNdDg1YUgxbHFrWHVrcWVXZU5mZ09OeUNwZkU0T0dBTVY4d1ZnblJiTjZvNm9RczdyMExfYkdfNDViNG12cjZhS3F4VWtIZVF5SFVnb24xVQ?oc=5",
-   "source": "쿠키뉴스",
-   "date": "2026-07-18"
-  },
-  {
-   "title": "군산원협, 100억 규모 예·적금 특판... 예금 최대 3.5%·적금 5.0% - 전민일보",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3enhyQXItYXRSWjN4MGNQUlRQR2xPZm0wV0lIZ251ckRBNFVwQWluY0hkaFJucGE3ZGF3aGhlN0dVZmctZEtHU3BGV3VGNTdDRWFmZzNRQ3JGb2xrMGtVZUtFUEsybWRLb0tGbg?oc=5",
-   "source": "전민일보",
-   "date": "2026-07-18"
-  },
-  {
-   "title": "군산원협, 100억 규모 예·적금 특판... 예금 최대 3.5%·적금 5.0% - 전민일보",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1wU0NQV1NRbV80eWM4WWswa0RVbklURU5SRUhMVnhuRGtXUWVOa2RhVXloS3JYcW5ILXlVakZrOENqTUllZ1FPdnBBVHdpZTEzWkNLT2lEeEZiWkIwQmVsWlRoNElmXy1mcFEw?oc=5",
-   "source": "전민일보",
-   "date": "2026-07-18"
-  },
-  {
-   "title": "군산원협, 100억 규모 예·적금 특판... 예금 최대 3.5%·적금 5.0%",
-   "link": "http://www.jeonmin.co.kr/news/articleView.html?idxno=443528",
-   "source": "네이버뉴스",
-   "date": "2026-07-18"
-  },
-  {
-   "title": "하나은행, ‘만보기 적금’ 출시 - 주간한국",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE95YVNCX0RUd3VEbkNEU0pwdHZZWHBLelVzRzZnUXUwY3Q0bjRRQkdYWXN5ZkNVazdYOTNtWXZYTjl4YkIzQ0dFUlF3aXNlQldmdERTRnlRcFA3Z0xKblAyY2EwaEtkbGtib2RlQURTUUFBaWtQ0gF0QVVfeXFMT3lhU0JfRFR3dURuQ0RTSnB0dllYcEt6VXNHNmdRdTBjdDRuNFFCR1hZc3lmQ1VrN1g5M21ZdlhOOXhiQjNDR0VSUXdpc2VCV2Z0RFNGeVFwUDdnTEpuUDJjYTBoS2Rsa2JvZGVBRFNRQUFpa1A?oc=5",
-   "source": "주간한국",
-   "date": "2026-07-16"
   }
  ],
  "news_seen": [
@@ -2724,7 +2724,13 @@
   "cda3ea74c2526ced",
   "27e48c80e0d1f236",
   "5455ea2364f27d9b",
-  "fa1f4686255e4dd2"
+  "fa1f4686255e4dd2",
+  "4c1dca1cd85354b1",
+  "6db0338665b5778a",
+  "d2181f9d617bc6b8",
+  "aa812dc51e5082dc",
+  "b6e86ea8f35e3b95",
+  "b09826b1c5ffb8e2"
  ],
  "news_seeded": true,
  "news_products": [
@@ -2734,7 +2740,7 @@
    "norm": "퍼스트적금",
    "rate": 6.0,
    "first_news": "2026-07-20",
-   "count": 4,
+   "count": 8,
    "articles": [
     {
      "title": "제주은행, 최고 연 6.0% 금리 제공 '퍼스트 적금' 출시 - 제주도민일보",
