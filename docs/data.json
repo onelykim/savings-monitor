@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-21 15:36",
+ "updated_at": "2026-07-21 18:32",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -700,26 +700,26 @@
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.4,
-     "intr_rate2": 3.5
+     "intr_rate": 3.5,
+     "intr_rate2": 3.6
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.1,
-     "intr_rate2": 3.2
+     "intr_rate": 3.2,
+     "intr_rate2": 3.3
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.0,
-     "intr_rate2": 3.1
+     "intr_rate": 3.1,
+     "intr_rate2": 3.2
     }
    ],
-   "best_rate": 3.5,
-   "best_base_rate": 3.4,
+   "best_rate": 3.6,
+   "best_base_rate": 3.5,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%A0%84%EB%B6%81%EC%9D%80%ED%96%89%20JB%20%EB%8B%A4%EC%9D%B4%EB%A0%89%ED%8A%B8%EC%A0%81%EA%B8%88%28%EC%9E%90%EC%9C%A0%EC%A0%81%EB%A6%BD%EC%8B%9D%29",
    "first_seen": "2026-07-10",
@@ -742,26 +742,26 @@
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
-     "intr_rate": 3.5,
-     "intr_rate2": 3.6
+     "intr_rate": 3.6,
+     "intr_rate2": 3.7
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
-     "intr_rate": 3.2,
-     "intr_rate2": 3.3
+     "intr_rate": 3.3,
+     "intr_rate2": 3.4
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
-     "intr_rate": 3.1,
-     "intr_rate2": 3.2
+     "intr_rate": 3.2,
+     "intr_rate2": 3.3
     }
    ],
-   "best_rate": 3.6,
-   "best_base_rate": 3.5,
+   "best_rate": 3.7,
+   "best_base_rate": 3.6,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%A0%84%EB%B6%81%EC%9D%80%ED%96%89%20JB%20%EB%8B%A4%EC%9D%B4%EB%A0%89%ED%8A%B8%EC%A0%81%EA%B8%88%28%EC%A0%95%EC%95%A1%EC%A0%81%EB%A6%BD%EC%8B%9D%29",
    "first_seen": "2026-07-10",
@@ -2492,6 +2492,42 @@
  ],
  "news": [
   {
+   "title": "우리은행, 연 13% 적금 재출격…스마트카 관련 ETF도 출시 - 한국경제",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nT0tGQmR2TkRocTJVV3NNSHVpbENxX1p0dkJua1NqczlQTk9saXlVS1ZKVW90U2lxeVFGV2pkY0xWYlNkbUwwRnpWeThEalNHdGdKODVobjRLZw?oc=5",
+   "source": "한국경제",
+   "date": "2026-07-21"
+  },
+  {
+   "title": "하나은행, 현대차그룹과 ‘AllDayEnergy 내맘적금’ 출시 이벤트…최고 연 4.5% - 비욘드포스트",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4zTDFncjhiNFRUMjNqNDhGaDlqU1BlVlNxdllLM1JFSENsUk5ud3l0ZWs2dTA3Z3FQc3g3SXp5NUdwTi1mb0pxNVpxTkZRdEl2eUhmdFJrNFJ2alc4emdYOU5wOFFrTFZtbUJkVU15QUk5d3RFNnlxbi1vVGk?oc=5",
+   "source": "비욘드포스트",
+   "date": "2026-07-21"
+  },
+  {
+   "title": "하나은행·현대차그룹, 최고 연 4.5% 전기차 연계 적금 출시 - 뉴스퀘스트",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5oNzEtcXRnYWxwX2lKS1JSak5YdUVEaGtuRVBvazVsNUM0UFVZeFotcjZQMFdLNTdXLURvU2lZWjUzMktIa3NNaW03eGNxUG5WZGU3ZVJDY2x1ZGhYeUVyNWYwUVc0WUlkSUtyc3pHRdIBc0FVX3lxTFB6WWtIY2lMVW91dTJYTHI4TGVfekotX1dhaFpVTW5ycGJQLXI0TTFIRTA3TTFkV0pibDZBbE5rSW0wTEZQMHFUc2xCblpQZm9RSEowUHZacl9mN21ZemVCNmg4QnpfZDFSOEp5YXVHbHYyTjQ?oc=5",
+   "source": "뉴스퀘스트",
+   "date": "2026-07-21"
+  },
+  {
+   "title": "\"전기차 타면 최고 연4.5%\" 하나은행, 현대차 V2X 연계 '내맘적금' 출시 - catchnews.kr",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04T2E3XzdOQzlMNHRzcnh4LUFGSWd6bGdJMkhMMEpPQlVEdDBVSXpiSG9UVnBseERRRzM4REszcVJ0SXA0dnJUTzBSckVmSDYyNkhwXzZUckduN1c5dHRCa1Q2NmdTWjgySG1j?oc=5",
+   "source": "catchnews.kr",
+   "date": "2026-07-21"
+  },
+  {
+   "title": "제주은행, '저축의 시작' 응원하는 최고 연 6.0% '퍼스트 적금' 출시",
+   "link": "https://www.newsjeju.net/news/articleView.html?idxno=423538",
+   "source": "네이버뉴스",
+   "date": "2026-07-21"
+  },
+  {
+   "title": "하나銀-현대차그룹, ‘AllDayEnergy 내맘적금’ 출시…최고 연 4.5% 금리",
+   "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065595256724776",
+   "source": "네이버뉴스",
+   "date": "2026-07-21"
+  },
+  {
    "title": "하나은행, 현대차와 친환경 연계 '올데이에너지 내맘적금' 출시 - 아이티비즈",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPNmJjM3ViVzdkbUcycTM4elVuQWZyd2ZwX1pRdEU3ZGNBcjNJdlRZOExKRzYyUEtXZVVtdl9QYVctZjVNRFRfZ18teEstbl90TFB6WG5Nb05KS29paWc4VV9aUnZKMVE?oc=5",
    "source": "아이티비즈",
@@ -2525,42 +2561,6 @@
    "title": "신한은행, 예·적금 금리 최대 0.4%p 인상…특판 최고 연 3.4% - 베타뉴스",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE80RDdOTE5fX21qRW1neVdBb1kyYlhPSGtpSWt6QlIwUlkzWm1FNmQxWVN4VDhNYzNrRnJYQ2U0U2Fuek51SUswWFgtOUNjNGp6UFU2S3NBaHlpYnNodGlScWYwREo?oc=5",
    "source": "베타뉴스",
-   "date": "2026-07-21"
-  },
-  {
-   "title": "신한은행, 예·적금 금리 최대 0.4%p 인상…특판은 최고 연 3.4% - 네이트",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KeUV5VVFSQlc5NmRBX3pLYWhlNUJ4VmVfUGdKYTlXeHRmVWpMZ0pBWlhZOE96aG4yX2FfVkJ5Yi1xUlZld1Q0dDJGaWRsaTROaWtJ?oc=5",
-   "source": "네이트",
-   "date": "2026-07-21"
-  },
-  {
-   "title": "현대차그룹, 글로벌 V2X 통합 서비스 론칭…연계 적금도 출시",
-   "link": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005883957",
-   "source": "네이버뉴스",
-   "date": "2026-07-21"
-  },
-  {
-   "title": "\"전기차 타면 최고 연4.5%\" 하나은행, 현대차 V2X 연계 '내맘적금' 출시",
-   "link": "https://www.catchnews.kr/news/articleView.html?idxno=126373",
-   "source": "네이버뉴스",
-   "date": "2026-07-21"
-  },
-  {
-   "title": "하나은행, 현대차와 'AllDayEnergy 내맘적금' 출시",
-   "link": "http://www.newsbrite.net/news/articleView.html?idxno=199353",
-   "source": "네이버뉴스",
-   "date": "2026-07-21"
-  },
-  {
-   "title": "하나銀, 현대차그룹과 '올데이에너지 내맘적금' 출시..연 4.5%  금리",
-   "link": "https://www.hg-times.com/news/articleView.html?idxno=303752",
-   "source": "네이버뉴스",
-   "date": "2026-07-21"
-  },
-  {
-   "title": "신한은행, 예·적금 금리 최대 0.4%p 인상…특판 최고 연 3.4%",
-   "link": "https://www.betanews.net/article/view/beta202607210045",
-   "source": "네이버뉴스",
    "date": "2026-07-21"
   }
  ],
@@ -2751,7 +2751,13 @@
   "f820950ae33e1f87",
   "09b0c24dbd99741d",
   "6b033b2c3a4e8054",
-  "5f696264c7ba7dff"
+  "5f696264c7ba7dff",
+  "112c16539cd9fa3a",
+  "70e4bfdda1c69092",
+  "1720ba4a39fbd64d",
+  "8785e43e8c9993c3",
+  "c78677a414336e2b",
+  "336c67dc3897ffda"
  ],
  "news_seeded": true,
  "news_products": [
@@ -2761,7 +2767,7 @@
    "norm": "올데이에너지내맘적금",
    "rate": 4.5,
    "first_news": "2026-07-21",
-   "count": 11,
+   "count": 13,
    "articles": [
     {
      "title": "하나은행, ‘올데이에너지 내맘적금’ 출시… 최대 4.5% 금리 - 동아일보",
@@ -2796,7 +2802,7 @@
    "norm": "AllDayEnergy내맘적금",
    "rate": 4.5,
    "first_news": "2026-07-21",
-   "count": 9,
+   "count": 11,
    "articles": [
     {
      "title": "하나은행, 현대차그룹과 ‘AllDayEnergy 내맘적금’ 출시 이벤트 - BBS불교방송",
@@ -2848,7 +2854,7 @@
    "norm": "퍼스트적금",
    "rate": 6.0,
    "first_news": "2026-07-20",
-   "count": 11,
+   "count": 12,
    "articles": [
     {
      "title": "제주은행, 최고 연 6.0% 금리 제공 '퍼스트 적금' 출시 - 제주도민일보",
@@ -2918,13 +2924,19 @@
    "norm": "두근두근행운적금",
    "rate": 13.0,
    "first_news": "2026-07-09",
-   "count": 1,
+   "count": 2,
    "articles": [
     {
      "title": "[은행 뉴스브리핑] 우리은행 최고 연 13% '두근두근 행운적금' 재출시",
      "link": "https://www.asiatime.co.kr/article/20260709500407",
      "source": "네이버뉴스",
      "date": "2026-07-09"
+    },
+    {
+     "title": "우리은행, 연 13% 적금 재출격…스마트카 관련 ETF도 출시 - 한국경제",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nT0tGQmR2TkRocTJVV3NNSHVpbENxX1p0dkJua1NqczlQTk9saXlVS1ZKVW90U2lxeVFGV2pkY0xWYlNkbUwwRnpWeThEalNHdGdKODVobjRLZw?oc=5",
+     "source": "한국경제",
+     "date": "2026-07-21"
     }
    ],
    "in_disclosure": false
