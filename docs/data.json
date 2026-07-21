@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-21 07:08",
+ "updated_at": "2026-07-21 09:04",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2520,6 +2520,30 @@
  ],
  "news": [
   {
+   "title": "하나은행, 현대차와 친환경 적금 출시…생활금융 플랫폼 확대 속도 - SR타임스",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tUTE2YTc2Z2NSQ2hMdHNicjVSbmtraWY3cG05dTJUVHdhRDU3NTlqOEY2NlFDaW1fNGRYX0FORTlqYnRmQnlNdkRvVXJjUmpUeFZ4Q05ySUd5T1JndFl6bElXVFJpcnBx0gFrQVVfeXFMTXlYOWhYM2JlRE9yejUxUEtydDFoY0dsdk9wRTZ0RThueUh1dUljOVBKbF84WlJlMWhOWG5FRjJVX0taMnk2dVhKMU9JS19wSl9DRHNPTkRvWHZMdDJjOWU0MXpJZWo1cDU5QjQ?oc=5",
+   "source": "SR타임스",
+   "date": "2026-07-21"
+  },
+  {
+   "title": "하나은행, 현대차 V2X 서비스 연계 적금 출시…5000명 한정 혜택 - 네이트",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9tQlhNSTF5MmMybVctd0IxRHkySmtqV3NnWjhueGlyR3NIQWVMZGVySFJFSTJCRG1HbF85ZUxDUzBDT2dId2JCbm1QZ0ZWY3o1a2J5dDJXMEJocDBXX0hNSzU0eDk2V05DTDY5OXUxUHpaMWZHVVlwNg?oc=5",
+   "source": "네이트",
+   "date": "2026-07-21"
+  },
+  {
+   "title": "하나은행, 현대차 V2X 서비스 연계 적금 출시… 5000명 한정 혜택",
+   "link": "https://www.pointe.co.kr/news/articleView.html?idxno=82013",
+   "source": "네이버뉴스",
+   "date": "2026-07-21"
+  },
+  {
+   "title": "하나은행, 현대차와 친환경 적금 출시…생활금융 플랫폼 확대 속도",
+   "link": "http://www.srtimes.kr/news/articleView.html?idxno=207884",
+   "source": "네이버뉴스",
+   "date": "2026-07-21"
+  },
+  {
    "title": "제주은행, ‘저축의 시작’ 응원하는 최고 연 6.0% ‘퍼스트 적금’ 출시 - 일간제주",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrS3pHUmp3T1RwaWZ0aGVHN0tYcWg4N1lQblA2SngzeUR4UlNGOVYydllnTVJFQkh1R1V2RDVUcU9aaTlPaUtXTFlmeG5zMmdLYUJXY3VmZXpsSm5kRExGWDFMNGI4UEg2aTBZ?oc=5",
    "source": "일간제주",
@@ -2565,30 +2589,6 @@
    "title": "제주은행, 최고 연 6.0% 금리우대 '퍼스트 적금' 출시",
    "link": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=596168",
    "source": "네이버뉴스",
-   "date": "2026-07-20"
-  },
-  {
-   "title": "제주은행 연 최대 6.0% '퍼스트 적금' 출시",
-   "link": "http://www.samdailbo.com/news/articleView.html?idxno=267742",
-   "source": "네이버뉴스",
-   "date": "2026-07-20"
-  },
-  {
-   "title": "군산원협, 100억 예적금 특판...\"지역경제 활성화\" | - 한스경제",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZOG9tZjc2SmpHcXByS0o2eHBnNFQwTWxLREllYkN0VE9fd2RqQzhoWnBSZzRyZkdGME9nQWg2V2U2RXQxdmFyWkZWbUxJZzIyclJoRjBYUFhQR09TS1FVWGt3Y2NtSkszNVlFNG80QQ?oc=5",
-   "source": "한스경제",
-   "date": "2026-07-19"
-  },
-  {
-   "title": "제주은행, 최고 연 6.0% 금리 제공 '퍼스트 적금' 출시 - 제주도민일보",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yOF9BaE1FZjJoMXdjdzRhcmVFVDFJWl9Pb2xmWVRrdExJcXJtNUxJTDUwY3JiSzB6d3ZtSlBuZ3h1emlEaWpLRkhpUWZCeG9lV1NseE1JMTdQekhkM19oTkZ0SmNOY3hDb0ZkS3ZvSQ?oc=5",
-   "source": "제주도민일보",
-   "date": "2026-07-20"
-  },
-  {
-   "title": "제주은행, ‘퍼스트적금’ 출시···최고 연 6.0% - 이뉴스투데이",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9pM191VWJoWGdob2tydnRsSXlsdEZUNl9YbFZicDVVZC1hbloyVlhoa2EwS2pTek9SbldfVkdMWldFdlJ4UFpxd0oxQkE2MVlONzBwT1NYREx1XzN6OHlDRFY5SnJkSlBlU3VhYnJUZTfSAXRBVV95cUxQbWJGdGZJZENKZlc0YVBNVW5mdDVUXy1OaDVjalEwQU5TZjJnci1Id3J1dDBTcDFJSmNTdnloUEtwYUJidzdROUpKUHNKOGN5cmJLQ2FlelFrNjU0ZjhQdjRtTmRCY1A5VVE3Y0RkZjhkejFpSQ?oc=5",
-   "source": "이뉴스투데이",
    "date": "2026-07-20"
   }
  ],
@@ -2734,7 +2734,11 @@
   "fd708018b61334f9",
   "d2c2709c04f44a4c",
   "9e5aeaf69a4b6ccf",
-  "6552dbbb1954d1bb"
+  "6552dbbb1954d1bb",
+  "ad2942dc8031cd23",
+  "d213cf40d801db7d",
+  "e9fd80e73bd6f2ef",
+  "5da910a09aa10e2b"
  ],
  "news_seeded": true,
  "news_products": [
