@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-21 09:04",
+ "updated_at": "2026-07-21 12:35",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -8,11 +8,11 @@
    "key": "0010001|WR0001F",
    "bank": "우리은행",
    "name": "우리SUPER주거래적금",
-   "dcls_month": "202606",
+   "dcls_month": "202607",
    "join_way": "영업점,인터넷,스마트폰,전화(텔레뱅킹)",
    "join_member": "실명의 개인",
    "join_deny": "1",
-   "spcl_cnd": "1.거래실적 인정기간 중 입출식 계좌에서 아래 실적월수가 계약기간의 1/2이상인 경우\n-급여/연금 이체:연 0.7%p\n-공과금 이체:0.3%p\n-우리카드 신용/체크카드 결제금액 10만원 이상 출금:연 0.3%p\n2.우리은행 상품서비스 마케팅 동의 항목 중 전화(휴대폰) 및 SMS항목을 모두 동의 후 만기해지시점까지 유지:연 0.1%p\n3.금리우대쿠폰을 적용",
+   "spcl_cnd": "1.우리은행 입출식 계좌에서 각 항목별 실적 월 수가 계약기간의 1/2이상인 경우\n가.급여/연금 이체:연 0.7%p\n나.공과금 자동이체 출금: 0.3%p\n다.우리카드사 신용/체크카드 결제 10만원 이상: 연 0.3%p\n2.상품서비스 마케팅 동의 항목 중 전화(휴대폰) 및 SMS항목을 모두 동의 후 만기까지 유지 : 연 0.1%p\n3.금리쿠폰을 적용",
    "mtrt_int": "만기 후\n- 1개월이내 : 만기시점약정이율×50%\n- 1개월초과 6개월이내: 만기시점약정이율×30%\n- 6개월초과 : 만기시점약정이율×20%\n\n※ 만기시점 약정이율 : 일반정기적금 금리",
    "max_limit": null,
    "etc_note": "1. 가입기간 : 1년/2년/3년\n2. 가입금액 : 월 50만원 이내",
@@ -21,47 +21,47 @@
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 2.15,
-     "intr_rate2": 3.55
+     "intr_rate": 2.45,
+     "intr_rate2": 3.85
     },
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
-     "intr_rate": 2.15,
-     "intr_rate2": 3.55
+     "intr_rate": 2.45,
+     "intr_rate2": 3.85
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 2.15,
-     "intr_rate2": 3.55
+     "intr_rate": 2.4,
+     "intr_rate2": 3.8
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
-     "intr_rate": 2.15,
-     "intr_rate2": 3.55
+     "intr_rate": 2.4,
+     "intr_rate2": 3.8
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 2.15,
-     "intr_rate2": 3.55
+     "intr_rate": 2.4,
+     "intr_rate2": 3.8
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
-     "intr_rate": 2.15,
-     "intr_rate2": 3.55
+     "intr_rate": 2.4,
+     "intr_rate2": 3.8
     }
    ],
-   "best_rate": 3.55,
-   "best_base_rate": 2.15,
+   "best_rate": 3.85,
+   "best_base_rate": 2.45,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%9A%B0%EB%A6%AC%EC%9D%80%ED%96%89%20%EC%9A%B0%EB%A6%ACSUPER%EC%A3%BC%EA%B1%B0%EB%9E%98%EC%A0%81%EA%B8%88",
    "first_seen": "2026-07-10",
@@ -71,7 +71,7 @@
    "key": "0010001|WR0001L",
    "bank": "우리은행",
    "name": "WON적금",
-   "dcls_month": "202606",
+   "dcls_month": "202607",
    "join_way": "스마트폰,전화(텔레뱅킹)",
    "join_member": "실명의 개인",
    "join_deny": "1",
@@ -84,19 +84,19 @@
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 2.95,
-     "intr_rate2": 3.15
+     "intr_rate": 3.2,
+     "intr_rate2": 3.4
     },
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
-     "intr_rate": 2.95,
-     "intr_rate2": 3.15
+     "intr_rate": 3.2,
+     "intr_rate2": 3.4
     }
    ],
-   "best_rate": 3.15,
-   "best_base_rate": 2.95,
+   "best_rate": 3.4,
+   "best_base_rate": 3.2,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%9A%B0%EB%A6%AC%EC%9D%80%ED%96%89%20WON%EC%A0%81%EA%B8%88",
    "first_seen": "2026-07-10",
@@ -106,7 +106,7 @@
    "key": "0010002|00266451",
    "bank": "한국스탠다드차타드은행",
    "name": "퍼스트가계적금",
-   "dcls_month": "202606",
+   "dcls_month": "202607",
    "join_way": "영업점,인터넷,스마트폰",
    "join_member": "개인(개인사업자 포함)",
    "join_deny": "1",
@@ -183,7 +183,7 @@
    "key": "0010016|10521001001166004",
    "bank": "아이엠뱅크",
    "name": "iM함께적금",
-   "dcls_month": "202606",
+   "dcls_month": "202607",
    "join_way": "영업점,인터넷,스마트폰",
    "join_member": "실명의 개인 및 개인사업자",
    "join_deny": "1",
@@ -211,7 +211,7 @@
    "key": "0010017|01020400490002",
    "bank": "부산은행",
    "name": "펫 적금",
-   "dcls_month": "202606",
+   "dcls_month": "202607",
    "join_way": "영업점,스마트폰",
    "join_member": "실명의 개인고객(1인 1계좌)",
    "join_deny": "1",
@@ -246,7 +246,7 @@
    "key": "0010017|01020400510001",
    "bank": "부산은행",
    "name": "저탄소 실천 적금",
-   "dcls_month": "202606",
+   "dcls_month": "202607",
    "join_way": "영업점,인터넷,스마트폰",
    "join_member": "제한없음",
    "join_deny": "1",
@@ -295,7 +295,7 @@
    "key": "0010017|01020400530001",
    "bank": "부산은행",
    "name": "BNK내맘대로 \n적금",
-   "dcls_month": "202606",
+   "dcls_month": "202607",
    "join_way": "영업점,인터넷,스마트폰",
    "join_member": "제한없음",
    "join_deny": "1",
@@ -344,7 +344,7 @@
    "key": "0010017|01020400660001",
    "bank": "부산은행",
    "name": "부산이라 좋다\nBig적금",
-   "dcls_month": "202606",
+   "dcls_month": "202607",
    "join_way": "스마트폰",
    "join_member": "만 14세이상 실명의 개인고객(1인 1계좌)",
    "join_deny": "1",
@@ -393,7 +393,7 @@
    "key": "0010017|01020400700001",
    "bank": "부산은행",
    "name": "Only One 주거래 우대적금",
-   "dcls_month": "202606",
+   "dcls_month": "202607",
    "join_way": "영업점,스마트폰",
    "join_member": "만14세 이상 실명의 개인(1인 1계좌)",
    "join_deny": "1",
@@ -421,7 +421,7 @@
    "key": "0010019|TD11330029000",
    "bank": "광주은행",
    "name": "해피라이프_여행스케치적금V",
-   "dcls_month": "202606",
+   "dcls_month": "202607",
    "join_way": "영업점,스마트폰",
    "join_member": "제한없음(단,국가및지방자치단체제외)",
    "join_deny": "1",
@@ -498,7 +498,7 @@
    "key": "0010019|TD11330030000",
    "bank": "광주은행",
    "name": "여행스케치_남도투어적금",
-   "dcls_month": "202606",
+   "dcls_month": "202607",
    "join_way": "영업점,스마트폰",
    "join_member": "만14세이상 개인 및 개인사업자",
    "join_deny": "1",
@@ -533,7 +533,7 @@
    "key": "0010019|TD11330031000",
    "bank": "광주은행",
    "name": "VIP플러스적금",
-   "dcls_month": "202606",
+   "dcls_month": "202607",
    "join_way": "영업점,인터넷,스마트폰",
    "join_member": "실명의 개인",
    "join_deny": "1",
@@ -568,7 +568,7 @@
    "key": "0010020|220002101",
    "bank": "제주은행",
    "name": "jbank 저금통적금",
-   "dcls_month": "202606",
+   "dcls_month": "202607",
    "join_way": "인터넷,스마트폰",
    "join_member": "개인 및 개인사업자",
    "join_deny": "1",
@@ -603,7 +603,7 @@
    "key": "0010020|220002501",
    "bank": "제주은행",
    "name": "MZ 플랜적금",
-   "dcls_month": "202606",
+   "dcls_month": "202607",
    "join_way": "영업점,인터넷,스마트폰",
    "join_member": "개인 및 개인사업자",
    "join_deny": "1",
@@ -638,7 +638,7 @@
    "key": "0010020|220002701",
    "bank": "제주은행",
    "name": "사이버우대매일부금",
-   "dcls_month": "202606",
+   "dcls_month": "202607",
    "join_way": "인터넷,스마트폰",
    "join_member": "개인 및 개인사업자",
    "join_deny": "1",
@@ -687,7 +687,7 @@
    "key": "0010022|10-01-30-031-0018-0000",
    "bank": "전북은행",
    "name": "JB 다이렉트적금(자유적립식)",
-   "dcls_month": "202606",
+   "dcls_month": "202607",
    "join_way": "인터넷,스마트폰",
    "join_member": "실명의 개인 및 개인사업자(임의단체 제외)",
    "join_deny": "1",
@@ -729,7 +729,7 @@
    "key": "0010022|10-01-30-031-0036",
    "bank": "전북은행",
    "name": "JB 다이렉트적금(정액적립식)",
-   "dcls_month": "202606",
+   "dcls_month": "202607",
    "join_way": "인터넷,스마트폰",
    "join_member": "실명의 개인 및 개인사업자(임의단체 제외)",
    "join_deny": "1",
@@ -771,7 +771,7 @@
    "key": "0010024|21000111",
    "bank": "경남은행",
    "name": "행복 DREAM 적금",
-   "dcls_month": "202606",
+   "dcls_month": "202607",
    "join_way": "영업점,인터넷,스마트폰",
    "join_member": "실명의 개인 및 개인사업자",
    "join_deny": "1",
@@ -813,7 +813,7 @@
    "key": "0010024|21001116",
    "bank": "경남은행",
    "name": "BNK더조은자유적금",
-   "dcls_month": "202606",
+   "dcls_month": "202607",
    "join_way": "인터넷,스마트폰",
    "join_member": "거래대상자는 제한을 두지 아니한다. 다만, 국가 및 지방자치단체는 이 예금을 거래할 수 없다.",
    "join_deny": "1",
@@ -855,7 +855,7 @@
    "key": "0010024|21001199",
    "bank": "경남은행",
    "name": "BNK 위더스자유적금",
-   "dcls_month": "202606",
+   "dcls_month": "202607",
    "join_way": "영업점,인터넷,스마트폰,기타",
    "join_member": "실명의 개인 및 개인사업자",
    "join_deny": "1",
@@ -910,28 +910,42 @@
   {
    "key": "0010024|21001236",
    "bank": "경남은행",
-   "name": "오면우대! 하면우대!\n정기적금",
-   "dcls_month": "202606",
+   "name": "주거래 프리미엄 적금",
+   "dcls_month": "202607",
    "join_way": "영업점,인터넷,스마트폰",
-   "join_member": "실명의 개인",
+   "join_member": "실명의 개인 및 개인사업자",
    "join_deny": "1",
-   "spcl_cnd": "신규고객\n①적금가입시3.0%\n②상품가입 전 마케팅동의시0.1%\n③이 적금 신규월 포함 3개월 동안 10만원 이상 경남은행 카드 대금결제시2.0%\n기존고객\n①급여 또는 연금입금시1.5%\n②공과금 자동이체시 2.0%\n③경남은행 카드이용시(8회이상&10만원이상 카드대금 결제보유)1.5%\n④상품가입 전 마케팅동의시0.1%",
+   "spcl_cnd": "①주거래우대 0.5%\n②공과금 자동이체 0.4~0.6%\n③신규고객 0.2%\n④주택청약종합저축 보유 0.1%\n⑤ 전자명함을 통한 신규 시 0.2%",
    "mtrt_int": "만기후 1개월 이내: 일반정기예금 기본이율의 50%\n만기후 1개월 초과: 일반정기예금 기본이율의 20%",
-   "max_limit": 500000,
-   "etc_note": "1.계악기간은 1년제로 한다.\n2. 적립금액은 매월 10만원이상, 50만원 이하(1만원 이상)",
+   "max_limit": 999999999,
+   "etc_note": "1.계악기간은 1년제, 2년제, 3년제로 한다.\n2. 적립금액은 매월 1만원이상, 최고금액은 제한없음",
    "options": [
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
-     "intr_rate": 1.9,
-     "intr_rate2": 7.0
+     "intr_rate": 2.5,
+     "intr_rate2": 4.1
+    },
+    {
+     "save_trm": 24,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "정액적립식",
+     "intr_rate": 2.35,
+     "intr_rate2": 3.95
+    },
+    {
+     "save_trm": 36,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "정액적립식",
+     "intr_rate": 2.35,
+     "intr_rate2": 3.95
     }
    ],
-   "best_rate": 7.0,
-   "best_base_rate": 1.9,
+   "best_rate": 4.1,
+   "best_base_rate": 2.5,
    "best_term": 12,
-   "naver_url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EB%82%A8%EC%9D%80%ED%96%89%20%EC%98%A4%EB%A9%B4%EC%9A%B0%EB%8C%80%21%20%ED%95%98%EB%A9%B4%EC%9A%B0%EB%8C%80%21%0A%EC%A0%95%EA%B8%B0%EC%A0%81%EA%B8%88",
+   "naver_url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EB%82%A8%EC%9D%80%ED%96%89%20%EC%A3%BC%EA%B1%B0%EB%9E%98%20%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84%20%EC%A0%81%EA%B8%88",
    "first_seen": "2026-07-10",
    "is_baseline": true
   },
@@ -939,7 +953,7 @@
    "key": "0010024|21001259",
    "bank": "경남은행",
    "name": "오늘도세이브적금",
-   "dcls_month": "202606",
+   "dcls_month": "202607",
    "join_way": "인터넷,스마트폰,기타",
    "join_member": "실명의 개인 및 개인사업자",
    "join_deny": "1",
@@ -980,42 +994,28 @@
   {
    "key": "0010024|21001292",
    "bank": "경남은행",
-   "name": "주거래 프리미엄 적금",
-   "dcls_month": "202606",
+   "name": "오면우대! 하면우대!\n정기적금",
+   "dcls_month": "202607",
    "join_way": "영업점,인터넷,스마트폰",
-   "join_member": "실명의 개인 및 개인사업자",
+   "join_member": "실명의 개인",
    "join_deny": "1",
-   "spcl_cnd": "①주거래우대 0.5%\n②공과금 자동이체 0.4~0.6%\n③신규고객 0.2%\n④주택청약종합저축 보유 0.1%\n⑤ 전자명함을 통한 신규 시 0.2%",
+   "spcl_cnd": "신규고객\n①적금가입시3.0%\n②상품가입 전 마케팅동의시0.1%\n③이 적금 신규월 포함 3개월 동안 10만원 이상 경남은행 카드 대금결제시2.0%\n기존고객\n①급여 또는 연금입금시1.5%\n②공과금 자동이체시 2.0%\n③경남은행 카드이용시(8회이상&10만원이상 카드대금 결제보유)1.5%\n④상품가입 전 마케팅동의시0.1%",
    "mtrt_int": "만기후 1개월 이내: 일반정기예금 기본이율의 50%\n만기후 1개월 초과: 일반정기예금 기본이율의 20%",
-   "max_limit": 999999999,
-   "etc_note": "1.계악기간은 1년제, 2년제, 3년제로 한다.\n2. 적립금액은 매월 1만원이상, 최고금액은 제한없음",
+   "max_limit": 500000,
+   "etc_note": "1.계악기간은 1년제로 한다.\n2. 적립금액은 매월 10만원이상, 50만원 이하(1만원 이상)",
    "options": [
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
-     "intr_rate": 2.5,
-     "intr_rate2": 4.1
-    },
-    {
-     "save_trm": 24,
-     "intr_rate_type_nm": "단리",
-     "rsrv_type_nm": "정액적립식",
-     "intr_rate": 2.35,
-     "intr_rate2": 3.95
-    },
-    {
-     "save_trm": 36,
-     "intr_rate_type_nm": "단리",
-     "rsrv_type_nm": "정액적립식",
-     "intr_rate": 2.35,
-     "intr_rate2": 3.95
+     "intr_rate": 1.9,
+     "intr_rate2": 7.0
     }
    ],
-   "best_rate": 4.1,
-   "best_base_rate": 2.5,
+   "best_rate": 7.0,
+   "best_base_rate": 1.9,
    "best_term": 12,
-   "naver_url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EB%82%A8%EC%9D%80%ED%96%89%20%EC%A3%BC%EA%B1%B0%EB%9E%98%20%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84%20%EC%A0%81%EA%B8%88",
+   "naver_url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EB%82%A8%EC%9D%80%ED%96%89%20%EC%98%A4%EB%A9%B4%EC%9A%B0%EB%8C%80%21%20%ED%95%98%EB%A9%B4%EC%9A%B0%EB%8C%80%21%0A%EC%A0%95%EA%B8%B0%EC%A0%81%EA%B8%88",
    "first_seen": "2026-07-10",
    "is_baseline": true
   },
@@ -1023,7 +1023,7 @@
    "key": "0010026|01211210113",
    "bank": "중소기업은행",
    "name": "IBK D-day적금(자유적립식)",
-   "dcls_month": "202606",
+   "dcls_month": "202607",
    "join_way": "스마트폰",
    "join_member": "실명의 개인\n(개인사업자 제외)",
    "join_deny": "1",
@@ -1072,7 +1072,7 @@
    "key": "0010026|01211210121",
    "bank": "중소기업은행",
    "name": "IBK탄소제로적금(자유적립식)",
-   "dcls_month": "202606",
+   "dcls_month": "202607",
    "join_way": "스마트폰",
    "join_member": "실명의 개인\n(개인사업자 제외)",
    "join_deny": "1",
@@ -1100,7 +1100,7 @@
    "key": "0010026|01211210122",
    "bank": "중소기업은행",
    "name": "IBK중기근로자우대적금\n(자유적립식)",
-   "dcls_month": "202606",
+   "dcls_month": "202607",
    "join_way": "영업점,스마트폰",
    "join_member": "중소기업에서 근무하는\n실명의 개인\n(개인사업자 제외)",
    "join_deny": "3",
@@ -1128,7 +1128,7 @@
    "key": "0010026|01211210129",
    "bank": "중소기업은행",
    "name": "IBK모으기통장(자유적립식)",
-   "dcls_month": "202606",
+   "dcls_month": "202607",
    "join_way": "영업점,스마트폰",
    "join_member": "실명의 개인\n(개인사업자 제외)",
    "join_deny": "1",
@@ -1177,7 +1177,7 @@
    "key": "0010030|03101",
    "bank": "한국산업은행",
    "name": "KDB 기업정기적금",
-   "dcls_month": "202606",
+   "dcls_month": "202607",
    "join_way": "영업점,인터넷",
    "join_member": "개인사업자, 조합(비영리법인 포함), 법인",
    "join_deny": "1",
@@ -1190,8 +1190,8 @@
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
-     "intr_rate": 2.71,
-     "intr_rate2": 2.71
+     "intr_rate": 2.7,
+     "intr_rate2": 2.7
     },
     {
      "save_trm": 12,
@@ -1204,8 +1204,8 @@
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
-     "intr_rate": 3.41,
-     "intr_rate2": 3.41
+     "intr_rate": 3.42,
+     "intr_rate2": 3.42
     },
     {
      "save_trm": 36,
@@ -1226,7 +1226,7 @@
    "key": "0010030|03700",
    "bank": "한국산업은행",
    "name": "KDB 자유적금",
-   "dcls_month": "202606",
+   "dcls_month": "202607",
    "join_way": "영업점,인터넷,스마트폰",
    "join_member": "개인, 개인사업자, 임의단체",
    "join_deny": "1",
@@ -1239,22 +1239,22 @@
      "save_trm": 1,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 2.61,
-     "intr_rate2": 2.61
+     "intr_rate": 2.6,
+     "intr_rate2": 2.6
     },
     {
      "save_trm": 3,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 2.61,
-     "intr_rate2": 2.61
+     "intr_rate": 2.6,
+     "intr_rate2": 2.6
     },
     {
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.01,
-     "intr_rate2": 3.01
+     "intr_rate": 3.0,
+     "intr_rate2": 3.0
     },
     {
      "save_trm": 12,
@@ -1267,8 +1267,8 @@
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.51,
-     "intr_rate2": 3.51
+     "intr_rate": 3.52,
+     "intr_rate2": 3.52
     },
     {
      "save_trm": 36,
@@ -1289,7 +1289,7 @@
    "key": "0010927|010200100051",
    "bank": "국민은행",
    "name": "KB국민프리미엄적금(정액)",
-   "dcls_month": "202606",
+   "dcls_month": "202607",
    "join_way": "영업점,인터넷,스마트폰,전화(텔레뱅킹)",
    "join_member": "실명의 개인",
    "join_deny": "1",
@@ -1331,7 +1331,7 @@
    "key": "0010927|010200100070",
    "bank": "국민은행",
    "name": "KB내맘대로적금",
-   "dcls_month": "202606",
+   "dcls_month": "202607",
    "join_way": "인터넷,스마트폰",
    "join_member": "실명의 개인 또는 개인사업자",
    "join_deny": "1",
@@ -1380,7 +1380,7 @@
    "key": "0010927|010200100084",
    "bank": "국민은행",
    "name": "KB맑은하늘적금",
-   "dcls_month": "202606",
+   "dcls_month": "202607",
    "join_way": "영업점,인터넷,스마트폰",
    "join_member": "실명의 개인",
    "join_deny": "1",
@@ -1422,7 +1422,7 @@
    "key": "0010927|010200100104",
    "bank": "국민은행",
    "name": "KB 특★한 적금",
-   "dcls_month": "202606",
+   "dcls_month": "202607",
    "join_way": "스마트폰",
    "join_member": "실명의 개인",
    "join_deny": "1",
@@ -1464,7 +1464,7 @@
    "key": "0011625|230-0119-85",
    "bank": "신한은행",
    "name": "신한 알.쏠 적금",
-   "dcls_month": "202606",
+   "dcls_month": "202607",
    "join_way": "영업점,스마트폰",
    "join_member": "제한없음",
    "join_deny": "1",
@@ -1506,7 +1506,7 @@
    "key": "0013175|10-047-1360-0002",
    "bank": "농협은행주식회사",
    "name": "NH올원e 미니적금",
-   "dcls_month": "202606",
+   "dcls_month": "202607",
    "join_way": "스마트폰",
    "join_member": "개인",
    "join_deny": "1",
@@ -1548,7 +1548,7 @@
    "key": "0013175|10-047-1365-0001",
    "bank": "농협은행주식회사",
    "name": "NH1934월복리적금",
-   "dcls_month": "202606",
+   "dcls_month": "202607",
    "join_way": "영업점,인터넷,스마트폰",
    "join_member": "만19세~만34세 개인 및 개인사업자",
    "join_deny": "3",
@@ -1590,7 +1590,7 @@
    "key": "0013175|10-047-1381-0001",
    "bank": "농협은행주식회사",
    "name": "NH내가Green초록세상적금",
-   "dcls_month": "202606",
+   "dcls_month": "202607",
    "join_way": "영업점,인터넷,스마트폰",
    "join_member": "개인",
    "join_deny": "1",
@@ -1632,7 +1632,7 @@
    "key": "0013175|10-047-1387-0001",
    "bank": "농협은행주식회사",
    "name": "NH고향사랑기부적금",
-   "dcls_month": "202606",
+   "dcls_month": "202607",
    "join_way": "영업점,인터넷,스마트폰",
    "join_member": "개인",
    "join_deny": "1",
@@ -1674,7 +1674,7 @@
    "key": "0013175|10-059-1264-0001",
    "bank": "농협은행주식회사",
    "name": "NH직장인월복리적금",
-   "dcls_month": "202606",
+   "dcls_month": "202607",
    "join_way": "영업점,인터넷,스마트폰",
    "join_member": "만18세이상 개인",
    "join_deny": "3",
@@ -1716,7 +1716,7 @@
    "key": "0013909|52",
    "bank": "주식회사 하나은행",
    "name": "주거래하나 월복리적금",
-   "dcls_month": "202606",
+   "dcls_month": "202607",
    "join_way": "영업점,인터넷,스마트폰",
    "join_member": "실명의 개인\n또는 개인사업자",
    "join_deny": "1",
@@ -1758,7 +1758,7 @@
    "key": "0013909|53",
    "bank": "주식회사 하나은행",
    "name": "내맘적금",
-   "dcls_month": "202606",
+   "dcls_month": "202607",
    "join_way": "영업점,인터넷,스마트폰,전화(텔레뱅킹)",
    "join_member": "실명의 개인\n또는 개인사업자(1인 다계좌 가능)",
    "join_deny": "1",
@@ -1835,7 +1835,7 @@
    "key": "0014674|01012000200000000003",
    "bank": "주식회사 케이뱅크",
    "name": "코드K 자유적금",
-   "dcls_month": "202606",
+   "dcls_month": "202607",
    "join_way": "스마트폰",
    "join_member": "만 17세 이상 실명의 개인 및 개인사업자",
    "join_deny": "1",
@@ -1898,7 +1898,7 @@
    "key": "0014674|01012000200000000004",
    "bank": "주식회사 케이뱅크",
    "name": "궁금한 적금",
-   "dcls_month": "202606",
+   "dcls_month": "202607",
    "join_way": "스마트폰",
    "join_member": "만 17세 이상 실명의 개인 및 개인사업자",
    "join_deny": "1",
@@ -1926,7 +1926,7 @@
    "key": "0014674|01012000200000000005",
    "bank": "주식회사 케이뱅크",
    "name": "데굴데굴 농장",
-   "dcls_month": "202606",
+   "dcls_month": "202607",
    "join_way": "스마트폰",
    "join_member": "만 17세 이상 실명의 개인 및 개인사업자",
    "join_deny": "1",
@@ -1961,7 +1961,7 @@
    "key": "0014674|01012000200000000006",
    "bank": "주식회사 케이뱅크",
    "name": "마이키즈 적금",
-   "dcls_month": "202606",
+   "dcls_month": "202607",
    "join_way": "스마트폰",
    "join_member": "만 17세 미만의 실명의 개인",
    "join_deny": "1",
@@ -2003,7 +2003,7 @@
    "key": "0014674|01012000210000000000",
    "bank": "주식회사 케이뱅크",
    "name": "주거래우대 자유적금",
-   "dcls_month": "202606",
+   "dcls_month": "202607",
    "join_way": "스마트폰",
    "join_member": "만 17세 이상 실명의 개인 및 개인사업자",
    "join_deny": "1",
@@ -2052,7 +2052,7 @@
    "key": "0014807|10140114300011",
    "bank": "수협은행",
    "name": "Sh해양플라스틱Zero!적금\n(정액적립식)",
-   "dcls_month": "202606",
+   "dcls_month": "202607",
    "join_way": "영업점,인터넷,스마트폰",
    "join_member": "실명의 개인",
    "join_deny": "1",
@@ -2094,7 +2094,7 @@
    "key": "0014807|10140114700041",
    "bank": "수협은행",
    "name": "헤이(Hey)적금\n(정액적립식)",
-   "dcls_month": "202606",
+   "dcls_month": "202607",
    "join_way": "스마트폰",
    "join_member": "실명의 개인",
    "join_deny": "1",
@@ -2129,7 +2129,7 @@
    "key": "0014807|10141109800021",
    "bank": "수협은행",
    "name": "Sh월복리자유적금",
-   "dcls_month": "202606",
+   "dcls_month": "202607",
    "join_way": "영업점,인터넷,스마트폰",
    "join_member": "실명의 개인 및 개인사업자",
    "join_deny": "1",
@@ -2171,7 +2171,7 @@
    "key": "0014807|10141114300011",
    "bank": "수협은행",
    "name": "Sh해양플라스틱Zero!적금\n(자유적립식)",
-   "dcls_month": "202606",
+   "dcls_month": "202607",
    "join_way": "영업점,인터넷,스마트폰",
    "join_member": "실명의 개인",
    "join_deny": "1",
@@ -2213,7 +2213,7 @@
    "key": "0014807|10141114700041",
    "bank": "수협은행",
    "name": "헤이(Hey)적금\n(자유적립식)",
-   "dcls_month": "202606",
+   "dcls_month": "202607",
    "join_way": "스마트폰",
    "join_member": "실명의개인",
    "join_deny": "1",
@@ -2248,7 +2248,7 @@
    "key": "0015130|10-01-30-355-0002",
    "bank": "주식회사 카카오뱅크",
    "name": "카카오뱅크 자유적금",
-   "dcls_month": "202606",
+   "dcls_month": "202607",
    "join_way": "스마트폰",
    "join_member": "만 14세 이상의 실명의 개인",
    "join_deny": "1",
@@ -2297,7 +2297,7 @@
    "key": "0015130|10-01-30-355-0005",
    "bank": "주식회사 카카오뱅크",
    "name": "카카오뱅크 26주적금",
-   "dcls_month": "202606",
+   "dcls_month": "202607",
    "join_way": "스마트폰",
    "join_member": "만 14세 이상의 실명의 개인",
    "join_deny": "1",
@@ -2325,7 +2325,7 @@
    "key": "0015130|10-01-30-355-0006",
    "bank": "주식회사 카카오뱅크",
    "name": "카카오뱅크 한달적금",
-   "dcls_month": "202606",
+   "dcls_month": "202607",
    "join_way": "스마트폰",
    "join_member": "만 14세 이상의 실명의 개인",
    "join_deny": "1",
@@ -2353,7 +2353,7 @@
    "key": "0015130|10-01-30-355-0007",
    "bank": "주식회사 카카오뱅크",
    "name": "카카오뱅크 우리아이적금",
-   "dcls_month": "202606",
+   "dcls_month": "202607",
    "join_way": "스마트폰",
    "join_member": "우리아이통장을 보유한 만 0세 이상 만 17세 미만의 실명의 개인",
    "join_deny": "1",
@@ -2378,38 +2378,10 @@
    "is_baseline": true
   },
   {
-   "key": "0017801|1001303001001",
-   "bank": "토스뱅크 주식회사",
-   "name": "토스뱅크 키워봐요 적금",
-   "dcls_month": "202606",
-   "join_way": "스마트폰",
-   "join_member": "· 토스뱅크 통장 또는 토스뱅크 서브 통장을 보유한 실명의 개인",
-   "join_deny": "1",
-   "spcl_cnd": "· 적금 가입 시 설정되는 주 단위 자동이체를 통하여 25회 이상 적립한 경우 : 연 2.00% 제공",
-   "mtrt_int": "· 만기 후 1개월 이내 : 만기시점 기본금리 X 50% \n· 만기 후 1개월 초과 3개월 이내 : 만기시점 기본금리 X 20% \n· 만기 후 3개월 초과 : 연 0.10%",
-   "max_limit": 1000000,
-   "etc_note": "· 1인 1계좌 (단, 이벤트 등으로 토스뱅크가 복수의 계좌개설을 허용하는 경우 추가 개설 가능)\n· 가입금액 : 0원\n· 우대금리는 우대조건을 달성하고 만기 해지하는 경우에만 제공됨",
-   "options": [
-    {
-     "save_trm": 6,
-     "intr_rate_type_nm": "단리",
-     "rsrv_type_nm": "자유적립식",
-     "intr_rate": 1.8,
-     "intr_rate2": 3.8
-    }
-   ],
-   "best_rate": 3.8,
-   "best_base_rate": 1.8,
-   "best_term": 6,
-   "naver_url": "https://search.naver.com/search.naver?query=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC%20%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC%20%ED%82%A4%EC%9B%8C%EB%B4%90%EC%9A%94%20%EC%A0%81%EA%B8%88",
-   "first_seen": "2026-07-10",
-   "is_baseline": true
-  },
-  {
    "key": "0017801|1001303001003",
    "bank": "토스뱅크 주식회사",
    "name": "토스뱅크 굴비 적금",
-   "dcls_month": "202606",
+   "dcls_month": "202607",
    "join_way": "스마트폰",
    "join_member": "· 토스뱅크 통장 또는 토스뱅크 서브 통장을 보유한 실명의 개인",
    "join_deny": "1",
@@ -2437,7 +2409,7 @@
    "key": "0017801|1001303001004",
    "bank": "토스뱅크 주식회사",
    "name": "토스뱅크 자유 적금",
-   "dcls_month": "202606",
+   "dcls_month": "202607",
    "join_way": "스마트폰",
    "join_member": "· 토스뱅크 통장 또는 토스뱅크 서브 통장을 보유한 실명의 개인",
    "join_deny": "1",
@@ -2493,7 +2465,7 @@
    "key": "0017801|1001303001005",
    "bank": "토스뱅크 주식회사",
    "name": "토스뱅크 아이 적금",
-   "dcls_month": "202606",
+   "dcls_month": "202607",
    "join_way": "스마트폰",
    "join_member": "· 토스뱅크 아이 통장을 보유한 15세 이하 실명의 개인",
    "join_deny": "3",
@@ -2520,76 +2492,76 @@
  ],
  "news": [
   {
+   "title": "하나은행, ‘올데이에너지 내맘적금’ 출시… 최대 4.5% 금리 - 동아일보",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yVjBITWdYLUJDaDAyWXdXcGNIbmdEekdvYk5Ib2YyMnBqaEJneFdGd1JWc2hXTWY2UFplYzVDU3FWV0NMMTVlRWZqYlhIdkZhUEZFYTlaLTdqdzhrVlhuSXdMakpjSkcxZmZIYklJVG0zalBuZFHSAWZBVV95cUxNOTgzWXpJUDF5c3FWLTlnWFVHUDFBeXBzTjZkT2xnU0pBeHNSbE9VeVltNXlxd0VUdEpVOFVYeW14Z2RCSkRmLUdjaWNacDlSeWdqckFQT09SYTIxcVZnTnNiV2Q5VGc?oc=5",
+   "source": "동아일보",
+   "date": "2026-07-21"
+  },
+  {
+   "title": "하나은행, 현대차그룹과 ‘AllDayEnergy 내맘적금’ 출시 이벤트 - BBS불교방송",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE91ZVhHU1N0TTZVS2xKeDJBaWVXUlpBSXhHclN6UGVYRzJXMkVPeFRBRVVJakZ1dGRnR3hraWxpSEI0VzJQN1ZVR0VSWlp1TzBLM1RnVjlDOHhyWnlMSzNfTEJrWUhMdVBRRzU4?oc=5",
+   "source": "BBS불교방송",
+   "date": "2026-07-21"
+  },
+  {
+   "title": "하나은행, 현대차와 친환경 적금 출시…최고 연 4.5% - 디지털데일리",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkcm9QX3A2WllZTEpoWUNJNi1iYmlNMTdQbnczYWFyR2NlOWUyNl8wbGo4TzdwRU5QN2k0ekx4UkNDMzNxNGNSUjNyTzItcDZCT3NtdHBEVTdPSmJyZ2EyU2w2OXg?oc=5",
+   "source": "디지털데일리",
+   "date": "2026-07-21"
+  },
+  {
+   "title": "하나은행, 현대차와 연 4.5% '올데이에너지 내맘적금' 출시 - 뉴시스",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13UGhWcXZJanQxdE0yX1JzUVZPVFFKOUowb1loREJNOHFEUUFDcjdEYXBLZEdxWGRqYl9LTXhWYm5SNkZzaGtZclVNMEYtcnYxVlhFNzFHZWRDNGtnRjRmZ2lkZmx4c2lPWExUWWFwUHo1cG1vRUhvLdIBeEFVX3lxTE13UGhWcXZJanQxdE0yX1JzUVZPVFFKOUowb1loREJNOHFEUUFDcjdEYXBLZEdxWGRqYl9LTXhWYm5SNkZzaGtZclVNMEYtcnYxVlhFNzFHZWRDNGtnRjRmZ2lkZmx4c2lPWExUWWFwUHo1cG1vRUhvLQ?oc=5",
+   "source": "뉴시스",
+   "date": "2026-07-21"
+  },
+  {
+   "title": "하나은행, 현대차그룹과 친환경 금융 맞손…최고 연 4.5% 적금 출시 - 머니투데이 - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lVlRwWU1uSGJuV3lhYzhEdHZ5T0toZGI3dnBTTC1LdzZnVEt3SnVjSmxDNHVqOE0yT0gzREl5aFdmb0xqTnZSbDhpNGJKMXV1T2pBR3YzWjFnTnZTMDFNSkdsQnUzOWtZdi0wa09NQWLSAXBBVV95cUxOZVZUcFlNbkhibld5YWM4RHR2eU9LaGRiN3ZwU0wtS3c2Z1RLd0p1Y0psQzR1ajhNMk9IM0RJeWhXZm9Mak52Umw4aTRiSjF1dU9qQUd2M1oxZ052UzAxTUpHbEJ1MzlrWXYtMGtPTUFi?oc=5",
+   "source": "머니투데이",
+   "date": "2026-07-21"
+  },
+  {
+   "title": "\"연 최고 4.5% 금리\"…현대차그룹·하나은행, 'AllDayEnergy 내맘적금' 출시 - 파이낸셜포스트",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE43SEhIYnhOYXYwemY0eWtJUFNrbl9zQmlhbFhHbC1BMzdoR3BVLWJYRUppZzFWdGNWbE9iTjRHMGdSZVNMUUlldGhDOV9PaDFHR3NhSWN1cEFESVhJWUtmSl9aM252Ym05QnA2Q0RVajY5dEVi?oc=5",
+   "source": "파이낸셜포스트",
+   "date": "2026-07-21"
+  },
+  {
+   "title": "하나은행, 현대차 V2X 서비스 연계 적금 출시… 5000명 한정 혜택 - 포인트경제",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1MTHdTYnotMnV2QkVoc0FySzF1RTBfOEJ3c2lHSDRKRzFNYVplYTRGMEQ1bUpLUS1tZm9qUFV1N1YwWW45YjVTaVhJVnVRMTM1VWk1dTBkM1dxa0drREFVOUhoQWFycERRZnc?oc=5",
+   "source": "포인트경제",
+   "date": "2026-07-21"
+  },
+  {
+   "title": "하나은행, 현대차와 'AllDayEnergy 내맘적금' 출시…최고 연 4.5% 금리 - 서울타임즈뉴스",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QUVAyZlFjeHBxOU1rUFpzek5ZaVF5Y2VTVjNmZW85Sm13Vjh6b2lQZDJkejUwcHA1TWtSV3A5MDhiOWpMaUR2N1dJVDFuMlpoVkJVMGJZV29lRGdnVWltOUhZZWs5c3pfVkdr?oc=5",
+   "source": "서울타임즈뉴스",
+   "date": "2026-07-21"
+  },
+  {
+   "title": "하나은행, 현대차와 제휴 적금 출시…최고 연 4.5% 금리 - 포인트데일리",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjY2szNnQ1V001NTJQSG9MX2pKNjlYM2Z2b3N3U3JRZDdkREtURGs3OWtxUWdzZkJ5QkltRFU4eTR3aXg5NWRtcll1NzkzSE1oXzNYWGRoNnV3MXFWYjM5bktvOTJrdnpkQkJ3ZlQ1eUvSAXRBVV95cUxPV2lIOVhBYWt6dUc3YkZ6SXVMN183dFB4M2NEQ0JNWDl5TkVQN1Frdno0S0xGajZHcFNPMGdET3ozZklEZmc4WFVTZnRiWTNiVDVvcnZoRlVHczBDbUlITFh5RTZoR2RPVTYyZms2dTZUWDJLYw?oc=5",
+   "source": "포인트데일리",
+   "date": "2026-07-21"
+  },
+  {
+   "title": "하나은행, 현대차그룹과 '올데이 에너지 내맘적금' 출시 - 디지털투데이",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1RRWk0TDBhUHVfdUNUQjYybUJWQVNPZTFiMmpCSjI0VEtnYnFnbHVrU1MzdFk5VTUxU0djSXJHN1UtSDltSkF4eGFmUUJGVGpCRTJJSXpZWmlRNHBSeEpKOWVNdk9xM01oMTk4cWlYc3FEUVU?oc=5",
+   "source": "디지털투데이",
+   "date": "2026-07-21"
+  },
+  {
+   "title": "하나은행, 친환경 에너지 경험 확대..현대차 연계 적금 출시 - 한국정경신문",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zam0xSG1aSnZqdF9FTkRFZDFIM3hWUFJTa01PMmtjYU82aXEtQ2RPNGR2UmxxRENQQVF0aEdMdTVXTmZqbkF5YldDWWE2bXZTYXc?oc=5",
+   "source": "한국정경신문",
+   "date": "2026-07-21"
+  },
+  {
    "title": "하나은행, 현대차와 친환경 적금 출시…생활금융 플랫폼 확대 속도 - SR타임스",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tUTE2YTc2Z2NSQ2hMdHNicjVSbmtraWY3cG05dTJUVHdhRDU3NTlqOEY2NlFDaW1fNGRYX0FORTlqYnRmQnlNdkRvVXJjUmpUeFZ4Q05ySUd5T1JndFl6bElXVFJpcnBx0gFrQVVfeXFMTXlYOWhYM2JlRE9yejUxUEtydDFoY0dsdk9wRTZ0RThueUh1dUljOVBKbF84WlJlMWhOWG5FRjJVX0taMnk2dVhKMU9JS19wSl9DRHNPTkRvWHZMdDJjOWU0MXpJZWo1cDU5QjQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15WDloWDNiZURPcno1MVBLcnQxaGNHbHZPcEU2dEU4bnlIdXVJYzlQSmxfOFpSZTFoTlhuRUYyVV9LWjJ5NnVYSjFPSUtfcEpfQ0RzT05Eb1h2THQyYzllNDF6SWVqNXA1OUI00gFrQVVfeXFMTXlYOWhYM2JlRE9yejUxUEtydDFoY0dsdk9wRTZ0RThueUh1dUljOVBKbF84WlJlMWhOWG5FRjJVX0taMnk2dVhKMU9JS19wSl9DRHNPTkRvWHZMdDJjOWU0MXpJZWo1cDU5QjQ?oc=5",
    "source": "SR타임스",
    "date": "2026-07-21"
-  },
-  {
-   "title": "하나은행, 현대차 V2X 서비스 연계 적금 출시…5000명 한정 혜택 - 네이트",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9tQlhNSTF5MmMybVctd0IxRHkySmtqV3NnWjhueGlyR3NIQWVMZGVySFJFSTJCRG1HbF85ZUxDUzBDT2dId2JCbm1QZ0ZWY3o1a2J5dDJXMEJocDBXX0hNSzU0eDk2V05DTDY5OXUxUHpaMWZHVVlwNg?oc=5",
-   "source": "네이트",
-   "date": "2026-07-21"
-  },
-  {
-   "title": "하나은행, 현대차 V2X 서비스 연계 적금 출시… 5000명 한정 혜택",
-   "link": "https://www.pointe.co.kr/news/articleView.html?idxno=82013",
-   "source": "네이버뉴스",
-   "date": "2026-07-21"
-  },
-  {
-   "title": "하나은행, 현대차와 친환경 적금 출시…생활금융 플랫폼 확대 속도",
-   "link": "http://www.srtimes.kr/news/articleView.html?idxno=207884",
-   "source": "네이버뉴스",
-   "date": "2026-07-21"
-  },
-  {
-   "title": "제주은행, ‘저축의 시작’ 응원하는 최고 연 6.0% ‘퍼스트 적금’ 출시 - 일간제주",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrS3pHUmp3T1RwaWZ0aGVHN0tYcWg4N1lQblA2SngzeUR4UlNGOVYydllnTVJFQkh1R1V2RDVUcU9aaTlPaUtXTFlmeG5zMmdLYUJXY3VmZXpsSm5kRExGWDFMNGI4UEg2aTBZ?oc=5",
-   "source": "일간제주",
-   "date": "2026-07-20"
-  },
-  {
-   "title": "제주은행, 최고 연 6.0% ‘퍼스트 적금’ 출시 - 제주의소리",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBhQVQ1bk5PSWo2N1BsMHlVSk9sQWtIS0g3T0U5eW4tZDBqSUNwcWhuR0hPVFdDeGlKNGttSzhDclpjX1NMUDEwUjV1VHRNRm1jc2VJU1gwbTFnVXg4ZW9yT25ZYWxhUUQxOWNZ?oc=5",
-   "source": "제주의소리",
-   "date": "2026-07-20"
-  },
-  {
-   "title": "매달 50만원씩 3년 넣으면 2255만원…청년미래적금 22일 출시 - MSN",
-   "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxOS3d4Ymp4WFlaYlBHX0RYdW8wZ3pfVm8ySU1PdE5uSk5tZURnNTdGNmNzNGQzeDNhRUx1ZWd3Vy1nR0Q0NjRPSVdxdEdDRGFjd2RETlVrVzBGUWNqTl9aRG1DcVBxdlpnekNmLVctdGZXeVBodHg2MW1QMFZGbm5qYk9MMWRhX2o3c2swT1U4aWFpeW1CX0lkT3BwSGNoRGJ2cmw3VTNfM1FTQ1FBYm5xVHBpWFFYTTZ0RktxOHc4cXZxR3pucUxkS1ZzSFFYaThpUk5iR2lleHRaa1NIYi1GN3JuX2tXWmt2MnBqR3RZaGI4dU9PaGRsYThGam04OUlqODFFNzBoQ25nYWdRLXNfN05GQ3psT3V4dXFFVHBIaU5lREtqcXdZb1VBS05VTlUxRXhHUkZhZ1ZUV0ZhYXFyNXZzUk12VnhRaXRHbW9heldrdW1idklhV1h3UE1rUkQ1RVp4S1hBbjlxR3ZkQjlKeWtQdUhWZw?oc=5",
-   "source": "MSN",
-   "date": "2026-07-20"
-  },
-  {
-   "title": "제주은행, 최고 연 6.0% '퍼스트 적금' 출시",
-   "link": "https://www.jejusori.net/news/articleView.html?idxno=504896",
-   "source": "네이버뉴스",
-   "date": "2026-07-20"
-  },
-  {
-   "title": "제주은행, 최고 연 6.0% 금리우대 '퍼스트 적금' 출시 - 헤드라인제주",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8tQThONVdYWkxyLWtsNy16V2lHdWluUmtTT1RCSTVuanlPektMQnlOZ3NyRkg3VURjZVFYMzlKLWxucUhDT25vZHRYQnAxOWlYQkNNamJzeXZOVUVsdG1ZRldBZXN2S1BZVmhKMjNaeGJvdUU?oc=5",
-   "source": "헤드라인제주",
-   "date": "2026-07-20"
-  },
-  {
-   "title": "제주은행 연 최대 6.0% '퍼스트 적금' 출시 - 삼다일보",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IbzdaYmM3bUozdUhZajlIV2FTUEFRNjdHMkVvOTF3eU85cnZOMnh0TE5kU3NyUVlYcG1faTJUQjdFWmJmd2NLMFpNa0tSMUZfSnZZY0UxN2tzdjltRDA5dnVXQ2g3dk4waHpIXw?oc=5",
-   "source": "삼다일보",
-   "date": "2026-07-20"
-  },
-  {
-   "title": "'최고 연 19% 효과' 청년미래적금 내달 22일 출시…금리 공시 - MSN",
-   "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxQOUVzdEVjZVl4amtLXzRldXBVSzJOS0NzY3FJenNkMG4wVWprR2ZEM1dNZUN5SVZnQVJTOG5rczYySkNBcVdVQ21GREE4OVBUZENUWnJZVUl3eGxJZ3EyeUduX1NXS2dzMkM2TEQyZUlFd2VvZ0Yya1hqN2l4d0U3SkRsM09Fb1FBMEd2Ti05VnFuYnY2V1hYbGVvZFlkRldjR01mQU1sRmQ2bWpEYlJ0SHI3aENZdjJvbkZhV3o5R1N1LWNQT0dpU2hmRUtfalNyWlU5NHJBTWNyR2lvajVaSjhzZXZlRjRGWTdTVWVGUHhQYlFTcGg1NEdVSDMyVlJkMUR1ZlBsdzVVcy1LektWd0pDbmZBUEFjeng3UWU2M2lIcXIxWENJanNVeGdZOGQ3aE9GbGppRzcyeDRiRk1BWld4aFV0QjVwZVU1R05GcTBaeW41NWlxSzl6WFRTaG5SZXVhbDVrZXd1dnZ4bVUwTDBB?oc=5",
-   "source": "MSN",
-   "date": "2026-07-20"
-  },
-  {
-   "title": "제주은행, 최고 연 6.0% 금리우대 '퍼스트 적금' 출시",
-   "link": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=596168",
-   "source": "네이버뉴스",
-   "date": "2026-07-20"
   }
  ],
  "news_seen": [
@@ -2738,10 +2710,126 @@
   "ad2942dc8031cd23",
   "d213cf40d801db7d",
   "e9fd80e73bd6f2ef",
-  "5da910a09aa10e2b"
+  "5da910a09aa10e2b",
+  "c45e8df0cd4a183c",
+  "4eee9f2838b67e1f",
+  "c75b8147797ff76f",
+  "058b86ca9e3cb3a3",
+  "8f5d7debf7c6435c",
+  "b98c0de0a485baa5",
+  "48fe002b614236a9",
+  "3a3b3feacc09ef20",
+  "bb9684e6b8eecda3",
+  "d8c6404652384228",
+  "850862cb975cc20f",
+  "4364c9cfdb744f18",
+  "923a53107c674c47",
+  "eeb6dd7ab97ae990",
+  "5cde55fd51eda6a4",
+  "d5b1bbb64dc5b924",
+  "e934ee1b8af051ed",
+  "edc9a7199f67c3e7",
+  "1c3c3df672e4aaa6",
+  "2b0a69375afa2911",
+  "596ad6d8eee422be",
+  "c4e4a2a24647fcc1",
+  "dd51b32444c7abe2",
+  "c208de3249ab1592",
+  "6b980c838d87c20c",
+  "5add1e92dbb5cc23",
+  "dbf36dbccc97e260",
+  "4798eff43d2c097e",
+  "282e94fd1bc42d48"
  ],
  "news_seeded": true,
  "news_products": [
+  {
+   "bank": "하나은행",
+   "name": "올데이에너지 내맘적금",
+   "norm": "올데이에너지내맘적금",
+   "rate": 4.5,
+   "first_news": "2026-07-21",
+   "count": 7,
+   "articles": [
+    {
+     "title": "하나은행, ‘올데이에너지 내맘적금’ 출시… 최대 4.5% 금리 - 동아일보",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yVjBITWdYLUJDaDAyWXdXcGNIbmdEekdvYk5Ib2YyMnBqaEJneFdGd1JWc2hXTWY2UFplYzVDU3FWV0NMMTVlRWZqYlhIdkZhUEZFYTlaLTdqdzhrVlhuSXdMakpjSkcxZmZIYklJVG0zalBuZFHSAWZBVV95cUxNOTgzWXpJUDF5c3FWLTlnWFVHUDFBeXBzTjZkT2xnU0pBeHNSbE9VeVltNXlxd0VUdEpVOFVYeW14Z2RCSkRmLUdjaWNacDlSeWdqckFQT09SYTIxcVZnTnNiV2Q5VGc?oc=5",
+     "source": "동아일보",
+     "date": "2026-07-21"
+    },
+    {
+     "title": "하나은행, 현대차와 연 4.5% '올데이에너지 내맘적금' 출시 - 뉴시스",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13UGhWcXZJanQxdE0yX1JzUVZPVFFKOUowb1loREJNOHFEUUFDcjdEYXBLZEdxWGRqYl9LTXhWYm5SNkZzaGtZclVNMEYtcnYxVlhFNzFHZWRDNGtnRjRmZ2lkZmx4c2lPWExUWWFwUHo1cG1vRUhvLdIBeEFVX3lxTE13UGhWcXZJanQxdE0yX1JzUVZPVFFKOUowb1loREJNOHFEUUFDcjdEYXBLZEdxWGRqYl9LTXhWYm5SNkZzaGtZclVNMEYtcnYxVlhFNzFHZWRDNGtnRjRmZ2lkZmx4c2lPWExUWWFwUHo1cG1vRUhvLQ?oc=5",
+     "source": "뉴시스",
+     "date": "2026-07-21"
+    },
+    {
+     "title": "하나은행, 현대차그룹과 '올데이 에너지 내맘적금' 출시 - 디지털투데이",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1RRWk0TDBhUHVfdUNUQjYybUJWQVNPZTFiMmpCSjI0VEtnYnFnbHVrU1MzdFk5VTUxU0djSXJHN1UtSDltSkF4eGFmUUJGVGpCRTJJSXpZWmlRNHBSeEpKOWVNdk9xM01oMTk4cWlYc3FEUVU?oc=5",
+     "source": "디지털투데이",
+     "date": "2026-07-21"
+    },
+    {
+     "title": "금융과 친환경 에너지가 만났다…하나은행·현대차그룹, AllDayEnergy 내맘적금 출시 - thefairnews.co.kr",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtMWdqMzNURFVVd1NsbF9DWkZSQjJINGlSSjAwenZtYnJuQ0pPWng0d1JYdkpGNldBbVpqOWtqdGtadWxUb0tCZGtKMkY2T0NGYVVXVkE5S2xJTHdBcmdzRWlPY0lzem8zTURYeWtYZEXSAXRBVV95cUxOZHVidzNXQXRTR2w4d2tvcXlzWWFiNWRfTU9JdzQ4RGV4NWU5d3l2dVZNZ2tQc3k2M3hXSGJLd0VXQUlVdkw1a0E0NV9mb2w4c2stUzRudzYwRTY4VlFRUEpEWGlRTHc4QlQzV3pXNm9ZajQxUw?oc=5",
+     "source": "thefairnews.co.kr",
+     "date": "2026-07-21"
+    }
+   ],
+   "in_disclosure": true
+  },
+  {
+   "bank": "하나은행",
+   "name": "AllDayEnergy 내맘적금",
+   "norm": "AllDayEnergy내맘적금",
+   "rate": 4.5,
+   "first_news": "2026-07-21",
+   "count": 7,
+   "articles": [
+    {
+     "title": "하나은행, 현대차그룹과 ‘AllDayEnergy 내맘적금’ 출시 이벤트 - BBS불교방송",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE91ZVhHU1N0TTZVS2xKeDJBaWVXUlpBSXhHclN6UGVYRzJXMkVPeFRBRVVJakZ1dGRnR3hraWxpSEI0VzJQN1ZVR0VSWlp1TzBLM1RnVjlDOHhyWnlMSzNfTEJrWUhMdVBRRzU4?oc=5",
+     "source": "BBS불교방송",
+     "date": "2026-07-21"
+    },
+    {
+     "title": "\"연 최고 4.5% 금리\"…현대차그룹·하나은행, 'AllDayEnergy 내맘적금' 출시 - 파이낸셜포스트",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE43SEhIYnhOYXYwemY0eWtJUFNrbl9zQmlhbFhHbC1BMzdoR3BVLWJYRUppZzFWdGNWbE9iTjRHMGdSZVNMUUlldGhDOV9PaDFHR3NhSWN1cEFESVhJWUtmSl9aM252Ym05QnA2Q0RVajY5dEVi?oc=5",
+     "source": "파이낸셜포스트",
+     "date": "2026-07-21"
+    },
+    {
+     "title": "하나은행, 현대차와 'AllDayEnergy 내맘적금' 출시…최고 연 4.5% 금리 - 서울타임즈뉴스",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QUVAyZlFjeHBxOU1rUFpzek5ZaVF5Y2VTVjNmZW85Sm13Vjh6b2lQZDJkejUwcHA1TWtSV3A5MDhiOWpMaUR2N1dJVDFuMlpoVkJVMGJZV29lRGdnVWltOUhZZWs5c3pfVkdr?oc=5",
+     "source": "서울타임즈뉴스",
+     "date": "2026-07-21"
+    },
+    {
+     "title": "하나은행·현대차그룹, 'AllDayEnergy 내맘적금' 이벤트 21일 출시 - 펜앤마이크",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1EQ3NQNnV4WVc0YUdvWExtUE50S1p1NmlmU3hzN3B3T2haSElOWGtVcWlDQ1dpajUwYXN4VzRJQWI5T2cxTTNWSGFDbHZjN2JNd0ZUVHdMMWNWSVYteHpmYjdEYVdKSGFIMHd30gFvQVVfeXFMUHIzUk5pVFRrbV8ycG9VeGhhTkhVVEszcjFseHhXR1dyWnZHNzBoV1JYdEhiYV9pbl9VVXlHcFpxMzhnOVFOaDNKbXpuS3d5MzhtT19ENHFET1FEemMzM2VHdUIwUVRkVGlMNkxPdG5N?oc=5",
+     "source": "펜앤마이크",
+     "date": "2026-07-21"
+    }
+   ],
+   "in_disclosure": true
+  },
+  {
+   "bank": "하나은행",
+   "name": "친환경 적금",
+   "norm": "친환경적금",
+   "rate": 4.5,
+   "first_news": "2026-07-21",
+   "count": 1,
+   "articles": [
+    {
+     "title": "하나은행, 현대차그룹과 '친환경 적금' 출시···최고 연 4.5% 제공",
+     "link": "https://www.ziksir.com/news/articleView.html?idxno=140638",
+     "source": "네이버뉴스",
+     "date": "2026-07-21"
+    }
+   ],
+   "in_disclosure": false
+  },
   {
    "bank": "제주은행",
    "name": "퍼스트 적금",
@@ -2783,7 +2871,7 @@
    "norm": "만보기적금",
    "rate": 4.5,
    "first_news": "2026-07-15",
-   "count": 36,
+   "count": 42,
    "articles": [
     {
      "title": "하나은행 ‘만보기적금’ 출시…걸음수 따라 우대금리 최고 연 4.5%",
