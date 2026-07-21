@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-21 18:32",
+ "updated_at": "2026-07-21 20:54",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2492,6 +2492,12 @@
  ],
  "news": [
   {
+   "title": "하나은행, 현대차와 제휴 적금 출시…최고 연 4.5% 금리 - 포인트데일리",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9XaUg5WEFha3p1RzdiRnpJdUw3Xzd0UHgzY0RDQk1YOXlORVA3UWt2ejRLTEZqNkdwU08wZ0RPejNmSURmZzhYVVNmdGJZM2JUNW9ydmhGVUdzMENtSUhMWHlFNmhHZE9VNjJmazZ1NlRYMktj0gF0QVVfeXFMT1dpSDlYQWFrenVHN2JGekl1TDdfN3RQeDNjRENCTVg5eU5FUDdRa3Z6NEtMRmo2R3BTTzBnRE96M2ZJRGZnOFhVU2Z0YlkzYlQ1b3J2aEZVR3MwQ21JSExYeUU2aEdkT1U2MmZrNnU2VFgyS2M?oc=5",
+   "source": "포인트데일리",
+   "date": "2026-07-21"
+  },
+  {
    "title": "우리은행, 연 13% 적금 재출격…스마트카 관련 ETF도 출시 - 한국경제",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nT0tGQmR2TkRocTJVV3NNSHVpbENxX1p0dkJua1NqczlQTk9saXlVS1ZKVW90U2lxeVFGV2pkY0xWYlNkbUwwRnpWeThEalNHdGdKODVobjRLZw?oc=5",
    "source": "한국경제",
@@ -2555,12 +2561,6 @@
    "title": "현대차그룹, V2X 통합 브랜드 ‘올데이에너지’ 론칭…하나은행과 적금 출시 - 뉴스락",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoM0RQODd6b3BaUVVfVmhCNTJ4WWNaWFBJTXVkZnVjQ3RtcFVNQjFNM2c1cklfX2dvY1dLTHp1c1lSd05YZUxHYU4wM011dlMzemswZm5kRW1samFqUlV4aDdzRy1LOE9rWXJlbA?oc=5",
    "source": "뉴스락",
-   "date": "2026-07-21"
-  },
-  {
-   "title": "신한은행, 예·적금 금리 최대 0.4%p 인상…특판 최고 연 3.4% - 베타뉴스",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE80RDdOTE5fX21qRW1neVdBb1kyYlhPSGtpSWt6QlIwUlkzWm1FNmQxWVN4VDhNYzNrRnJYQ2U0U2Fuek51SUswWFgtOUNjNGp6UFU2S3NBaHlpYnNodGlScWYwREo?oc=5",
-   "source": "베타뉴스",
    "date": "2026-07-21"
   }
  ],
@@ -2757,7 +2757,8 @@
   "1720ba4a39fbd64d",
   "8785e43e8c9993c3",
   "c78677a414336e2b",
-  "336c67dc3897ffda"
+  "336c67dc3897ffda",
+  "5e2b61bd6c61511f"
  ],
  "news_seeded": true,
  "news_products": [
@@ -2767,7 +2768,7 @@
    "norm": "올데이에너지내맘적금",
    "rate": 4.5,
    "first_news": "2026-07-21",
-   "count": 13,
+   "count": 14,
    "articles": [
     {
      "title": "하나은행, ‘올데이에너지 내맘적금’ 출시… 최대 4.5% 금리 - 동아일보",
