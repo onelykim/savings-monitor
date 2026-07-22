@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-23 03:15",
+ "updated_at": "2026-07-23 05:17",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2492,6 +2492,18 @@
  ],
  "news": [
   {
+   "title": "독도愛사랑적금 출시… 만기 해지 시 계약금 1% 독도 수호 기부금으로 - 조선일보",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQVhIMGE1ZWpOaUFCTlFQX3lhVFE5N21xTWdnckpsVG9xdFJzSUFjSmtXdng5TW9ydUVtclVpeWFnS0p1enRmOWkyVy00cUdBVVAydjVvNTdaNnZwRkZHYmlickxzUUJVYkdWQkZLT0tjVkd1bExTZzFlZUdfUmdzN05jWEZ6dWZIUHFJ?oc=5",
+   "source": "조선일보",
+   "date": "2026-07-23"
+  },
+  {
+   "title": "하나은행, '올데이에너지 내맘적금' 출시…최대 4.5% 금리 - 네이트",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE12SEE4ZmZmZEFDM3hZVG1TT1dnWkt0ZEh0VnVGLUZOSG0zc1U1RWJidXZ0cGFOc0NHeXo5T0Z6anVEWkxPTFVhOG9uTGVITlR0SjNNaTZiOGRMZXFDMUN0SlhPbTM5Q0FPbm9KUjBR?oc=5",
+   "source": "네이트",
+   "date": "2026-07-21"
+  },
+  {
    "title": "하나은행, 현대차 V2X 서비스 연계 적금 출시…5000명 한정 혜택 - 네이트",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lekc0STBWRFBCZWdFLUI5U29aa1o1dTM2STNXOEY0djh6Z0ZXMTVVMTZHZGM4QWI2VzZ1RlhHeUlYVklLTkZRLUhkRjR4VjQxMFFB?oc=5",
    "source": "네이트",
@@ -2549,18 +2561,6 @@
    "title": "우리은행, 연 13% 적금 재출격…스마트카 관련 ETF도 출시 - 한국경제",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nT0tGQmR2TkRocTJVV3NNSHVpbENxX1p0dkJua1NqczlQTk9saXlVS1ZKVW90U2lxeVFGV2pkY0xWYlNkbUwwRnpWeThEalNHdGdKODVobjRLZw?oc=5",
    "source": "한국경제",
-   "date": "2026-07-21"
-  },
-  {
-   "title": "하나은행, 현대차그룹과 ‘AllDayEnergy 내맘적금’ 출시 이벤트…최고 연 4.5% - 비욘드포스트",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4zTDFncjhiNFRUMjNqNDhGaDlqU1BlVlNxdllLM1JFSENsUk5ud3l0ZWs2dTA3Z3FQc3g3SXp5NUdwTi1mb0pxNVpxTkZRdEl2eUhmdFJrNFJ2alc4emdYOU5wOFFrTFZtbUJkVU15QUk5d3RFNnlxbi1vVGk?oc=5",
-   "source": "비욘드포스트",
-   "date": "2026-07-21"
-  },
-  {
-   "title": "하나은행·현대차그룹, 최고 연 4.5% 전기차 연계 적금 출시 - 뉴스퀘스트",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5oNzEtcXRnYWxwX2lKS1JSak5YdUVEaGtuRVBvazVsNUM0UFVZeFotcjZQMFdLNTdXLURvU2lZWjUzMktIa3NNaW03eGNxUG5WZGU3ZVJDY2x1ZGhYeUVyNWYwUVc0WUlkSUtyc3pHRdIBc0FVX3lxTFB6WWtIY2lMVW91dTJYTHI4TGVfekotX1dhaFpVTW5ycGJQLXI0TTFIRTA3TTFkV0pibDZBbE5rSW0wTEZQMHFUc2xCblpQZm9RSEowUHZacl9mN21ZemVCNmg4QnpfZDFSOEp5YXVHbHYyTjQ?oc=5",
-   "source": "뉴스퀘스트",
    "date": "2026-07-21"
   }
  ],
@@ -2766,7 +2766,9 @@
   "78f6be8537e962d6",
   "2ad661fa4a42f4fa",
   "ef2b6402cc05bbe8",
-  "d7aa3272b1fdb3d8"
+  "d7aa3272b1fdb3d8",
+  "33b0c201b3d57c95",
+  "decbe4c9524626e8"
  ],
  "news_seeded": true,
  "news_products": [
@@ -2776,7 +2778,7 @@
    "norm": "올데이에너지내맘적금",
    "rate": 4.5,
    "first_news": "2026-07-21",
-   "count": 17,
+   "count": 18,
    "articles": [
     {
      "title": "하나은행, ‘올데이에너지 내맘적금’ 출시… 최대 4.5% 금리 - 동아일보",
