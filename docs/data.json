@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-22 07:09",
+ "updated_at": "2026-07-22 09:00",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2492,6 +2492,18 @@
  ],
  "news": [
   {
+   "title": "하나은행, 현대차와 친환경 적금 출시…생활금융 플랫폼 확대 속도 - SR타임스",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5GR2NrVUdCdnR2QXFxMk1QcFd5a0dLbHVzMkhkYzBTcExRYldtd3FsekM1MnJCai1HcWVvMTQ5UVdrQlRqR2xQR2pHUk5NSUdQYndJLTEyTFVTenJ5RHNCbmxSc2o5U3PSAWtBVV95cUxNeVg5aFgzYmVET3J6NTFQS3J0MWhjR2x2T3BFNnRFOG55SHV1SWM5UEpsXzhaUmUxaE5YbkVGMlVfS1oyeTZ1WEoxT0lLX3BKX0NEc09ORG9Ydkx0MmM5ZTQxekllajVwNTlCNA?oc=5",
+   "source": "SR타임스",
+   "date": "2026-07-21"
+  },
+  {
+   "title": "신한은행, 예·적금 금리 최대 0.4%p 인상…특판은 최고 연 3.4% - 네이트",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xVjFuYm5BRGE1V19WX2lHSWRLM0l6amFpdml6dlVVUldzdU92Y3VKVGxlbW1saE12UEg4bEVaZ192QlRXYWt4QnpldVJGLWNnaE5rdnBRZ09DZGxfMjdwVE1lSWMxYzYyZ1d1QndB?oc=5",
+   "source": "네이트",
+   "date": "2026-07-21"
+  },
+  {
    "title": "하나은행·현대차그룹, 최고 연 4.5% 전기차 연계 적금 출시 - 뉴스퀘스트",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB6WWtIY2lMVW91dTJYTHI4TGVfekotX1dhaFpVTW5ycGJQLXI0TTFIRTA3TTFkV0pibDZBbE5rSW0wTEZQMHFUc2xCblpQZm9RSEowUHZacl9mN21ZemVCNmg4QnpfZDFSOEp5YXVHbHYyTjTSAXNBVV95cUxQellrSGNpTFVvdXUyWExyOExlX3pKLV9XYWhaVU1ucnBiUC1yNE0xSEUwN00xZFdKYmw2QWxOa0ltMExGUDBxVHNsQm5aUGZvUUhKMFB2WnJfZjdtWXplQjZoOEJ6X2QxUjhKeWF1R2x2Mk40?oc=5",
    "source": "뉴스퀘스트",
@@ -2549,18 +2561,6 @@
    "title": "하나銀-현대차그룹, ‘AllDayEnergy 내맘적금’ 출시…최고 연 4.5% 금리",
    "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065595256724776",
    "source": "네이버뉴스",
-   "date": "2026-07-21"
-  },
-  {
-   "title": "하나은행, 현대차와 친환경 연계 '올데이에너지 내맘적금' 출시 - 아이티비즈",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPNmJjM3ViVzdkbUcycTM4elVuQWZyd2ZwX1pRdEU3ZGNBcjNJdlRZOExKRzYyUEtXZVVtdl9QYVctZjVNRFRfZ18teEstbl90TFB6WG5Nb05KS29paWc4VV9aUnZKMVE?oc=5",
-   "source": "아이티비즈",
-   "date": "2026-07-21"
-  },
-  {
-   "title": "하나銀, 현대차그룹과 ‘올데이에너지 내맘적금’ 출시..연 4.5% 금리 - 한강타임즈",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBEWFlRVFhqX0tIV1N1dnVtUFY3NlJPWjdVVUVMNnpLNDlfTmpneWJfLTZqVzlFOUJyakpXZUZSVUJiS3haT2lMTkJzSG5US29BV2VjdzdjQUlqQmtiUUI5aVlmcEIxUGdGMW40?oc=5",
-   "source": "한강타임즈",
    "date": "2026-07-21"
   }
  ],
@@ -2761,7 +2761,9 @@
   "5e2b61bd6c61511f",
   "c6bb5852460561e3",
   "68fc894c37775d99",
-  "356b0e24ef108a82"
+  "356b0e24ef108a82",
+  "b848bb96860382e9",
+  "78f6be8537e962d6"
  ],
  "news_seeded": true,
  "news_products": [
