@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-22 09:00",
+ "updated_at": "2026-07-22 12:33",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2492,6 +2492,18 @@
  ],
  "news": [
   {
+   "title": "[금융에너지융합혜택]하나은행, 현대차와 손잡고 ‘AllDayEnergy 내맘적금’ 출시…친환경·금융 - 전국뉴스",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DTW03RFdFbWRyUGZTNlB2bFhidXpkVkNNMkJ2b1FPa09NX0NqaG1KWGFwVXhMOFhmeG5ka3NlWXpQMG12NWl2Q0pEVTNHRzNyZzZwbUpoaUhoUnNzQVczVHZpcnFiUUQ1bEZ1RTZaRWY?oc=5",
+   "source": "전국뉴스",
+   "date": "2026-07-22"
+  },
+  {
+   "title": "하나은행, '올데이에너지 내맘적금' 출시…최대 4.5% 금리 - 네이트",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XaTFmZ1ZlUGJaanBZNHNZMjdScU1Lc2hKbWFiUXFjSkVheV81LXppMHNGSEg0dTdkZUZCUEt3RlVMY0JNNEdSM0FlQmxoV0lvRzJmdVNkWUFGVnZvQk10V2p1Q0VzWXh5T0w1TXhn?oc=5",
+   "source": "네이트",
+   "date": "2026-07-21"
+  },
+  {
    "title": "하나은행, 현대차와 친환경 적금 출시…생활금융 플랫폼 확대 속도 - SR타임스",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5GR2NrVUdCdnR2QXFxMk1QcFd5a0dLbHVzMkhkYzBTcExRYldtd3FsekM1MnJCai1HcWVvMTQ5UVdrQlRqR2xQR2pHUk5NSUdQYndJLTEyTFVTenJ5RHNCbmxSc2o5U3PSAWtBVV95cUxNeVg5aFgzYmVET3J6NTFQS3J0MWhjR2x2T3BFNnRFOG55SHV1SWM5UEpsXzhaUmUxaE5YbkVGMlVfS1oyeTZ1WEoxT0lLX3BKX0NEc09ORG9Ydkx0MmM5ZTQxekllajVwNTlCNA?oc=5",
    "source": "SR타임스",
@@ -2549,18 +2561,6 @@
    "title": "\"전기차 타면 최고 연4.5%\" 하나은행, 현대차 V2X 연계 '내맘적금' 출시 - catchnews.kr",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04T2E3XzdOQzlMNHRzcnh4LUFGSWd6bGdJMkhMMEpPQlVEdDBVSXpiSG9UVnBseERRRzM4REszcVJ0SXA0dnJUTzBSckVmSDYyNkhwXzZUckduN1c5dHRCa1Q2NmdTWjgySG1j?oc=5",
    "source": "catchnews.kr",
-   "date": "2026-07-21"
-  },
-  {
-   "title": "제주은행, '저축의 시작' 응원하는 최고 연 6.0% '퍼스트 적금' 출시",
-   "link": "https://www.newsjeju.net/news/articleView.html?idxno=423538",
-   "source": "네이버뉴스",
-   "date": "2026-07-21"
-  },
-  {
-   "title": "하나銀-현대차그룹, ‘AllDayEnergy 내맘적금’ 출시…최고 연 4.5% 금리",
-   "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065595256724776",
-   "source": "네이버뉴스",
    "date": "2026-07-21"
   }
  ],
@@ -2763,7 +2763,9 @@
   "68fc894c37775d99",
   "356b0e24ef108a82",
   "b848bb96860382e9",
-  "78f6be8537e962d6"
+  "78f6be8537e962d6",
+  "2ad661fa4a42f4fa",
+  "ef2b6402cc05bbe8"
  ],
  "news_seeded": true,
  "news_products": [
@@ -2773,7 +2775,7 @@
    "norm": "올데이에너지내맘적금",
    "rate": 4.5,
    "first_news": "2026-07-21",
-   "count": 16,
+   "count": 17,
    "articles": [
     {
      "title": "하나은행, ‘올데이에너지 내맘적금’ 출시… 최대 4.5% 금리 - 동아일보",
@@ -2808,7 +2810,7 @@
    "norm": "AllDayEnergy내맘적금",
    "rate": 4.5,
    "first_news": "2026-07-21",
-   "count": 11,
+   "count": 12,
    "articles": [
     {
      "title": "하나은행, 현대차그룹과 ‘AllDayEnergy 내맘적금’ 출시 이벤트 - BBS불교방송",
