@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-22 12:33",
+ "updated_at": "2026-07-22 15:38",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2492,6 +2492,12 @@
  ],
  "news": [
   {
+   "title": "하나은행, 현대차 V2X 서비스 연계 적금 출시…5000명 한정 혜택 - 네이트",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lekc0STBWRFBCZWdFLUI5U29aa1o1dTM2STNXOEY0djh6Z0ZXMTVVMTZHZGM4QWI2VzZ1RlhHeUlYVklLTkZRLUhkRjR4VjQxMFFB?oc=5",
+   "source": "네이트",
+   "date": "2026-07-21"
+  },
+  {
    "title": "[금융에너지융합혜택]하나은행, 현대차와 손잡고 ‘AllDayEnergy 내맘적금’ 출시…친환경·금융 - 전국뉴스",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DTW03RFdFbWRyUGZTNlB2bFhidXpkVkNNMkJ2b1FPa09NX0NqaG1KWGFwVXhMOFhmeG5ka3NlWXpQMG12NWl2Q0pEVTNHRzNyZzZwbUpoaUhoUnNzQVczVHZpcnFiUUQ1bEZ1RTZaRWY?oc=5",
    "source": "전국뉴스",
@@ -2555,12 +2561,6 @@
    "title": "하나은행·현대차그룹, 최고 연 4.5% 전기차 연계 적금 출시 - 뉴스퀘스트",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5oNzEtcXRnYWxwX2lKS1JSak5YdUVEaGtuRVBvazVsNUM0UFVZeFotcjZQMFdLNTdXLURvU2lZWjUzMktIa3NNaW03eGNxUG5WZGU3ZVJDY2x1ZGhYeUVyNWYwUVc0WUlkSUtyc3pHRdIBc0FVX3lxTFB6WWtIY2lMVW91dTJYTHI4TGVfekotX1dhaFpVTW5ycGJQLXI0TTFIRTA3TTFkV0pibDZBbE5rSW0wTEZQMHFUc2xCblpQZm9RSEowUHZacl9mN21ZemVCNmg4QnpfZDFSOEp5YXVHbHYyTjQ?oc=5",
    "source": "뉴스퀘스트",
-   "date": "2026-07-21"
-  },
-  {
-   "title": "\"전기차 타면 최고 연4.5%\" 하나은행, 현대차 V2X 연계 '내맘적금' 출시 - catchnews.kr",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04T2E3XzdOQzlMNHRzcnh4LUFGSWd6bGdJMkhMMEpPQlVEdDBVSXpiSG9UVnBseERRRzM4REszcVJ0SXA0dnJUTzBSckVmSDYyNkhwXzZUckduN1c5dHRCa1Q2NmdTWjgySG1j?oc=5",
-   "source": "catchnews.kr",
    "date": "2026-07-21"
   }
  ],
@@ -2765,7 +2765,8 @@
   "b848bb96860382e9",
   "78f6be8537e962d6",
   "2ad661fa4a42f4fa",
-  "ef2b6402cc05bbe8"
+  "ef2b6402cc05bbe8",
+  "d7aa3272b1fdb3d8"
  ],
  "news_seeded": true,
  "news_products": [
