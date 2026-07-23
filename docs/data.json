@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-23 19:32",
+ "updated_at": "2026-07-23 21:45",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2492,6 +2492,12 @@
  ],
  "news": [
   {
+   "title": "제주은행, ‘저축의 시작’ 응원하는 최고 연 6.0% ‘퍼스트 적금’ 출시 - 뉴스제주",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMMHBCazBZVlFOTTZxMlFtVzQwZEhtNTNUa09selFjOHRBelVyelhTamZ6a3dHeGdyU09fUXRsZmpWUHBxc1BqMmVlVTZwWXFia2VFUDl0djVpWlNyNWFuZUJWTkxVem9lOGlF?oc=5",
+   "source": "뉴스제주",
+   "date": "2026-07-21"
+  },
+  {
    "title": "군산원예농협, 상호금융 6천억원 돌파 기념 예·적금 특판 실시 - 전민일보",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LY09ZVzdKOGJFT0pDQ2J5THAtNjM0Z0pFVWZpVnpqVkN1ZVRWemlCbFJaVDBmb1l3d3lCTVRBa2RuVGhWVVJtQlRKM1EwQVFwdDFuZ3psTnBiamRzSnQ5ZXZzXzFQUlg5cmhB?oc=5",
    "source": "전민일보",
@@ -2555,12 +2561,6 @@
    "title": "신한은행, 예·적금 금리 최대 0.4%p 인상…특판은 최고 연 3.4% - 네이트",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xVjFuYm5BRGE1V19WX2lHSWRLM0l6amFpdml6dlVVUldzdU92Y3VKVGxlbW1saE12UEg4bEVaZ192QlRXYWt4QnpldVJGLWNnaE5rdnBRZ09DZGxfMjdwVE1lSWMxYzYyZ1d1QndB?oc=5",
    "source": "네이트",
-   "date": "2026-07-21"
-  },
-  {
-   "title": "하나은행·현대차그룹, 최고 연 4.5% 전기차 연계 적금 출시 - 뉴스퀘스트",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB6WWtIY2lMVW91dTJYTHI4TGVfekotX1dhaFpVTW5ycGJQLXI0TTFIRTA3TTFkV0pibDZBbE5rSW0wTEZQMHFUc2xCblpQZm9RSEowUHZacl9mN21ZemVCNmg4QnpfZDFSOEp5YXVHbHYyTjTSAXNBVV95cUxQellrSGNpTFVvdXUyWExyOExlX3pKLV9XYWhaVU1ucnBiUC1yNE0xSEUwN00xZFdKYmw2QWxOa0ltMExGUDBxVHNsQm5aUGZvUUhKMFB2WnJfZjdtWXplQjZoOEJ6X2QxUjhKeWF1R2x2Mk40?oc=5",
-   "source": "뉴스퀘스트",
    "date": "2026-07-21"
   }
  ],
@@ -2772,7 +2772,8 @@
   "c1bcaeea4503d75b",
   "d53e9dabfd5fd592",
   "d8db978707654298",
-  "34863b10289a38b3"
+  "34863b10289a38b3",
+  "a820f6fd94efee3d"
  ],
  "news_seeded": true,
  "news_products": [
@@ -2886,7 +2887,7 @@
    "norm": "퍼스트적금",
    "rate": 6.0,
    "first_news": "2026-07-20",
-   "count": 12,
+   "count": 13,
    "articles": [
     {
      "title": "제주은행, 최고 연 6.0% 금리 제공 '퍼스트 적금' 출시 - 제주도민일보",
