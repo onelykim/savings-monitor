@@ -401,6 +401,38 @@ def esc(s):
     return (s or "").replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
 
 
+GUIDE_HOURS = (10, 13, 18)  # KST 기준: 오전 10시 / 오후 1시 / 저녁 6시 (매시 7분 실행분에서 발송)
+
+
+def send_command_guide(now, site_url):
+    """하루 3번, 채널에 흰둥이 명령어 사용법 안내."""
+    if now.hour not in GUIDE_HOURS:
+        return
+    token = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
+    bot_line = ""
+    if token:
+        try:
+            req = urllib.request.Request(f"https://api.telegram.org/bot{token}/getMe")
+            with urllib.request.urlopen(req, timeout=15) as r:
+                username = json.loads(r.read().decode()).get("result", {}).get("username")
+            if username:
+                bot_line = f"\n🤖 흰둥이와 1:1 대화: https://t.me/{username}"
+        except Exception:  # noqa: BLE001
+            pass
+    send_telegram(
+        "🐶 <b>멍멍! 흰둥이 사용법 안내</b> 🦴\n"
+        "저에게 1:1 메시지를 보내거나, 그룹방에 초대해서 이렇게 시켜보세요:\n\n"
+        "🦴 /top10 — 최고우대금리 TOP 10 물어오기\n"
+        "🆕 /new — 따끈따끈한 신상 적금\n"
+        "📰 /뉴스 — 최신 적금 뉴스\n"
+        "🏦 /은행 국민 — 특정 은행 적금만 보기\n"
+        "🔎 /검색 청년 — 상품 이름·키워드 검색\n"
+        f"{bot_line}\n📊 전체 비교표: {site_url}\n\n"
+        "새 적금이 나오면 이 채널에서 제일 먼저 짖어드릴게요! 🐕💨"
+    )
+    print("명령어 안내 발송 완료")
+
+
 def rank_of(rate, products):
     rates = sorted((p["best_rate"] for p in products), reverse=True)
     for i, r in enumerate(rates, 1):
@@ -471,10 +503,12 @@ def main():
         if not prev.get("products"):
             sys.exit(0)  # 아직 기준선도 없으면 할 일 없음
         data = dict(prev)  # 상품 데이터는 마지막 성공본 유지 (updated_at 포함)
-        update_news(prev, data, os.environ.get("SITE_URL", "").strip() or "")
+        site = os.environ.get("SITE_URL", "").strip() or ""
+        update_news(prev, data, site)
         os.makedirs(os.path.dirname(DATA_PATH), exist_ok=True)
         with open(DATA_PATH, "w", encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=1)
+        send_command_guide(now, site)
         print("상품 수집은 건너뛰고 뉴스만 갱신했습니다.")
         sys.exit(0)
 
@@ -537,6 +571,8 @@ def main():
     removed = [k for k in prev_products if k not in {p['key'] for p in products}]
     if removed:
         print(f"판매종료로 목록에서 제외: {len(removed)}건")
+
+    send_command_guide(now, site_url)
 
 
 if __name__ == "__main__":
