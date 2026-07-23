@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-23 09:09",
+ "updated_at": "2026-07-23 13:22",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2492,6 +2492,18 @@
  ],
  "news": [
   {
+   "title": "[상품백서] \"달리면 이자 더 줘요\"...KB·신한·하나은행 러닝족 겨냥 '운동 적금' 속속 출시 - 소비자가 만드는 신문",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE82MklkMkNHQzZQaFhLLXd0eHo4OERSRGZFVG9PWkI4YVZOR3Bvc2FlWWNxOU93WVpVMVdRbWlvQUhZRU5kaUdHUDFMR29YdGt3aGdqUEV0SWVzWVdhNGpTd2VjZ3lwUXM5SWxPczhlWHQyeDg?oc=5",
+   "source": "소비자가 만드는 신문",
+   "date": "2026-07-23"
+  },
+  {
+   "title": "군산원예농협, 상호금융 자산 6,000억 돌파 기념 23일부터 예·적금 특판 - 투데이 군산",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03c1Y2bmxGVktlTDNCYl9EYTQtdk1CS0hvY2FfQkpFSURTY0c5bGR4NmhYZnZwMVFEaXl6S0llUkVoaDBuSXRFTW0zdFB3cTZpM252S0ROMDFTTkdnaWhqRTJLNHFGdG1NUWI4b2xxLXg?oc=5",
+   "source": "투데이 군산",
+   "date": "2026-07-23"
+  },
+  {
    "title": "독도愛사랑적금 출시… 만기 해지 시 계약금 1% 독도 수호 기부금으로 - 조선일보",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQVhIMGE1ZWpOaUFCTlFQX3lhVFE5N21xTWdnckpsVG9xdFJzSUFjSmtXdng5TW9ydUVtclVpeWFnS0p1enRmOWkyVy00cUdBVVAydjVvNTdaNnZwRkZHYmlickxzUUJVYkdWQkZLT0tjVkd1bExTZzFlZUdfUmdzN05jWEZ6dWZIUHFJ?oc=5",
    "source": "조선일보",
@@ -2549,18 +2561,6 @@
    "title": "현대차그룹, 글로벌 V2X 통합 서비스 론칭…연계 적금도 출시 - 매일경제TV",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZYjRaMWhlUlk4VElKUmRmMXhQWlRCbWNuZ0lValJKampXTElmT0ZJZWVWdGxMa3FaRzVLRmdGMmc0WFFMMWRrVVByOEZrQVQ0ZHVlVV92aV9ySWNyTno5eUVnajFwR2tBSGQ0?oc=5",
    "source": "매일경제TV",
-   "date": "2026-07-21"
-  },
-  {
-   "title": "하나은행, 현대차와 제휴 적금 출시…최고 연 4.5% 금리 - 포인트데일리",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9XaUg5WEFha3p1RzdiRnpJdUw3Xzd0UHgzY0RDQk1YOXlORVA3UWt2ejRLTEZqNkdwU08wZ0RPejNmSURmZzhYVVNmdGJZM2JUNW9ydmhGVUdzMENtSUhMWHlFNmhHZE9VNjJmazZ1NlRYMktj0gF0QVVfeXFMT1dpSDlYQWFrenVHN2JGekl1TDdfN3RQeDNjRENCTVg5eU5FUDdRa3Z6NEtMRmo2R3BTTzBnRE96M2ZJRGZnOFhVU2Z0YlkzYlQ1b3J2aEZVR3MwQ21JSExYeUU2aEdkT1U2MmZrNnU2VFgyS2M?oc=5",
-   "source": "포인트데일리",
-   "date": "2026-07-21"
-  },
-  {
-   "title": "우리은행, 연 13% 적금 재출격…스마트카 관련 ETF도 출시 - 한국경제",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nT0tGQmR2TkRocTJVV3NNSHVpbENxX1p0dkJua1NqczlQTk9saXlVS1ZKVW90U2lxeVFGV2pkY0xWYlNkbUwwRnpWeThEalNHdGdKODVobjRLZw?oc=5",
-   "source": "한국경제",
    "date": "2026-07-21"
   }
  ],
@@ -2768,10 +2768,29 @@
   "ef2b6402cc05bbe8",
   "d7aa3272b1fdb3d8",
   "33b0c201b3d57c95",
-  "decbe4c9524626e8"
+  "decbe4c9524626e8",
+  "c1bcaeea4503d75b",
+  "d53e9dabfd5fd592"
  ],
  "news_seeded": true,
  "news_products": [
+  {
+   "bank": "국민은행",
+   "name": "운동 적금",
+   "norm": "운동적금",
+   "rate": null,
+   "first_news": "2026-07-23",
+   "count": 1,
+   "articles": [
+    {
+     "title": "[상품백서] \"달리면 이자 더 줘요\"...KB·신한·하나은행 러닝족 겨냥 '운동 적금' 속속 출시 - 소비자가 만드는 신문",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE82MklkMkNHQzZQaFhLLXd0eHo4OERSRGZFVG9PWkI4YVZOR3Bvc2FlWWNxOU93WVpVMVdRbWlvQUhZRU5kaUdHUDFMR29YdGt3aGdqUEV0SWVzWVdhNGpTd2VjZ3lwUXM5SWxPczhlWHQyeDg?oc=5",
+     "source": "소비자가 만드는 신문",
+     "date": "2026-07-23"
+    }
+   ],
+   "in_disclosure": false
+  },
   {
    "bank": "하나은행",
    "name": "올데이에너지 내맘적금",
