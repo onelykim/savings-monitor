@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="ko">
 <head>
@@ -302,7 +301,7 @@ html.dark .hero{background:linear-gradient(130deg,#0a1832 0%,#122f63 45%,#1b4fa8
         <div class="maker-sub">적금레이더가 유용했다면, 의견·제보·문의는 언제든 환영이에요!</div>
         <div class="maker-links">
           <a href="https://t.me/onelykim" target="_blank" rel="noopener">💬 텔레그램 DM</a>
-          <a href="mailto:ffrree815@gmail.com">✉️ 이메일 보내기</a>
+          <a href="#" id="emailBtn" title="클릭하면 주소가 복사돼요">✉️ ffrree815@gmail.com</a>
           <a href="https://t.me/heeendoong_jeokgeum" target="_blank" rel="noopener">📢 알림 채널</a>
         </div>
       </div>
@@ -605,6 +604,21 @@ async function init(){
   $("#cmpClear").addEventListener("click",()=>{selected.clear();updateCmpBar();renderTable();$("#cmpPanel").classList.remove("on")});
   $("#cmpClose").addEventListener("click",()=>$("#cmpPanel").classList.remove("on"));
 }
+(function(){
+  var eb=document.getElementById("emailBtn");
+  if(eb) eb.addEventListener("click",function(ev){
+    ev.preventDefault();
+    var addr="ffrree815@gmail.com";
+    function done(){ eb.textContent="✅ 복사됐어요!"; setTimeout(function(){eb.textContent="✉️ "+addr},1600); }
+    if(navigator.clipboard&&navigator.clipboard.writeText){ navigator.clipboard.writeText(addr).then(done,fallback); }
+    else fallback();
+    function fallback(){
+      var t=document.createElement("textarea"); t.value=addr; document.body.appendChild(t);
+      t.select(); try{document.execCommand("copy");done();}catch(e){ eb.textContent="✉️ "+addr+" (직접 복사해주세요)"; }
+      document.body.removeChild(t);
+    }
+  });
+})();
 (function(){
   var btn=document.getElementById("themeBtn");
   function sync(){btn.textContent=document.documentElement.classList.contains("dark")?"☀️":"🌙"}
