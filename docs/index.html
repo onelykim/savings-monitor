@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="ko">
 <head>
@@ -6,6 +7,12 @@
 <title>적금레이더 🛰️: 적금찾는 흰둥이! 🐶</title>
 <meta name="description" content="국내 시중은행·인터넷은행 적금 상품을 매시간 자동 수집해 비교합니다. 신규 상품 알림 제공.">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
+<script>
+(function(){try{
+  var t=localStorage.getItem("theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");
+  if(t==="dark")document.documentElement.classList.add("dark");
+}catch(e){}})();
+</script>
 <style>
 :root{
   --page:#f2f4f8; --surface-1:#ffffff; --surface-2:#f7f9fc;
@@ -18,8 +25,7 @@
   --shadow:0 2px 14px rgba(2,32,71,.06), 0 1px 3px rgba(2,32,71,.04);
   --radius:20px;
 }
-@media (prefers-color-scheme: dark){
-  :root{
+html.dark{
     --page:#0f1117; --surface-1:#191d26; --surface-2:#1f242f;
     --ink-1:#f2f4f8; --ink-2:#b0b8c1; --ink-3:#79818c;
     --grid:#262b36; --axis:#2e3440; --border:rgba(255,255,255,0.06);
@@ -29,7 +35,6 @@
     --news:#f09a5e; --news-soft:#33251a;
     --shadow:0 2px 14px rgba(0,0,0,.35);
   }
-}
 *{box-sizing:border-box}
 html{scroll-behavior:smooth}
 body{margin:0;background:var(--page);color:var(--ink-1);
@@ -174,21 +179,39 @@ body{font-family:"Pretendard Variable",Pretendard,-apple-system,BlinkMacSystemFo
 /* 은행 아바타 */
 .avatar{display:inline-flex;width:27px;height:27px;border-radius:9px;align-items:center;justify-content:center;
   font-size:12.5px;font-weight:800;margin-right:9px;vertical-align:-8px;letter-spacing:0}
-@media (prefers-color-scheme:dark){
-  .topbar{background:rgba(15,17,23,.78)}
-  .hero{background:linear-gradient(130deg,#0a1832 0%,#122f63 45%,#1b4fa8 100%)}
-}
+html.dark .topbar{background:rgba(15,17,23,.78)}
+html.dark .hero{background:linear-gradient(130deg,#0a1832 0%,#122f63 45%,#1b4fa8 100%)}
 @media (max-width:640px){
   .hero{padding:40px 16px 92px}
   .hero h1{font-size:28px}
 }
+.theme-btn{width:36px;height:36px;border-radius:50%;border:1px solid var(--border);
+  background:var(--surface-2);font-size:16px;cursor:pointer;display:flex;align-items:center;justify-content:center;
+  transition:transform .15s ease}
+.theme-btn:hover{transform:translateY(-1px)}
+/* 만든 사람 카드 */
+.maker-card{background:linear-gradient(130deg,var(--new-bg),var(--surface-1) 70%)}
+.maker{display:flex;align-items:center;gap:18px}
+.maker-dog{width:56px;height:56px;border-radius:50%;background:var(--accent-soft);
+  display:flex;align-items:center;justify-content:center;font-size:28px;flex-shrink:0}
+.maker-title{font-size:16px;font-weight:600}
+.maker-title b{font-weight:800}
+.maker-sub{font-size:13.5px;color:var(--ink-2);margin-top:2px}
+.maker-links{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px}
+.maker-links a{display:inline-flex;align-items:center;gap:4px;padding:7px 14px;border-radius:999px;
+  background:var(--surface-2);color:var(--ink-1);text-decoration:none;font-size:13px;font-weight:700;
+  border:1px solid var(--border);transition:transform .15s ease}
+.maker-links a:hover{transform:translateY(-1px);color:var(--accent-ink)}
 </style>
 </head>
 <body>
 <nav class="topbar">
   <div class="nav-in">
     <div class="logo">🛰️ 적금레이더</div>
-    <a class="tg-mini" id="tgLink" href="#" style="display:none">📢 알림 채널 구독</a>
+    <div style="display:flex;align-items:center;gap:8px">
+      <button class="theme-btn" id="themeBtn" title="다크모드 전환">🌙</button>
+      <a class="tg-mini" id="tgLink" href="#" style="display:none">📢 알림 채널 구독</a>
+    </div>
   </div>
 </nav>
 
@@ -235,7 +258,8 @@ body{font-family:"Pretendard Variable",Pretendard,-apple-system,BlinkMacSystemFo
 
   <section class="card">
     <h2>전체 상품 비교표</h2>
-    <p class="count-note" style="margin:0 0 10px">체크박스로 상품을 골라(최대 3개) 나란히 비교할 수 있어요.</p>
+    <p class="count-note" style="margin:0 0 10px">체크박스로 상품을 골라(최대 3개) 나란히 비교할 수 있어요.
+    공시 데이터는 월 단위 갱신이라 실제 판매 상품과 시차가 있을 수 있어요 — 최신 소식은 📰 뉴스 표시 상품을 참고!</p>
     <div class="filters">
       <input type="search" id="q" placeholder="은행·상품명 검색">
       <select id="bankSel"><option value="">모든 은행</option></select>
@@ -270,9 +294,27 @@ body{font-family:"Pretendard Variable",Pretendard,-apple-system,BlinkMacSystemFo
     </div>
   </section>
 
+  <section class="card maker-card">
+    <div class="maker">
+      <div class="maker-dog">🐶</div>
+      <div>
+        <div class="maker-title">만든 사람: <b>onely</b></div>
+        <div class="maker-sub">적금레이더가 유용했다면, 의견·제보·문의는 언제든 환영이에요!</div>
+        <div class="maker-links">
+          <a href="https://t.me/onelykim" target="_blank" rel="noopener">💬 텔레그램 DM</a>
+          <a href="mailto:ffrree815@gmail.com">✉️ 이메일 보내기</a>
+          <a href="https://t.me/heeendoong_jeokgeum" target="_blank" rel="noopener">📢 알림 채널</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
   <footer>
+    ⚠️ 금감원 공시 데이터는 <b>월 단위로 갱신</b>되기 때문에, 은행이 실제 판매 중인 상품·금리와 시차(최대 약 1개월)가 있을 수 있습니다.
+    최신 신상품·특판 소식은 📰 뉴스 레이더와 텔레그램 알림 채널이 먼저 잡아드리며, 가입 전에는 반드시 해당 은행 앱·홈페이지에서 현재 조건을 확인하세요.<br><br>
     데이터 출처: <a href="https://finlife.fss.or.kr" target="_blank" rel="noopener">금융감독원 금융상품통합비교공시 「금융상품한눈에」</a> ·
-    금리는 세전 연이율이며 실제 조건은 각 은행 페이지에서 확인하세요. 본 사이트는 정보 제공 목적이며 금융상품 권유가 아닙니다.
+    금리는 세전 연이율이며 실제 조건은 각 은행 페이지에서 확인하세요. 본 사이트는 정보 제공 목적이며 금융상품 권유가 아닙니다.<br>
+    Made with 🐶 by <a href="https://t.me/onelykim" target="_blank" rel="noopener">onely</a>
   </footer>
 </div>
 
@@ -563,6 +605,16 @@ async function init(){
   $("#cmpClear").addEventListener("click",()=>{selected.clear();updateCmpBar();renderTable();$("#cmpPanel").classList.remove("on")});
   $("#cmpClose").addEventListener("click",()=>$("#cmpPanel").classList.remove("on"));
 }
+(function(){
+  var btn=document.getElementById("themeBtn");
+  function sync(){btn.textContent=document.documentElement.classList.contains("dark")?"☀️":"🌙"}
+  sync();
+  btn.addEventListener("click",function(){
+    var dark=document.documentElement.classList.toggle("dark");
+    try{localStorage.setItem("theme",dark?"dark":"light")}catch(e){}
+    sync();
+  });
+})();
 init();
 </script>
 </body>
