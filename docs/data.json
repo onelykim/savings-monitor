@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-24 13:21",
+ "updated_at": "2026-07-24 16:38",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -1302,26 +1302,26 @@
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
-     "intr_rate": 2.5,
-     "intr_rate2": 3.4
+     "intr_rate": 2.75,
+     "intr_rate2": 3.65
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
-     "intr_rate": 2.7,
-     "intr_rate2": 3.7
+     "intr_rate": 2.95,
+     "intr_rate2": 3.95
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
-     "intr_rate": 2.8,
-     "intr_rate2": 4.0
+     "intr_rate": 3.05,
+     "intr_rate2": 4.25
     }
    ],
-   "best_rate": 4.0,
-   "best_base_rate": 2.8,
+   "best_rate": 4.25,
+   "best_base_rate": 3.05,
    "best_term": 36,
    "naver_url": "https://search.naver.com/search.naver?query=%EA%B5%AD%EB%AF%BC%EC%9D%80%ED%96%89%20KB%EA%B5%AD%EB%AF%BC%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84%EC%A0%81%EA%B8%88%28%EC%A0%95%EC%95%A1%29",
    "first_seen": "2026-07-10",
@@ -1393,26 +1393,26 @@
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 2.45,
-     "intr_rate2": 3.25
+     "intr_rate": 2.65,
+     "intr_rate2": 3.45
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 2.55,
-     "intr_rate2": 3.45
+     "intr_rate": 2.75,
+     "intr_rate2": 3.65
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 2.85,
-     "intr_rate2": 3.85
+     "intr_rate": 3.05,
+     "intr_rate2": 4.05
     }
    ],
-   "best_rate": 3.85,
-   "best_base_rate": 2.85,
+   "best_rate": 4.05,
+   "best_base_rate": 3.05,
    "best_term": 36,
    "naver_url": "https://search.naver.com/search.naver?query=%EA%B5%AD%EB%AF%BC%EC%9D%80%ED%96%89%20KB%EB%A7%91%EC%9D%80%ED%95%98%EB%8A%98%EC%A0%81%EA%B8%88",
    "first_seen": "2026-07-10",
