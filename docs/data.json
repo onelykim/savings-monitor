@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-28 02:04",
+ "updated_at": "2026-07-28 03:42",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2492,6 +2492,12 @@
  ],
  "news": [
   {
+   "title": "신협, 최고 연 7% 독도愛사랑적금 출시…\"가입만으로 독도 지킨다\" - MTN 머니투데이방송",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5iTkJlMURVVTdJd1F0eXdjcmJFOWZiSEkyTmpNdWNDSWFtMTVOakh0LU5RZ051Um5QM0hlWW1sbjFPT0RuZ2hlT3FySXpac0VLcURacWIxU2NmRTVXN200ZWJaM00?oc=5",
+   "source": "MTN 머니투데이방송",
+   "date": "2026-07-27"
+  },
+  {
    "title": "독도 사랑 담은 금융상품 나왔다…포항오천신협 ‘독도愛사랑적금’ 출시 - kyongbuk.co.kr",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTb0QzZ05NV2JiTEEwUDB4STRPckFNNnpQLTNsc2RCaGxKQ0JaWWhNR3VvVWhXZnV3V0l1ZHhPdzExYzVwaHc2b2dZRzd1X25hNzI3QWNjZGdDZ0NJanc0NzdmZTVhTml1Mm5DdmdLaw?oc=5",
    "source": "kyongbuk.co.kr",
@@ -2555,12 +2561,6 @@
    "title": "신협, '독도愛사랑적금' 출시…최고 연 7%에 기부까지 - 데일리안",
    "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPamdCMmQtRjJJTmhIcW1ha1VlRERUeVg2ZE81NmoxQ2lKSUtDSVd4RzhoTW1PdjBSbFl2WU5OUzdmSURuOVEyMHVISEZDT2l3cU9uQVZEVzNZVVliU3A2U3R1d3lPWTdGMVM2TDJOalRmZ0s5WEFVZ0dZYWNzdVlwSjZvSVk2RlZrTlBQQ3d0WDJEdXNYMUtfaHR0WG5nYm9wb3o4NHJFaWQ2ZWhjTzlLT0h0UEtZSXptQmp1QzRoRW9jWWlFaDl4QzZrWmZqZy1KSl9GemZNVlpOZlRYNmxld2lHcGdsMlZoUDFJbzFQbFhaUVZkUk9Wb2pGUGF1MUxSZFFRYWl6aHVlU2kxZ2psNVpIdGpGeWRM?oc=5",
    "source": "데일리안",
-   "date": "2026-07-27"
-  },
-  {
-   "title": "신협, '독도愛사랑적금' 출시…가입만 해도 독도수호 기부 - 충청일보",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE50Y1JJM2F4OVNsaUdTMmxpUzFfRkw5UVFVVU9rNmtDMUFGZkE1RHk1RlYtdTZMV1BhOGVlRTBkblFRODB0RkM2Qjh1cHhmMFVRaW1HNXpNZ0NLTjNnQlB5bE40Y0VMREgxUXg3OHZtaTU?oc=5",
-   "source": "충청일보",
    "date": "2026-07-27"
   }
  ],
@@ -2831,7 +2831,8 @@
   "2798e7cdf0a97068",
   "fb979b7eed5a28bf",
   "239c50543d5b5317",
-  "8b004069adda3322"
+  "8b004069adda3322",
+  "4823b6a814bae60a"
  ],
  "news_seeded": true,
  "news_products": [
