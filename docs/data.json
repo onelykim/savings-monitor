@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-28 21:58",
+ "updated_at": "2026-07-29 00:27",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2492,6 +2492,24 @@
  ],
  "news": [
   {
+   "title": "신협, '독도愛사랑적금' 출시…국회의원·지자체장 등 가입",
+   "link": "http://www.bizwnews.com/news/articleView.html?idxno=141766",
+   "source": "네이버뉴스",
+   "date": "2026-07-29"
+  },
+  {
+   "title": "신협, '독도愛사랑적금' 출시",
+   "link": "http://www.newsbrite.net/news/articleView.html?idxno=199475",
+   "source": "네이버뉴스",
+   "date": "2026-07-28"
+  },
+  {
+   "title": "\"연 10% 특판 나왔다\" 주식 폭락장에 기회 잡은 은행들 줄줄이 '고금리 적금' 출시 | - nanamcom.co.kr",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5NGdVM3U4N29IaEZvSzcta1RtcnVpODZjYjVDVllzQzZIQ01kVDk0M050NGxfYkVqUUluYkp0blhOZTd2aVFCZTJ5dVdJTFhicGJrMlBIcVFxWFZQNGNwaktfeWlibG5BMlBQMDNOdmY?oc=5",
+   "source": "nanamcom.co.kr",
+   "date": "2026-07-26"
+  },
+  {
    "title": "신협, 최고 7% '독도愛사랑적금' 출시 - 뉴시스",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KeGNuU1p3aDRVMzRwRHNjQkFSazJUYWI3bVIyd1hmd3NwVXItWnJod29iQmczckItYXJkRlh1UktBYW14Tjd2LW1QQ2VhQjhEYnBwdlc4QUpsanFGNG5GLdIBeEFVX3lxTE9KZGl6M1hiRmJtbmk0RHFDMHhNQnNaTXJCaEdnQ3BNQVYxTjk4QTdTa0pTS3NwMTcxTlY0R1h4VGRxNzJ6d29jVGJIeDhSWDd2RlB5dGw3R0pMSWhWTzRJc2dtX2E3NW1Nb01TTldFREs0U0NEczZXcg?oc=5",
    "source": "뉴시스",
@@ -2543,24 +2561,6 @@
    "title": "신협, ′독도愛사랑적금′ 출시… 가립만으로 독도수호 기부 동참 - 일요주간",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50Ym1rbkdUVkRrTWZBMkNFNEhWX210UG9jb0Q4YmxMczFQUFByeWNJa1VCNjdIbmYtaEMyenE3ZF9NYzdQcFZCNGlxeG5zY2pYd1J4bjhSa2ZRa1o5ZFNxUU10TUswdDN5SFdSOGUzSkVQaDhZOTd1Tg?oc=5",
    "source": "일요주간",
-   "date": "2026-07-27"
-  },
-  {
-   "title": "신협, '독도愛사랑적금' 출시…국회의원·지자체장 1~4호 가입 동참 - 월드투데이",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBQbEFMV1dEenFfNXlxMDhQWTBKcm12QVRsTWpXUzFncG5BLW5vYVRjSWdSWE03RDZobG9aek0zSTByMEdxMWdjUGNzc3czdDA1a0QxdW1jaUJpWTA4SXlnU3FTcnFZbDFtMEl5eUNDMA?oc=5",
-   "source": "월드투데이",
-   "date": "2026-07-27"
-  },
-  {
-   "title": "신협, '독도愛사랑적금' 출시…최고 연 7% 금리 제공 - 네이트",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5fV2lNRTN0NUdaUFRvZnpvbHB1NzZkeERuN2s5LXg0OGtFb3VBaS1zVFFlazU0ZnpCYWRvWlBfcXl3d1Y3RWpmZ2kwZDYzNVNaVlcyRGNnNF9qUmFBT1dhSXl2MENqMjlrdlZsRFhR?oc=5",
-   "source": "네이트",
-   "date": "2026-07-27"
-  },
-  {
-   "title": "신협, '독도愛사랑적금' 출시…가입만 해도 독도수호 기부",
-   "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2430580",
-   "source": "네이버뉴스",
    "date": "2026-07-27"
   }
  ],
@@ -2836,7 +2836,10 @@
   "b2282ce92c007bb0",
   "95c0bb82e8f8bfd4",
   "08bfce42fe411b2d",
-  "7168bf79254e6774"
+  "7168bf79254e6774",
+  "892927ac14882ff7",
+  "ff2b7a083c6871d1",
+  "a9726d3ca5d6540e"
  ],
  "news_seeded": true,
  "news_products": [
