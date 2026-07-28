@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-28 16:43",
+ "updated_at": "2026-07-28 19:42",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -196,12 +196,12 @@
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
-     "intr_rate": 2.75,
-     "intr_rate2": 3.6
+     "intr_rate": 3.0,
+     "intr_rate2": 3.85
     }
    ],
-   "best_rate": 3.6,
-   "best_base_rate": 2.75,
+   "best_rate": 3.85,
+   "best_base_rate": 3.0,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%95%84%EC%9D%B4%EC%97%A0%EB%B1%85%ED%81%AC%20iM%ED%95%A8%EA%BB%98%EC%A0%81%EA%B8%88",
    "first_seen": "2026-07-10",
@@ -1687,8 +1687,8 @@
      "save_trm": 12,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 2.92,
-     "intr_rate2": 3.72
+     "intr_rate": 2.91,
+     "intr_rate2": 3.71
     },
     {
      "save_trm": 24,
@@ -1705,8 +1705,8 @@
      "intr_rate2": 3.5
     }
    ],
-   "best_rate": 3.72,
-   "best_base_rate": 2.92,
+   "best_rate": 3.71,
+   "best_base_rate": 2.91,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EB%86%8D%ED%98%91%EC%9D%80%ED%96%89%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20NH%EC%A7%81%EC%9E%A5%EC%9D%B8%EC%9B%94%EB%B3%B5%EB%A6%AC%EC%A0%81%EA%B8%88",
    "first_seen": "2026-07-10",
@@ -2492,6 +2492,18 @@
  ],
  "news": [
   {
+   "title": "신협, 최고 7% '독도愛사랑적금' 출시 - 뉴시스",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KeGNuU1p3aDRVMzRwRHNjQkFSazJUYWI3bVIyd1hmd3NwVXItWnJod29iQmczckItYXJkRlh1UktBYW14Tjd2LW1QQ2VhQjhEYnBwdlc4QUpsanFGNG5GLdIBeEFVX3lxTE9KZGl6M1hiRmJtbmk0RHFDMHhNQnNaTXJCaEdnQ3BNQVYxTjk4QTdTa0pTS3NwMTcxTlY0R1h4VGRxNzJ6d29jVGJIeDhSWDd2RlB5dGw3R0pMSWhWTzRJc2dtX2E3NW1Nb01TTldFREs0U0NEczZXcg?oc=5",
+   "source": "뉴시스",
+   "date": "2026-07-27"
+  },
+  {
+   "title": "신협, '독도愛사랑적금' 출시…최고 연 7%에 기부까지 - 네이트",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1OTFdZYU15NWxqUXV3X3I1RUYtTFJoM0xjajVUMmVNSFhTblFocmtwRG1JUUhtbUQxQzNJc3BHZUhfRGRyT1RhYlZ6MTlETU0xcnRPWkV1UmNpNExtSGJHQzctR2R3VnBfTEJFNW5SeUhCRkZXVFJNNQ?oc=5",
+   "source": "네이트",
+   "date": "2026-07-27"
+  },
+  {
    "title": "신협, ‘독도愛사랑적금’ 출시 - 글로벌뉴스통신GNA",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB1bllULThDX3pEMU5sdGNsMktaSWNtMGtVb1gwSmhkTlcyd2hCY0szdTlMRnZGcGgtcW9BREFfX3JuUmZwLVBVZE9vYWFlOXBLOGRtS3otaG5qVG1neWlMcGUweTFuWGI5U3lHdFpacmFCUFdm?oc=5",
    "source": "글로벌뉴스통신GNA",
@@ -2549,18 +2561,6 @@
    "title": "신협, '독도愛사랑적금' 출시…가입만 해도 독도수호 기부",
    "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2430580",
    "source": "네이버뉴스",
-   "date": "2026-07-27"
-  },
-  {
-   "title": "신협, 최고 연 7% 독도愛사랑적금 출시…\"가입만으로 독도 지킨다\"",
-   "link": "https://news.mtn.co.kr/news-detail/2026072721020756993",
-   "source": "네이버뉴스",
-   "date": "2026-07-27"
-  },
-  {
-   "title": "신협, 최고 7% '독도愛사랑적금' 출시 - 뉴시스",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9KZGl6M1hiRmJtbmk0RHFDMHhNQnNaTXJCaEdnQ3BNQVYxTjk4QTdTa0pTS3NwMTcxTlY0R1h4VGRxNzJ6d29jVGJIeDhSWDd2RlB5dGw3R0pMSWhWTzRJc2dtX2E3NW1Nb01TTldFREs0U0NEczZXctIBeEFVX3lxTE9KZGl6M1hiRmJtbmk0RHFDMHhNQnNaTXJCaEdnQ3BNQVYxTjk4QTdTa0pTS3NwMTcxTlY0R1h4VGRxNzJ6d29jVGJIeDhSWDd2RlB5dGw3R0pMSWhWTzRJc2dtX2E3NW1Nb01TTldFREs0U0NEczZXcg?oc=5",
-   "source": "뉴시스",
    "date": "2026-07-27"
   }
  ],
@@ -2834,7 +2834,9 @@
   "8b004069adda3322",
   "4823b6a814bae60a",
   "b2282ce92c007bb0",
-  "95c0bb82e8f8bfd4"
+  "95c0bb82e8f8bfd4",
+  "08bfce42fe411b2d",
+  "7168bf79254e6774"
  ],
  "news_seeded": true,
  "news_products": [
