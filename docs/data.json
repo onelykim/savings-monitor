@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-29 04:44",
+ "updated_at": "2026-07-29 06:16",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2492,6 +2492,12 @@
  ],
  "news": [
   {
+   "title": "신협, ‘독도愛사랑적금’ 출시…국회의원·지자체장 등 가입 - 비즈월드",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9maWxLV1FBSEh1SS1LWUNkUVk0eTJjcHMyRmJDLVJyUzMtaGZwZHhRcTRBckZ6TkhvSjFTc2I4Vy0wa2FfQ3JVMGJTc3hJUXZJdVpOQWZPUlIyWldkV21PeUoxNWxHR2R0VHo0?oc=5",
+   "source": "비즈월드",
+   "date": "2026-07-29"
+  },
+  {
    "title": "신협, '독도愛사랑적금' 출시 - 뉴스브라이트",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Ra3FiOEhRY0l4WVN0YW9SMUE1ZHBnLXJJS0JYZFkxOUphN3hycno4V1pnRDNkS0ZCcFd6cTBMa25wTndPVGJ2NDFTdUQ1TTBkR3JTNVNXbWFmY0FXemt1MzYxMlpTaHoxcGVPWA?oc=5",
    "source": "뉴스브라이트",
@@ -2555,12 +2561,6 @@
    "title": "독도 사랑 담은 금융상품 나왔다…포항오천신협 ‘독도愛사랑적금’ 출시 - kyongbuk.co.kr",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTb0QzZ05NV2JiTEEwUDB4STRPckFNNnpQLTNsc2RCaGxKQ0JaWWhNR3VvVWhXZnV3V0l1ZHhPdzExYzVwaHc2b2dZRzd1X25hNzI3QWNjZGdDZ0NJanc0NzdmZTVhTml1Mm5DdmdLaw?oc=5",
    "source": "kyongbuk.co.kr",
-   "date": "2026-07-27"
-  },
-  {
-   "title": "신협, 최고 연 7% 금리 ‘독도愛사랑적금’ 출시 - 한국보험신문",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBTRnZjVDBNMTRFc0t1ZnE0aHI4YTdJZHczaEVCcS1UMXRxVjR5X2hLczFpVDhzZTJxSVQxaW1ocVJ0d0VYVlplOFpsV21TMDdZaFJKRjhZZjFKM3AxeHNYeEJvcFlLbHdVZkNn0gFvQVVfeXFMTVlsNDJVQXk1bWh5aUlYYUVKY2EyMGs4NEdKMGtHQVFEWFdzS3l4YkNYZ1MtWGFYVUc4XzhtSW9iWnBZZThzcEk0MjlHVkNCMTMzd1lLMElrMm1uX1VxTHl0bXBlRFhmTi1rX1BTMEE4?oc=5",
-   "source": "한국보험신문",
    "date": "2026-07-27"
   }
  ],
@@ -2841,7 +2841,8 @@
   "ff2b7a083c6871d1",
   "a9726d3ca5d6540e",
   "1989c59e80568e2e",
-  "c03bd66d03bde780"
+  "c03bd66d03bde780",
+  "eafda8c1cfaff386"
  ],
  "news_seeded": true,
  "news_products": [
