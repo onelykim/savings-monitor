@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-30 02:23",
+ "updated_at": "2026-07-30 04:36",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2492,6 +2492,12 @@
  ],
  "news": [
   {
+   "title": "‘최고 연 7%’ 독도 지키는 적금 출시",
+   "link": "https://www.donga.com/news/Economy/article/all/20260729/134382793/2",
+   "source": "네이버뉴스",
+   "date": "2026-07-30"
+  },
+  {
    "title": "신협, ‘독도愛사랑적금’ 출시…가입만으로 독도수호 기부 동참 - 직썰",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55enMydjF6U0pIUE5JeEZiLUJjTFB4WnN4Q2JUTUJNNW92RjVueHNVZ2FhWFFOTkZoWUNfOGpSZ0kxamFVV3hrZk9feWxxQzROOUgtVVNxeUpZY2doNVEzWGdvM1F0aDVUTjlLatIBbEFVX3lxTE55enMydjF6U0pIUE5JeEZiLUJjTFB4WnN4Q2JUTUJNNW92RjVueHNVZ2FhWFFOTkZoWUNfOGpSZ0kxamFVV3hrZk9feWxxQzROOUgtVVNxeUpZY2doNVEzWGdvM1F0aDVUTjlLag?oc=5",
    "source": "직썰",
@@ -2556,12 +2562,6 @@
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB1bllULThDX3pEMU5sdGNsMktaSWNtMGtVb1gwSmhkTlcyd2hCY0szdTlMRnZGcGgtcW9BREFfX3JuUmZwLVBVZE9vYWFlOXBLOGRtS3otaG5qVG1neWlMcGUweTFuWGI5U3lHdFpacmFCUFdm?oc=5",
    "source": "글로벌뉴스통신GNA",
    "date": "2026-07-28"
-  },
-  {
-   "title": "신협, '독도愛사랑적금' 출시…최고 연 7% 금리 제공 - 화이트페이퍼",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RR19oU0Z6aXM5aUFtblJxeF9CLWVGZXFKaUVBaE1KZVAxRHZmLW9yTUx0aHQyZmx3TnRfeDRRLUJYWmxucVFrUUMtVDlaeG0xOVdKOVVsMGoycElMem13NWczSkt6Z1BpZ2R5YjF3NUjSAXNBVV95cUxQYmVnU0o3eHV2ZEp6eVBtQlh3Xy1rUWRfQjBJelhkQ010RmpLTlZkdzJOcVprYXd0Rk5TMTVsekN3QmU3MlVmZ0NBUG43b09BOXVSbzF3VmtVcC1OUjQ1MGFXY1drbk9kbjZPLVFaMGdsNGRz?oc=5",
-   "source": "화이트페이퍼",
-   "date": "2026-07-27"
   }
  ],
  "news_seen": [
@@ -2844,7 +2844,8 @@
   "c03bd66d03bde780",
   "eafda8c1cfaff386",
   "c866ea917bbe1bb5",
-  "ac5d4de0aed389e4"
+  "ac5d4de0aed389e4",
+  "304bf592767545af"
  ],
  "news_seeded": true,
  "news_products": [
