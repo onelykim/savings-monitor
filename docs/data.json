@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-30 15:35",
+ "updated_at": "2026-07-30 18:35",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2492,6 +2492,12 @@
  ],
  "news": [
   {
+   "title": "신협중앙회 '독도愛사랑적금' 출시 \"국회의원·지자체장 등 1~4호 가입 동참\" - todaymild.com",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxUkEyMDRUVVBibTMtWTl6aUNQdFI3WVljc1dNdTdxN2FvTFBkVGEwMmk3TXlyVmdTSzdkVEQ1NEVHeDZZd2xlQVMydUZLbHEtSGRwVHdwcFBlejJOSVVkNkpiRkNPYm1lRzFV?oc=5",
+   "source": "todaymild.com",
+   "date": "2026-07-27"
+  },
+  {
    "title": "‘최고 연 7%’ 독도 지키는 적금 출시 - donga.com",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBSSl9OX3BhWEU5WjhUbHRaUWU5YXN5M2V5RGNuVGxKRklnSkRKWk13N2c3aEEwc2N6dWpnUzVuQnpuaEdmU2J0SVZmcmRzVXhxaHA5b0JHcXg0UzdpdkhqZWVEb1FsUdIBZkFVX3lxTFBSSl9OX3BhWEU5WjhUbHRaUWU5YXN5M2V5RGNuVGxKRklnSkRKWk13N2c3aEEwc2N6dWpnUzVuQnpuaEdmU2J0SVZmcmRzVXhxaHA5b0JHcXg0UzdpdkhqZWVEb1FsUQ?oc=5",
    "source": "donga.com",
@@ -2556,12 +2562,6 @@
    "link": "http://www.newsbrite.net/news/articleView.html?idxno=199475",
    "source": "네이버뉴스",
    "date": "2026-07-28"
-  },
-  {
-   "title": "\"연 10% 특판 나왔다\" 주식 폭락장에 기회 잡은 은행들 줄줄이 '고금리 적금' 출시 | - nanamcom.co.kr",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5NGdVM3U4N29IaEZvSzcta1RtcnVpODZjYjVDVllzQzZIQ01kVDk0M050NGxfYkVqUUluYkp0blhOZTd2aVFCZTJ5dVdJTFhicGJrMlBIcVFxWFZQNGNwaktfeWlibG5BMlBQMDNOdmY?oc=5",
-   "source": "nanamcom.co.kr",
-   "date": "2026-07-26"
   }
  ],
  "news_seen": [
@@ -2848,7 +2848,8 @@
   "304bf592767545af",
   "423bdaa653e28f76",
   "ecdc2250711e0e52",
-  "05725b125afa8a87"
+  "05725b125afa8a87",
+  "0cdfe4b23258d6a9"
  ],
  "news_seeded": true,
  "news_products": [
