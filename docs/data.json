@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-31 13:30",
+ "updated_at": "2026-07-31 19:48",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -784,26 +784,26 @@
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
-     "intr_rate": 2.7,
-     "intr_rate2": 3.7
+     "intr_rate": 2.9,
+     "intr_rate2": 3.9
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
-     "intr_rate": 2.6,
-     "intr_rate2": 3.6
+     "intr_rate": 2.8,
+     "intr_rate2": 3.8
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
-     "intr_rate": 2.6,
-     "intr_rate2": 3.6
+     "intr_rate": 2.8,
+     "intr_rate2": 3.8
     }
    ],
-   "best_rate": 3.7,
-   "best_base_rate": 2.7,
+   "best_rate": 3.9,
+   "best_base_rate": 2.9,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EB%82%A8%EC%9D%80%ED%96%89%20%ED%96%89%EB%B3%B5%20DREAM%20%EC%A0%81%EA%B8%88",
    "first_seen": "2026-07-10",
@@ -826,15 +826,15 @@
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.0,
-     "intr_rate2": 3.7
+     "intr_rate": 3.1,
+     "intr_rate2": 3.8
     },
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.1,
-     "intr_rate2": 3.8
+     "intr_rate": 3.2,
+     "intr_rate2": 3.9
     },
     {
      "save_trm": 24,
@@ -846,7 +846,7 @@
    ],
    "best_rate": 3.9,
    "best_base_rate": 3.2,
-   "best_term": 24,
+   "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EB%82%A8%EC%9D%80%ED%96%89%20BNK%EB%8D%94%EC%A1%B0%EC%9D%80%EC%9E%90%EC%9C%A0%EC%A0%81%EA%B8%88",
    "first_seen": "2026-07-10",
    "is_baseline": true
@@ -875,33 +875,33 @@
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 1.8,
-     "intr_rate2": 4.3
+     "intr_rate": 2.0,
+     "intr_rate2": 4.5
     },
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 2.1,
-     "intr_rate2": 4.6
+     "intr_rate": 2.3,
+     "intr_rate2": 4.8
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 2.1,
-     "intr_rate2": 4.6
+     "intr_rate": 2.3,
+     "intr_rate2": 4.8
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 2.1,
-     "intr_rate2": 4.6
+     "intr_rate": 2.3,
+     "intr_rate2": 4.8
     }
    ],
-   "best_rate": 4.6,
-   "best_base_rate": 2.1,
+   "best_rate": 4.8,
+   "best_base_rate": 2.3,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EB%82%A8%EC%9D%80%ED%96%89%20BNK%20%EC%9C%84%EB%8D%94%EC%8A%A4%EC%9E%90%EC%9C%A0%EC%A0%81%EA%B8%88",
    "first_seen": "2026-07-10",
@@ -924,26 +924,26 @@
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
-     "intr_rate": 2.5,
-     "intr_rate2": 4.1
+     "intr_rate": 2.7,
+     "intr_rate2": 4.3
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
-     "intr_rate": 2.35,
-     "intr_rate2": 3.95
+     "intr_rate": 2.55,
+     "intr_rate2": 4.15
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
-     "intr_rate": 2.35,
-     "intr_rate2": 3.95
+     "intr_rate": 2.55,
+     "intr_rate2": 4.15
     }
    ],
-   "best_rate": 4.1,
-   "best_base_rate": 2.5,
+   "best_rate": 4.3,
+   "best_base_rate": 2.7,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EB%82%A8%EC%9D%80%ED%96%89%20%EC%A3%BC%EA%B1%B0%EB%9E%98%20%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84%20%EC%A0%81%EA%B8%88",
    "first_seen": "2026-07-10",
@@ -957,10 +957,10 @@
    "join_way": "인터넷,스마트폰,기타",
    "join_member": "실명의 개인 및 개인사업자",
    "join_deny": "1",
-   "spcl_cnd": "①마케팅동의 0.15%\n②목돈마련 축하이율 0.30~1.00%\n③친구 추천번호 0.30~0.60%",
+   "spcl_cnd": "①마케팅동의 0.25%\n②목돈마련 축하이율 0.50~1.50%",
    "mtrt_int": "만기후 1개월 이내: 일반정기예금 기본이율의 50%\n만기후 1개월 초과: 일반정기예금 기본이율의 20%",
    "max_limit": 100000,
-   "etc_note": "1. 계약기간은 1개월 이상 6개월 이내 월단위로 한다.\n2. 초입금 일 1천원 이상 10만원 이하 자유롭게 저축\n3. 최대 저축횟수는 999회 이내",
+   "etc_note": "1. 계약기간은 3개월 이상 6개월 이내 월단위로 한다.\n2. 초입금 일 1천원 이상 10만원 이하 자유롭게 저축\n3. 최대 저축횟수는 999회 이내",
    "options": [
     {
      "save_trm": 1,
@@ -1729,26 +1729,26 @@
      "save_trm": 12,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 2.75,
-     "intr_rate2": 3.75
+     "intr_rate": 2.95,
+     "intr_rate2": 3.95
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 2.8,
-     "intr_rate2": 3.8
+     "intr_rate": 3.0,
+     "intr_rate2": 4.0
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 2.85,
-     "intr_rate2": 3.85
+     "intr_rate": 3.1,
+     "intr_rate2": 4.1
     }
    ],
-   "best_rate": 3.85,
-   "best_base_rate": 2.85,
+   "best_rate": 4.1,
+   "best_base_rate": 3.1,
    "best_term": 36,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20%ED%95%98%EB%82%98%EC%9D%80%ED%96%89%20%EC%A3%BC%EA%B1%B0%EB%9E%98%ED%95%98%EB%82%98%20%EC%9B%94%EB%B3%B5%EB%A6%AC%EC%A0%81%EA%B8%88",
    "first_seen": "2026-07-10",
@@ -1968,31 +1968,31 @@
    "spcl_cnd": "1. 입금실적에 따라 우대금리 적용\n2. 금리쿠폰을 입력시 우대금리 적용",
    "mtrt_int": "만기 후\n- 1개월 이내: 만기시점 기본금리 X 50%\n- 1개월 초과 ~ 6개월 이내: 만기시점 기본금리 X 30%\n- 6개월 초과: 연 0.20%",
    "max_limit": 300000,
-   "etc_note": "가입금액: 0원 / 최대 납입금액 : 월 30만원 \n가입기간 : 1년,2년,3년,4년,5년\n ㅇ 4년 금리: 최저 연 3.3% ~ 최고 연 8.3%\n ㅇ 5년 금리: 최저 연 3.5% ~ 최고 연 8.5%",
+   "etc_note": "가입금액: 0원 / 최대 납입금액 : 월 30만원 \n가입기간 : 1년,2년,3년,4년,5년\n ㅇ 4년 금리: 최저 연 3.3% ~ 최고 연 7.3%\n ㅇ 5년 금리: 최저 연 3.5% ~ 최고 연 7.5%",
    "options": [
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
      "intr_rate": 3.0,
-     "intr_rate2": 8.0
+     "intr_rate2": 7.0
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
      "intr_rate": 3.0,
-     "intr_rate2": 8.0
+     "intr_rate2": 7.0
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
      "intr_rate": 3.3,
-     "intr_rate2": 8.3
+     "intr_rate2": 7.3
     }
    ],
-   "best_rate": 8.3,
+   "best_rate": 7.3,
    "best_base_rate": 3.3,
    "best_term": 36,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20%EC%BC%80%EC%9D%B4%EB%B1%85%ED%81%AC%20%EB%A7%88%EC%9D%B4%ED%82%A4%EC%A6%88%20%EC%A0%81%EA%B8%88",
@@ -2492,6 +2492,36 @@
  ],
  "news": [
   {
+   "title": "NH농협은행, 모두투어 제휴 여행 특화 적금 출시 - 투데이e코노믹",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pUjA5SmoxLTFBaWRnYUlIQUlnckdvR0xOczgydTQ0VFlKWG8zSURKQUpubFhxM1RBOGJpNVNsU2dpNGlQMEdPNXl3bkotOGtiRTR4dExWUHFiV0tBazdOMmg3eEVMQmc?oc=5",
+   "source": "투데이e코노믹",
+   "date": "2026-07-31"
+  },
+  {
+   "title": "\"3만 마일리지에 포인트 추가증정\" 농협은행, 모두투어와 'NH모두트래블리적금' 출시 | - catchnews.kr",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB1MERHZVk2d0I1WDZMRy16dGVDZ21LN01WUjNOWG5yOGp2dWF1X0NFTTktVzhJZXZjUTFCZzIxQUtGeHF6NWYyU3VpSktxRS05NjVvTTJVeThrV3pTMmlIRVlLb2RWY2Jvb0JlV0o2MA?oc=5",
+   "source": "catchnews.kr",
+   "date": "2026-07-31"
+  },
+  {
+   "title": "NH농협은행, 모두투어와 ‘NH모두트래블리적금’ 특판 출시 - 이뉴스투데이",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSWEYwRnNlTjhWOE15QlUxeHhTd1NhNHZwbXkyVGp0X05kWkxxUEZCTFpkemx2bXhNUC1MZEpkODZfRV9CY2FFMDJvbGxTWVlxLWxMdXdMM1YxbFN1QUZ0THRFRmJrZDBjeFZjZ2ZSSVd4d9IBdEFVX3lxTFBSSXluY01ZRWpyczMyZDVhVkJmcTJQRHFEZ1hucFJYay01M29BVjRmaGJHc3c3ZjZkclV4YkJ6ZF9GX2hERlAwdE5nNC10SnA4UE1yNnlObndYYVhsSFNWcVRfWXRuRl91TjRSM29HNVd5OFRH?oc=5",
+   "source": "이뉴스투데이",
+   "date": "2026-07-31"
+  },
+  {
+   "title": "NH농협은행, 모두투어 제휴 여행 특화 적금 출시",
+   "link": "https://www.todayeconomic.com/news/article.html?no=31560",
+   "source": "네이버뉴스",
+   "date": "2026-07-31"
+  },
+  {
+   "title": "[2금융 뉴스브리핑] 인천저축은행 창립 55주년 연 5.5% 정기적금 특판",
+   "link": "https://www.asiatime.co.kr/article/20260731500182",
+   "source": "네이버뉴스",
+   "date": "2026-07-31"
+  },
+  {
    "title": "농협은행 x 모두투어, 여행특화 적금 출시 - 스트레이트뉴스",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1fZ2dMeEc4Xy1zZ1UzWUZYZmJ6M2xmNUpqa2c2MU9pSGVlYlB3enRxblJmYnhISWgzdTctS1V6bGs2VFdlWno0YnZOQUtiR3d0Ui0zMmdqbGR5Qmg2WENtaWJxYzB1T0ZIUTE0WGFETXR5RE5ZOWZr0gF3QVVfeXFMTV9nZ0x4RzhfLXNnVTNZRlhmYnozbGY1SmprZzYxT2lIZWViUHd6dHFuUmZieEhJaDN1Ny1LVXpsazZUV2VaejRidk5BS2JHd3RSLTMyZ2psZHlCaDZYQ21pYnFjMHVPRkhRMTRYYURNdHlETlk5Zms?oc=5",
    "source": "스트레이트뉴스",
@@ -2531,36 +2561,6 @@
    "title": "NH농협은행, 모두투어와 '트래블리적금' 특판…5.05%p 우대금리 - 뉴시스",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pUk5UU254ekJNQ0tXU0JhWVY4QVl1bDFCRVk4WkpFN09YYW9yQlZmYTdlaTVLVWV3YU9YdVpxVXJBaEtNTV9rdTN3WWVvZzA5VTdBNG5RYUozdHRaZk9LajR3NUNrbGpBNk9RVnViMzg1d3dOYXprRtIBeEFVX3lxTE1pUk5UU254ekJNQ0tXU0JhWVY4QVl1bDFCRVk4WkpFN09YYW9yQlZmYTdlaTVLVWV3YU9YdVpxVXJBaEtNTV9rdTN3WWVvZzA5VTdBNG5RYUozdHRaZk9LajR3NUNrbGpBNk9RVnViMzg1d3dOYXprRg?oc=5",
    "source": "뉴시스",
-   "date": "2026-07-31"
-  },
-  {
-   "title": "NH농협은행, 대학생 봉사단 역량강화 교육 실시·모두투어와 ‘NH모두트래블리적금’ 특판 출시 - 통신일보",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBEMzY4TWR4QnIyQm1NS2FlS1p5cHVxVkFNTXIyOWR1bzZoaHFfMmlvM1F2T3lhNVBJblg5aEM3eUdab25YZWxEVDRwUW95MXdpemVWN3ZxSGNHMmhVOTN6d0Z4LTZTZw?oc=5",
-   "source": "통신일보",
-   "date": "2026-07-31"
-  },
-  {
-   "title": "NH농협은행, 모두투어와 손잡고 'NH모두트래블리적금' 특판 출시...투자자 관심도 증가 - 빅데이터뉴스",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9QRmV5RlowVXlhQVk2LUphMVNBUXBWZy0wS2ZHbEpaSV81ZUxHbzBidzhjZUZ0MGJtQk85UWh3WUlsSEl4dkJobnh0ak9wMjVKYnl6TzBacjg3LURFR0x3c1M2NW5pLWJrTUJxMXVuXzc2UGN1eEFYakNTblc?oc=5",
-   "source": "빅데이터뉴스",
-   "date": "2026-07-31"
-  },
-  {
-   "title": "NH농협은행, 모두투어와 여행 적금 특판… 최고 연 7.3% - 우먼타임스",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YVWNwU3RqcGp2Um1teUwyMVBiMWZmYkdEcmx4UXlsVGNhMG5JMkdVSkRzd2VLRFNDdzNJUGhnUkdJZkM0TGl6TVVfbGdwUWxZejNscmRsak1aMlFoblhjWkJWQ3UtUlduWUNZSllMaFXSAXRBVV95cUxNV1I4bUtrUXVMTlFSZm1VcTVEcnJScUM3OTRleEhvMWJLcjZVSmRUNGQzT2J4Wkh0Qzl1NWpCTEJJWlN4Qmw2YTBMRGpYQU9GNlVyLUxUeDUzZHpyemxQMUJhMGNvQm1iTFVlTHNLNnhTcjdPeA?oc=5",
-   "source": "우먼타임스",
-   "date": "2026-07-31"
-  },
-  {
-   "title": "인천저축은행, 창립 55주년…연 5.5% 적금 특판 - ebn.co.kr",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HV2xYRkxyc2ctQ2lsUzFtRS1faGlXUVZhaHc2UU83a1NYT0xaTHp2aGdQTlFVMmF5XzZhQ0s2bkxWb3dRWmMxYW9hTS1Wd095NVNLNDBYT1dxd0tiZk5jeEdnekc3Rlp2?oc=5",
-   "source": "ebn.co.kr",
-   "date": "2026-07-31"
-  },
-  {
-   "title": "인천저축은행, 창립 55주년 맞아 연 5.5% 특판 적금 선봬 - 매일일보",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1XaDU5M091ZVRtZUlPNWNDUjdTWFdfWVI3ajg2WW8tdVJwQ3hnN3ZiUkpLVXN6SXpWTU1TMGtqcGxpRXBDY191bHBlWHVwQnQxWXE4T0pXUENjOHZ5WWpHbjdBS1Y?oc=5",
-   "source": "매일일보",
    "date": "2026-07-31"
   }
  ],
@@ -2887,7 +2887,12 @@
   "fb1b31be7eac4256",
   "1b54149ac12a8494",
   "1babf9df95d83db1",
-  "d4b7bb8115b1d467"
+  "d4b7bb8115b1d467",
+  "ad08168e56b08e73",
+  "9aa63620389fdd24",
+  "c0bb9427bcb31af4",
+  "8c3b5fd2b0dea51c",
+  "0689b2fecf5aac76"
  ],
  "news_seeded": true,
  "news_products": [
@@ -2897,7 +2902,7 @@
    "norm": "NH모두트래블리적금",
    "rate": 5.05,
    "first_news": "2026-07-31",
-   "count": 17,
+   "count": 19,
    "articles": [
     {
      "title": "[게시판] 농협은행, 모두투어 제휴 'NH모두트래블리적금' 출시 - 연합뉴스",
