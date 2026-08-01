@@ -2492,6 +2492,12 @@
  ],
  "news": [
   {
+   "title": "인천저축은행 반세기 역사 성찰…창립 55주년 맞춰 연 5.5% 적금 특판 - thefairnews.co.kr",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE02TjlnYkdoRlhWejlWNFN5MFJWUy1LSzVaa2FhZkM0c2VPSTlJX0VyNUFUaDVUdm9aby1zNzFHUGlYOWlRUHBIRjNSblhxMHo2MWJodEZFLS1qbjJTZjBEOGxqQkxlc09FVUVZcVQ2ZXNKb2NR0gF0QVVfeXFMTTZOOWdiR2hGWFZ6OVY0U3kwUlZTLUtLNVprYWFmQzRzZU9JOUlfRXI1QVRoNVR2b1pvLXM3MUdQaVg5aVFQcEhGM1JuWHEwejYxYmh0RkUtLWpuMlNmMEQ4bGpCTGVzT0VVRVlxVDZlc0pvY1E?oc=5",
+   "source": "thefairnews.co.kr",
+   "date": "2026-08-01"
+  },
+  {
    "title": "NH농협은행, 모두투어 제휴 ‘NH모두트래블리적금’ 출시…최고 연 5.05% 금리 - 퍼블릭타임스",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQNU01M2FuTDhVVnVMVUgyWXNwQzhnc05OY3U4SWNlZFlFZldZczN1Z1NxbWJOWURVSkJFU050cVZhMGRRclVOcVR0cU1OWG9Da2ZaS01jdTVLcjNuSS1pbWhxRktzMV9mWHfSAW5BVV95cUxNT2N0OG5yeV9xc3VWUnh5NWtQQTU0WkUzd1g3b3FwS3U3M1lOYWZqQjdFeWVtOHpka0N5eXVoQlBmQTZ4OXlvV21ZVGhXM2pUUEQ5dE0yZ0pvamJmOWFxUWQ4WXF5UnhGaDEwU2lSUQ?oc=5",
    "source": "퍼블릭타임스",
@@ -2555,12 +2561,6 @@
    "title": "NH농협은행, 모두투어와 ‘NH모두트래블리적금’ 특판 출시 - 이뉴스투데이",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSWEYwRnNlTjhWOE15QlUxeHhTd1NhNHZwbXkyVGp0X05kWkxxUEZCTFpkemx2bXhNUC1MZEpkODZfRV9CY2FFMDJvbGxTWVlxLWxMdXdMM1YxbFN1QUZ0THRFRmJrZDBjeFZjZ2ZSSVd4d9IBdEFVX3lxTFBSSXluY01ZRWpyczMyZDVhVkJmcTJQRHFEZ1hucFJYay01M29BVjRmaGJHc3c3ZjZkclV4YkJ6ZF9GX2hERlAwdE5nNC10SnA4UE1yNnlObndYYVhsSFNWcVRfWXRuRl91TjRSM29HNVd5OFRH?oc=5",
    "source": "이뉴스투데이",
-   "date": "2026-07-31"
-  },
-  {
-   "title": "NH농협은행, 모두투어 제휴 여행 특화 적금 출시",
-   "link": "https://www.todayeconomic.com/news/article.html?no=31560",
-   "source": "네이버뉴스",
    "date": "2026-07-31"
   }
  ],
@@ -2900,7 +2900,8 @@
   "a263c6187bd7dd05",
   "0ed5dbff267910d1",
   "c25b629b59b79784",
-  "e670e4a7467e837f"
+  "e670e4a7467e837f",
+  "470803f76b69f6af"
  ],
  "news_seeded": true,
  "news_products": [
