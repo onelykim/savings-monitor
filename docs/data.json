@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-02 08:03",
+ "updated_at": "2026-08-02 09:05",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2492,6 +2492,18 @@
  ],
  "news": [
   {
+   "title": "하나금융 ‘청라 시대’ 개막… 인천 시민에 특판 적금·대출 ‘선물 보따리’ - 문화일보",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1mTVFTdXc3ODNyWUtxLUh4ekh6YXd3NHlWUDJaazNUNWtXMnlPT2tnUFFrTXVqbUlxN3RXUHB6ckEydFBnT1I1ckQ0VkRHVlE0?oc=5",
+   "source": "문화일보",
+   "date": "2026-08-02"
+  },
+  {
+   "title": "하나금융 ‘청라 시대’ 개막… 인천 시민에 특판 적금·대출 ‘선물 보...",
+   "link": "https://www.munhwa.com/article/11606566?ref=naver",
+   "source": "네이버뉴스",
+   "date": "2026-08-02"
+  },
+  {
    "title": "[게시판] 농협은행, 모두투어 제휴 'NH모두트래블리적금' 출시 - 매일경제 마켓",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YRE1tSEl4bVFhWDFuY183QTZvcHFZUjJnbDZpdnhhdUh1R0xGZENPUjNoTEpHN3FyTzc3OUlNRUVuaUI3QTlCYk9sRmNCeUpmWXc?oc=5",
    "source": "매일경제 마켓",
@@ -2549,18 +2561,6 @@
    "title": "농협은행, 모두투어와 손잡고 ‘NH모두트래블리적금’ 특판 출시",
    "link": "https://www.nongmin.com/article/20260731500585",
    "source": "네이버뉴스",
-   "date": "2026-07-31"
-  },
-  {
-   "title": "NH농협은행, 모두투어 제휴 여행 특화 적금 출시 - 투데이e코노믹",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pUjA5SmoxLTFBaWRnYUlIQUlnckdvR0xOczgydTQ0VFlKWG8zSURKQUpubFhxM1RBOGJpNVNsU2dpNGlQMEdPNXl3bkotOGtiRTR4dExWUHFiV0tBazdOMmg3eEVMQmc?oc=5",
-   "source": "투데이e코노믹",
-   "date": "2026-07-31"
-  },
-  {
-   "title": "\"3만 마일리지에 포인트 추가증정\" 농협은행, 모두투어와 'NH모두트래블리적금' 출시 | - catchnews.kr",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB1MERHZVk2d0I1WDZMRy16dGVDZ21LN01WUjNOWG5yOGp2dWF1X0NFTTktVzhJZXZjUTFCZzIxQUtGeHF6NWYyU3VpSktxRS05NjVvTTJVeThrV3pTMmlIRVlLb2RWY2Jvb0JlV0o2MA?oc=5",
-   "source": "catchnews.kr",
    "date": "2026-07-31"
   }
  ],
@@ -2902,7 +2902,9 @@
   "c25b629b59b79784",
   "e670e4a7467e837f",
   "470803f76b69f6af",
-  "bd2ccb4cbd6cfffb"
+  "bd2ccb4cbd6cfffb",
+  "2b67d452aeee6afd",
+  "139339fe30cd6472"
  ],
  "news_seeded": true,
  "news_products": [
