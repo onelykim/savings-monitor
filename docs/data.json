@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-03 04:22",
+ "updated_at": "2026-08-03 06:04",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2492,6 +2492,18 @@
  ],
  "news": [
   {
+   "title": "청년희망적금, 비과세 끝난다…재출시 ‘흥행몰이’ 끝나나 - 쿠키뉴스",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBMX2pvaVJfbDlMWlB1dWc0U3p3WDZnV3EzSjFxOHp5Qm1iNzljc1FFd2NuUzE3b3ZYOG1MMHItS19WS01uRm1XR3lST2pld1lhd1ByZ1BjaWpkM3Jod3gxN3pRbw?oc=5",
+   "source": "쿠키뉴스",
+   "date": "2026-08-01"
+  },
+  {
+   "title": "인천저축은행, 창립 55주년…연 5.5% 적금 특판 - 네이트",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91YXBuS1p0Rmp2TjNtLXFZaDR1dktrZE9UZjd3ZzByOGNEejRELXRfUHFHdnBadE1fc21xemNOTlZSaE9UUDc4eG5LT25YR0tVdUQ0?oc=5",
+   "source": "네이트",
+   "date": "2026-07-31"
+  },
+  {
    "title": "[금융권 이모저모]NH농협은행, 모두투어 제휴 적금 출시 外 - 비즈니스플러스",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tZWJPb3pEbXRwZDk3RlE5OUNlUGFLclVvUkJGNWlFSDE1LTZsVEZIUURDd3dVM3pQVzJadEJBa0tVWGJXcTNINHQtYkdGcXk4dlRZaXdadms5QTBYdjJuNGNoVHhKV3pZTExjV0ZXSQ?oc=5",
    "source": "비즈니스플러스",
@@ -2550,18 +2562,6 @@
    "link": "https://www.munhwa.com/article/11606566?ref=naver",
    "source": "네이버뉴스",
    "date": "2026-08-02"
-  },
-  {
-   "title": "[게시판] 농협은행, 모두투어 제휴 'NH모두트래블리적금' 출시 - 매일경제 마켓",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YRE1tSEl4bVFhWDFuY183QTZvcHFZUjJnbDZpdnhhdUh1R0xGZENPUjNoTEpHN3FyTzc3OUlNRUVuaUI3QTlCYk9sRmNCeUpmWXc?oc=5",
-   "source": "매일경제 마켓",
-   "date": "2026-07-31"
-  },
-  {
-   "title": "인천저축은행 반세기 역사 성찰…창립 55주년 맞춰 연 5.5% 적금 특판 - thefairnews.co.kr",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE02TjlnYkdoRlhWejlWNFN5MFJWUy1LSzVaa2FhZkM0c2VPSTlJX0VyNUFUaDVUdm9aby1zNzFHUGlYOWlRUHBIRjNSblhxMHo2MWJodEZFLS1qbjJTZjBEOGxqQkxlc09FVUVZcVQ2ZXNKb2NR0gF0QVVfeXFMTTZOOWdiR2hGWFZ6OVY0U3kwUlZTLUtLNVprYWFmQzRzZU9JOUlfRXI1QVRoNVR2b1pvLXM3MUdQaVg5aVFQcEhGM1JuWHEwejYxYmh0RkUtLWpuMlNmMEQ4bGpCTGVzT0VVRVlxVDZlc0pvY1E?oc=5",
-   "source": "thefairnews.co.kr",
-   "date": "2026-08-01"
   }
  ],
  "news_seen": [
@@ -2912,7 +2912,9 @@
   "ffd72cf93559b40f",
   "5d4d294dc0694506",
   "f17d92b14470f9b6",
-  "791dc264e90fd764"
+  "791dc264e90fd764",
+  "04a27f3a6e2f65d6",
+  "f04f7ce86f940154"
  ],
  "news_seeded": true,
  "news_products": [
