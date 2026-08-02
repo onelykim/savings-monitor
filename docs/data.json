@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-03 00:09",
+ "updated_at": "2026-08-03 02:10",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2492,6 +2492,18 @@
  ],
  "news": [
   {
+   "title": "[금융권 이모저모]NH농협은행, 모두투어 제휴 적금 출시 外 - 비즈니스플러스",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tZWJPb3pEbXRwZDk3RlE5OUNlUGFLclVvUkJGNWlFSDE1LTZsVEZIUURDd3dVM3pQVzJadEJBa0tVWGJXcTNINHQtYkdGcXk4dlRZaXdadms5QTBYdjJuNGNoVHhKV3pZTExjV0ZXSQ?oc=5",
+   "source": "비즈니스플러스",
+   "date": "2026-07-31"
+  },
+  {
+   "title": "인천저축은행 반세기 역사 성찰…창립 55주년 맞춰 연 5.5% 적금 특판 - thefairnews.co.kr",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xVHZwX29od2NLeV8xRDBuVGYwbzhlSE5PMnZUeHZZOW8xbG5pT1FVR2NOUUFqQTNXeEgtdzE4WlRjcm5wSGdUcWhJYUpWV0oyQTB3enNFYmhnZWVwWWlPcElIdjc4ZEptZ0djZWx4RC3SAXRBVV95cUxNNk45Z2JHaEZYVno5VjRTeTBSVlMtS0s1WmthYWZDNHNlT0k5SV9FcjVBVGg1VHZvWm8tczcxR1BpWDlpUVBwSEYzUm5YcTB6NjFiaHRGRS0tam4yU2YwRDhsakJMZXNPRVVFWXFUNmVzSm9jUQ?oc=5",
+   "source": "thefairnews.co.kr",
+   "date": "2026-07-31"
+  },
+  {
    "title": "NH농협은행, 모두투어와 손잡고 ‘NH모두트래블리적금’ 특판 출시 - 스포츠서울",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBFdmxfV2RQWFB5TTBDNGJZc180dC1nQTdIZmM1cXlNdDBsUTltSXgxdFZVVzRqSGprXzFYcmx1emFVdFdEMFlvZzR4VUxYbWppNEdodWZhaEs?oc=5",
    "source": "스포츠서울",
@@ -2550,18 +2562,6 @@
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE02TjlnYkdoRlhWejlWNFN5MFJWUy1LSzVaa2FhZkM0c2VPSTlJX0VyNUFUaDVUdm9aby1zNzFHUGlYOWlRUHBIRjNSblhxMHo2MWJodEZFLS1qbjJTZjBEOGxqQkxlc09FVUVZcVQ2ZXNKb2NR0gF0QVVfeXFMTTZOOWdiR2hGWFZ6OVY0U3kwUlZTLUtLNVprYWFmQzRzZU9JOUlfRXI1QVRoNVR2b1pvLXM3MUdQaVg5aVFQcEhGM1JuWHEwejYxYmh0RkUtLWpuMlNmMEQ4bGpCTGVzT0VVRVlxVDZlc0pvY1E?oc=5",
    "source": "thefairnews.co.kr",
    "date": "2026-08-01"
-  },
-  {
-   "title": "NH농협은행, 모두투어 제휴 ‘NH모두트래블리적금’ 출시…최고 연 5.05% 금리 - 퍼블릭타임스",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQNU01M2FuTDhVVnVMVUgyWXNwQzhnc05OY3U4SWNlZFlFZldZczN1Z1NxbWJOWURVSkJFU050cVZhMGRRclVOcVR0cU1OWG9Da2ZaS01jdTVLcjNuSS1pbWhxRktzMV9mWHfSAW5BVV95cUxNT2N0OG5yeV9xc3VWUnh5NWtQQTU0WkUzd1g3b3FwS3U3M1lOYWZqQjdFeWVtOHpka0N5eXVoQlBmQTZ4OXlvV21ZVGhXM2pUUEQ5dE0yZ0pvamJmOWFxUWQ4WXF5UnhGaDEwU2lSUQ?oc=5",
-   "source": "퍼블릭타임스",
-   "date": "2026-08-01"
-  },
-  {
-   "title": "NH농협은행, 모두투어와 힘께 여행 적금 특판 선봬 - 팝콘뉴스",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5sRTlZSXo3V3pOMkZQT3FNMWFBNE9NRnNWR3hHWTg1SlQybXY1NWVOVndVZG5CT3lRTHJfd0JHdlI2MUJkV2NJNjFEazlKOEpmYjVSQjlTS3JWQmVSTldxZTc2YlBEbFBrcU1jcXhn0gFyQVVfeXFMT19wQTVPTUVpVkFIZXc3WU5Ya01WbDBtNUEtNDdBS0NWcTNSVXcxZy0yRDZkaWl1UXRHWllZNEhxSTlJd3J4UEFSVkNOeVB1NWFvaXl0TXdjYlF3aFhLTGdCRFVtV01WbXJJbHJEZ0RFZWRR?oc=5",
-   "source": "팝콘뉴스",
-   "date": "2026-07-31"
   }
  ],
  "news_seen": [
@@ -2910,7 +2910,9 @@
   "adf8be1a90153d3c",
   "17ce538634d3cf45",
   "ffd72cf93559b40f",
-  "5d4d294dc0694506"
+  "5d4d294dc0694506",
+  "f17d92b14470f9b6",
+  "791dc264e90fd764"
  ],
  "news_seeded": true,
  "news_products": [
