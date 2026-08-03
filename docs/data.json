@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-03 20:36",
+ "updated_at": "2026-08-04 00:09",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2492,6 +2492,42 @@
  ],
  "news": [
   {
+   "title": "우리은행, 최고 연 8.29% ‘우리의 소원 예·적금’ 출시 - 경제타임스",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA2M0tOT2FpcjRUaXdZY1MzTmp3eHZjOEQ3czV1dkdWOXJmY3NXMzA3Mlg5bnBOWEx2bjR6TVR2Y2ZLTmNiYVFuUkVXbHhYbTZjODBwblpTNHQ?oc=5",
+   "source": "경제타임스",
+   "date": "2026-08-03"
+  },
+  {
+   "title": "우리은행, 백범 김구 탄생 150주년 기념 예·적금 출시 - 뉴스드림",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBqNWRaNGM2bzExc0ZUNEliZXhkc1RLZEE1WmFIRlRvRzFWaGhzaEJlOG5oTVZMdjRQYnlwNDltbGVFYlk1aHc0WWhjOFFPMlFvdC10eF9nU2FBOGVBVURKT0RJeno5eEFNWldsVDFR0gFuQVVfeXFMUGo1ZFo0YzZvMTFzRlQ0SWJleGRzVEtkQTVaYUhGVG9HMVZoaHNoQmU4bmhNVkx2NFBieXA0OW1sZUViWTVodzRZaGM4UU8yUW90LXR4X2dTYUE4ZUFVREpPREl6ejl4QU1aV2xUMVE?oc=5",
+   "source": "뉴스드림",
+   "date": "2026-08-03"
+  },
+  {
+   "title": "[은행 뉴스브리핑] 우리은행 '우리의 소원 정기예·적금' 출시 - 아시아타임즈",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kaUUxNmZfcUVrazJJQ1I2ZXJRNDVYb2J3UzNWXzE5bHhWa3JMTFVlT3JFYkNhWmcwWlJ6el9zSzhPSFF2bnlvejg0WW1vVlhZbTJDWWZ4RnBIWDNrN1E?oc=5",
+   "source": "아시아타임즈",
+   "date": "2026-08-03"
+  },
+  {
+   "title": "우리은행, 백범 김구 탄생 150주년 기념 예·적금 출시 - 이코노뉴스",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SZGptc2wzeG9SeGtGXzh5WG91b1FObVdrUTRoNDV6TWNIdGVpbk1qZGhtc3BLMzh5bkRwUGNnZ1ZFRWFWYlUtN0ZKaWluUUNjVVpDcDEza0lQc1dxLThBSWc4ZTllNkF0SGhfeFozTQ?oc=5",
+   "source": "이코노뉴스",
+   "date": "2026-08-03"
+  },
+  {
+   "title": "우리은행, 김구 탄생 150주년 기념 '우리의 소원 예·적금' 출시 - 팩트인뉴스",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9CM2o4b1VNQmdKU2pYNXZCZXE1SF8wTHY4eF9PbTFjU2NpVy1uTlM4anJQSFN6UkJ1NUFtQU1vUnVlRVJZQ1dYWHpwVU5feVM1OC1vallRYTgxUERuWXYwS0VHY1R2TmZLaHVESUIxYXY?oc=5",
+   "source": "팩트인뉴스",
+   "date": "2026-08-03"
+  },
+  {
+   "title": "우리은행, '김구 탄생 150주년' 기념…'우리의 소원 예·적금' 출시 - 뉴시스",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IU09qbm5UV2ZSV2hGX2NId2QwZ0RHZnlRTVdDaTd2VHJaaVgwUlJMWFhhQS12VFBndUlxVV80WWNYLWFObXBIM21LWUZBalRycWVONGJHcnV2Vy1iOVpWNHd3?oc=5",
+   "source": "뉴시스",
+   "date": "2026-08-03"
+  },
+  {
    "title": "우리은행, '우리의 소원 정기예금·적금' 출시…최고 연 8.29% 금리 - PRESS9",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yYk5yNGFlNk9EUHBBcnRTejU1ZmxTZ1EzWTlWd25sS3pEZW9nWHU4b2F0aFRDS0hpLWotZjJEX3RJWFdHR25MeTJiVzhEa3plam1Za3ZyTnFFNUVncEVIc0pyTWVfUQ?oc=5",
    "source": "PRESS9",
@@ -2525,42 +2561,6 @@
    "title": "우리은행, 백범 김구 150주년 기념 ‘우리의 소원 예금·적금’ 출시…최고 금리 8.29% - 뉴스퀘스트",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBHRy1lbktXal9rb0VIQmFqTElRRlNhVDNac2dfaTBJYWNYTUxwWlpyWlozX3FyNXlyaHhXMUZVMndMWXNfZEZfdE01b01yaXVHLVpXRVVXUF85VldvdXptalRYTl8yYVN5SHNZT2d2RW40M0HSAXNBVV95cUxQR0ctZW5LV2pfa29FSEJhakxJUUZTYVQzWnNnX2kwSWFjWE1McFpaclpaM19xcjV5cmh4VzFGVTJ3TFlzX2RGX3RNNW9Ncml1Ry1aV0VVV1BfOVZXb3V6bWpUWE5fMmFTeUhzWU9ndkVuNDNB?oc=5",
    "source": "뉴스퀘스트",
-   "date": "2026-08-03"
-  },
-  {
-   "title": "우리은행, 광복절 맞아 '우리의 소원 정기예금·적금' 출시 - newscape.co.kr",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sMnEzb2ZJOU5ITGU3aHBuRl92RlE3Z1M5X05VUjVWZC1rQzZWbGZiZHUxb0hTMTc0YkJnMXJEcVZGa1JMSDBZRzVGaGtMbUFPOC1NMlFoZkRpMEtQYUowSklCUExhVWJPUktWLXhhdljSAXBBVV95cUxNbDJxM29mSTlOSExlN2hwbkZfdkZRN2dTOV9OVVI1VmQta0M2VmxmYmR1MW9IUzE3NGJCZzFyRHFWRmtSTEgwWUc1RmhrTG1BTzgtTTJRaGZEaTBLUGFKMEpJQlBMYVViT1JLVi14YXZY?oc=5",
-   "source": "newscape.co.kr",
-   "date": "2026-08-03"
-  },
-  {
-   "title": "\"금융에 담은 백범의 꿈\" 우리은행, 탄생150주년·광복절 기념 '우리의 소원 예·적금' 출시 - catchnews.kr",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLaHpCSDBjbWdISzlBcklNQVhwd203ZXhnVktacTBmdFBYcV9LcVJBU083YWxLS3NDWDZ6bF9SZHV2ZDJjc0NrRTFwR3ZKNlNjTW1qMXlZT1NodkhXZVZVVk5sZGVjcVNkQy1B?oc=5",
-   "source": "catchnews.kr",
-   "date": "2026-08-03"
-  },
-  {
-   "title": "우리은행, 백범 김구 탄생 150주년 기념 '우리의 소원 예적금' 출시 - 1코노미뉴스",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oVHgxV01Yd3FMQVZILTNWLUxOU2x4NTZWN0tiNks2aWpXUkNlQ3ZPOHBldU9GNUtDSDlzSHlmZGtWZE1wYUZxd2ZIMHNZYVRwNTIydENDSWpsZlYzTVFLOFdJTXZnUEt6VjZybEVqRFI?oc=5",
-   "source": "1코노미뉴스",
-   "date": "2026-08-03"
-  },
-  {
-   "title": "우리銀, 김구 탄생 150주년 기념 '우리의 소원 예·적금' 출시 - 네이트",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pS2tRUHBXbzFzV0FtRXFfNmhxZFRUaDFUX2JrNndWWG5ucDhReTBKTkwwVThQNTQwT2IwcFRtdi11bXNEUFQyamlWSkVvVm42V2hvN1R2OVByVW5oUFkyNA?oc=5",
-   "source": "네이트",
-   "date": "2026-08-03"
-  },
-  {
-   "title": "우리은행, '우리의 소원 예·적금' 출시…최고 연 8.29% - edaily.co.kr",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbGFsc1N1d0tTa1ZGZHFRdFQ4Sm9KM2NaYXJuU3IyRnVsaExIMlZTdUFOMnM0RWY3SzgxOHFrXzJLZ0tnZ0I4N2Z2YVJZZ2VQUXV3MzRKWTVfRXZzNnhrOUZkeW9XdWNxVkRsRlBKWUtURDVrY3lJdFkzRXctNjlsRA?oc=5",
-   "source": "edaily.co.kr",
-   "date": "2026-08-03"
-  },
-  {
-   "title": "우리은행, 백범 김구 탄생 150주년 기념 '우리의 소원 예·적금' 출시 - 넥스트데일리",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1IajJZRk9KcXhadFdQSW5ZSHJiTm91T0pVV3FNOXdFVUZ5RzIzazBWVU1ZX004eWNSaUM5VmdodWlQZ1cybzVEdVBmTnlCQVFnNXRHbHNoZHVPMGppY0M5dXBwTnR1V0ZLelVzUFg1Zlg0bTjSAXNBVV95cUxNSGoyWUZPSnF4WnRXUEluWUhyYk5vdU9KVVdxTTl3RVVGeUcyM2swVlVNWV9NOHljUmlDOVZnaHVpUGdXMm81RHVQZk55QkFRZzV0R2xzaGR1TzBqaWNDOXVwcE50dVdGS3pVc1BYNWZYNG04?oc=5",
-   "source": "넥스트데일리",
    "date": "2026-08-03"
   }
  ],
@@ -2999,7 +2999,13 @@
   "553966bd38f65c45",
   "a9f92d4c5f4f9d6b",
   "2fe137501e4b70e4",
-  "ec9dd0ba9b49adbf"
+  "ec9dd0ba9b49adbf",
+  "8e1c2ae6f0d47072",
+  "7a8696ce042405c7",
+  "26ca4da2f8f9840a",
+  "5887e2ca47bb3343",
+  "9115424c3d698727",
+  "c2a396af5f2106d3"
  ],
  "news_seeded": true,
  "news_products": [
@@ -3009,7 +3015,7 @@
    "norm": "우리의소원예·적금",
    "rate": 8.29,
    "first_news": "2026-08-03",
-   "count": 47,
+   "count": 50,
    "articles": [
     {
      "title": "우리은행, '우리의 소원 예·적금' 출시 - 전자신문",
@@ -3044,7 +3050,7 @@
    "norm": "우리의소원정기예·적금",
    "rate": null,
    "first_news": "2026-08-03",
-   "count": 3,
+   "count": 4,
    "articles": [
     {
      "title": "우리은행, 백범 김구 탄생 150주년 기념 '우리의 소원 정기예·적금' 출시 - BBS불교방송",
@@ -3062,6 +3068,12 @@
      "title": "[은행 뉴스브리핑] 우리은행 '우리의 소원 정기예·적금' 출시",
      "link": "https://www.asiatime.co.kr/article/20260803500233",
      "source": "네이버뉴스",
+     "date": "2026-08-03"
+    },
+    {
+     "title": "[은행 뉴스브리핑] 우리은행 '우리의 소원 정기예·적금' 출시 - 아시아타임즈",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kaUUxNmZfcUVrazJJQ1I2ZXJRNDVYb2J3UzNWXzE5bHhWa3JMTFVlT3JFYkNhWmcwWlJ6el9zSzhPSFF2bnlvejg0WW1vVlhZbTJDWWZ4RnBIWDNrN1E?oc=5",
+     "source": "아시아타임즈",
      "date": "2026-08-03"
     }
    ],
