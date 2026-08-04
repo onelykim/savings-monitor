@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-05 02:58",
+ "updated_at": "2026-08-05 04:47",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2492,6 +2492,12 @@
  ],
  "news": [
   {
+   "title": "우리은행, 백범 김구 탄생 150주년 기념 ‘우리의 소원 예·적금’ 출시 - 비즈월드",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aajZCLWpkNTZKT0d2NjNCRG0zejdYa0tfM3QyX0k5ek0yOTRoZVFYZ3BNOVZiX1lGeGdMZlI5RnR1N2o1Vy1CS3ktSHhiVG5zLTlBMHNpNldpYkczSVhmdHN1eG8tLXBIc0lz?oc=5",
+   "source": "비즈월드",
+   "date": "2026-08-04"
+  },
+  {
    "title": "우리銀, 김구의 꿈 금융으로 잇는다...‘우리의 소원 예·적금’출시 - 내외뉴스통신",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zbHk3eFNGQUFuZFZEMWRwUzNVdmQ4RC1nWFFTMFZXMTNidjBJWElzMTh3Z3hyTTVET1lNRlZoUU1uM2lTQkJkZHBnTFhrZGpvdHZXeTJ5Y01ZdzM1WXRCZWkzWEYtY0k2aUVPTmtoMmTSAXBBVV95cUxOc2x5N3hTRkFBbmRWRDFkcFMzVXZkOEQtZ1hRUzBWVzEzYnYwSVhJczE4d2d4ck01RE9ZTUZWaFFNbjNpU0JCZGRwZ0xYa2Rqb3R2V3kyeWNNWXczNVl0QmVpM1hGLWNJNmlFT05raDJk?oc=5",
    "source": "내외뉴스통신",
@@ -2556,12 +2562,6 @@
    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE95WV9JWFlfbzEwT0t4Zzd5dHJpNkxENFR3Wjc3X3dldDJGQXVuaUR4bklVYnFPdmVUa0ZUR1NZUHZSQTY5TEZFMDh2d1hYQQ?oc=5",
    "source": "insight.co.kr",
    "date": "2026-08-03"
-  },
-  {
-   "title": "“모두투어와 협업” NH농협은행, ‘NH모두트래블리적금’ 출시 - 스포츠동아",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB5Zm9rQWx4djAxYUdYeWFpSk81TlFuRnZ1c08tMk43bVliZmxOeWpzTFlJT25fWTFvOUNrS0hTQVl0ZG0zbmNxZGotZkRsdkJKdTNPMV93RkFzVTI4N2hPNXE3ZDhYcHZWSTNZc3lpX3hrckU?oc=5",
-   "source": "스포츠동아",
-   "date": "2026-08-04"
   }
  ],
  "news_seen": [
@@ -3038,7 +3038,8 @@
   "bcb2c56e254a932b",
   "95ca08229e74ece5",
   "6c714148a6d7115e",
-  "73055753bd174cde"
+  "73055753bd174cde",
+  "b6c0f2a4c5129aec"
  ],
  "news_seeded": true,
  "news_products": [
@@ -3048,7 +3049,7 @@
    "norm": "우리의소원예·적금",
    "rate": 8.29,
    "first_news": "2026-08-03",
-   "count": 70,
+   "count": 71,
    "articles": [
     {
      "title": "우리은행, '우리의 소원 예·적금' 출시 - 전자신문",
