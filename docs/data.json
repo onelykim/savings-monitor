@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-06 09:05",
+ "updated_at": "2026-08-06 12:30",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2492,6 +2492,66 @@
  ],
  "news": [
   {
+   "title": "토스뱅크, '키워봐요 31일적금' 출시…매일 저금하면 최고 연 10% - 데일리안",
+   "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNcXU4WHB5T252OVM2cUY2OUcxdjBma2dBUi1RMkxZM0JIVVFjbDl6R2dKVEhLcmVXWW1JYnZKeDRYV2FibmZUTlg1anVpMnBhd3V0N0FqMGtpbnBWbGhnRzlSQmlpb2tKcFlxdUViX1Itb1hCZGp5WWswQ0FaTnZQSlFEQVFEOHh1Q0pHdmRrcHZyZi1wdk1LU1F0ZWpLUUkzeGtRTEZaSTZ3MFNjdXJiT0U1U3A3dHlIM2FCRnRDLXZ0bGIyNXQ2dXlFR0ViQ2xYZE8zY3dIblFCRFRoRkJIbnFOQUZibUFMMmRLWmdiVldJQ1p5QlZyT2U1NzJscXNjSVBiQWs0bEdUVkpKRGdUTC1PZjRZb1dV?oc=5",
+   "source": "데일리안",
+   "date": "2026-08-06"
+  },
+  {
+   "title": "토스뱅크, '키워봐요 31일적금' 출시…31일 저축 시 최고 연 10% - 파이낸셜포스트",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5lU2JkLWFtbXRKYlpKRWZzYU5naVVibWZaV2lsamc0akxaVGVuWm83QnlrcUltanJXMVdncGRyR2ZPaTBCeE1ZZnJCTkd4RmNMR0dyWlB5VzFOUThYQzg3eU5Gdm5PcVhfS3U4ZU9TODVIY1dw?oc=5",
+   "source": "파이낸셜포스트",
+   "date": "2026-08-06"
+  },
+  {
+   "title": "토스뱅크, 매일 저금 '키워봐요 31일적금' 출시 - 네이트",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LUEtzRUlaSlR0a1JQaVJyOVNLVXB6V0U1LUdBRWloR1V2QUk1em1WVW9yLU9NQl9KbFBaS0I0dHdaTGVoZjlPV0RnZ1R0VDhJMmFianZFRHVuVVFPcEc2cA?oc=5",
+   "source": "네이트",
+   "date": "2026-08-06"
+  },
+  {
+   "title": "토스뱅크, '키워봐요 31일 적금' 출시",
+   "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7177789",
+   "source": "네이버뉴스",
+   "date": "2026-08-06"
+  },
+  {
+   "title": "토스뱅크, '키워봐요 31일적금' 출시…매일 저금하면 최고 연 10%",
+   "link": "https://www.dailian.co.kr/news/view/1675296/?sc=Naver",
+   "source": "네이버뉴스",
+   "date": "2026-08-06"
+  },
+  {
+   "title": "토스뱅크, '키워봐요 31일적금' 출시…31일 저축 시 최고 연 10%",
+   "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=269378",
+   "source": "네이버뉴스",
+   "date": "2026-08-06"
+  },
+  {
+   "title": "토스뱅크, 매일 저금 '키워봐요 31일적금' 출시",
+   "link": "https://www.newsis.com/view/NISX20260806_0003738814",
+   "source": "네이버뉴스",
+   "date": "2026-08-06"
+  },
+  {
+   "title": "모두투어, NH농협은행과 여행 적금 출시…최고 연 7.3% - 인사이트코리아",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FcFhRNG1BUWdtU09xdDlZQlJXaTRYU0czSHJtTUVuejY1OE52LW1BTHFqQVVEcVNVTmJrSENUdlgxMm9hM1ZyNU93US1KQzZQcXFmQkh5UTVqNUNjeVM5VFNRSnVFTXJKTEdEM3d1SXBGdEFsWVg40gF3QVVfeXFMT0VwWFE0bUFRZ21TT3F0OVlCUldpNFhTRzNIcm1NRW56NjU4TnYtbUFMcWpBVURxU1VOYmtIQ1R2WDEyb2EzVnI1T3dRLUpDNlBxcWZCSHlRNWo1Q2N5UzlUU1FKdUVNckpMR0Qzd3VJcEZ0QWxZWDg?oc=5",
+   "source": "인사이트코리아",
+   "date": "2026-08-05"
+  },
+  {
+   "title": "모두투어, NH농협은행과 여행적금 출시…마일리지 혜택 연계 - 데일리한국",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5IYXJFeUJlblA0VHpDNEtKS1ZDTXNMZEVHWnpsd0FFRmVxNngzbjlRVUZuczdBT2V4eGVnNnUtOGhyVHkwbGFEeXVVdF9WTUJKcnF3TGxIWXBqSS0taGJyMUJvMHVKNnA5am5vT3NlQdIBc0FVX3lxTE5hWkkwLWZRZzlwajRhc1Q0NkxFRFdDa1dNVEJHTGxkWkdxdlFWODlySGhKNDRJdGVLbWw5V2FtUmk3aHZGbTlxR3k2UE9QNmxORVVXRVhYdmk3eklzVEpFRmFiQVlrTlZMdUlHV2NHY3hiWTA?oc=5",
+   "source": "데일리한국",
+   "date": "2026-08-05"
+  },
+  {
+   "title": "우리은행, 김구 탄생 150주년 기념 예·적금 출시 - 현대경제신문",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MZDVYQUdzQUdXMnl4bnpGRFJteks2Tk5RSE1aZktrTy1lSmN3cVBKcjgwM3Q3N2YwTXBCWm5JMFZtNTZzVUJXTEFDN0dLZ1AxRmhJcXV5WWFBeUM1dFd5NGlDN0pneWfSAWtBVV95cUxQbThyRFlDcE1fS3l1S1FGTDFfT29TYmJYOTlRS1oyQjBsREVJVDRSMHU1WEFCTnhkallCV0NYRWNnTHduY1d6dmVIVEE0aUJhVzk2UGpncFFmUnBvVDJKcU1JUzR2LV85M1hlRQ?oc=5",
+   "source": "현대경제신문",
+   "date": "2026-08-03"
+  },
+  {
    "title": "모두투어, NH농협은행과 여행 적금 출시…최고 연 7.3% 금리 - 네이트",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JbkNWTDd4NExBYzNCcnNYbi05eHNTNVctQXZ4b0VSaXFXZllub28xZl9nTmJmNjNkQ0sxZUVQb3ZoT1lReDNqQUoxSGRRZG5pT1FPSXFXbmJ6OXNhS1BlSHRRRHhpR0tURmt3R2Fn?oc=5",
    "source": "네이트",
@@ -2502,66 +2562,6 @@
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aQ3g4bkxkQkdlaExEaWxGTngzQmlLQ3F4bG5Mcm1LMk1OS0tpRkZMTFp6bk8wU1NaNGxSeTRxS0M0ZWVUUnhGVDUzTkF5ZEEyQU5kV2xqbUNPWGF5bTdHNnhnemhVSm5yRzNQSdIBcEFVX3lxTE1sMnEzb2ZJOU5ITGU3aHBuRl92RlE3Z1M5X05VUjVWZC1rQzZWbGZiZHUxb0hTMTc0YkJnMXJEcVZGa1JMSDBZRzVGaGtMbUFPOC1NMlFoZkRpMEtQYUowSklCUExhVWJPUktWLXhhdlg?oc=5",
    "source": "뉴스케이프",
    "date": "2026-08-03"
-  },
-  {
-   "title": "우리은행, '우리의 소원 예·적금' 출시 - 미디어펜",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9kY0pBRVhmbWFhNlBFUjhTR2hMN1d0elRkRmhVbFRGMkg2QUpySEFBeDdoQ0NVVE1jcXYwNkZDUU9QU01pVlprRDY2dmVkNHh6blpCMdIBWEFVX3lxTE8zWTk0ZGFkVzM0cks1UER5eTFubEpmYnV3VDVReXJXcm01RWltdDJRSUtITDZFNXFWVUgzaVlUaTJrZkZWVUZMc2JIdXZSejFSdWJYTm1sMHU?oc=5",
-   "source": "미디어펜",
-   "date": "2026-08-03"
-  },
-  {
-   "title": "우리銀, 김구의 꿈 금융으로 잇는다...‘우리의 소원 예·적금’출시 - 컨슈머뉴스",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFeW95ZWFpcEFJNndPaUxramh6ZElZRWJUZDhVaDRzUUtzeGxmLWZZTFZhd3NMelJJa1JGX1hTUnpkcnpNMzRJYm4xX2dwMzdMVm9zeEgtcVZzM0NJcWFtYzRXYktTdEdGSjlqMTZHNW4?oc=5",
-   "source": "컨슈머뉴스",
-   "date": "2026-08-03"
-  },
-  {
-   "title": "모두투어, NH농협은행과 ‘NH모두트래블리적금’ 출시 - beautytravelnews.com",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYnlaZjZhNzg1cUh4OGwzNDhKR0FqWlZsYTFmQ0NIYWFkVVgxQm5SQUgtSDF3M094akFXbjBjakZkQ2h5LU9JMlVDeHpXaEptSHJmRjZRc1pHTl84OUhWMW1tUTBSQTZYU0Q2Wm9uai1DR3hzTF9PN3hiZ2lETTJ6d1AycVZXRHF6bU1QTA?oc=5",
-   "source": "beautytravelnews.com",
-   "date": "2026-08-05"
-  },
-  {
-   "title": "모두투어, NH농협은행과 'NH모두트래블리적금' 출시 - 뉴스트래블",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5pa2d2bG50dVR1SFN1RGhEaDZCX0RUelNkNG9hS1JieHF0TVFOZFlEUWRlVlkwSmdab3VqVXI3Ujd1cGlib21EZVBzWFdtNThQbktwR1BjMEw2bklNT1BJNFZJQzZfQQ?oc=5",
-   "source": "뉴스트래블",
-   "date": "2026-08-05"
-  },
-  {
-   "title": "우리銀, 김구의 꿈 금융으로 잇는다...‘우리의 소원 예·적금’출시 - 내외뉴스통신",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QOHg5NDhqSnRQYURqUE1VRkxXRk1iX29vWHdfZDFqZkhLSUdkSldIbERnRkNqS3gzaG14SlozT2pKbVlRdmFmUW5wdGVDOWt6RUpEbG1ET0stME1oYzdnRGpRV1hreTU0TXcyedIBcEFVX3lxTE5zbHk3eFNGQUFuZFZEMWRwUzNVdmQ4RC1nWFFTMFZXMTNidjBJWElzMTh3Z3hyTTVET1lNRlZoUU1uM2lTQkJkZHBnTFhrZGpvdHZXeTJ5Y01ZdzM1WXRCZWkzWEYtY0k2aUVPTmtoMmQ?oc=5",
-   "source": "내외뉴스통신",
-   "date": "2026-08-04"
-  },
-  {
-   "title": "모두투어-NH농협은행 '여행 적금' 출시…최고 연 7.3% 금리 - SBS Biz",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CcDk1cXh0bmNkNDgwNi13QUhFejBYN0NaN1hldThjZGNTUVVtWkdVbjk5b3Y0NXN6MEtRZFNnOU9aa09naGNhUmIwcmpaRTJRdlFr0gFYQVVfeXFMT0ItamJnMG8tTHFlQVJBQl9RSkN4T1JGRVhKd3NGWTlwaFJpZk5BUHlIRldTbU40MWNSdjJPZEVzbzctS0J5Y1EtcTYzcV9kamJ0bGFUQkxFNg?oc=5",
-   "source": "SBS Biz",
-   "date": "2026-08-05"
-  },
-  {
-   "title": "모두투어 여행 적금 '출시' 최고 연 7.3% 금리에 마일리지 '증정' - 세이프머니",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5LS10dUhVdVVyNE5TdFNfcU1xNFY3cEJfWF9vczVzSWVLOTRlSnVwSVl4ZVpDMTdFRUo1Q3I2TG5saWtqRmVNeThfTXk5cFhPbEFVdnB0dERJTGRkQU84NElDRFpuZ2JxajJ4UFVB?oc=5",
-   "source": "세이프머니",
-   "date": "2026-08-05"
-  },
-  {
-   "title": "[카드] 우리銀, 김구의 꿈 잇는다...'우리의 소원 예·적금' 출시 - 프라임경제",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE50dzFLNm5CYnotbnNFTWItdi00Q2NEZk43c3NHYzloMWZtSEh2TlpSZENZNW15OEhIeVZ5aHljdmVkV0hjRWZXV0gtNjhYLUlHbFQyTGlYaTJTdnZiSG41S0xRNE9Odw?oc=5",
-   "source": "프라임경제",
-   "date": "2026-08-03"
-  },
-  {
-   "title": "모두투어, NH농협은행과 ‘NH모두트래블리적금’ 출시 - 뷰티트래블뉴스",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZHF1LUFBZFlFNkw4bEw0dTkwcF95MERUOVhrRl9HN3Y4cVNCN09TU0QxNG5Uakg0VkNtbzNYUlFobHZGeTl6VHpOckZ6NUVhWFZiZEhmQjkwcE5peGJtRkRWZnNjNW9FdHlaQVVzcE9Yc2NZLUMxZzdLZm9VQy1NVEVielo0Uk9sMmJGWERB?oc=5",
-   "source": "뷰티트래블뉴스",
-   "date": "2026-08-05"
-  },
-  {
-   "title": "농협은행, 모두투어와 ‘여행자금 적금’ 출시…은행권 여행업계 제휴 경쟁 - SR타임스",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03QXNEOG5EbF85UGlyVXIteGhDRG9KV1h3bkNBbUo2TU9ubW93dHBENU1hazRZR3ZQRGg2TGZ1RjU1czdqQW1veEJxbDJGUW96d0xkU1lFanRWMC1xQmVwaVR0aTJnbU1E0gFrQVVfeXFMT2h3Y05sZ2lqeEhZcGxGSzNUMTJZS3F3SG9SWnpaQnh0Z21xbGtzT1NIT243dV9JRWFpdXlZWG9PSXJJOUdJZjhlaUozaEhXRFRYSnl3Umw2Y1YyZHFUb3pQelRzN09yR21MdE0?oc=5",
-   "source": "SR타임스",
-   "date": "2026-08-05"
   }
  ],
  "news_seen": [
@@ -3069,10 +3069,55 @@
   "1cf94cd737a5b1fb",
   "506b7367175178fb",
   "c5e53017a4693c58",
-  "d62e1116ce2dc097"
+  "d62e1116ce2dc097",
+  "56ec7d767def4a89",
+  "edb54d50f1bf967b",
+  "44a6e0626d825a65",
+  "bd0c8a2dab989d2c",
+  "7b36efe7d00b1c20",
+  "7dfeca65ccce58ef",
+  "244f8be1cfb45227",
+  "24618679225279bc",
+  "7420ef24f9d50355",
+  "4fec4dbf97f8d811"
  ],
  "news_seeded": true,
  "news_products": [
+  {
+   "bank": "토스뱅크",
+   "name": "키워봐요 31일적금",
+   "norm": "키워봐요31일적금",
+   "rate": 10.0,
+   "first_news": "2026-08-06",
+   "count": 7,
+   "articles": [
+    {
+     "title": "토스뱅크, '키워봐요 31일적금' 출시…매일 저금하면 최고 연 10% - 데일리안",
+     "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNcXU4WHB5T252OVM2cUY2OUcxdjBma2dBUi1RMkxZM0JIVVFjbDl6R2dKVEhLcmVXWW1JYnZKeDRYV2FibmZUTlg1anVpMnBhd3V0N0FqMGtpbnBWbGhnRzlSQmlpb2tKcFlxdUViX1Itb1hCZGp5WWswQ0FaTnZQSlFEQVFEOHh1Q0pHdmRrcHZyZi1wdk1LU1F0ZWpLUUkzeGtRTEZaSTZ3MFNjdXJiT0U1U3A3dHlIM2FCRnRDLXZ0bGIyNXQ2dXlFR0ViQ2xYZE8zY3dIblFCRFRoRkJIbnFOQUZibUFMMmRLWmdiVldJQ1p5QlZyT2U1NzJscXNjSVBiQWs0bEdUVkpKRGdUTC1PZjRZb1dV?oc=5",
+     "source": "데일리안",
+     "date": "2026-08-06"
+    },
+    {
+     "title": "토스뱅크, '키워봐요 31일적금' 출시…31일 저축 시 최고 연 10% - 파이낸셜포스트",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5lU2JkLWFtbXRKYlpKRWZzYU5naVVibWZaV2lsamc0akxaVGVuWm83QnlrcUltanJXMVdncGRyR2ZPaTBCeE1ZZnJCTkd4RmNMR0dyWlB5VzFOUThYQzg3eU5Gdm5PcVhfS3U4ZU9TODVIY1dw?oc=5",
+     "source": "파이낸셜포스트",
+     "date": "2026-08-06"
+    },
+    {
+     "title": "토스뱅크, 매일 저금 '키워봐요 31일적금' 출시 - 네이트",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LUEtzRUlaSlR0a1JQaVJyOVNLVXB6V0U1LUdBRWloR1V2QUk1em1WVW9yLU9NQl9KbFBaS0I0dHdaTGVoZjlPV0RnZ1R0VDhJMmFianZFRHVuVVFPcEc2cA?oc=5",
+     "source": "네이트",
+     "date": "2026-08-06"
+    },
+    {
+     "title": "토스뱅크, '키워봐요 31일 적금' 출시",
+     "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7177789",
+     "source": "네이버뉴스",
+     "date": "2026-08-06"
+    }
+   ],
+   "in_disclosure": false
+  },
   {
    "bank": "NH농협은행",
    "name": "적금 들면 여행 마일리지",
@@ -3305,7 +3350,7 @@
    "norm": "NH모두트래블리적금",
    "rate": 7.3,
    "first_news": "2026-07-31",
-   "count": 39,
+   "count": 40,
    "articles": [
     {
      "title": "[게시판] 농협은행, 모두투어 제휴 'NH모두트래블리적금' 출시 - 연합뉴스",
@@ -3340,7 +3385,7 @@
    "norm": "여행적금",
    "rate": 7.3,
    "first_news": "2026-07-31",
-   "count": 5,
+   "count": 6,
    "articles": [
     {
      "title": "NH농협은행, 모두투어와 여행적금 특판 - 중앙이코노미뉴스",
