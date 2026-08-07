@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-08 00:03",
+ "updated_at": "2026-08-08 01:02",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2492,6 +2492,18 @@
  ],
  "news": [
   {
+   "title": "모두투어, ‘NH모두트래블리적금’ 출시 8일 만에 완판 - insightkorea.co.kr",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8xaEFBeFRWZUd2bl9IaXBJNk1ZU1EzbEUtNlRsQzN5UTRka3RrTXE2QzFPUWcyeFdjM1NJT21yWU9VY2l6Y0VnWk1QTks0RnRYZGZROUZ3elAzQzNQQllrQTFkM3QxMGxwSDBYdC01MG1VT0JOMmdB0gF3QVVfeXFMTzFoQUF4VFZlR3ZuX0hpcEk2TVlTUTNsRS02VGxDM3lRNGRrdGtNcTZDMU9RZzJ4V2MzU0lPbXJZT1VjaXpjRWdaTVBOSzRGdFhkZlE5Rnd6UDNDM1BCWWtBMWQzdDEwbHBIMFh0LTUwbVVPQk4yZ0E?oc=5",
+   "source": "insightkorea.co.kr",
+   "date": "2026-08-07"
+  },
+  {
+   "title": "“매일 저금하면 금리가 쑥”…토스뱅크, ‘키워봐요 31일적금’ 출시 - 비즈월드",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0zenY4MFVOWHBMMlFBclUzbkN0TndWV1N0cFR4Y2llNVh2dEJWY1l2YlQ1LUktbl9xc2tvTDRZd1FsSTR5NVF0aFhMZ3JYVGJkbzhPRjlUc1k3aUNJVGI4V1hMNVhuZDd0MmtF?oc=5",
+   "source": "비즈월드",
+   "date": "2026-08-06"
+  },
+  {
    "title": "\"코스피 떠나는 개미들 잡아라\"…'연 7~8% 적금'까지, 고금리 특판 뜬다 - 뉴시스",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5Mm1UbW9xUHQxR1c4czgxXzNyTVhkbzREX0M3Y1JlRW1vR252LUg2cHMzLTBtbWtkSWRmaHg0Mk5oMlZ4WGNEY09pb090VDdsNHFhalgxampzSVBoenpwZ9IBeEFVX3lxTFBXcVJWaHlReV9RZVhRanhGcWZSQ2tiVGktblJSZ0s2Q3FtRGJvQVFhUUNWM19TNjFuaVMyd2tkUjNrU0JYbGtFSEMxa2NRcUhOT2Mtbk9nYW9SQUxGejE4emtoTDdKMWJUa2FJVTBsWTZWejlneDEySw?oc=5",
    "source": "뉴시스",
@@ -2549,18 +2561,6 @@
    "title": "모두투어, ‘NH모두트래블리적금’ 출시 8일 만에 조기 완판 - ksdaily.co.kr",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjaEs2ZXdQYnBWa2J3Z0RGMTB2NG01Y0dHcHZsUV9FLVJQNVM3OWI5bUZjZ2FqcUZ6UnhuQnE5clB4SENBYm1RODZoOGVjQm55ME9tT29ManFnVm9YWFJSRHhZZ25sWUpuQWdN?oc=5",
    "source": "ksdaily.co.kr",
-   "date": "2026-08-07"
-  },
-  {
-   "title": "NH농협은행, 모두투어와 출시한 'NH모두트래블리적금' 조기 완판 - 매일일보",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tZFlLd1JpUFlhbHQ1RVhscFFQNVc5SUpERnQ4Vlg4a1dvX3F0eEpoc2p6VkJKMVh3dVdZRVE0ZFRlVy02ZHdTSlBfRjNuNmU1QUZXdzUwWTIyQzYwUEwxRWlFTUE?oc=5",
-   "source": "매일일보",
-   "date": "2026-08-07"
-  },
-  {
-   "title": "농협은행, 모두투어와 출시한 ‘NH모두트래블리적금’ 모두 판매 - 비즈월드",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MNU8tRlRwTlY1d0tyYzdFU3BLQWd3YXhwVURmN1I2R3A1bTFZSW5xLVVMb2psSFRPaFhyNVhfeWNBV1FwZkFGc01meEctdm5TSXVjTEs4c01IR1ZITWRaYkFHY3l5TFU2d1E?oc=5",
-   "source": "비즈월드",
    "date": "2026-08-07"
   }
  ],
@@ -3179,7 +3179,9 @@
   "f2070a6611189ba0",
   "49276c455ac37ef2",
   "b4e7511bc53b2991",
-  "b5133330572fbf90"
+  "b5133330572fbf90",
+  "fbc88f3902bcbe58",
+  "3c5b7a13043657a4"
  ],
  "news_seeded": true,
  "news_products": [
@@ -3212,7 +3214,7 @@
    "norm": "키워봐요31일적금",
    "rate": 10.0,
    "first_news": "2026-08-06",
-   "count": 59,
+   "count": 60,
    "articles": [
     {
      "title": "토스뱅크, '키워봐요 31일적금' 출시…매일 저금하면 최고 연 10% - 데일리안",
