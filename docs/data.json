@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-09 03:50",
+ "updated_at": "2026-08-09 04:36",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2492,6 +2492,12 @@
  ],
  "news": [
   {
+   "title": "NH농협은행, 모두투어와 출시한 'NH모두트래블리적금' 조기 완판... - 한국경제",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TT0NCTmd6TXNISzk2Z3pkWl9Dd1U2cjRPeHFWa2p1SVR0RndKZTlZa2RCWDFYMnJ2SEhYUnY0LTJKSmUyLUZPQ0YyWU5YWlJKNkpNNk1udFpPUQ?oc=5",
+   "source": "한국경제",
+   "date": "2026-08-07"
+  },
+  {
    "title": "“다람쥐 키우며 매일 저금”…토스뱅크, 최고 연 10% ‘31일적금’ 출시 - 더게이트",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE81eGh4VjRCQlFySEEza0gyU2p6bmI1bnVncElSOVdRZS0xVWFTV2FLa2txejAwM0pYQTIySVNIbXZMMFN1Q1lWNENiaTRNZ3EzZXhYLUc5dXRlWklBLUxWY0VRRS0wQnpk0gFsQVVfeXFMUG1CeDhMQ244NFRIR3JxckhaMXM0bmFnUmU0WDF5LXVUMmR1cGlhNF9KQTN0Z3QtVVRScm5RQXhQZ0pxenpTTks0OWYwVkZySDZxazlaSng3dVpZNWY0d2pfYmlwRzNXNVFZS3g2?oc=5",
    "source": "더게이트",
@@ -2556,12 +2562,6 @@
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9LTmlMOWJsZkxjZDZCRllyRzZvdmdYYXJYNTVuQlRERUUtcHZSN0k5OElDMUNuX2RETG8xMGtybS1jMzFuWkhlQzU0M2szSFB3cmQzZi0tOXB3Z3FyTnV1UWZRZWk3T254c21WWl9rSU5RZWvSAXdBVV95cUxPMWhBQXhUVmVHdm5fSGlwSTZNWVNRM2xFLTZUbEMzeVE0ZGt0a01xNkMxT1FnMnhXYzNTSU9tcllPVWNpemNFZ1pNUE5LNEZ0WGRmUTlGd3pQM0MzUEJZa0ExZDN0MTBscEgwWHQtNTBtVU9CTjJnQQ?oc=5",
    "source": "인사이트코리아",
    "date": "2026-08-07"
-  },
-  {
-   "title": "토스뱅크, ‘키워봐요 31일적금’ 출시…최고 연 10% 금리 - 데일리한국",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3QV9NQzZ0WWZrek9JMWpmU0txS0NYakJfbW1vQ3g3SkRDSWtMMUpkOW4zc3VDcVVWVHdSM2hxWlo2R0VxenIySGVPUlhzT19MQkxCb0hJSDFIOGFKOUxENWpWemU1YW5ydjFoQmNCQdIBc0FVX3lxTFBHN2VPbnd2cWM4STFZdkJuanlfTUxfTlFlNUhZVVZ6RG0yU0x5N05YQTA5dHdrX1pMOHR2SjFlMDluZVU2MERjZkIxMkNjOURkUHBaVU1IRWxtaUFTUDVjYklqTGFfSGJNRmpCTW12NlBwUVk?oc=5",
-   "source": "데일리한국",
-   "date": "2026-08-06"
   }
  ],
  "news_seen": [
@@ -3193,7 +3193,8 @@
   "ba40f050ff6b9241",
   "ce26c1ad052af94d",
   "7ce1f0b033c4441b",
-  "5c7aa731c1e99146"
+  "5c7aa731c1e99146",
+  "309c63f72d553f65"
  ],
  "news_seeded": true,
  "news_products": [
@@ -3538,7 +3539,7 @@
    "norm": "NH모두트래블리적금",
    "rate": 7.3,
    "first_news": "2026-07-31",
-   "count": 70,
+   "count": 71,
    "articles": [
     {
      "title": "[게시판] 농협은행, 모두투어 제휴 'NH모두트래블리적금' 출시 - 연합뉴스",
