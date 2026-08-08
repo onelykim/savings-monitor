@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-08 11:09",
+ "updated_at": "2026-08-08 13:16",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2492,6 +2492,18 @@
  ],
  "news": [
   {
+   "title": "농협은행, 모두투어와 출시한 ‘NH모두트래블리적금’ 모두 판매 - 비즈월드",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VWFV3QlNXcEFNRW93VGloRTE4T2NsZXpkTV9abGdzWHRrX3V0WExDNlVMM08zMGhROUtqR1pXVlpXTF84Y1dKdDYwaWRDVW9JTTZnWFEtZUdwYVRuY0JCVTFSM0llQjFCVEZv?oc=5",
+   "source": "비즈월드",
+   "date": "2026-08-07"
+  },
+  {
+   "title": "\"코스피 떠나는 개미들 잡아라\"…'연 7~8% 적금'까지, 고금리 특판 뜬다 - 미디어데일",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83UGJ5QWpYZ09mVmJtYzZGcG1GVTB0UXZsSVpxUnlYRlRmeWs3OGFDVmJSS2JTZG00bVNlSjVMQWx4Ukdya29LOWFCeWlYRENCYUtMN0xqUUF0TkVtajlBeXlUOWJvXzhpTi1uWg?oc=5",
+   "source": "미디어데일",
+   "date": "2026-08-05"
+  },
+  {
    "title": "토스뱅크, 31일 적금 출시…신협, 고창 해상풍력 1000억원 지원 [금융 PICK] - 뉴스포스트",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qZm1QU0dRNUlILXFvRXJXOTJTSmJ3cGVzWUxkek5KSF9FNTYzV1VSYzBZUXBJWDJIajhpTHFnZ1NQLUtUYmxiUGNRQlRGMHRfREhkanEzZndYZm51cFdFWFR6dUNNX1A0SkE?oc=5",
    "source": "뉴스포스트",
@@ -2549,18 +2561,6 @@
    "title": "농협은행, 모두투어와 출시한 'NH모두트래블리적금' 조기 완판 - 데일리한국",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96amRSODRNOTViSkU4QnJyMGVGV09DZnBvOGdWRkZ0cS14NmE4Yk0xLTV5Q3Z5cmdOTzVQcEVJeEU2WWJ5Uks4dzBTN214RGw1R2hkUVVtM25ZQThxdVpueEJTSGo3NHB4Z3BQbW5VNNIBc0FVX3lxTE1xd0dPbnR4WS1pTnRVTEJHUTI5cy1XbWJublNXY2pLZjM3d1pZbnNPYm1IdVV5b1ZqdFlpRXFHRWhqNVBRT2FyMXdnRFpCckd4ZU1QUGMyUFNrcUZ1X1lYU3RrUmM0U2FWcWRrX0tZQ0N3T2M?oc=5",
    "source": "데일리한국",
-   "date": "2026-08-07"
-  },
-  {
-   "title": "NH농협은행, 여행 특화 적금 흥행…출시 8일 만에 완판 - 금융경제신문",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9obVFZY05sdVYzV2N6SDFza1lZNmxUWmw0VVVCell4Yk1tWVNSdHNSWGxWNFM4T1V4TWlqUFZveFBCTnlrRy0yRnRQZDJXcWliajdRdXViWDBtLWw0SHlhOFlCMmZKU2h5LUtwR9IBb0FVX3lxTE1uTFBSb1llaGthY3VsLWtSbi1XSzctc0V6dm1HQlFKSDlSSlljLTA2QVpkaldCaTFkaTF5UDNfUFd6VzlGak82ak16VHJSOXhkZ213S0xIRnhKemcyRGZHd3hicjJIdHN0M0xIXzFncw?oc=5",
-   "source": "금융경제신문",
-   "date": "2026-08-07"
-  },
-  {
-   "title": "\"휴가철 맞아 3개월 단기적금 인기\" 농협은행, 출시 8일만 '모두트래블리적금' 1만좌 완판 - catchnews.kr",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE93WF80SGQ2a0s4a3ZSS1lMNzd4Yk1td2lWTmdPTGNyaWVVR1Job0hNZjRLbkFoMnNYWDJPdzViM0R4QzZtbkU3Qy13QmhUN2ZjemhRbmd1NnozeC1MSDFhVXhZSXVVZnQ3UXJR?oc=5",
-   "source": "catchnews.kr",
    "date": "2026-08-07"
   }
  ],
@@ -3185,7 +3185,9 @@
   "0cee0a496600dd43",
   "8ce70f59d3b07edc",
   "ffb24660103db5be",
-  "200183b792bf3bd1"
+  "200183b792bf3bd1",
+  "b19ac7d6580f5a55",
+  "ce0d1736baaeee87"
  ],
  "news_seeded": true,
  "news_products": [
@@ -3530,7 +3532,7 @@
    "norm": "NH모두트래블리적금",
    "rate": 7.3,
    "first_news": "2026-07-31",
-   "count": 68,
+   "count": 69,
    "articles": [
     {
      "title": "[게시판] 농협은행, 모두투어 제휴 'NH모두트래블리적금' 출시 - 연합뉴스",
