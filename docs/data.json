@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-09 14:52",
+ "updated_at": "2026-08-09 16:08",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2492,6 +2492,12 @@
  ],
  "news": [
   {
+   "title": "토스뱅크, '키워봐요 31일적금' 출시 - 뉴스후플러스",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hMnNDR29CUTVJZXJZejMtaVdYcHBrQmRESHdCZ0NHLXd0d1ZHbjVUQk9tektNOTcwMGRhMHVlSEsweUw5Q0cwR1ctOVYtS3ZhOXVfZTd2MV9DNWZVOHk4VURkVHVVa1kwUUR5cjN3?oc=5",
+   "source": "뉴스후플러스",
+   "date": "2026-08-06"
+  },
+  {
    "title": "NH농협은행, 모두투어와 출시한 'NH모두트래블리적금' 조기 완판 - 매일일보",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBQQndld29qcjRnTG9mUVNJSFA2VHJmT1VsVTFlR1BZVlFpMkM0Vmh1SDd3czZVd0ZuY0ZFdHo0ZlNkTHFiZGVsUGdTNlZpS0l4cXQ5RktBWjRDUzVtUE9ySjJMUQ?oc=5",
    "source": "매일일보",
@@ -2556,12 +2562,6 @@
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VWFV3QlNXcEFNRW93VGloRTE4T2NsZXpkTV9abGdzWHRrX3V0WExDNlVMM08zMGhROUtqR1pXVlpXTF84Y1dKdDYwaWRDVW9JTTZnWFEtZUdwYVRuY0JCVTFSM0llQjFCVEZv?oc=5",
    "source": "비즈월드",
    "date": "2026-08-07"
-  },
-  {
-   "title": "\"코스피 떠나는 개미들 잡아라\"…'연 7~8% 적금'까지, 고금리 특판 뜬다 - 미디어데일",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83UGJ5QWpYZ09mVmJtYzZGcG1GVTB0UXZsSVpxUnlYRlRmeWs3OGFDVmJSS2JTZG00bVNlSjVMQWx4Ukdya29LOWFCeWlYRENCYUtMN0xqUUF0TkVtajlBeXlUOWJvXzhpTi1uWg?oc=5",
-   "source": "미디어데일",
-   "date": "2026-08-05"
   }
  ],
  "news_seen": [
@@ -3197,7 +3197,8 @@
   "309c63f72d553f65",
   "608d92f127970147",
   "4112405f5251c2d6",
-  "aed471efba667bbf"
+  "aed471efba667bbf",
+  "e4c3c70f01ba1867"
  ],
  "news_seeded": true,
  "news_products": [
@@ -3230,7 +3231,7 @@
    "norm": "키워봐요31일적금",
    "rate": 10.0,
    "first_news": "2026-08-06",
-   "count": 68,
+   "count": 69,
    "articles": [
     {
      "title": "토스뱅크, '키워봐요 31일적금' 출시…매일 저금하면 최고 연 10% - 데일리안",
