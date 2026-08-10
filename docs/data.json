@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-10 15:16",
+ "updated_at": "2026-08-10 17:46",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -1190,33 +1190,33 @@
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
-     "intr_rate": 2.72,
-     "intr_rate2": 2.72
+     "intr_rate": 2.73,
+     "intr_rate2": 2.73
     },
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
-     "intr_rate": 3.12,
-     "intr_rate2": 3.12
+     "intr_rate": 3.13,
+     "intr_rate2": 3.13
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
-     "intr_rate": 3.34,
-     "intr_rate2": 3.34
+     "intr_rate": 3.29,
+     "intr_rate2": 3.29
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
-     "intr_rate": 3.54,
-     "intr_rate2": 3.54
+     "intr_rate": 3.45,
+     "intr_rate2": 3.45
     }
    ],
-   "best_rate": 3.54,
-   "best_base_rate": 3.54,
+   "best_rate": 3.45,
+   "best_base_rate": 3.45,
    "best_term": 36,
    "naver_url": "https://search.naver.com/search.naver?query=%ED%95%9C%EA%B5%AD%EC%82%B0%EC%97%85%EC%9D%80%ED%96%89%20KDB%20%EA%B8%B0%EC%97%85%EC%A0%95%EA%B8%B0%EC%A0%81%EA%B8%88",
    "first_seen": "2026-07-10",
@@ -1253,33 +1253,33 @@
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.02,
-     "intr_rate2": 3.02
+     "intr_rate": 3.03,
+     "intr_rate2": 3.03
     },
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.32,
-     "intr_rate2": 3.32
+     "intr_rate": 3.33,
+     "intr_rate2": 3.33
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.44,
-     "intr_rate2": 3.44
+     "intr_rate": 3.39,
+     "intr_rate2": 3.39
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.64,
-     "intr_rate2": 3.64
+     "intr_rate": 3.55,
+     "intr_rate2": 3.55
     }
    ],
-   "best_rate": 3.64,
-   "best_base_rate": 3.64,
+   "best_rate": 3.55,
+   "best_base_rate": 3.55,
    "best_term": 36,
    "naver_url": "https://search.naver.com/search.naver?query=%ED%95%9C%EA%B5%AD%EC%82%B0%EC%97%85%EC%9D%80%ED%96%89%20KDB%20%EC%9E%90%EC%9C%A0%EC%A0%81%EA%B8%88",
    "first_seen": "2026-07-10",
@@ -1687,8 +1687,8 @@
      "save_trm": 12,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 2.91,
-     "intr_rate2": 3.71
+     "intr_rate": 2.92,
+     "intr_rate2": 3.72
     },
     {
      "save_trm": 24,
@@ -1705,8 +1705,8 @@
      "intr_rate2": 3.5
     }
    ],
-   "best_rate": 3.71,
-   "best_base_rate": 2.91,
+   "best_rate": 3.72,
+   "best_base_rate": 2.92,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EB%86%8D%ED%98%91%EC%9D%80%ED%96%89%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20NH%EC%A7%81%EC%9E%A5%EC%9D%B8%EC%9B%94%EB%B3%B5%EB%A6%AC%EC%A0%81%EA%B8%88",
    "first_seen": "2026-07-10",
