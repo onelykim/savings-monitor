@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-12 02:06",
+ "updated_at": "2026-08-12 03:02",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2492,6 +2492,18 @@
  ],
  "news": [
   {
+   "title": "NH농협은행, 창립기념일 맞아 최고 8.15% '농심천심 예·적금' 출시 - biz.newdaily.co.kr",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1HelF1RE1OQ2Fzbndjc1N5emxQYXNveVpOLU51UEhmYnFKSkNYalVMY1Y4eTNhOHptajBiNURCNzFzelRRUm5MdGlpUXRKWXR1OHpGTjlONUc4SFN5b25hYUowbERmRGNuUmhBRzRaYVFhY3I2eGotcmNuY9IBgAFBVV95cUxOQmVSSFRxd0ZnYWFnTnVxb1BlWlRFMkJmOWttMnJMSHBiUEYzbVFhRVo0UFo4b3JLWjVIX05wS25IeXhJb0R3VVpRYzRQalhBbDhOVzFBS1RiNnJsNHB6dmZ4WVRUSHp0NGFxT01nTzVpTkx4OFZ4YUJial9WV3FxSQ?oc=5",
+   "source": "biz.newdaily.co.kr",
+   "date": "2026-08-11"
+  },
+  {
+   "title": "\"적금 최고 연8.15%\" 농협은행, 창립기념 'NH농심천심예·적금' 출시 - catchnews.kr",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84VDEzTVVPS1hiZDBUenlHbU1rVE5sRExQZjhOQlhuR182LXpNNHVpVTVKMEZLSDFjV1E1OXhyOVdzaEhBTU5EOVd3UGdmWk10YlA2WlF5ZXVFQlVJR1lXZDdmNVMtQWlYUkhr?oc=5",
+   "source": "catchnews.kr",
+   "date": "2026-08-11"
+  },
+  {
    "title": "[Biz & Now] NH농협, 최고 연 3.7% 예·적금 출시",
    "link": "https://www.joongang.co.kr/article/25452588",
    "source": "네이버뉴스",
@@ -2549,18 +2561,6 @@
    "title": "NH농심천심 예·적금 신상품 출시 - 뉴스1",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5fY1pwRHY2SmhXM2trbzREMjNEdzN6WFZaRENyQUloSzFmbHBZNjdDVHlhYnF6bHpPclNwVlA3X2hMQW1QLWU3VVVaYw?oc=5",
    "source": "뉴스1",
-   "date": "2026-08-11"
-  },
-  {
-   "title": "NH농협은행, 창립기념일 맞아 'NH농심천심예·적금' 출시 - 마일드경제",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wTzFaMkloNUNRN2VUVnlPcS1abDg5SmEtNUNUNzFuYzh2UmVwenhtYk0tNEJFYmMxOW1Nek96ODV1eDhiS3lDVkVQUzhKLTZETjNyZldpTDd3TXE3dVZVX2R0eG9NZDRRdG53?oc=5",
-   "source": "마일드경제",
-   "date": "2026-08-11"
-  },
-  {
-   "title": "NH농협은행 ‘농심천심예·적금’ 출시…강호동 농협중앙회장 1호 가입",
-   "link": "https://www.inthenews.co.kr/news/article.html?no=90410",
-   "source": "네이버뉴스",
    "date": "2026-08-11"
   }
  ],
@@ -3346,7 +3346,9 @@
   "9f11abb53c74eedd",
   "243ce80f642f7c09",
   "e5e00e04218b5316",
-  "3458c873b12a3071"
+  "3458c873b12a3071",
+  "e091631165a753ef",
+  "bf6d2d8e45abc63a"
  ],
  "news_seeded": true,
  "news_products": [
@@ -3391,7 +3393,7 @@
    "norm": "NH농심천심예·적금",
    "rate": 8.15,
    "first_news": "2026-08-11",
-   "count": 55,
+   "count": 56,
    "articles": [
     {
      "title": "NH농협은행, 창립기념 'NH농심천심예·적금' 출시…적금 최고 연 8.15% - 전자신문",
@@ -3478,7 +3480,7 @@
    "norm": "적금최고연8.15%",
    "rate": 8.15,
    "first_news": "2026-08-11",
-   "count": 2,
+   "count": 3,
    "articles": [
     {
      "title": "\"적금 최고 연8.15%\" 농협은행, 창립기념 'NH농심천심예·적금' 출시",
@@ -3489,6 +3491,12 @@
     {
      "title": "\"적금 최고 연8.15%\" 농협은행, 창립기념 'NH농심천심예·적금' 출시 | - catchnews.kr",
      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QNU1ldTVnRWlibFI5a0FmV29HS05yYnpoSFVQWXlVSmlsdDRfMVVQNTlpT3ZRem81eV9JUDlBMW1aTzRqRldLVThXZ0oyMnNhQ1k1eW8wQ1AyZDNaUDI0Zm5YWmh3Y1hoc1hYa2s1TQ?oc=5",
+     "source": "catchnews.kr",
+     "date": "2026-08-11"
+    },
+    {
+     "title": "\"적금 최고 연8.15%\" 농협은행, 창립기념 'NH농심천심예·적금' 출시 - catchnews.kr",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84VDEzTVVPS1hiZDBUenlHbU1rVE5sRExQZjhOQlhuR182LXpNNHVpVTVKMEZLSDFjV1E1OXhyOVdzaEhBTU5EOVd3UGdmWk10YlA2WlF5ZXVFQlVJR1lXZDdmNVMtQWlYUkhr?oc=5",
      "source": "catchnews.kr",
      "date": "2026-08-11"
     }
