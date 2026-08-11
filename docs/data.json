@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-12 07:53",
+ "updated_at": "2026-08-12 08:51",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2492,6 +2492,18 @@
  ],
  "news": [
   {
+   "title": "NH농협은행, 창립기념일 맞아 최고 연 8.15% 적금 출시… 예금 연 3.7% - 우먼타임스",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5aVGQ1RzRSdFA3Y1N6MHBzQ1cyLXB1dENPaURVRThhLV9FZi1wRWxocDlPWnFyQzBMdHV6YVFDMnc2ZmM3OU0zSlBUTGFzYV9qY090RmdiZldxSG5uUUJkVmVhbjcxQ1hCWjhxLW1DQTI4blZ00gF0QVVfeXFMTlpUZDVHNFJ0UDdjU3owcHNDVzItcHV0Q09pRFVFOGEtX0VmLXBFbGhwOU9acXJDMEx0dXphUUMydzZmYzc5TTNKUFRMYXNhX2pjT3RGZ2JmV3FIbm5RQmRWZWFuNzFDWEJaOHEtbUNBMjhuVnQ?oc=5",
+   "source": "우먼타임스",
+   "date": "2026-08-11"
+  },
+  {
+   "title": "NH농심천심 예·적금 신상품 출시 - 뉴스1",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE56MlAwRFVlTDRkQVNoYmR5QlpZNlNaY1BkME5QU1k5XzJjT0N1VXI3UVk2Z1hQaVdKb3ZEbU9VNXIxaldiUTBNbDJNUQ?oc=5",
+   "source": "뉴스1",
+   "date": "2026-08-11"
+  },
+  {
    "title": "NH농협은행, 농업·농촌 상생 담은 ‘농심천심 예·적금’ 출시 - ziksir.com",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE51cGhTS3lnYm5ZZmpKdkpCYkdWUFFSTGt2UVd3VzlubzF2aDVQVlRjQ2swSGRHajR6N0pzX0ZObFhkRmhTaGV5NE5vbDl4SG1UdFdDSDN2NEc3UGlqZkRWX1ZDa3QxOENS0gFsQVVfeXFMTTA0ZnlOMXBUSHFTSmtHVzNSWEk5ZXNuNzdTczlkOWNEX3BseVNlNXVVdVZBcmwtOEFGcWhsTTlPNUR5WDlZNU9BN1JwU0F1WGliNUMxZ2VoRFBGVFdxdDQzUkFvUkZhLXpCT0M2?oc=5",
    "source": "ziksir.com",
@@ -2549,18 +2561,6 @@
    "title": "\"적금 최고 연8.15%\" 농협은행, 창립기념 'NH농심천심예·적금' 출시 - catchnews.kr",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84VDEzTVVPS1hiZDBUenlHbU1rVE5sRExQZjhOQlhuR182LXpNNHVpVTVKMEZLSDFjV1E1OXhyOVdzaEhBTU5EOVd3UGdmWk10YlA2WlF5ZXVFQlVJR1lXZDdmNVMtQWlYUkhr?oc=5",
    "source": "catchnews.kr",
-   "date": "2026-08-11"
-  },
-  {
-   "title": "[Biz & Now] NH농협, 최고 연 3.7% 예·적금 출시",
-   "link": "https://www.joongang.co.kr/article/25452588",
-   "source": "네이버뉴스",
-   "date": "2026-08-12"
-  },
-  {
-   "title": "“연 8.15%” 농협은행, ‘농심천심예·적금’ 출시 - 주간한국",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9semhTV19zTHlsbEs0TWFuRnAtOThTcm1kZ3hXb1k0eXBZeGdFeHVHVXFrY2pSTVF0SHY2Szl0TDRpakIyZGVGTVhWSGFYdXRiQTdFNWlVaTdTbXd1UWRZUEVoWHZfbUtuQkoxV3gzMWo2eWd60gF0QVVfeXFMT2x6aFNXX3NMeWxsSzRNYW5GcC05OFNybWRneFdvWTR5cFl4Z0V4dUdVcWtjalJNUXRIdjZLOXRMNGlqQjJkZUZNWFZIYVh1dGJBN0U1aVVpN1Ntd3VRZFlQRWhYdl9tS25CSjFXeDMxajZ5Z3o?oc=5",
-   "source": "주간한국",
    "date": "2026-08-11"
   }
  ],
@@ -3356,7 +3356,9 @@
   "7575100576891fec",
   "f2bcdabcb6b6bd14",
   "1d3763aa104ce116",
-  "457eb2bdd49be549"
+  "457eb2bdd49be549",
+  "1ecba93ed5fd3cb3",
+  "baa508480beb0fc2"
  ],
  "news_seeded": true,
  "news_products": [
@@ -3366,7 +3368,7 @@
    "norm": "농심천심적금",
    "rate": 8.15,
    "first_news": "2026-08-11",
-   "count": 41,
+   "count": 42,
    "articles": [
     {
      "title": "NH농협은행, 최고 연 8.15% '농심천심 적금' 출시 - 신아일보",
