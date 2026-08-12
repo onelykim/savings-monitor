@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-13 05:56",
+ "updated_at": "2026-08-13 06:55",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2492,6 +2492,12 @@
  ],
  "news": [
   {
+   "title": "‘Sh청년미래적금’ 출시…최고 연 7% 금리 제공 - 수산인신문",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lLUJTcnQ1Ukc1UWNiLVFtbUt0bHJJaVhBcUFVV0ZsOVl0cG1jNFFrWDhQNjFDaVlzV0RfcHFwVGRqdTZFc2tBcnQ5RmZFYUYtY1ZxWi1zeHl2X1FoelRlTjVvYkF0M3ZZMUE?oc=5",
+   "source": "수산인신문",
+   "date": "2026-08-10"
+  },
+  {
    "title": "토스뱅크 '키워봐요 31일적금' 출시 4일만에 가입 10만좌 돌파 - 네이트",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Scmd0LWZBSnE0MkdtYjZid1AzeG5MY2NQX01xa0Vya2pESmRmRE9lZFdpeVVBZkF1a3dpTU1PVUJPel9kc1Jldnh5Um05T2NqZzR1aklWRW84VzY0MG93cA?oc=5",
    "source": "네이트",
@@ -2556,16 +2562,9 @@
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE14Y3VOZUd4SE1MMmZJMXkwcmlleEk5VEZfSnlSSjhnNThkYTM1NElaOEhmblFUa0EycjVYbVJqMFpwRno0R1hHWlJxR3BObjhXVEZOWnpieW7SAVhBVV95cUxNeGN1TmVHeEhNTDJmSTF5MHJpZXhJOVRGX0p5Uko4ZzU4ZGEzNTRJWjhIZm5RVGtBMnI1WG1SajBacEZ6NEdYR1pScUdwTm44V1RGTlp6Ynlu?oc=5",
    "source": "로컬세계",
    "date": "2026-08-11"
-  },
-  {
-   "title": "토스뱅크 '키워봐요 31일 적금' 출시 나흘 만에 10만좌 - 연합뉴스",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sdHlPdW9jMjhTQl9renZUd1dKcjRHX21NbkN4ckRuVm13NVY4U0lzcXkyY0k0bEhjQzNKQnEwdXM2RG9VQmhfa0Jhc0M3WTU3akdoRi02NTZYeDJfQWhlVdIBYEFVX3lxTE9sdHlPdW9jMjhTQl9renZUd1dKcjRHX21NbkN4ckRuVm13NVY4U0lzcXkyY0k0bEhjQzNKQnEwdXM2RG9VQmhfa0Jhc0M3WTU3akdoRi02NTZYeDJfQWhlVQ?oc=5",
-   "source": "연합뉴스",
-   "date": "2026-08-12"
   }
  ],
  "news_seen": [
-  "4830771afc60330c",
   "b2ea2f4edaa5fdc4",
   "bc75bf3ad51ea3d9",
   "37bb36782b652960",
@@ -3364,7 +3363,8 @@
   "4c585e8c27f4d2b9",
   "5ec08f94ac74961b",
   "3727fb481d86adfc",
-  "cb78c2243a1ad724"
+  "cb78c2243a1ad724",
+  "8873e4fd8e73cb57"
  ],
  "news_seeded": true,
  "news_products": [
