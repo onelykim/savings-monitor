@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-12 13:54",
+ "updated_at": "2026-08-12 15:21",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2492,6 +2492,54 @@
  ],
  "news": [
   {
+   "title": "토스뱅크 '키워봐요 31일 적금' 출시 나흘 만에 10만좌 - 연합뉴스",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5SmdxR2xxdG5FMkp1cTcyc1k0T0h6RTlfcE5sN2o1OUhBOUNBbEpmaFplWUtTQWE1dERISjJpZkRxaVdyVTRyRjc3djR5OWkybEZTS2YybTZ3SE3SAWBBVV95cUxPbHR5T3VvYzI4U0Jfa3p2VHdXSnI0R19tTW5DeHJEblZtdzVWOFNJc3F5MmNJNGxIY0MzSkJxMHVzNkRvVUJoX2tCYXNDN1k1N2pHaEYtNjU2WHgyX0FoZVU?oc=5",
+   "source": "연합뉴스",
+   "date": "2026-08-12"
+  },
+  {
+   "title": "토스뱅크, 키워봐요 31일적금 출시 4일 만에 10만좌 돌파 - 아주경제",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16SGt1SFdNSWROclRiUk52bjJXN3ZsUF96bG5IZ3RjampLUjEtenBINERrbXFCSUNEbGRRNjBocFNBd29GcWVQNzJPSmNjM0UxMDdCaUlaN0NHQdIBWEFVX3lxTE9GSnFlc0FxXzRnb2VoU2lPMXQtX3oyWklEVVZsYUU4dm94b3ZsaHA0OElNc3NhSGsxX2lUQm95T1JOcmRzNWpCOVdxN18xOVdTbm5XQWpmc0Q?oc=5",
+   "source": "아주경제",
+   "date": "2026-08-12"
+  },
+  {
+   "title": "토스뱅크, ‘31일 적금’ 출시 4일 만 10만 좌 넘어 - 부산일보",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBoUTdkZGtDcHBYRHl6UElrVF8xRkctWXhaWG42ZUo5VkZZc3dfYlU5NHpreDNRckdtUFl4anN6VHc1R0lKakhmSXlsRXkyYTN3NFJMOGRuY1hJeXFKaDJJNldhOTlVMjA2SXlpbmw3eTNpamZLRDBKNlV6cHY?oc=5",
+   "source": "부산일보",
+   "date": "2026-08-12"
+  },
+  {
+   "title": "토스뱅크, '키워봐요 31일적금' 출시 4일 만에 10만좌 돌파 - 네이트",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA2VVlRZVhESVNEMmV2MTNaNFk5WTdkbTRMTTFvb3Y3UUFvUDVtcS1keDNQRXZyNlh2cjQ3TmdIRGpWci1zazd2bVUxelYyelRtUWRv?oc=5",
+   "source": "네이트",
+   "date": "2026-08-12"
+  },
+  {
+   "title": "토스뱅크, '키워봐요 31일적금' 출시 4일 만에 10만좌 돌파",
+   "link": "https://www.ajunews.com/view/20260812143952038",
+   "source": "네이버뉴스",
+   "date": "2026-08-12"
+  },
+  {
+   "title": "\"다람쥐 키우며 연10%\" 토스뱅크 '키워봐요 31일적금' 출시 나흘만 10만...",
+   "link": "https://www.catchnews.kr/news/articleView.html?idxno=127253",
+   "source": "네이버뉴스",
+   "date": "2026-08-12"
+  },
+  {
+   "title": "토스뱅크 '키워봐요 31일 적금' 출시 나흘 만에 10만좌",
+   "link": "https://www.yna.co.kr/view/AKR20260812087600002?input=1195m",
+   "source": "네이버뉴스",
+   "date": "2026-08-12"
+  },
+  {
+   "title": "NH농협은행, 창립기념 예·적금 출시⋯최고 연 8.15% - v.daum.net",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42MTBZRmctdlNJbE5UV0NZMlplbWdkM2NGSXE1bC1NQ0JuV1Z4Z3d3NHE2ajFrOHR2anl1ZVkwaERBY2hrSEhDOEpDZXRKQWM?oc=5",
+   "source": "v.daum.net",
+   "date": "2026-08-11"
+  },
+  {
    "title": "다람쥐 키우며 최고 연10%…토스뱅크, '31일적금' 출시 나흘 만에 10만좌 돌파 - 비욘드포스트",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE16bVlROUwtTGc0QmdUaW5qZkdqLUhMM3MyVmZieTd1dnpqZVlWaEllbzY3VWN5akVRcmVjUGliNUMyX3hCQlFKR3hOeEhWTzRER0FvR0xhSzgzRVpPM2IwMnRtWFVESk8xbEloTmFyMTlPZnlWR2VxR1psMA?oc=5",
    "source": "비욘드포스트",
@@ -2514,65 +2562,9 @@
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SUjlUZzhGX3N3eWVFakJLWFRBa2RzNDdicWJFV3pMNlRQdVlpc0REZmZwdktwSmpXMTdGa0Rld0FNWlJsRHVKU2dCMzdaQkYwUlJkcnM3dkdRSGxYajRKMVBNZmVNQmp5cXfSAW5BVV95cUxOSkFKdHQ4VDJfb3hrckp3SkJEc2g1dF9aT1FrRlVjaUNRVmNDcGZPeEtHQjc3U2EtUF9YclNVR0VoYTRvanh6ekg0WUx0TnFPYWNBS0pUdEc2YlVsaFRVSF9IN3N1VnloYmw3YVBlQQ?oc=5",
    "source": "퍼블릭타임스",
    "date": "2026-08-12"
-  },
-  {
-   "title": "토스뱅크 '키워봐요 31일적금', 출시 나흘 만에 10만좌 돌파 - 네이트",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xMEE1MlRYazZXNzZFM1VCVUt1N2xyc0FjV2dOcHF5LWtRLUg5SWJEaTE2Z2o2VVVMdWhSNHNzT25FWENfU09WNFNmVS11VmlRNGVj?oc=5",
-   "source": "네이트",
-   "date": "2026-08-12"
-  },
-  {
-   "title": "토스뱅크, ‘키워봐요 31일적금’ 출시 4일 만에 10만좌 돌파 - 데일리한국",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5Nno4S09heEN1NEVoTTVFZkJaXzg0REFWVkRyNEhTbUk4Y01sZ3Z0Q3J4TVNWSHBQRThJZDExTVItd1ZOMXltUUs3Vmk5ZkJzdXR6ZGI3NVh6QXZidkZKN29tTG10QnZQVUM2TXI2VTd1SkHSAXNBVV95cUxQOTZ6OEtPYXhDdTRFaE01RWZCWl84NERBVlZEcjRIU21JOGNNbGd2dENyeE1TVkhwUEU4SWQxMU1SLXdWTjF5bVFLN1ZpOWZCc3V0emRiNzVYekF2YnZGSjdvbUxtdEJ2UFVDNk1yNlU3dUpB?oc=5",
-   "source": "데일리한국",
-   "date": "2026-08-12"
-  },
-  {
-   "title": "토스뱅크, ‘31일 적금’ 출시 4일 만 10만 좌 넘어",
-   "link": "https://www.busan.com/view/busan/view.php?code=2026081213324624361",
-   "source": "네이버뉴스",
-   "date": "2026-08-12"
-  },
-  {
-   "title": "토스뱅크 '키워봐요 31일적금' 흥행…출시 4일 만에 10만좌 돌파",
-   "link": "https://www.public25.com/news/articleView.html?idxno=52570",
-   "source": "네이버뉴스",
-   "date": "2026-08-12"
-  },
-  {
-   "title": "토스뱅크 '키워봐요 31일적금' 출시 4일만에 가입 10만좌 돌파 - 뉴스핌",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TWW1SQ1BLeFQ3MUh6bzNaaWRqZFZzX3JFTVR1bVRlNTVHWTlDaE9iVGZOSjN6bU9rRFFac3N0YUR6anFvLUdNRjVMcWFKSmdXRDFKY0Z3YmhFbFBB?oc=5",
-   "source": "뉴스핌",
-   "date": "2026-08-12"
-  },
-  {
-   "title": "[카드] 토스뱅크 '키워봐요 31일적금' 출시 4일 만 10만좌 돌파 - 프라임경제",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE52SHZSMUcwdmFEUW91LVJtckxUMW5DSkxnZXBJOG4zaG55bm42b1diZXFJM09McDBEcHdoMWxpcWZmTVdEUXBONDBXZXJManlyemQxUTBUdk51SUkxOElpNFRySmp6VFdHTXd0ZEZjZmloZw?oc=5",
-   "source": "프라임경제",
-   "date": "2026-08-12"
-  },
-  {
-   "title": "토스뱅크, ‘키워봐요 31일적금’ 출시 4일 만에 10만좌 돌파 - 데일리한국",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9CNy1BMWRpSnZWOWV6Smp5dm01Y0JiS3NmalpubE1Ycjg3RzlFelEzNEZwZ2hYelpHLUQtblhYRkZJbE5uSXRDTzVNS05XYlBSUGcxVndNb0tlSWZiSm5tUmxEX3FkVi1uWDItamZwONIBc0FVX3lxTFA5Nno4S09heEN1NEVoTTVFZkJaXzg0REFWVkRyNEhTbUk4Y01sZ3Z0Q3J4TVNWSHBQRThJZDExTVItd1ZOMXltUUs3Vmk5ZkJzdXR6ZGI3NVh6QXZidkZKN29tTG10QnZQVUM2TXI2VTd1SkE?oc=5",
-   "source": "데일리한국",
-   "date": "2026-08-12"
-  },
-  {
-   "title": "고금리 특판 예·적금 속속 내놓는 은행 - 지디넷코리아",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iVUNWWTN0RUFyakZ2RXY1Ui14SUU4SEQ4bFZIdEI4R3RVaFJXYUhfSjVXejY5TUFwbDM5Wk9WMkx6eTc5QmM0ZDBnVnpzekVLbmJjcnB3?oc=5",
-   "source": "지디넷코리아",
-   "date": "2026-08-12"
   }
  ],
  "news_seen": [
-  "a35201e8cd08d439",
-  "29808b78cb5709f1",
-  "01e8c2c0b93e2416",
-  "36735812d3cc3c39",
-  "1bdddf7115b3cdd8",
-  "aeda44da85c4c36b",
-  "928e1f9ea036560d",
-  "9dfb571acdeea2f5",
   "9d2b41fda4aaabfb",
   "760a52444ec237d4",
   "a50f687611641a8a",
@@ -3364,7 +3356,15 @@
   "dbbf0f4fa3c6557b",
   "65a58e8d463ee11f",
   "41fe8dea75d64a3b",
-  "bd5a08c7d22f1c16"
+  "bd5a08c7d22f1c16",
+  "55ec83b8be3356ad",
+  "89946d5c0bfb8ee6",
+  "5c1b5655ce596363",
+  "a819aa094c2cb874",
+  "de8253a7d6cfd3ca",
+  "f9a0c251998892fc",
+  "d37d8f411ff77fae",
+  "379d79f5282244c3"
  ],
  "news_seeded": true,
  "news_products": [
@@ -3374,7 +3374,7 @@
    "norm": "농심천심적금",
    "rate": 8.15,
    "first_news": "2026-08-11",
-   "count": 42,
+   "count": 43,
    "articles": [
     {
      "title": "NH농협은행, 최고 연 8.15% '농심천심 적금' 출시 - 신아일보",
@@ -3583,7 +3583,7 @@
    "norm": "키워봐요31일적금",
    "rate": 10.0,
    "first_news": "2026-08-06",
-   "count": 86,
+   "count": 93,
    "articles": [
     {
      "title": "토스뱅크, '키워봐요 31일적금' 출시…매일 저금하면 최고 연 10% - 데일리안",
