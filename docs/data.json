@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-13 22:35",
+ "updated_at": "2026-08-14 00:05",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2492,6 +2492,12 @@
  ],
  "news": [
   {
+   "title": "신한은행, 최고 연 9% ‘신한 적금 9단’ 출시 - 인사이트코리아",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB6UmZmeXNya2xTZTNGQ0NmMTVxOXhlQjFzeFhvTVF0blVWZl9QSzFOcmVld0MtdURUNDV3SFFabUFHMWxVaFR5SFhWUkZYWkRfRVN6Vm43N0NhbGdRLTRkaW1lVzJWNUItWDhLYUpaZFdSbUnSAXdBVV95cUxNbjEtcnoxbWQ5UEh5UGlxbFJmYTNPRHFnZk1MMGJabzBWT3N2NDg1TFRxQ2tGbHFiSTVtd002VHE2SVVucDN6MGdONnJmM1UzUXowS0hTUWJvSkdFbGtxWE1vMG1mdVEwaFhWeERZbXh3NmFfNGUwSQ?oc=5",
+   "source": "인사이트코리아",
+   "date": "2026-08-13"
+  },
+  {
    "title": "전북은행, 현대차 연계 특판적금 출시 - 전북제일신문",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zRlZVbGlTWTVfWFBxVlZGSmdjMlVDRVJjX0k0YnpkUUl5eUdxcHRQZUZEeXlPM0I5ZjV5TUQ3cXdRTC1jeWhiX0J0eHBrbnRFVVp1VnVqZlF2SHY5MVRUbVRLekN0X1oyWkE?oc=5",
    "source": "전북제일신문",
@@ -2556,16 +2562,9 @@
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0yTGhBc3BFOFFhek5jUDVWYWdJbUl2bzRUM29qZkR0YUZTRkxibzQyUVg3TXdrZjZ0Mk9QaVR0dnVxT2thNXYtelZqcGV5NFFEZ0hSQkVkdEpPODRuMzJXelZ0Y3FIeDA3bHVyWXZ5ZUQ?oc=5",
    "source": "비즈트리뷴",
    "date": "2026-08-13"
-  },
-  {
-   "title": "신한은행, '신한 적금 9단' 출시...연 9% 이자 제공 - newsbrite.net",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0OGJXczlsbFR6dnI0aDNSblo4VVJKQW1IZXlMdGx6NWVDUTVBTjRmWmFQTTZkclR4OUtwMG5TQ3Y2dk9JNTJzLXZFYjdCN2V3YzVrejZlaFRKajFacjh4VUw0SXlxcGVUMWJxTQ?oc=5",
-   "source": "newsbrite.net",
-   "date": "2026-08-13"
   }
  ],
  "news_seen": [
-  "d5b1bbb64dc5b924",
   "e934ee1b8af051ed",
   "edc9a7199f67c3e7",
   "1c3c3df672e4aaa6",
@@ -3364,7 +3363,8 @@
   "8ec18165a977416c",
   "c0d8f2af6316f959",
   "f9b0d13b5708ee60",
-  "ed3205804246f1fd"
+  "ed3205804246f1fd",
+  "2facd002e3a6f236"
  ],
  "news_seeded": true,
  "news_products": [
@@ -3374,7 +3374,7 @@
    "norm": "신한적금9단",
    "rate": 9.0,
    "first_news": "2026-08-13",
-   "count": 74,
+   "count": 75,
    "articles": [
     {
      "title": "신한은행, 최고 연 9.0% '신한 적금 9단' 출시 - 연합뉴스",
