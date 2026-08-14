@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-15 04:05",
+ "updated_at": "2026-08-15 04:51",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2492,6 +2492,12 @@
  ],
  "news": [
   {
+   "title": "청년미래적금 오늘 출시‥\"최고 연 19% 효과\" (2026.06.22/12MBC뉴스) Brandon Clarke (ztSDwk3Bwh) - Mshale",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xTmQyZ3RiN3JQUDZtRnNrTFFwempDR0JEdnJ5X3dKSE9WeExBc1IzYmhtNFkxOTdVSjdOYmRaYlhlMGdXN1VDU0s5dEFFdDJ5b055SnRDUE5SaU0?oc=5",
+   "source": "Mshale",
+   "date": "2026-08-14"
+  },
+  {
    "title": "‘연 8.15%’ NH농협銀 ‘농심천심 적금’, 출시 이틀만에 1만좌 소진 - 주간한국",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1DaE00OERwQm1udk5iOUpoRm1vQkkxbmhxNjY3VjJoYzlheklKRkRTelpNcGd0LVYtYWpkU29RcHJ2bnA3TnRSY3NZbnFhb2dQTTlxYnk5OGhjSmxheHIyU1VVQklmc2dIcUpWckVJWnJFb3d00gF0QVVfeXFMTUNoTTQ4RHBCbW52TmI5SmhGbW9CSTFuaHE2NjdWMmhjOWF6SUpGRFN6Wk1wZ3QtVi1hamRTb1FwcnZucDdOdFJjc1lucWFvZ1BNOXFieTk4aGNKbGF4cjJTVVVCSWZzZ0hxSlZyRUlackVvd3Q?oc=5",
    "source": "주간한국",
@@ -2556,16 +2562,9 @@
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DLThKUUdlYnd3dWJqOUtrb2phbFBzNWdla1RzN05ZY1UyWlhVYXNQeF9nQmdzMng4MzZrZHBJeTZXajN3UW9zdVdhMWdNaHE1SXFSVUdxWDBtZnc?oc=5",
    "source": "Mshale",
    "date": "2026-08-14"
-  },
-  {
-   "title": "NH농협은행, '농심천심 적금' 출시 이틀 만 1만좌 소진 - 현대경제신문",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xRVVuT3dJMkJxX2R3eWpZOXR3V2p5TThMRElzMXVzTWFTSHpQYjFZanNKSXhmUjNJeXRjcXFhTjNJd1FqaTNIQlNjeVdxU3NwVEtmT1pFSkx0QmRhblFrdjVSYzlKdVo4enhR0gFrQVVfeXFMTTFFVW5Pd0kyQnFfZHd5alk5dHdXanlNOExESXMxdXNNYVNIelBiMVlqc0pJeGZSM0l5dGNxcWFOM0l3UWppM0hCU2N5V3FTc3BUS2ZPWkVKTHRCZGFuUWt2NVJjOUp1Wjh6eFE?oc=5",
-   "source": "현대경제신문",
-   "date": "2026-08-14"
   }
  ],
  "news_seen": [
-  "a611da9ce2599a69",
   "ebbf1fed5def543b",
   "6ee2d6848c43fac8",
   "2d2a3f116616be7d",
@@ -3364,7 +3363,8 @@
   "6f93978181134bab",
   "ec7669b35dad605a",
   "73b1617540f0476c",
-  "dcd20e70a978d0bc"
+  "dcd20e70a978d0bc",
+  "b895547f4d31a960"
  ],
  "news_seeded": true,
  "news_products": [
