@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-15 04:51",
+ "updated_at": "2026-08-15 05:37",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2492,6 +2492,12 @@
  ],
  "news": [
   {
+   "title": "은행권, 실시간 스미싱 탐지 서비스 출시·‘나라사랑 815 광복 이벤트’ 실시·‘NH농심천심 적금’ 1만좌 완판·‘IBK 모두다 아트캠프’ 성료 - 통신일보",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mQjdfekFLVGhYRFRpXzNYM3VRUTlJOUtrRmx5WkRQVHVuRGdFQU5WS1hsc1VoVktZS01PSXZxR3l1ckxJMHVMWWhvZDlOUzZGc3lSQU5wWHpBRlMtT1NwSTV3cm9TUQ?oc=5",
+   "source": "통신일보",
+   "date": "2026-08-14"
+  },
+  {
    "title": "청년미래적금 오늘 출시‥\"최고 연 19% 효과\" (2026.06.22/12MBC뉴스) Brandon Clarke (ztSDwk3Bwh) - Mshale",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xTmQyZ3RiN3JQUDZtRnNrTFFwempDR0JEdnJ5X3dKSE9WeExBc1IzYmhtNFkxOTdVSjdOYmRaYlhlMGdXN1VDU0s5dEFFdDJ5b055SnRDUE5SaU0?oc=5",
    "source": "Mshale",
@@ -2556,16 +2562,9 @@
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zNDRxOTFBbFZGWlhKcU5NWnN1dXFxUE5heUNaZEhPNC1VS0ZOd1NFN1pBMElFazA3ZUNqQTVMSDRXVlc5UXpVY3c4Y2FpQ0RLaGtCMkZzZFdfNjR5UEhTdDFEQQ?oc=5",
    "source": "쿠키뉴스",
    "date": "2026-08-14"
-  },
-  {
-   "title": "2026 아기통장 고금리 적금 특판 TOP3 총정리 Santé (2bcvQSaBcW) - Mshale",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DLThKUUdlYnd3dWJqOUtrb2phbFBzNWdla1RzN05ZY1UyWlhVYXNQeF9nQmdzMng4MzZrZHBJeTZXajN3UW9zdVdhMWdNaHE1SXFSVUdxWDBtZnc?oc=5",
-   "source": "Mshale",
-   "date": "2026-08-14"
   }
  ],
  "news_seen": [
-  "ebbf1fed5def543b",
   "6ee2d6848c43fac8",
   "2d2a3f116616be7d",
   "46f731caf2aceb3a",
@@ -3364,7 +3363,8 @@
   "ec7669b35dad605a",
   "73b1617540f0476c",
   "dcd20e70a978d0bc",
-  "b895547f4d31a960"
+  "b895547f4d31a960",
+  "af4bd1ae38d9890e"
  ],
  "news_seeded": true,
  "news_products": [
