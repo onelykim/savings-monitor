@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-15 20:27",
+ "updated_at": "2026-08-15 21:53",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2492,6 +2492,12 @@
  ],
  "news": [
   {
+   "title": "은행권, 실시간 스미싱 탐지 서비스 출시·‘나라사랑 815 광복 이벤트’ 실시·‘NH농심천심 적금’ 1만좌 완판·‘IBK 모두다 아트캠프’ 성료 - 통신일보",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByQktYMUI2SGpKbUJhX0htdUt5eUNEblF4S2dXdFlVdm9GWWpJTDl6MWhuT2V5dWFOd21FUDhTTDUyNDdPS1kxaDZFQ1BIWU9WLUhDTDBSRzNjVzRCbVdDWi1hZw?oc=5",
+   "source": "통신일보",
+   "date": "2026-08-14"
+  },
+  {
    "title": "NH농협은행, '농심천심 적금' 출시 이틀 만 1만좌 소진 - 현대경제신문",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrYnhiVE1XU2l0eGgyYldaMFpzWEtYd184b1BrSEdobTIzanRncnEwMGZSVjVkWlBaSVpOU3JzUnF6aExoOFRTZ1JrdzlhX0VUNkktMHZ6ZmIwVlBoTVM5T0FEaUdyWmvSAWtBVV95cUxNMUVVbk93STJCcV9kd3lqWTl0d1dqeU04TERJczF1c01hU0h6UGIxWWpzSkl4ZlIzSXl0Y3FxYU4zSXdRamkzSEJTY3lXcVNzcFRLZk9aRUpMdEJkYW5Ra3Y1UmM5SnVaOHp4UQ?oc=5",
    "source": "현대경제신문",
@@ -2556,16 +2562,9 @@
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1DaE00OERwQm1udk5iOUpoRm1vQkkxbmhxNjY3VjJoYzlheklKRkRTelpNcGd0LVYtYWpkU29RcHJ2bnA3TnRSY3NZbnFhb2dQTTlxYnk5OGhjSmxheHIyU1VVQklmc2dIcUpWckVJWnJFb3d00gF0QVVfeXFMTUNoTTQ4RHBCbW52TmI5SmhGbW9CSTFuaHE2NjdWMmhjOWF6SUpGRFN6Wk1wZ3QtVi1hamRTb1FwcnZucDdOdFJjc1lucWFvZ1BNOXFieTk4aGNKbGF4cjJTVVVCSWZzZ0hxSlZyRUlackVvd3Q?oc=5",
    "source": "주간한국",
    "date": "2026-08-14"
-  },
-  {
-   "title": "NH농협은행, 'NH농심천심 적금' 출시 이틀 만에 1만좌 완판 - 우먼컨슈머",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85dFduTEE4UDc2SU9fbTlGb3Y4SG1jRGRYZ3JTWG5JZVFzeUx3SWEwYjRROThjREdOVHAwcEMycmIwdGgyV3duMDRHSmVHNzZ0eFlpWHZSdVA5OW1rMmphVUZXa19BRkRTVUxVWA?oc=5",
-   "source": "우먼컨슈머",
-   "date": "2026-08-14"
   }
  ],
  "news_seen": [
-  "892822f766dfec95",
   "8ae657fa77b77974",
   "a69e668a62382432",
   "b7e1050af4a48d56",
@@ -3364,7 +3363,8 @@
   "f9f6a46bceef9d10",
   "a2490bfcc6e79f30",
   "50fd72a790eaad1a",
-  "73eb04d932b35d28"
+  "73eb04d932b35d28",
+  "410cdf3caa50b26a"
  ],
  "news_seeded": true,
  "news_products": [
