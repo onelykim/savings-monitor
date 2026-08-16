@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-17 04:26",
+ "updated_at": "2026-08-17 05:31",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2492,6 +2492,18 @@
  ],
  "news": [
   {
+   "title": "농협은행, ‘NH농심천심 적금’ 출시 이틀 만에 1만좌 완판 - 비즈월드",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vcE5oUXJzNWhPUzlHNU43b3RWM3J3Q1cyYmpBUzB3VzNSS2RNRUdveTlVSjBvdjlIZVJXR0ZvLVc1VFpPeV9jaUwtdFllVUQxb3hsV3VJbzJ1NkRlWUd0VlFjRGhpZHJOa3c?oc=5",
+   "source": "비즈월드",
+   "date": "2026-08-17"
+  },
+  {
+   "title": "농협은행, 'NH농심천심 적금' 출시 이틀 만에 1만좌 완판",
+   "link": "http://www.bizwnews.com/news/articleView.html?idxno=143475",
+   "source": "네이버뉴스",
+   "date": "2026-08-17"
+  },
+  {
    "title": "NH농협은행, ‘NH농심천금 적금’ 1만좌 소진…출시 이틀만 - 소년한국일보",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zSnVGeVQ3bUREUnNjRm9Sci1IV3ZoRWtDc2lfeDJvb1FnX2gzeFVSMFhaOVJsS21YQW10SDc1RHpZaDRiYUZuT09qLWNfbEl3WnVrblpwcVJOVUxaaHpwM3ZFVzZReWNvU3NieU9aRHPSAXBBVV95cUxPM0p1RnlUN21ERFJzY0ZvUnItSFd2aEVrQ3NpX3gyb29RZ19oM3hVUjBYWjlSbEttWEFtdEg3NUR6WWg0YmFGbk9Pai1jX2xJd1p1a25acHFSTlVMWmh6cDN2RVc2UXljb1NzYnlPWkRz?oc=5",
    "source": "소년한국일보",
@@ -2550,23 +2562,9 @@
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wR3NMa0Nxai1uTndjMk1kRjU1NllOdmFhcnhMbVlNbFVPdTR3dW5yWURHdXRpb3ExMTJHejVvQmstNFNHN0ExNi1TeFhsYnBWOGlZazBldnhiYUk?oc=5",
    "source": "yna.co.kr",
    "date": "2026-08-13"
-  },
-  {
-   "title": "전북은행, 최고 연 4.50% ‘현대자동차 X JB 특판적금’ 출시 - 비즈월드",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QODRIVGlnTlhHdHlZaWR1RWpBSzZBeVdlVUNlb0Zmd2dscXBVeEdxbEtGVnVpWTk2V200d1ZRRFEyXy1sdnFNbVZBUEhLMi1zTkZjNHdKOThtV0tNb0d4V1hzeWVUMHNNZHc?oc=5",
-   "source": "비즈월드",
-   "date": "2026-08-15"
-  },
-  {
-   "title": "전북은행, 최고 연 4.50% '현대자동차 X JB 특판적금' 출시",
-   "link": "http://www.bizwnews.com/news/articleView.html?idxno=143378",
-   "source": "네이버뉴스",
-   "date": "2026-08-15"
   }
  ],
  "news_seen": [
-  "6734ae52ad5ab6c3",
-  "b951fc4fa95732ab",
   "90846e84ebff563a",
   "e75acc2c46647611",
   "511e0276310b9e15",
@@ -3364,7 +3362,9 @@
   "20f0ee5055ead71c",
   "188474bb746d6c7b",
   "8ac2b4dffde5bbfa",
-  "a9ba89766a14a433"
+  "a9ba89766a14a433",
+  "6389d7cf52d4bd59",
+  "3af3c429efc32a3d"
  ],
  "news_seeded": true,
  "news_products": [
@@ -3646,7 +3646,7 @@
    "norm": "농심천심적금",
    "rate": 8.15,
    "first_news": "2026-08-11",
-   "count": 72,
+   "count": 74,
    "articles": [
     {
      "title": "NH농협은행, 최고 연 8.15% '농심천심 적금' 출시 - 신아일보",
