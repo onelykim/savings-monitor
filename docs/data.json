@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-16 21:54",
+ "updated_at": "2026-08-16 22:37",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2492,6 +2492,12 @@
  ],
  "news": [
   {
+   "title": "NH농협은행, ‘NH농심천금 적금’ 1만좌 소진…출시 이틀만 - 소년한국일보",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zSnVGeVQ3bUREUnNjRm9Sci1IV3ZoRWtDc2lfeDJvb1FnX2gzeFVSMFhaOVJsS21YQW10SDc1RHpZaDRiYUZuT09qLWNfbEl3WnVrblpwcVJOVUxaaHpwM3ZFVzZReWNvU3NieU9aRHPSAXBBVV95cUxPM0p1RnlUN21ERFJzY0ZvUnItSFd2aEVrQ3NpX3gyb29RZ19oM3hVUjBYWjlSbEttWEFtdEg3NUR6WWg0YmFGbk9Pai1jX2xJd1p1a25acHFSTlVMWmh6cDN2RVc2UXljb1NzYnlPWkRz?oc=5",
+   "source": "소년한국일보",
+   "date": "2026-08-14"
+  },
+  {
    "title": "전북은행, 최고 연 4.5% '현대자동차 X JB 특판적금' 출시 및 이벤트 실시 - todaymild.com",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE53ZWVnMmFUVDFaZGRiWEtJV3V3Xzg0elJsQ1hvQ0ZLenI0WmVjNzhjUWxSUVVKVE5qRmxDNURQRWVIZ2JwX0U0bE5iYk1vb0kzamxmc3kxWGI5MXJMSy02NUl5dUtiQlZJOG5v?oc=5",
    "source": "todaymild.com",
@@ -2556,16 +2562,9 @@
    "link": "http://www.bizwnews.com/news/articleView.html?idxno=143378",
    "source": "네이버뉴스",
    "date": "2026-08-15"
-  },
-  {
-   "title": "신한은행, 최고 연 9%금리 '신한 적금 9단' 출시 - 네이트",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFcnBiZUNzUGVDdWZmVV80Nk11dXpvYUdGa2tWYU9PUjJlVldNWW9GTGU3V1dPdmYzMHBsSWxlYmhxNDlxSndUc3ZnT3RqcDFjZXNHRWFBemNoTjJMUzUzcTZGQkRUYVFWZHNBSlVR?oc=5",
-   "source": "네이트",
-   "date": "2026-08-13"
   }
  ],
  "news_seen": [
-  "3c39f9283dac8e84",
   "6734ae52ad5ab6c3",
   "b951fc4fa95732ab",
   "90846e84ebff563a",
@@ -3364,7 +3363,8 @@
   "9efa195f2854e790",
   "20f0ee5055ead71c",
   "188474bb746d6c7b",
-  "8ac2b4dffde5bbfa"
+  "8ac2b4dffde5bbfa",
+  "a9ba89766a14a433"
  ],
  "news_seeded": true,
  "news_products": [
@@ -3374,7 +3374,7 @@
    "norm": "NH농심천금적금",
    "rate": null,
    "first_news": "2026-08-14",
-   "count": 2,
+   "count": 3,
    "articles": [
     {
      "title": "NH농협은행, ‘NH농심천금 적금’ 1만좌 소진…출시 이틀만 - 소년한국일보",
@@ -3386,6 +3386,12 @@
      "title": "NH농협은행, 'NH농심천금 적금' 1만좌 소진…출시 이틀만",
      "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=662496",
      "source": "네이버뉴스",
+     "date": "2026-08-14"
+    },
+    {
+     "title": "NH농협은행, ‘NH농심천금 적금’ 1만좌 소진…출시 이틀만 - 소년한국일보",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zSnVGeVQ3bUREUnNjRm9Sci1IV3ZoRWtDc2lfeDJvb1FnX2gzeFVSMFhaOVJsS21YQW10SDc1RHpZaDRiYUZuT09qLWNfbEl3WnVrblpwcVJOVUxaaHpwM3ZFVzZReWNvU3NieU9aRHPSAXBBVV95cUxPM0p1RnlUN21ERFJzY0ZvUnItSFd2aEVrQ3NpX3gyb29RZ19oM3hVUjBYWjlSbEttWEFtdEg3NUR6WWg0YmFGbk9Pai1jX2xJd1p1a25acHFSTlVMWmh6cDN2RVc2UXljb1NzYnlPWkRz?oc=5",
+     "source": "소년한국일보",
      "date": "2026-08-14"
     }
    ],
