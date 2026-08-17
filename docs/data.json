@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-18 02:34",
+ "updated_at": "2026-08-18 03:51",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2492,6 +2492,12 @@
  ],
  "news": [
   {
+   "title": "증시 추락에 예적금으로 ‘역머니무브’…은행권 최고 9% 특판 경쟁 - 국민일보",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0TVE5NDUtc1JSZFB3bDNMc3BLNm1LU0p4VzhBbURXRjc0WmtzMjkzVUNpbG1lby1WazJYUE9qSEN3eUhfMGo5UVlRazM2T1hqYURNUV9uc192SGg0SUtfRFBELU5BUm82ZWZrddIBbEFVX3lxTFB0TVE5NDUtc1JSZFB3bDNMc3BLNm1LU0p4VzhBbURXRjc0WmtzMjkzVUNpbG1lby1WazJYUE9qSEN3eUhfMGo5UVlRazM2T1hqYURNUV9uc192SGg0SUtfRFBELU5BUm82ZWZrdQ?oc=5",
+   "source": "국민일보",
+   "date": "2026-08-17"
+  },
+  {
    "title": "KB저축은행 골드키위적금 4% 💰 고금리 특판적금 파킹통장 추천 | 잘살아보세 El Clasico (RcIVIJCgn8) - Mshale",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwODhEUTY3czhHOUJ1OUo4WnhJM3RDaTBIbDlSRUctNGI0cEFmY0F1TEEyampZbHlrZVM4X2VwSVBLNVJzLWZPNGVFNXdEWEFvUUdsZW1lR0Y3c2M?oc=5",
    "source": "Mshale",
@@ -2556,16 +2562,9 @@
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE53ZWVnMmFUVDFaZGRiWEtJV3V3Xzg0elJsQ1hvQ0ZLenI0WmVjNzhjUWxSUVVKVE5qRmxDNURQRWVIZ2JwX0U0bE5iYk1vb0kzamxmc3kxWGI5MXJMSy02NUl5dUtiQlZJOG5v?oc=5",
    "source": "todaymild.com",
    "date": "2026-08-13"
-  },
-  {
-   "title": "전북은행, 최고 연 4.50% 금리…'현대자동차XJB 특판적금' 출시 - 네이트",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xZTRVS2twcjNBV1lBVEtEYWtQcWtkejhxS1lUbUJlOXBEaW45NUE1ZWRORVdVS3M2MEhQSkVqV19rS0JiYndGQS14Vk54Q1BxWDVF?oc=5",
-   "source": "네이트",
-   "date": "2026-08-13"
   }
  ],
  "news_seen": [
-  "b6a1862e0517f168",
   "8c18416a07eccfad",
   "e08c26f9f0b0afb1",
   "3fea4217b40cc0e1",
@@ -3364,7 +3363,8 @@
   "54f30b7108eef36e",
   "20f0ed224db3f3f0",
   "7da137ab1f3a3b35",
-  "53846739fc0d66b4"
+  "53846739fc0d66b4",
+  "0202b7d36cf5be67"
  ],
  "news_seeded": true,
  "news_products": [
