@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-17 18:51",
+ "updated_at": "2026-08-17 19:39",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2492,6 +2492,12 @@
  ],
  "news": [
   {
+   "title": "KB저축은행 골드키위적금 4% 💰 고금리 특판적금 파킹통장 추천 | 잘살아보세 El Clasico (RcIVIJCgn8) - Mshale",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwODhEUTY3czhHOUJ1OUo4WnhJM3RDaTBIbDlSRUctNGI0cEFmY0F1TEEyampZbHlrZVM4X2VwSVBLNVJzLWZPNGVFNXdEWEFvUUdsZW1lR0Y3c2M?oc=5",
+   "source": "Mshale",
+   "date": "2026-08-17"
+  },
+  {
    "title": "청년미래적금 내달 22일 출시…은행별 우대금리 꼼꼼히 따져야 - kukinews.com",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ZekhheHZsNDE4R2hNdDg1YUgxbHFrWHVrcWVXZU5mZ09OeUNwZkU0T0dBTVY4d1ZnblJiTjZvNm9RczdyMExfYkdfNDViNG12cjZhS3F4VWtIZVF5SFVnb24xVQ?oc=5",
    "source": "kukinews.com",
@@ -2556,16 +2562,9 @@
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xZTRVS2twcjNBV1lBVEtEYWtQcWtkejhxS1lUbUJlOXBEaW45NUE1ZWRORVdVS3M2MEhQSkVqV19rS0JiYndGQS14Vk54Q1BxWDVF?oc=5",
    "source": "네이트",
    "date": "2026-08-13"
-  },
-  {
-   "title": "\"첫거래 고객이라면 최고 연9% 이자\" 신한은행 '적금 9단' 출시 - catchnews.kr",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1fcUowVjdrNFJuQ0hJdEEwcXI0SW43blM4cXY1OGFocVBnenlXUG9ubjJhal9KMlg5M01Wakx2WG9XMlN6QTNUTUFKWXVmZW9ZQ0FqXzJ6REVIWUxrVWJBcGtDWldTWnplQ0Vj?oc=5",
-   "source": "catchnews.kr",
-   "date": "2026-08-15"
   }
  ],
  "news_seen": [
-  "52098373eb91b95d",
   "b6a1862e0517f168",
   "8c18416a07eccfad",
   "e08c26f9f0b0afb1",
@@ -3364,10 +3363,28 @@
   "85ae7b78a48333a6",
   "54f30b7108eef36e",
   "20f0ed224db3f3f0",
-  "7da137ab1f3a3b35"
+  "7da137ab1f3a3b35",
+  "53846739fc0d66b4"
  ],
  "news_seeded": true,
  "news_products": [
+  {
+   "bank": "국민은행",
+   "name": "골드키위적금",
+   "norm": "골드키위적금",
+   "rate": 4.0,
+   "first_news": "2026-08-17",
+   "count": 1,
+   "articles": [
+    {
+     "title": "KB저축은행 골드키위적금 4% 💰 고금리 특판적금 파킹통장 추천 | 잘살아보세 El Clasico (RcIVIJCgn8) - Mshale",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwODhEUTY3czhHOUJ1OUo4WnhJM3RDaTBIbDlSRUctNGI0cEFmY0F1TEEyampZbHlrZVM4X2VwSVBLNVJzLWZPNGVFNXdEWEFvUUdsZW1lR0Y3c2M?oc=5",
+     "source": "Mshale",
+     "date": "2026-08-17"
+    }
+   ],
+   "in_disclosure": false
+  },
   {
    "bank": "NH농협은행",
    "name": "NH농심천금 적금",
@@ -3902,23 +3919,6 @@
      "title": "NH농협은행, 최고 연 7.0% 'NC 다이노스 위풍당당 적금' 출시 - 헤드라인제주",
      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1lX3Z4VnlvT3BVNm0zbndFU0V0bjFLNzB4QmdYdVhQRkJFc2RFWEhiOXVFaHdoU2tGZHJKLWxTUkUxMnJrbjFmdWpfR24wdDMyUkN3SDdiM3NraG9CR0FCR2lPVExoU29ic0ZKQ1huRUo?oc=5",
      "source": "헤드라인제주",
-     "date": "2026-08-06"
-    }
-   ],
-   "in_disclosure": false
-  },
-  {
-   "bank": "토스뱅크",
-   "name": "31일 챌린지 적금",
-   "norm": "31일챌린지적금",
-   "rate": 10.0,
-   "first_news": "2026-08-06",
-   "count": 1,
-   "articles": [
-    {
-     "title": "토스뱅크, '31일 챌린지 적금' 출시…게임처럼 저축하면 최고 연 10% - 이코노미사이언스",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52dlFaeldLcGI1STZNLXNiSzd6UG5IWHpSWFZDZjlXSnVHTEFpWWhhTE1OaE9DR1U3YTMydHBJQkwzcWhJbDNKX25HUDhZSVRoa3FJU2hyQ1lpbldhWDlmc3ZhdXc5WklmM3ZSREhmWQ?oc=5",
-     "source": "이코노미사이언스",
      "date": "2026-08-06"
     }
    ],
