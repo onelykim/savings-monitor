@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-17 08:28",
+ "updated_at": "2026-08-17 10:48",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2492,6 +2492,12 @@
  ],
  "news": [
   {
+   "title": "증시 추락에 예적금으로 ‘역머니무브’…은행권 최고 9% 특판 경쟁",
+   "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000003639&cp=nv",
+   "source": "네이버뉴스",
+   "date": "2026-08-17"
+  },
+  {
    "title": "NH농협은행, ‘NH농심천심 적금’ 출시 이틀 만에 1만좌 완판 - 비즈니스리포트",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84VlJ2SDNBYzNEN19laFQxVlNQendUWEluTDZDS21FNExyUVJaQzJwUFItd3lqckdlVkJnSElRd0ZLR2NwdTZhLTR6MmphTjNQQ0wtR2NUS0NQZzJDVHM5MFl6bVRialB0aW1idVl3MDg?oc=5",
    "source": "비즈니스리포트",
@@ -2556,16 +2562,9 @@
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1wRWRSVm1FWThVZ3BJMzBrWk1FOUdLQnJOU1JiUjRtNzJrcE9IQ2JYZjQ0SXNfWEJYN3NFNWdUU0JpUzRnLUhpZERyU3UyYzB4UTJRLU85bmc3TnVHQVB4RGh2T3RDSXlKdFVN?oc=5",
    "source": "비즈월드",
    "date": "2026-08-15"
-  },
-  {
-   "title": "NH농협은행 'NH농심천심 적금' 출시 이틀 만에 1만좌 완판 - 마일드경제",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45aDJ1cGNzWTlmaGR1dmFmaXN3Nng0dUE3YzlMQklzX3dtZWNPVGpuR0YybHBiOXJqODk2ZGxNMElFaDF3MXdWTnRzNmstSGdGMWFNcXA1V1VWQVNQaU5YMTZJbUtVMHN0NHln?oc=5",
-   "source": "마일드경제",
-   "date": "2026-08-15"
   }
  ],
  "news_seen": [
-  "e75acc2c46647611",
   "511e0276310b9e15",
   "a8f5fb94ff272ee9",
   "4b2e38a88814a844",
@@ -3364,7 +3363,8 @@
   "a9ba89766a14a433",
   "6389d7cf52d4bd59",
   "3af3c429efc32a3d",
-  "9cf7c0669d8da58d"
+  "9cf7c0669d8da58d",
+  "7f31cd67561bfb2f"
  ],
  "news_seeded": true,
  "news_products": [
