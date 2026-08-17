@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-18 06:33",
+ "updated_at": "2026-08-18 07:32",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2492,6 +2492,12 @@
  ],
  "news": [
   {
+   "title": "증시 추락에 예적금으로 ‘역머니무브’…은행권 최고 9% 특판 경쟁 - v.daum.net",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9MLVZCMzQydzlPeUlGeTVnRWZHQ3EzSnBRc1pJNmhHSjljb2R5REEwTXotczlHSDktdVE1bk1NRnhRQ1FaWHc?oc=5",
+   "source": "v.daum.net",
+   "date": "2026-08-17"
+  },
+  {
    "title": "증시 추락에 예적금으로 ‘역머니무브’…은행권 최고 9% 특판 경쟁 - 국민일보",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0TVE5NDUtc1JSZFB3bDNMc3BLNm1LU0p4VzhBbURXRjc0WmtzMjkzVUNpbG1lby1WazJYUE9qSEN3eUhfMGo5UVlRazM2T1hqYURNUV9uc192SGg0SUtfRFBELU5BUm82ZWZrddIBbEFVX3lxTFB0TVE5NDUtc1JSZFB3bDNMc3BLNm1LU0p4VzhBbURXRjc0WmtzMjkzVUNpbG1lby1WazJYUE9qSEN3eUhfMGo5UVlRazM2T1hqYURNUV9uc192SGg0SUtfRFBELU5BUm82ZWZrdQ?oc=5",
    "source": "국민일보",
@@ -2556,16 +2562,9 @@
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zSnVGeVQ3bUREUnNjRm9Sci1IV3ZoRWtDc2lfeDJvb1FnX2gzeFVSMFhaOVJsS21YQW10SDc1RHpZaDRiYUZuT09qLWNfbEl3WnVrblpwcVJOVUxaaHpwM3ZFVzZReWNvU3NieU9aRHPSAXBBVV95cUxPM0p1RnlUN21ERFJzY0ZvUnItSFd2aEVrQ3NpX3gyb29RZ19oM3hVUjBYWjlSbEttWEFtdEg3NUR6WWg0YmFGbk9Pai1jX2xJd1p1a25acHFSTlVMWmh6cDN2RVc2UXljb1NzYnlPWkRz?oc=5",
    "source": "소년한국일보",
    "date": "2026-08-14"
-  },
-  {
-   "title": "전북은행, 최고 연 4.5% '현대자동차 X JB 특판적금' 출시 및 이벤트 실시 - todaymild.com",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE53ZWVnMmFUVDFaZGRiWEtJV3V3Xzg0elJsQ1hvQ0ZLenI0WmVjNzhjUWxSUVVKVE5qRmxDNURQRWVIZ2JwX0U0bE5iYk1vb0kzamxmc3kxWGI5MXJMSy02NUl5dUtiQlZJOG5v?oc=5",
-   "source": "todaymild.com",
-   "date": "2026-08-13"
   }
  ],
  "news_seen": [
-  "8c18416a07eccfad",
   "e08c26f9f0b0afb1",
   "3fea4217b40cc0e1",
   "581cc14faadf047d",
@@ -3364,7 +3363,8 @@
   "20f0ed224db3f3f0",
   "7da137ab1f3a3b35",
   "53846739fc0d66b4",
-  "0202b7d36cf5be67"
+  "0202b7d36cf5be67",
+  "a288c742b23b4155"
  ],
  "news_seeded": true,
  "news_products": [
