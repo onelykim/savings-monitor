@@ -2492,6 +2492,18 @@
  ],
  "news": [
   {
+   "title": "iM뱅크, ‘야구에 진심이지’ 적금 출시…“31일 완주 시 연 8%·오승환 글러브” - v.daum.net",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Fb0wteUZxYV9NN3dfQlBLd2xhZnZZOHR3UFVQODdPdUFNOG5tYmt4LVJnNW1nV0VmMjBOemdGeDdObWE2a3JaY2IzNkp6V0U?oc=5",
+   "source": "v.daum.net",
+   "date": "2026-08-18"
+  },
+  {
+   "title": "신한은행, 최고 연 9% ‘신한 적금 9단’ 출시 - 내외뉴스통신",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EWnhqRFJFZG84R2JfRkFsYlZTT0VXVkxUXzRYSG9xakpNaEdhSEk2Z3JKcWpCWmIxbUVXOHJ5YjU5Vm44VGFPZUlwVzdtZ3hNRFpqYTdOY3pNTElENDVGdUd5U214YklNMjN5cdIBcEFVX3lxTE40QjU3NnJGT0dMZ2RURUFzdXNVd2MyVk5VdHhRajVmdk1Zbzh6TXNGc3Y5empHYWswMFlmVWZ6czhUdnNVZVJZZTF0M3k3U2R1b0FUYU5uRjAzclZPeHdxVFo4VlZNaGsxSEFPQXRWZTc?oc=5",
+   "source": "내외뉴스통신",
+   "date": "2026-08-18"
+  },
+  {
    "title": "iM뱅크, 최고 연 8% '야구에 진심이지 적금' 출시 - 디지털투데이",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42RjAyT0VMc0FXUml1WWRmaWJBUVJtcFNrN3FDY2IyR2t4djVBZ0tMVkFxWGR6NzNNRXUyV3FsWVV2OVliaV9MLXQ4RjNiQWxleXJyMEN3NDN2Tlkzakg5TnZNTmhRZ3FWOTVKQXREcGFhSEU?oc=5",
    "source": "디지털투데이",
@@ -2550,23 +2562,9 @@
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFZFRPM1NtVG12Ylc0ZXd2czJkZlpkYkJoWkRYeU5GeS1rOF9PUzMzTzZVVGxWbHBVZ2x2X09FQ3VyWHFfWlFudHhDQ1Q4aEZXM2pXUkE3RW9CVzM0NVlrcTR4WVVVVHVo?oc=5",
    "source": "Queen 이코노미퀸",
    "date": "2026-08-18"
-  },
-  {
-   "title": "iM뱅크, 31일 단기적금 '야구에 진심이지' 출시...최고 연 8% 금리",
-   "link": "https://www.gukjenews.com/news/articleView.html?idxno=3667508",
-   "source": "네이버뉴스",
-   "date": "2026-08-18"
-  },
-  {
-   "title": "iM뱅크, 야구팬 겨냥 단기적금 '야구에 진심이지' 출시… 기본금리 연 3...",
-   "link": "http://www.queen.co.kr/news/articleView.html?idxno=461892",
-   "source": "네이버뉴스",
-   "date": "2026-08-18"
   }
  ],
  "news_seen": [
-  "ff2b7a083c6871d1",
-  "a9726d3ca5d6540e",
   "1989c59e80568e2e",
   "c03bd66d03bde780",
   "eafda8c1cfaff386",
@@ -3364,7 +3362,9 @@
   "fce37c10b28e2e63",
   "6e8c9bec805f4e6c",
   "7f8d3f01bf70b943",
-  "6b03cfafb20b8459"
+  "6b03cfafb20b8459",
+  "13cb4045baa161cd",
+  "2dfd13fcd27c454a"
  ],
  "news_seeded": true,
  "news_products": [
@@ -3374,7 +3374,7 @@
    "norm": "단기적금",
    "rate": 8.0,
    "first_news": "2026-08-18",
-   "count": 6,
+   "count": 7,
    "articles": [
     {
      "title": "iM뱅크, 야구팬 겨냥 단기적금 '야구에 진심이지' 출시… 기본금리 연 3.35%, 최고 연 8.00% - Queen 이코노미퀸",
@@ -3507,7 +3507,7 @@
    "norm": "신한적금9단",
    "rate": 9.0,
    "first_news": "2026-08-13",
-   "count": 102,
+   "count": 103,
    "articles": [
     {
      "title": "신한은행, 최고 연 9.0% '신한 적금 9단' 출시 - 연합뉴스",
