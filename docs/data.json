@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-18 16:46",
+ "updated_at": "2026-08-18 17:47",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -1197,26 +1197,26 @@
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
-     "intr_rate": 3.13,
-     "intr_rate2": 3.13
+     "intr_rate": 3.15,
+     "intr_rate2": 3.15
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
-     "intr_rate": 3.29,
-     "intr_rate2": 3.29
+     "intr_rate": 3.3,
+     "intr_rate2": 3.3
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
-     "intr_rate": 3.45,
-     "intr_rate2": 3.45
+     "intr_rate": 3.46,
+     "intr_rate2": 3.46
     }
    ],
-   "best_rate": 3.45,
-   "best_base_rate": 3.45,
+   "best_rate": 3.46,
+   "best_base_rate": 3.46,
    "best_term": 36,
    "naver_url": "https://search.naver.com/search.naver?query=%ED%95%9C%EA%B5%AD%EC%82%B0%EC%97%85%EC%9D%80%ED%96%89%20KDB%20%EA%B8%B0%EC%97%85%EC%A0%95%EA%B8%B0%EC%A0%81%EA%B8%88",
    "first_seen": "2026-07-10",
@@ -1260,26 +1260,26 @@
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.33,
-     "intr_rate2": 3.33
+     "intr_rate": 3.35,
+     "intr_rate2": 3.35
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.39,
-     "intr_rate2": 3.39
+     "intr_rate": 3.4,
+     "intr_rate2": 3.4
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.55,
-     "intr_rate2": 3.55
+     "intr_rate": 3.56,
+     "intr_rate2": 3.56
     }
    ],
-   "best_rate": 3.55,
-   "best_base_rate": 3.55,
+   "best_rate": 3.56,
+   "best_base_rate": 3.56,
    "best_term": 36,
    "naver_url": "https://search.naver.com/search.naver?query=%ED%95%9C%EA%B5%AD%EC%82%B0%EC%97%85%EC%9D%80%ED%96%89%20KDB%20%EC%9E%90%EC%9C%A0%EC%A0%81%EA%B8%88",
    "first_seen": "2026-07-10",
@@ -1687,8 +1687,8 @@
      "save_trm": 12,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 2.92,
-     "intr_rate2": 3.72
+     "intr_rate": 2.93,
+     "intr_rate2": 3.73
     },
     {
      "save_trm": 24,
@@ -1705,8 +1705,8 @@
      "intr_rate2": 3.5
     }
    ],
-   "best_rate": 3.72,
-   "best_base_rate": 2.92,
+   "best_rate": 3.73,
+   "best_base_rate": 2.93,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EB%86%8D%ED%98%91%EC%9D%80%ED%96%89%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20NH%EC%A7%81%EC%9E%A5%EC%9D%B8%EC%9B%94%EB%B3%B5%EB%A6%AC%EC%A0%81%EA%B8%88",
    "first_seen": "2026-07-10",
@@ -2492,6 +2492,42 @@
  ],
  "news": [
   {
+   "title": "iM뱅크, 야구팬 겨냥 ‘야구에 진심이지 적금’ 출시…최고 연 8% - dkilbo.com",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LOVFVNUYtTzBfS3pKVG9rdEI3dFlsM3NoRUdCcXZzQ3liOTNxOFFmVnNseFVtanFnVXM1ZzFvSjY2UEUwdjh5SXFWbVdUcGxsRzRoWEVrbGtCZnZhc0RPZm1DUU5CLUFV?oc=5",
+   "source": "dkilbo.com",
+   "date": "2026-08-18"
+  },
+  {
+   "title": "iM뱅크, 매일 넣는 적금 `야구에 진심이지` 18일 출시 - 매일신문",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE94YWViSkpQc0RBNTFBa1Z4UUp1Qk1QV2xYTElfYURNWUV6bjVBTVlKcXdmQWhYdTlUYlBva2RSVUtwYXZzdHdLVEI2dmsyRTdrd05CWFJxcTZiOUNyZHZfbEpR?oc=5",
+   "source": "매일신문",
+   "date": "2026-08-18"
+  },
+  {
+   "title": "iM뱅크, 31일 단기 적금 ‘야구에 진심이지’ 출시… 최고 연 8% 금리 혜택 - 포인트경제",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15UU9rVjZLcHZyN1NsS3ZzVl9keEJDTkFzUFp3WWhDclp5Mkh6YzFuLXBCUHNCVklSZUJVakMtSGd0N3dXekstaWd1VkpYUkhuckVyZ0NJYkg2VDJpU0xMZEVUVURMc0xCTEE?oc=5",
+   "source": "포인트경제",
+   "date": "2026-08-18"
+  },
+  {
+   "title": "iM뱅크, 31일 단기 적금 '야구에 진심이지' 출시… 최고 연 8% 금리 혜택",
+   "link": "https://www.pointe.co.kr/news/articleView.html?idxno=83397",
+   "source": "네이버뉴스",
+   "date": "2026-08-18"
+  },
+  {
+   "title": "iM뱅크, 야구팬 겨냥 '야구에 진심이지 적금' 출시…최고 연 8%",
+   "link": "https://www.dkilbo.com/news/articleView.html?idxno=551610",
+   "source": "네이버뉴스",
+   "date": "2026-08-18"
+  },
+  {
+   "title": "iM뱅크, 매일 넣는 적금 '야구에 진심이지' 18일 출시",
+   "link": "https://www.imaeil.com/page/view/2026081816450237742",
+   "source": "네이버뉴스",
+   "date": "2026-08-18"
+  },
+  {
    "title": "iM뱅크, 야구팬 겨냥 단기적금 '야구에 진심이지' 출시… 기본금리 연 3.35%, 최고 연 8.00% - Queen 이코노미퀸",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFZFRPM1NtVG12Ylc0ZXd2czJkZlpkYkJoWkRYeU5GeS1rOF9PUzMzTzZVVGxWbHBVZ2x2X09FQ3VyWHFfWlFudHhDQ1Q4aEZXM2pXUkE3RW9CVzM0NVlrcTR4WVVVVHVo?oc=5",
    "source": "Queen 이코노미퀸",
@@ -2526,51 +2562,9 @@
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0TVE5NDUtc1JSZFB3bDNMc3BLNm1LU0p4VzhBbURXRjc0WmtzMjkzVUNpbG1lby1WazJYUE9qSEN3eUhfMGo5UVlRazM2T1hqYURNUV9uc192SGg0SUtfRFBELU5BUm82ZWZrddIBbEFVX3lxTFB0TVE5NDUtc1JSZFB3bDNMc3BLNm1LU0p4VzhBbURXRjc0WmtzMjkzVUNpbG1lby1WazJYUE9qSEN3eUhfMGo5UVlRazM2T1hqYURNUV9uc192SGg0SUtfRFBELU5BUm82ZWZrdQ?oc=5",
    "source": "국민일보",
    "date": "2026-08-17"
-  },
-  {
-   "title": "KB저축은행 골드키위적금 4% 💰 고금리 특판적금 파킹통장 추천 | 잘살아보세 El Clasico (RcIVIJCgn8) - Mshale",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwODhEUTY3czhHOUJ1OUo4WnhJM3RDaTBIbDlSRUctNGI0cEFmY0F1TEEyampZbHlrZVM4X2VwSVBLNVJzLWZPNGVFNXdEWEFvUUdsZW1lR0Y3c2M?oc=5",
-   "source": "Mshale",
-   "date": "2026-08-17"
-  },
-  {
-   "title": "청년미래적금 내달 22일 출시…은행별 우대금리 꼼꼼히 따져야 - kukinews.com",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ZekhheHZsNDE4R2hNdDg1YUgxbHFrWHVrcWVXZU5mZ09OeUNwZkU0T0dBTVY4d1ZnblJiTjZvNm9RczdyMExfYkdfNDViNG12cjZhS3F4VWtIZVF5SFVnb24xVQ?oc=5",
-   "source": "kukinews.com",
-   "date": "2026-08-17"
-  },
-  {
-   "title": "증시 추락에 예적금으로 ‘역머니무브’…은행권 최고 9% 특판 경쟁 - v.daum.net",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1aQzBnV0VONk5pZjlXVUMzdXhzaHdDNmhRZEJBWUluaVB1aHNmUDhtYWZZVktsWHZrUUFGZ3lzZ1FETlFaZDlyZEZLbVB2bXM3NWR5RQ?oc=5",
-   "source": "v.daum.net",
-   "date": "2026-08-17"
-  },
-  {
-   "title": "농협은행, ‘NH농심천심 적금’ 출시 이틀 만에 1만좌 완판 - 비즈월드",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBCYllDNTlpV2cxenV2WWJRQjBWZmpFWkw4bGhlNndwYXdKbVVDU3g1LVFqYTVBZFVYREh2SXdKWl9CUHJZbnFiWW1yMVJRay1KTmtqa1VzNEk4QXVPYUl6SmxXZW45blhHakQ4?oc=5",
-   "source": "비즈월드",
-   "date": "2026-08-17"
-  },
-  {
-   "title": "증시 추락에 예적금으로 ‘역머니무브’…은행권 최고 9% 특판 경쟁 - v.daum.net",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BUVRXQzZsZTRyVHVZR0dKQ0FUaDVSZVpwZVV3Vm80cVV2eWpWWmszUG8zUVZTMGQzcU5wSENXMzdFeFlRelNsM2thSWV2eU0?oc=5",
-   "source": "v.daum.net",
-   "date": "2026-08-17"
-  },
-  {
-   "title": "증시 추락에 예적금으로 ‘역머니무브’…은행권 최고 9% 특판 경쟁",
-   "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000003639&cp=nv",
-   "source": "네이버뉴스",
-   "date": "2026-08-17"
   }
  ],
  "news_seen": [
-  "fb979b7eed5a28bf",
-  "239c50543d5b5317",
-  "8b004069adda3322",
-  "4823b6a814bae60a",
-  "b2282ce92c007bb0",
-  "95c0bb82e8f8bfd4",
   "08bfce42fe411b2d",
   "7168bf79254e6774",
   "892927ac14882ff7",
@@ -3364,7 +3358,13 @@
   "3f465bd51d311056",
   "2aa6797b0fd0079f",
   "6b1d434554c533e7",
-  "de7ffc5cda707e2e"
+  "de7ffc5cda707e2e",
+  "cd4135c19a68b22c",
+  "47dc56eb86ac024c",
+  "351b0d4bf46bb5e3",
+  "f86fb463b9b32855",
+  "2d9c44ccb67abdf3",
+  "fce37c10b28e2e63"
  ],
  "news_seeded": true,
  "news_products": [
@@ -3374,7 +3374,7 @@
    "norm": "단기적금",
    "rate": 8.0,
    "first_news": "2026-08-18",
-   "count": 3,
+   "count": 5,
    "articles": [
     {
      "title": "iM뱅크, 야구팬 겨냥 단기적금 '야구에 진심이지' 출시… 기본금리 연 3.35%, 최고 연 8.00% - Queen 이코노미퀸",
@@ -3391,6 +3391,35 @@
     {
      "title": "iM뱅크, 야구팬 겨냥 단기적금 '야구에 진심이지' 출시… 기본금리 연 3...",
      "link": "http://www.queen.co.kr/news/articleView.html?idxno=461892",
+     "source": "네이버뉴스",
+     "date": "2026-08-18"
+    },
+    {
+     "title": "iM뱅크, 31일 단기 적금 ‘야구에 진심이지’ 출시… 최고 연 8% 금리 혜택 - 포인트경제",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15UU9rVjZLcHZyN1NsS3ZzVl9keEJDTkFzUFp3WWhDclp5Mkh6YzFuLXBCUHNCVklSZUJVakMtSGd0N3dXekstaWd1VkpYUkhuckVyZ0NJYkg2VDJpU0xMZEVUVURMc0xCTEE?oc=5",
+     "source": "포인트경제",
+     "date": "2026-08-18"
+    }
+   ],
+   "in_disclosure": false
+  },
+  {
+   "bank": "iM뱅크",
+   "name": "야구에 진심이지 적금",
+   "norm": "야구에진심이지적금",
+   "rate": 8.0,
+   "first_news": "2026-08-18",
+   "count": 2,
+   "articles": [
+    {
+     "title": "iM뱅크, 야구팬 겨냥 ‘야구에 진심이지 적금’ 출시…최고 연 8% - dkilbo.com",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LOVFVNUYtTzBfS3pKVG9rdEI3dFlsM3NoRUdCcXZzQ3liOTNxOFFmVnNseFVtanFnVXM1ZzFvSjY2UEUwdjh5SXFWbVdUcGxsRzRoWEVrbGtCZnZhc0RPZm1DUU5CLUFV?oc=5",
+     "source": "dkilbo.com",
+     "date": "2026-08-18"
+    },
+    {
+     "title": "iM뱅크, 야구팬 겨냥 '야구에 진심이지 적금' 출시…최고 연 8%",
+     "link": "https://www.dkilbo.com/news/articleView.html?idxno=551610",
      "source": "네이버뉴스",
      "date": "2026-08-18"
     }
@@ -3897,41 +3926,6 @@
      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5aMU9QazJnQk5KUGZpWjdkQVJ3RlZIQThTaU1lczhlZjMxa0toUnBhT2xDd242aTdBU2dubzNvWS1IZnZDRER6dlM3ZHFPOHBGNFltVDY4aWprMHFtZnBVY2ZIX0hERTMxaTZWT1djWQ?oc=5",
      "source": "catchnews.kr",
      "date": "2026-08-07"
-    }
-   ],
-   "in_disclosure": false
-  },
-  {
-   "bank": "토스뱅크",
-   "name": "키워봐요 31일적금",
-   "norm": "키워봐요31일적금",
-   "rate": 10.0,
-   "first_news": "2026-08-06",
-   "count": 106,
-   "articles": [
-    {
-     "title": "토스뱅크, '키워봐요 31일적금' 출시…매일 저금하면 최고 연 10% - 데일리안",
-     "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNcXU4WHB5T252OVM2cUY2OUcxdjBma2dBUi1RMkxZM0JIVVFjbDl6R2dKVEhLcmVXWW1JYnZKeDRYV2FibmZUTlg1anVpMnBhd3V0N0FqMGtpbnBWbGhnRzlSQmlpb2tKcFlxdUViX1Itb1hCZGp5WWswQ0FaTnZQSlFEQVFEOHh1Q0pHdmRrcHZyZi1wdk1LU1F0ZWpLUUkzeGtRTEZaSTZ3MFNjdXJiT0U1U3A3dHlIM2FCRnRDLXZ0bGIyNXQ2dXlFR0ViQ2xYZE8zY3dIblFCRFRoRkJIbnFOQUZibUFMMmRLWmdiVldJQ1p5QlZyT2U1NzJscXNjSVBiQWs0bEdUVkpKRGdUTC1PZjRZb1dV?oc=5",
-     "source": "데일리안",
-     "date": "2026-08-06"
-    },
-    {
-     "title": "토스뱅크, '키워봐요 31일적금' 출시…31일 저축 시 최고 연 10% - 파이낸셜포스트",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5lU2JkLWFtbXRKYlpKRWZzYU5naVVibWZaV2lsamc0akxaVGVuWm83QnlrcUltanJXMVdncGRyR2ZPaTBCeE1ZZnJCTkd4RmNMR0dyWlB5VzFOUThYQzg3eU5Gdm5PcVhfS3U4ZU9TODVIY1dw?oc=5",
-     "source": "파이낸셜포스트",
-     "date": "2026-08-06"
-    },
-    {
-     "title": "토스뱅크, 매일 저금 '키워봐요 31일적금' 출시 - 네이트",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LUEtzRUlaSlR0a1JQaVJyOVNLVXB6V0U1LUdBRWloR1V2QUk1em1WVW9yLU9NQl9KbFBaS0I0dHdaTGVoZjlPV0RnZ1R0VDhJMmFianZFRHVuVVFPcEc2cA?oc=5",
-     "source": "네이트",
-     "date": "2026-08-06"
-    },
-    {
-     "title": "토스뱅크, '키워봐요 31일 적금' 출시",
-     "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7177789",
-     "source": "네이버뉴스",
-     "date": "2026-08-06"
     }
    ],
    "in_disclosure": false
