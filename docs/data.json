@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-18 08:30",
+ "updated_at": "2026-08-18 10:44",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2492,6 +2492,12 @@
  ],
  "news": [
   {
+   "title": "NH농협은행, 'NH농심천심 적금' 출시 이틀 만에 1만 좌 완판 - 사회적경제뉴스",
+   "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5Yd3VDN25UcGpHc3hjN1lXZjNpMWVfc1V2MHdHRDcwb3oySnkyMGU2dmxibXhLYTY3WXNEUEdWNA?oc=5",
+   "source": "사회적경제뉴스",
+   "date": "2026-08-18"
+  },
+  {
    "title": "증시 추락에 예적금으로 ‘역머니무브’…은행권 최고 9% 특판 경쟁 - v.daum.net",
    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9MLVZCMzQydzlPeUlGeTVnRWZHQ3EzSnBRc1pJNmhHSjljb2R5REEwTXotczlHSDktdVE1bk1NRnhRQ1FaWHc?oc=5",
    "source": "v.daum.net",
@@ -2556,16 +2562,9 @@
    "link": "http://www.bizwnews.com/news/articleView.html?idxno=143475",
    "source": "네이버뉴스",
    "date": "2026-08-17"
-  },
-  {
-   "title": "NH농협은행, ‘NH농심천금 적금’ 1만좌 소진…출시 이틀만 - 소년한국일보",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zSnVGeVQ3bUREUnNjRm9Sci1IV3ZoRWtDc2lfeDJvb1FnX2gzeFVSMFhaOVJsS21YQW10SDc1RHpZaDRiYUZuT09qLWNfbEl3WnVrblpwcVJOVUxaaHpwM3ZFVzZReWNvU3NieU9aRHPSAXBBVV95cUxPM0p1RnlUN21ERFJzY0ZvUnItSFd2aEVrQ3NpX3gyb29RZ19oM3hVUjBYWjlSbEttWEFtdEg3NUR6WWg0YmFGbk9Pai1jX2xJd1p1a25acHFSTlVMWmh6cDN2RVc2UXljb1NzYnlPWkRz?oc=5",
-   "source": "소년한국일보",
-   "date": "2026-08-14"
   }
  ],
  "news_seen": [
-  "e08c26f9f0b0afb1",
   "3fea4217b40cc0e1",
   "581cc14faadf047d",
   "2798e7cdf0a97068",
@@ -3364,7 +3363,8 @@
   "7da137ab1f3a3b35",
   "53846739fc0d66b4",
   "0202b7d36cf5be67",
-  "a288c742b23b4155"
+  "a288c742b23b4155",
+  "3f465bd51d311056"
  ],
  "news_seeded": true,
  "news_products": [
@@ -3663,7 +3663,7 @@
    "norm": "농심천심적금",
    "rate": 8.15,
    "first_news": "2026-08-11",
-   "count": 76,
+   "count": 77,
    "articles": [
     {
      "title": "NH농협은행, 최고 연 8.15% '농심천심 적금' 출시 - 신아일보",
