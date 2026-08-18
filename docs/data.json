@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-18 15:57",
+ "updated_at": "2026-08-18 16:46",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2492,6 +2492,24 @@
  ],
  "news": [
   {
+   "title": "iM뱅크, 야구팬 겨냥 단기적금 '야구에 진심이지' 출시… 기본금리 연 3.35%, 최고 연 8.00% - Queen 이코노미퀸",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFZFRPM1NtVG12Ylc0ZXd2czJkZlpkYkJoWkRYeU5GeS1rOF9PUzMzTzZVVGxWbHBVZ2x2X09FQ3VyWHFfWlFudHhDQ1Q4aEZXM2pXUkE3RW9CVzM0NVlrcTR4WVVVVHVo?oc=5",
+   "source": "Queen 이코노미퀸",
+   "date": "2026-08-18"
+  },
+  {
+   "title": "iM뱅크, 31일 단기적금 '야구에 진심이지' 출시...최고 연 8% 금리",
+   "link": "https://www.gukjenews.com/news/articleView.html?idxno=3667508",
+   "source": "네이버뉴스",
+   "date": "2026-08-18"
+  },
+  {
+   "title": "iM뱅크, 야구팬 겨냥 단기적금 '야구에 진심이지' 출시… 기본금리 연 3...",
+   "link": "http://www.queen.co.kr/news/articleView.html?idxno=461892",
+   "source": "네이버뉴스",
+   "date": "2026-08-18"
+  },
+  {
    "title": "NH농협은행, 'NH농심천심 적금' 출시 이틀 만에 1만 좌 완판 - 사회적경제뉴스",
    "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5Yd3VDN25UcGpHc3hjN1lXZjNpMWVfc1V2MHdHRDcwb3oySnkyMGU2dmxibXhLYTY3WXNEUEdWNA?oc=5",
    "source": "사회적경제뉴스",
@@ -2544,30 +2562,9 @@
    "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000003639&cp=nv",
    "source": "네이버뉴스",
    "date": "2026-08-17"
-  },
-  {
-   "title": "NH농협은행, ‘NH농심천심 적금’ 출시 이틀 만에 1만좌 완판 - 비즈니스리포트",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84VlJ2SDNBYzNEN19laFQxVlNQendUWEluTDZDS21FNExyUVJaQzJwUFItd3lqckdlVkJnSElRd0ZLR2NwdTZhLTR6MmphTjNQQ0wtR2NUS0NQZzJDVHM5MFl6bVRialB0aW1idVl3MDg?oc=5",
-   "source": "비즈니스리포트",
-   "date": "2026-08-14"
-  },
-  {
-   "title": "농협은행, ‘NH농심천심 적금’ 출시 이틀 만에 1만좌 완판 - 비즈월드",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vcE5oUXJzNWhPUzlHNU43b3RWM3J3Q1cyYmpBUzB3VzNSS2RNRUdveTlVSjBvdjlIZVJXR0ZvLVc1VFpPeV9jaUwtdFllVUQxb3hsV3VJbzJ1NkRlWUd0VlFjRGhpZHJOa3c?oc=5",
-   "source": "비즈월드",
-   "date": "2026-08-17"
-  },
-  {
-   "title": "농협은행, 'NH농심천심 적금' 출시 이틀 만에 1만좌 완판",
-   "link": "http://www.bizwnews.com/news/articleView.html?idxno=143475",
-   "source": "네이버뉴스",
-   "date": "2026-08-17"
   }
  ],
  "news_seen": [
-  "3fea4217b40cc0e1",
-  "581cc14faadf047d",
-  "2798e7cdf0a97068",
   "fb979b7eed5a28bf",
   "239c50543d5b5317",
   "8b004069adda3322",
@@ -3364,10 +3361,42 @@
   "53846739fc0d66b4",
   "0202b7d36cf5be67",
   "a288c742b23b4155",
-  "3f465bd51d311056"
+  "3f465bd51d311056",
+  "2aa6797b0fd0079f",
+  "6b1d434554c533e7",
+  "de7ffc5cda707e2e"
  ],
  "news_seeded": true,
  "news_products": [
+  {
+   "bank": "iM뱅크",
+   "name": "단기적금",
+   "norm": "단기적금",
+   "rate": 8.0,
+   "first_news": "2026-08-18",
+   "count": 3,
+   "articles": [
+    {
+     "title": "iM뱅크, 야구팬 겨냥 단기적금 '야구에 진심이지' 출시… 기본금리 연 3.35%, 최고 연 8.00% - Queen 이코노미퀸",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFZFRPM1NtVG12Ylc0ZXd2czJkZlpkYkJoWkRYeU5GeS1rOF9PUzMzTzZVVGxWbHBVZ2x2X09FQ3VyWHFfWlFudHhDQ1Q4aEZXM2pXUkE3RW9CVzM0NVlrcTR4WVVVVHVo?oc=5",
+     "source": "Queen 이코노미퀸",
+     "date": "2026-08-18"
+    },
+    {
+     "title": "iM뱅크, 31일 단기적금 '야구에 진심이지' 출시...최고 연 8% 금리",
+     "link": "https://www.gukjenews.com/news/articleView.html?idxno=3667508",
+     "source": "네이버뉴스",
+     "date": "2026-08-18"
+    },
+    {
+     "title": "iM뱅크, 야구팬 겨냥 단기적금 '야구에 진심이지' 출시… 기본금리 연 3...",
+     "link": "http://www.queen.co.kr/news/articleView.html?idxno=461892",
+     "source": "네이버뉴스",
+     "date": "2026-08-18"
+    }
+   ],
+   "in_disclosure": false
+  },
   {
    "bank": "국민은행",
    "name": "골드키위적금",
@@ -3902,23 +3931,6 @@
      "title": "토스뱅크, '키워봐요 31일 적금' 출시",
      "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7177789",
      "source": "네이버뉴스",
-     "date": "2026-08-06"
-    }
-   ],
-   "in_disclosure": false
-  },
-  {
-   "bank": "NH농협은행",
-   "name": "NC 다이노스 위풍당당 적금",
-   "norm": "NC다이노스위풍당당적금",
-   "rate": 7.0,
-   "first_news": "2026-08-06",
-   "count": 1,
-   "articles": [
-    {
-     "title": "NH농협은행, 최고 연 7.0% 'NC 다이노스 위풍당당 적금' 출시 - 헤드라인제주",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1lX3Z4VnlvT3BVNm0zbndFU0V0bjFLNzB4QmdYdVhQRkJFc2RFWEhiOXVFaHdoU2tGZHJKLWxTUkUxMnJrbjFmdWpfR24wdDMyUkN3SDdiM3NraG9CR0FCR2lPVExoU29ic0ZKQ1huRUo?oc=5",
-     "source": "헤드라인제주",
      "date": "2026-08-06"
     }
    ],
