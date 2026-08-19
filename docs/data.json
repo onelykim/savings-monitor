@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-19 17:48",
+ "updated_at": "2026-08-19 18:41",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2492,6 +2492,12 @@
  ],
  "news": [
   {
+   "title": "iM뱅크, 매일 납입할수록 금리 오르는 ‘야구에 진심이지 적금’ 출시 - 경북신문",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB5SWRrWVU1cTdOaUFkRGdFT3JCYUlUS2JUaWR4Ty1lN29CUzhTdkprbWxaUHU0NzFVOGxXeW5qT0MzNE0xczFPMWxVQV9pLV92Tm1FNWpERGw?oc=5",
+   "source": "경북신문",
+   "date": "2026-08-19"
+  },
+  {
    "title": "31일 매일 넣으면 연 8%…iM뱅크 야구 적금 출시 - kyongbuk.co.kr",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CY283Z255UlZSaXJyQmlGWFpSN3FOWkhvZUtGVklYc3dHbHNVb3dHYTBkNUg3VHFwOC1xbVFEMzNOb0JNYlE2NXI3ZFVtdlFYaDQxT2NNWWhxX25ZZmpUSVJZb1NBY3NfcXZraWJzWQ?oc=5",
    "source": "kyongbuk.co.kr",
@@ -2556,16 +2562,9 @@
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93eEFiclBVYkFwSmtBaUNMOENiS0V5aktaNnhBYXUwbXBiWGhJSVpxSjJ2SmF5T3Y5a0NTVlJPU3NfZ0JHQ3hYVWxKU2RPM2laaG9GZmlOYW5RemhZZkZGeU55LVo4VGdIYm14RG5B0gFyQVVfeXFMUFpxN2lSR3Y3MkdLcDRFZUd4RmYxREV6VVdzQkhMblZqTmhlaG9KTkFXVWp3RmotZUZYSWJVX3JDTk40TzI4YWI3YUFwMmJVZDJEMGFfTGxwRlNyWHVuR2Y3Ri16M2ZGaHdtUTUwWGw3Qk5n?oc=5",
    "source": "팝콘뉴스",
    "date": "2026-08-18"
-  },
-  {
-   "title": "iM뱅크, 31일 매일 넣으면 최고 연 8% '야구 적금' 출시 - 네이트",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yNWU4bkQ0ODRCdVBnSE4yZlN5TUJJQ2cwVFJOZGx3dF9HdkNXc3Y0OTVNc1J0NGdIaDRYb293dG8tR08yaEZZN0JkV2dleXd3U21WeE40eXpNOG0yQWlMMA?oc=5",
-   "source": "네이트",
-   "date": "2026-08-18"
   }
  ],
  "news_seen": [
-  "a03b403eadd16116",
   "3889ed91e85bb202",
   "bdff1c2b1d5e782d",
   "ae231d6aea50948a",
@@ -3364,7 +3363,8 @@
   "db88850c5c402630",
   "94aab4ac30e45925",
   "20724e95eeeaa8c4",
-  "d52c84c7c1dfb9b4"
+  "d52c84c7c1dfb9b4",
+  "78d3fd531b6cf901"
  ],
  "news_seeded": true,
  "news_products": [
@@ -3409,7 +3409,7 @@
    "norm": "야구에진심이지적금",
    "rate": 8.0,
    "first_news": "2026-08-18",
-   "count": 5,
+   "count": 6,
    "articles": [
     {
      "title": "iM뱅크, 야구팬 겨냥 ‘야구에 진심이지 적금’ 출시…최고 연 8% - dkilbo.com",
