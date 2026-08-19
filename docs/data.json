@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-19 13:45",
+ "updated_at": "2026-08-19 14:37",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2492,6 +2492,12 @@
  ],
  "news": [
   {
+   "title": "“최고 연 9%” 신한은행, ‘신한 적금 9단’ 출시 - 스포츠동아",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBXYU1SZlRqRmwtLUhQOEN6dk53UXRDeWRwQXJsNEl5WlAzMlZmc1NhUmtyQm5jS29fQVZQdEZNVl9SUEl3WkJURWFIQ2d0QmxybXY1X3dQbVdDczhzX3pqV2FjQ1EwTkdLUVpTZlJEc2NXd00?oc=5",
+   "source": "스포츠동아",
+   "date": "2026-08-19"
+  },
+  {
    "title": "“최고 연 9%” 신한은행, ‘신한 적금 9단’ 출시",
    "link": "https://sports.donga.com/economy/article/all/20260819/134499537/1",
    "source": "네이버뉴스",
@@ -2556,16 +2562,9 @@
    "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=556981",
    "source": "네이버뉴스",
    "date": "2026-08-18"
-  },
-  {
-   "title": "iM뱅크, 31일 매일 넣으면 최고 연 8% ‘야구 적금’ 출시",
-   "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=05375926645548632",
-   "source": "네이버뉴스",
-   "date": "2026-08-18"
   }
  ],
  "news_seen": [
-  "32468cc1eb198c8a",
   "fb9ec158716f8ced",
   "35883d8848a66b0a",
   "eb5bedf87570e69b",
@@ -3364,7 +3363,8 @@
   "505907e7ada32889",
   "99fca59e67f40e07",
   "8d1ace70b17869af",
-  "cdbea3785fc430e3"
+  "cdbea3785fc430e3",
+  "db88850c5c402630"
  ],
  "news_seeded": true,
  "news_products": [
@@ -3536,7 +3536,7 @@
    "norm": "신한적금9단",
    "rate": 9.0,
    "first_news": "2026-08-13",
-   "count": 105,
+   "count": 106,
    "articles": [
     {
      "title": "신한은행, 최고 연 9.0% '신한 적금 9단' 출시 - 연합뉴스",
