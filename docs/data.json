@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-20 01:39",
+ "updated_at": "2026-08-20 02:33",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2492,6 +2492,12 @@
  ],
  "news": [
   {
+   "title": "이 대통령 \"다 받아주라\" 청년미래적금…출시 2주도 안 돼 신청자 200만 돌파｜지금 이 쇼츠 Jena Sims (9VN7XrLd5n) - Mshale",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HcjhRX09zYnl1WE9iMWdzenJpWFVvaVNKMTZQSkg2X2RkZFBmWm9sMzFEa2xVc29vQ0dZY3FkU19GZXVjVFJfbE1rM2lsVmsyME5ZSC1VUzdYeG8?oc=5",
+   "source": "Mshale",
+   "date": "2026-08-19"
+  },
+  {
    "title": "iM뱅크, 매일 납입할수록 금리 오르는 ‘야구에 진심이지 적금’ 출시 - 경북신문",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB5SWRrWVU1cTdOaUFkRGdFT3JCYUlUS2JUaWR4Ty1lN29CUzhTdkprbWxaUHU0NzFVOGxXeW5qT0MzNE0xczFPMWxVQV9pLV92Tm1FNWpERGw?oc=5",
    "source": "경북신문",
@@ -2556,16 +2562,9 @@
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBacTdpUkd2NzJHS3A0RWVHeEZmMURFelVXc0JITG5Wak5oZWhvSk5BV1Vqd0ZqLWVGWEliVV9yQ05ONE8yOGFiN2FBcDJiVWQyRDBhX0xscEZTclh1bkdmN0YtejNmRmh3bVE1MFhsN0JOZ9IBckFVX3lxTFBacTdpUkd2NzJHS3A0RWVHeEZmMURFelVXc0JITG5Wak5oZWhvSk5BV1Vqd0ZqLWVGWEliVV9yQ05ONE8yOGFiN2FBcDJiVWQyRDBhX0xscEZTclh1bkdmN0YtejNmRmh3bVE1MFhsN0JOZw?oc=5",
    "source": "팝콘뉴스",
    "date": "2026-08-18"
-  },
-  {
-   "title": "iM뱅크, 납입할수록 금리·야구 경품…31일 적금 출시 - 팝콘뉴스",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93eEFiclBVYkFwSmtBaUNMOENiS0V5aktaNnhBYXUwbXBiWGhJSVpxSjJ2SmF5T3Y5a0NTVlJPU3NfZ0JHQ3hYVWxKU2RPM2laaG9GZmlOYW5RemhZZkZGeU55LVo4VGdIYm14RG5B0gFyQVVfeXFMUFpxN2lSR3Y3MkdLcDRFZUd4RmYxREV6VVdzQkhMblZqTmhlaG9KTkFXVWp3RmotZUZYSWJVX3JDTk40TzI4YWI3YUFwMmJVZDJEMGFfTGxwRlNyWHVuR2Y3Ri16M2ZGaHdtUTUwWGw3Qk5n?oc=5",
-   "source": "팝콘뉴스",
-   "date": "2026-08-18"
   }
  ],
  "news_seen": [
-  "3889ed91e85bb202",
   "bdff1c2b1d5e782d",
   "ae231d6aea50948a",
   "58afd96975110b00",
@@ -3364,7 +3363,8 @@
   "94aab4ac30e45925",
   "20724e95eeeaa8c4",
   "d52c84c7c1dfb9b4",
-  "78d3fd531b6cf901"
+  "78d3fd531b6cf901",
+  "062609be0f037d56"
  ],
  "news_seeded": true,
  "news_products": [
