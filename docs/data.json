@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-21 07:35",
+ "updated_at": "2026-08-21 08:33",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2492,6 +2492,24 @@
  ],
  "news": [
   {
+   "title": "광주은행, '통합특별시 사랑예금' 완판에 적금도 출시 - 네이트",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Hc3BSWUFwS251Rjc3OC1NSnp3T0w2ZXlzamRROGtuX1o3c0g2RWVVX3JPamhZamYyMy1ZVC1XajRtMlBaMmxFR3JHNmdCVGViSDVN?oc=5",
+   "source": "네이트",
+   "date": "2026-08-21"
+  },
+  {
+   "title": "광주은행, '통합특별시 사랑예금' 완판에 적금도 출시 - 동행미디어 시대",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RYWdQSEsxZFFoSXJocndQMmdiZ3BNQ0VZSzJIVk9rOVZFa2ZrT1NPTDJVZEpjZHJmYWdsUXdKbXBoQUw5Y1pOTkI4dVlLRld3SUpLSVowWE5UWlZBeUUzRHZB?oc=5",
+   "source": "동행미디어 시대",
+   "date": "2026-08-21"
+  },
+  {
+   "title": "광주은행, '통합특별시 사랑예금' 완판에 적금도 출시",
+   "link": "https://www.sidae.com/article/2026082107474937057",
+   "source": "네이버뉴스",
+   "date": "2026-08-21"
+  },
+  {
    "title": "‘NH농심천심적금’ 출시 이틀 만에 완판 - 농민신문",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHX0xncGhVY29SSDRTQ24tcUR0V20yNDJQMFJqNlVhQ3NTblF3cVZ5dzZqemdlcE1VU0paSUFGbF9VRENhUjV4MDZnNUs1d0lLX1k0QXpCZlc3dw?oc=5",
    "source": "농민신문",
@@ -2544,30 +2562,9 @@
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBXYU1SZlRqRmwtLUhQOEN6dk53UXRDeWRwQXJsNEl5WlAzMlZmc1NhUmtyQm5jS29fQVZQdEZNVl9SUEl3WkJURWFIQ2d0QmxybXY1X3dQbVdDczhzX3pqV2FjQ1EwTkdLUVpTZlJEc2NXd00?oc=5",
    "source": "스포츠동아",
    "date": "2026-08-19"
-  },
-  {
-   "title": "“최고 연 9%” 신한은행, ‘신한 적금 9단’ 출시",
-   "link": "https://sports.donga.com/economy/article/all/20260819/134499537/1",
-   "source": "네이버뉴스",
-   "date": "2026-08-19"
-  },
-  {
-   "title": "iM뱅크, 매일 납입할수록 금리 오르는 ‘야구에 진심이지 적금’ 출시",
-   "link": "https://www.kbsm.net/news/view.php?idx=530832",
-   "source": "네이버뉴스",
-   "date": "2026-08-19"
-  },
-  {
-   "title": "iM뱅크, 최고 연 8% 단기적금 '야구에 진심이지' 출시",
-   "link": "https://www.cnbnews.com/news/articleView.html?idxno=1011884",
-   "source": "네이버뉴스",
-   "date": "2026-08-19"
   }
  ],
  "news_seen": [
-  "ae9d27b7ada91993",
-  "6a71b851ef5ea973",
-  "eb4f9ee63105c486",
   "68a9870842123bc4",
   "7a1426ba24443ac2",
   "a876a4298aadbbc5",
@@ -3364,10 +3361,42 @@
   "062609be0f037d56",
   "ba6d98635c7e8763",
   "f30bf39b68a790f5",
-  "ff77dca48563d953"
+  "ff77dca48563d953",
+  "1e2d481d8c81e4dc",
+  "962816ddd4d31b91",
+  "17b2d42f498ceb2a"
  ],
  "news_seeded": true,
  "news_products": [
+  {
+   "bank": "광주은행",
+   "name": "통합특별시 사랑예금",
+   "norm": "통합특별시사랑예금",
+   "rate": null,
+   "first_news": "2026-08-21",
+   "count": 3,
+   "articles": [
+    {
+     "title": "광주은행, '통합특별시 사랑예금' 완판에 적금도 출시 - 네이트",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Hc3BSWUFwS251Rjc3OC1NSnp3T0w2ZXlzamRROGtuX1o3c0g2RWVVX3JPamhZamYyMy1ZVC1XajRtMlBaMmxFR3JHNmdCVGViSDVN?oc=5",
+     "source": "네이트",
+     "date": "2026-08-21"
+    },
+    {
+     "title": "광주은행, '통합특별시 사랑예금' 완판에 적금도 출시 - 동행미디어 시대",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RYWdQSEsxZFFoSXJocndQMmdiZ3BNQ0VZSzJIVk9rOVZFa2ZrT1NPTDJVZEpjZHJmYWdsUXdKbXBoQUw5Y1pOTkI4dVlLRld3SUpLSVowWE5UWlZBeUUzRHZB?oc=5",
+     "source": "동행미디어 시대",
+     "date": "2026-08-21"
+    },
+    {
+     "title": "광주은행, '통합특별시 사랑예금' 완판에 적금도 출시",
+     "link": "https://www.sidae.com/article/2026082107474937057",
+     "source": "네이버뉴스",
+     "date": "2026-08-21"
+    }
+   ],
+   "in_disclosure": false
+  },
   {
    "bank": "iM뱅크",
    "name": "단기적금",
@@ -3902,41 +3931,6 @@
      "title": "\"적금 최고 연8.15%\" 농협은행, 창립기념 'NH농심천심예·적금' 출시 - catchnews.kr",
      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84VDEzTVVPS1hiZDBUenlHbU1rVE5sRExQZjhOQlhuR182LXpNNHVpVTVKMEZLSDFjV1E1OXhyOVdzaEhBTU5EOVd3UGdmWk10YlA2WlF5ZXVFQlVJR1lXZDdmNVMtQWlYUkhr?oc=5",
      "source": "catchnews.kr",
-     "date": "2026-08-11"
-    }
-   ],
-   "in_disclosure": false
-  },
-  {
-   "bank": "NH농협은행",
-   "name": "NH농심천심예금·적금",
-   "norm": "NH농심천심예금·적금",
-   "rate": 8.15,
-   "first_news": "2026-08-11",
-   "count": 4,
-   "articles": [
-    {
-     "title": "NH농협은행, 창립기념 'NH농심천심예금·적금' 출시…최대 8.15% 금리 제공 - 퍼블릭뉴스통신",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9NdXlOdzdZcUxGbVZLUklEZ0szNDVrSUFIZVhCWTZPRDlVenVHc29WMGR3SFNEV2piYWlQSkZNRzVlU2ZRSHVSNGMwdVhJY3doOWJ0TWlSS0lzaGFZZXY4ei1Yb0l0SEw0OFlV?oc=5",
-     "source": "퍼블릭뉴스통신",
-     "date": "2026-08-11"
-    },
-    {
-     "title": "NH농협은행, 창립기념일 맞아 ‘NH농심천심예금·적금’ 출시 - 아시아에이",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lTUMxYVpZWVVwWGlFdVVaMEphejZocFdyZWtuVEl5ZlI5WEpvY1prcWNJbXNMbG9uQUNTN1g2OTlEUnRkU3BOTUtESEdsZ3NSZzZnUHhXWFRNYm5mNi1JSVVKd3otNDZLM1HSAW5BVV95cUxNWVYySGphUVdteFFOeG52N042TlhkdEVXQThZQ0VzSEx1aE5HYVp6Q3FXMWdTSFZjeDF4TXloX3lSZUF6NDNGbF9iOVd4QUFYbzhTWW0tbGQ5bFlnUlpEVjd0NDFpTUlfcGxEX3lTdw?oc=5",
-     "source": "아시아에이",
-     "date": "2026-08-11"
-    },
-    {
-     "title": "NH농협은행, 창립기념 'NH농심천심예금·적금' 출시…최대 8.15% 금리 제공 - ttlnews.com",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfRVk0NnJ3d2RqRkd4Z3V0Wk5BS1FBX1p1Sk84M0hESkhEdXlTclliTXAtdVYxWmNZQzZsNXpNa0ZnU0pZYklzeEJVUTNvLVo1a2RJdmJWZ0d3QlRGNmNYMF9QRFZZdEZBUnc?oc=5",
-     "source": "ttlnews.com",
-     "date": "2026-08-11"
-    },
-    {
-     "title": "NH농협은행, 창립기념일 맞아 ‘NH농심천심예금·적금’ 출시 - 아시아에이",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZVjJIamFRV214UU54bnY3TjZOWGR0RVdBOFlDRXNITHVoTkdhWnpDcVcxZ1NIVmN4MXhNeWhfeVJlQXo0M0ZsX2I5V3hBQVhvOFNZbS1sZDlsWWdSWkRWN3Q0MWlNSV9wbERfeVN30gFuQVVfeXFMTVlWMkhqYVFXbXhRTnhudjdONk5YZHRFV0E4WUNFc0hMdWhOR2FaekNxVzFnU0hWY3gxeE15aF95UmVBejQzRmxfYjlXeEFBWG84U1ltLWxkOWxZZ1JaRFY3dDQxaU1JX3BsRF95U3c?oc=5",
-     "source": "아시아에이",
      "date": "2026-08-11"
     }
    ],
