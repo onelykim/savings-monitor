@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-21 05:38",
+ "updated_at": "2026-08-21 06:35",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2492,6 +2492,18 @@
  ],
  "news": [
   {
+   "title": "‘NH농심천심적금’ 출시 이틀 만에 완판 - 농민신문",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHX0xncGhVY29SSDRTQ24tcUR0V20yNDJQMFJqNlVhQ3NTblF3cVZ5dzZqemdlcE1VU0paSUFGbF9VRENhUjV4MDZnNUs1d0lLX1k0QXpCZlc3dw?oc=5",
+   "source": "농민신문",
+   "date": "2026-08-19"
+  },
+  {
+   "title": "iM뱅크, 31일 단기 적금 '야구에 진심이지' 출시…최고 연 8% 금리 혜택 - 네이트",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5SQTVOaEExcGROQW1pbE9fQmM0SmQ3TnZhV0RtSFdnX0tLSVpJa3dVTXRnRGRyRThPUjBGcDB5Yl9jOHRCeV92d2pSUWplSEUyeVJn?oc=5",
+   "source": "네이트",
+   "date": "2026-08-18"
+  },
+  {
    "title": "‘NH농심천심적금’ 출시 이틀 만에 완판",
    "link": "https://www.nongmin.com/article/20260819500816",
    "source": "네이버뉴스",
@@ -2550,23 +2562,9 @@
    "link": "https://www.cnbnews.com/news/articleView.html?idxno=1011884",
    "source": "네이버뉴스",
    "date": "2026-08-19"
-  },
-  {
-   "title": "iM뱅크, 최고 연 8% '야구에 진심이지' 적금 출시 - cstimes.com",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DWDBvVHI0UVB0NjIycE9Xc0JBUEpUVklXT3Y1Y05RRXNwU0x0UlkzbjJ2YlFJLXliYjNEcXA1ZXdlSWVMR0ZxY0FCX1N1Z1BiT2tfVUJNQVpHQ0t3Sll3d2NYRGd5eE03Q1E?oc=5",
-   "source": "cstimes.com",
-   "date": "2026-08-19"
-  },
-  {
-   "title": "iM뱅크, 최고 연 8% '야구에 진심이지' 적금 출시",
-   "link": "https://www.cstimes.com/news/articleView.html?idxno=717196",
-   "source": "네이버뉴스",
-   "date": "2026-08-19"
   }
  ],
  "news_seen": [
-  "ae231d6aea50948a",
-  "58afd96975110b00",
   "ae9d27b7ada91993",
   "6a71b851ef5ea973",
   "eb4f9ee63105c486",
@@ -3364,7 +3362,9 @@
   "d52c84c7c1dfb9b4",
   "78d3fd531b6cf901",
   "062609be0f037d56",
-  "ba6d98635c7e8763"
+  "ba6d98635c7e8763",
+  "f30bf39b68a790f5",
+  "ff77dca48563d953"
  ],
  "news_seeded": true,
  "news_products": [
@@ -3374,7 +3374,7 @@
    "norm": "단기적금",
    "rate": 8.0,
    "first_news": "2026-08-18",
-   "count": 13,
+   "count": 14,
    "articles": [
     {
      "title": "iM뱅크, 야구팬 겨냥 단기적금 '야구에 진심이지' 출시… 기본금리 연 3.35%, 최고 연 8.00% - Queen 이코노미퀸",
