@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-21 23:44",
+ "updated_at": "2026-08-22 00:41",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2513,6 +2513,12 @@
  ],
  "news": [
   {
+   "title": "[포토] 농협상호금융, 'NH파킹모아적금' 출시 - 네이트",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tNlJiTWN5WXhybEVUSTlQeTNpT0xnWFBrOVpyN1QzTFRrSzlNUmVpaXpmNkw4UnZfRHhRSEJkNVlpZkFodXNVZE5PX0tSdThhMF9V?oc=5",
+   "source": "네이트",
+   "date": "2026-08-21"
+  },
+  {
    "title": "KB국민은행, 최고 연 12% 적금 출시 ... 카드 이용실적 연계 '쓰담적금’ - 워크투데이",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16QlZ4TGNtSVFsOFJFM2swNlpoV0RCbTlfcmtpZWpOTndacWpHYkZfa1pvZThTZ0EzdjlzbkJaMVVhVmFpRmg5Y1JJTTYwT2pvVHRFNFNSSGtxaUdzWlZNSHFINF9VZlBnbGJzOQ?oc=5",
    "source": "워크투데이",
@@ -2577,16 +2583,9 @@
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9IampxNHBFUjRNR0g2VzVacDhHNmh3X05oVUlDUFd0RlhtSDdsamgzNG1zLTVPQ3JJeU5EREEtblF2RGxWREhFUF83cHFwdy1JQjF6WmJ2V0hWWlljMnp3NUF2dHNhWU90TmZhNk8xRFZ6MEVj0gF0QVVfeXFMT0hqanE0cEVSNE1HSDZXNVpwOEc2aHdfTmhVSUNQV3RGWG1IN2xqaDM0bXMtNU9Dckl5TkREQS1uUXZEbFZESEVQXzdwcXB3LUlCMXpaYnZXSFZaWWMyenc1QXZ0c2FZT3ROZmE2TzFEVnowRWM?oc=5",
    "source": "주간한국",
    "date": "2026-08-21"
-  },
-  {
-   "title": "경기농협,‘NH개인파킹통장·파킹모아적금’출시 - 경인종합일보",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3aHFGek5uMnhTQVAxcm1FNVkzREd0aGgtV3VPeWJHM0ZTd0pBZnl5M1RkY1Z2VmtOenktV3VoSEduZ2NFLVpLUlhHT0t6UnhGdS1jLXNRZEpFWEpmdWJIakcxU0Y4RjMtZXNKWDdpdVpIUdIBckFVX3lxTFA3aHFGek5uMnhTQVAxcm1FNVkzREd0aGgtV3VPeWJHM0ZTd0pBZnl5M1RkY1Z2VmtOenktV3VoSEduZ2NFLVpLUlhHT0t6UnhGdS1jLXNRZEpFWEpmdWJIakcxU0Y4RjMtZXNKWDdpdVpIUQ?oc=5",
-   "source": "경인종합일보",
-   "date": "2026-08-21"
   }
  ],
  "news_seen": [
-  "9d60ae92c1c16d29",
   "01927d3c52b2e2c1",
   "dfeb05c36aa91a61",
   "2796b9319c690127",
@@ -3385,7 +3384,8 @@
   "43bd8290b2092315",
   "694954ffe97b542e",
   "81ba6ee7e5959035",
-  "d64aa19a5c04573a"
+  "d64aa19a5c04573a",
+  "2c339547093eb6d0"
  ],
  "news_seeded": true,
  "news_products": [
