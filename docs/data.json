@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-21 17:51",
+ "updated_at": "2026-08-21 18:45",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2513,6 +2513,54 @@
  ],
  "news": [
   {
+   "title": "농협상호금융, 「NH개인파킹통장·NH파킹모아적금」 출시 - dhns.co.kr",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10cXVLZXFwRlJwSGpMdVR2QmVkRWZvTWl3ZFFrZjlvSEx2b2JsRG4wdEFSZ3FHb2VzY2VsdXQ4Rkd6QXdlYzBGLXNMNTJZS2ZVZzVON2hhRGdJOFEwY2lNOGFBa2lDWlU?oc=5",
+   "source": "dhns.co.kr",
+   "date": "2026-08-21"
+  },
+  {
+   "title": "경기농협,『NH개인파킹통장·파킹모아적금』출시 - 뉴스체인지",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Jd2ZyOXZQRXlNT2J4WFFhXzFUN1dJRnR1bEhaV1pnTzlsVVNzaHB3QmJaLUJoQXVOR3VvZW5BZzZlaURwZVdaSlRfTQ?oc=5",
+   "source": "뉴스체인지",
+   "date": "2026-08-21"
+  },
+  {
+   "title": "KB국민은행, 최고 연 12.0% 금리 ‘KB카드쓰담적금’ 출시 - 리버티코리아포스트",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6TW1DMVN5S3MwOGJTNVkzbS1UdGp2dGVZeUlVbzVOSmZmdktnd2M0eU9SUW5XUVJ2Vi1PWmRoZkpWTlJpel8yX1QySXYxUDgtNlZySF95YzhIR2RibDFBbWZ6dkRNaXfSAWdBVV95cUxQek1tQzFTeUtzMDhiUzVZM20tVHRqdnRlWXlJVW81TkpmZnZLZ3djNHlPUlFuV1FSdlYtT1pkaGZKVk5SaXpfMl9UMkl2MVA4LTZWckhfeWM4SEdkYmwxQW1menZETWl3?oc=5",
+   "source": "리버티코리아포스트",
+   "date": "2026-08-21"
+  },
+  {
+   "title": "KB국민은행, 최고 연 12.0% 'KB카드쓰담적금' 출시 - 디지털투데이",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1IODVSLThDaV9FbjBSZmVYb0pfM1lwb3lnMWlIVE5SaGxnX29uTkRSRUlKZGh3Q3p5YW10WG1hTjdTZU5IOFE0dTNSRi1oUGxNVUJZOTlWdUlCRUtDdWtaZnhtRHNsSWVCVExBdC1iQWRaMGM?oc=5",
+   "source": "디지털투데이",
+   "date": "2026-08-21"
+  },
+  {
+   "title": "KB국민은행, 'KB카드쓰담적금' 출시...카드·급여 실적 채우면 최고 연 12% - 테크M",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CeExGQkZpT3o0M25sdDZkNHU0YWwxRjZGRTdhTVJWTWtCTGVzRXY5alpxOW1taTc4RXZMQWZXV2t3NTFxS3UxYWx1dkQ2VE81Q2xsZHhMTExhajIweUQ0UFBnSldPeWZiWWfSAWpBVV95cUxNQnhMRkJGaU96NDNubHQ2ZDR1NGFsMUY2RkU3YU1SVk1rQkxlc0V2OWpacTltbWk3OEV2TEFmV1drdzUxcUt1MWFsdXZENlRPNUNsbGR4TExMYWoyMHlENFBQZ0pXT3lmYlln?oc=5",
+   "source": "테크M",
+   "date": "2026-08-21"
+  },
+  {
+   "title": "KB국민은행, ‘KB카드쓰담적금’ 출시 - 이코노뉴스",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fa1prMFpKNjNwNE8wSVBDdHlUYWFyQ0hMRWxnckpBS20zZ1VYX2xmLXZWbm5tNnN6SXVpNzJsNzMyaGN6VUFNeUFrYnYxaVlrRWRWVFVnN3loN0w0amd2b3FnZWxVTmwzeG15LVJibw?oc=5",
+   "source": "이코노뉴스",
+   "date": "2026-08-21"
+  },
+  {
+   "title": "KB국민은행, 최고 연 12.0% 금리 ‘KB카드쓰담적금’ 출시 - 우먼컨슈머",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9TX2lzVWdJbGNIZXRsd3g4cXhuM0RpLWxWQ2VOZk1PeWVfNHhITXpzY2JMRmJnSHdONzZkQXl6T1ljQ1dMNng4bTZ2T1ZWR3ZydTFJb3RKczFPeGVJb1FQVFVxXzNfbWpEdDdiYw?oc=5",
+   "source": "우먼컨슈머",
+   "date": "2026-08-21"
+  },
+  {
+   "title": "KB국민은행, 최고 연 12.0% 'KB카드쓰담적금' 출시",
+   "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694639",
+   "source": "네이버뉴스",
+   "date": "2026-08-21"
+  },
+  {
    "title": "[금융 게시판] KB국민은행, 최고 연 12.0% 'KB카드쓰담적금' 출시…카카오뱅크, 생활 할인 '착붙 신한카드' 선봬 - 라이센스뉴스",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBITEdPcUY2S0M0QkdveExhbnVyaDQ3b2ZWTDVyQlJHNmdpdlY3REptS1NjeW1HNjBRU0phZklFT0FaX0hpc1hWdFFUdFEzb3RkTHZTYms5RE9fRUFFU1MzbF92eW5OTUk0bVNV?oc=5",
    "source": "라이센스뉴스",
@@ -2535,65 +2583,9 @@
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nVjlWVnB5S0VxOWkwaC14VEFTblJOajhkaXFwQXRyTEIyRnhkN0FqSTNGbWVoRFM4V0ZyU01ZOThyTWhEV0tWR0VCbllBNFpIY2RTZktxbk5xMC12UEVPdElCemFuTmpnMWfSAW5BVV95cUxPdEZXZzVZWnJVMURPRG5HZTRlbjh6UmhUVTRIcUI5N0xGaTN6T1FDYWtpRFkxV1Y4VGxMel9kUTRlLS1nQjg5U1h0dWhVN2h1dmlhZmVLT0RqN0dJRTNibkVNQTBudHhQaUJva0loQQ?oc=5",
    "source": "파이낸셜투데이",
    "date": "2026-08-21"
-  },
-  {
-   "title": "KB국민은행, 선착순 10만좌 한정 '연 최고 12.0% 금리 적금' 출시 - 세이프머니",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82UUxheXVzUEhkeUx4UllqQVlKenRfWWlhYnlqc0ZkNGJGNVVQbjRwUEh2Xy1NRExhUjY1cVBDcVNQT3NrUEdLMkdjSU03XzFzbExBdUg0VGtSTlNyZklCMXE1a3VtYTktYW1PY1BB?oc=5",
-   "source": "세이프머니",
-   "date": "2026-08-21"
-  },
-  {
-   "title": "KB국민은행, ‘KB카드쓰담적금’ 출시…최고 연 12% 금리 - 잡포스트",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1yVlpmU2EwMXJDbkdaQVJZQjB3STNkVGxyNm8wRXVFR2hVanAyd0dBUWFOeUQzY1dhV3hzMnFUenlOc0RwSF93ZlNFWE9qcHpIdFFKcjVhanU4S0E2VmZyYjY2bkxEYVlsWjI4Q3Fn0gFyQVVfeXFMUDBYcFhtSU9DRWN4aE1rTTV2M1JYNDBQSUs5SWY1T2twSTg5OGRudm0zS3UwX05zVlBQZTg5WUdlTHByaFNGSHNudjQ5RGtERHM0c1R3Y2xwUXpVdjJhWVAwS0JITWdkaHFfSkVrTE9lLWF3?oc=5",
-   "source": "잡포스트",
-   "date": "2026-08-21"
-  },
-  {
-   "title": "[금융 게시판] KB국민은행, 최고 연 12.0% 'KB카드쓰담적금' 출시…카카...",
-   "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=206931",
-   "source": "네이버뉴스",
-   "date": "2026-08-21"
-  },
-  {
-   "title": "농협상호금융, 파킹통장·적금 출시…최대 2000만원 구간별 금리",
-   "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=238981",
-   "source": "네이버뉴스",
-   "date": "2026-08-21"
-  },
-  {
-   "title": "﻿KB국민은행, '최고 연 12.0%' KB카드쓰담적금 출시",
-   "link": "http://www.newsdream.kr/news/articleView.html?idxno=116693",
-   "source": "네이버뉴스",
-   "date": "2026-08-21"
-  },
-  {
-   "title": "KB국민은행, 최고 연 12% ‘KB카드쓰담적금’ 출시 - 인더스트리뉴스",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE00c3lmNGY4dmk3RmFyWnYwWV9yR21pTnRrRmtIRlNYWHpYVzJQR3cwX1pqcTRUalFxczFWcGNDaVphbFMtc2FleFRmbHpsdjA1eFBhU093Tk9PMFhFMGRLNGdUbV9GX2s3SkxlY1ZxVWwwZw?oc=5",
-   "source": "인더스트리뉴스",
-   "date": "2026-08-21"
-  },
-  {
-   "title": "[은행 & Now] KB국민은행, 최고 연 12% 'KB카드쓰담적금' 출시 등 - ebn.co.kr",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvdzZab002bnloeXVlcGNzWmpFMjJYaVJOaGx0VDFrakJnRThxYVZMQmFUblowSHotNTlnSFRrSDIxdVNWZDJvRVZfcWlLMHlncTE1QVl5QUhQbWhvRVN4aFVJMHZPeXpB?oc=5",
-   "source": "ebn.co.kr",
-   "date": "2026-08-21"
-  },
-  {
-   "title": "금융권 ‘KB카드쓰담적금’ 출시·집중호우 피해 복구 성금 5억원 기부·자원봉사자 키트 전달 - 통신일보",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xTXZQVUlIZ0QzYXVhVHRoeU9jRXlSaEtMQjZ3c05CX2tTVmpsakVEWWd2Z1g5dmZscFdmT1dqNW96UjB1VUh5X2dxVkFSSGdlZVdYOXlQLTNDUzJPb3E1ZjdDVUxPZw?oc=5",
-   "source": "통신일보",
-   "date": "2026-08-21"
   }
  ],
  "news_seen": [
-  "d2d7cab27c2539e5",
-  "4b163a3986eee763",
-  "d9728c72acd073d4",
-  "f411d38958510dc9",
-  "59fd7c4f537e87bf",
-  "d47b5bad2c8fb947",
-  "f5d9d74fbcfdff16",
-  "7431b2d6bd22ea2f",
   "997addf493ae2e2b",
   "be18d2be9bceaeed",
   "553966bd38f65c45",
@@ -3385,7 +3377,15 @@
   "8e00c3835a8769ef",
   "84938d93f9401012",
   "c3eccfd4753ffc93",
-  "1add733d5616acfc"
+  "1add733d5616acfc",
+  "ecc83d6cf1ce0057",
+  "01e9be0064622711",
+  "1a910a382db339fb",
+  "1fab17ef61adefcf",
+  "9a6f9af49cabaf9c",
+  "2cd889d64f2cb20f",
+  "4e00ae849412c8b9",
+  "e31560ade0bd2418"
  ],
  "news_seeded": true,
  "news_products": [
@@ -3424,7 +3424,7 @@
    "norm": "KB카드쓰담적금",
    "rate": 12.0,
    "first_news": "2026-08-21",
-   "count": 91,
+   "count": 97,
    "articles": [
     {
      "title": "KB국민은행, 'KB카드쓰담적금' 출시…최고 금리 연 12% - 연합뉴스",
