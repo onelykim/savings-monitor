@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-22 14:34",
+ "updated_at": "2026-08-22 15:53",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2513,6 +2513,18 @@
  ],
  "news": [
   {
+   "title": "국민은행, 최고 연12% 'KB카드쓰담적금' 출시…카드·저축 연계 - 아시아경제",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhVU1ITFhSUXVBTjh2RjBfc0RBQTVHSVkxVm5xdWVVWHhnYUFZcXlUdzJ2R3ZlbmY0LXFCWTVEdHhuTkR6MGY2b3VoSFhjOXJKMGFaT3FPU29NYWF2RXl6VnRn?oc=5",
+   "source": "아시아경제",
+   "date": "2026-08-21"
+  },
+  {
+   "title": "국민은행, 최고 연 12.0% 금리 ‘KB카드쓰담적금’ 출시 - 데일리한국",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1uSmUwRE14LVZuUWRVMjBxRVJOdUFGTzRpbHVjQTFVSHdSSG5jRFBHRTV2X1RiaWtKR0dvZ1VvR1VnN0JPUVoxOTRrV0Zfbm1HQ3Y5bHRpMlJsT0ZYRThsWDdBck5XRFN5X0NmR3prU3g1SEXSAXNBVV95cUxNbkplMERNeC1WblFkVTIwcUVSTnVBRk80aWx1Y0ExVUh3UkhuY0RQR0U1dl9UYmlrSkdHb2dVb0dVZzdCT1FaMTk0a1dGX25tR0N2OWx0aTJSbE9GWEU4bFg3QXJOV0RTeV9DZkd6a1N4NUhF?oc=5",
+   "source": "데일리한국",
+   "date": "2026-08-21"
+  },
+  {
    "title": "경기농협, 'NH개인파킹통장·파킹모아적금'출시 - 뉴스잡",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jdlotYnEzUGd2ZzluMnQ3aURyVlV4SDJDZV9fSm5YVS1JbHh0bVFCRGJDYXhlSHhwbUtNS1h3VklHQkFpdEtfTC0tYi1CcW5sSHphVmVCSWUtQlJqcVFLVk9FaWFxR01EOXlB0gFrQVVfeXFMTmN2Wi1icTNQZ3ZnOW4ydDdpRHJWVXhIMkNlX19KblhVLUlseHRtUUJEYkNheGVIeHBtS01LWHdWSUdCQWl0S19MLS1iLUJxbmxIemFWZUJJZS1CUmpxUUtWT0VpYXFHTUQ5eUE?oc=5",
    "source": "뉴스잡",
@@ -2571,23 +2583,9 @@
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5sMGRnNXFQandPaFVicU5NM09sYW5fUGdyclNNX0JUOFhYVUl0WGJyNnFYRFdaR185aWdKam5ONmh5OC10Wkh6TTFOX0F4WXYyM1hkRkViSjB3RDRpNXRXRG5mNkt4OWd5bWttdUV0R0tQR1lzYWZRUg?oc=5",
    "source": "네이트",
    "date": "2026-08-21"
-  },
-  {
-   "title": "캐나다 | 한인신협 특판 적금 마감…한국 왕복 항공권 당첨자 발표 - 밴쿠버 중앙일보",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQ3FMdVZOWUNNa1hyVWpranNvalNzWFFGOWlDS19MeUxTazA4VWJPSmRNLVhHSGJLZGNHYTZKWURPRjVuYlk0UTB0Y3k5ZDQxMDNNZnRvc1BwdzhGSkFlVEl0VG9PZVlnNlFETTF2QzR1QnlSdGVvaXdXdVZ1eXN1Q0U2cw?oc=5",
-   "source": "밴쿠버 중앙일보",
-   "date": "2026-08-22"
-  },
-  {
-   "title": "KB국민은행, 최고 연 12% 'KB카드쓰담적금' 출시…10만좌 선착순 판매",
-   "link": "https://www.public25.com/news/articleView.html?idxno=53082",
-   "source": "네이버뉴스",
-   "date": "2026-08-22"
   }
  ],
  "news_seen": [
-  "b6c0f2a4c5129aec",
-  "509c75216cfe5046",
   "b2a65b26206a1ae9",
   "4279784011aa1da8",
   "ea34332d17484204",
@@ -3385,7 +3383,9 @@
   "f9b304af20dada0b",
   "a9579f56e4df1c96",
   "e77df148f4283f03",
-  "7b68a34b2ec524e6"
+  "7b68a34b2ec524e6",
+  "960badbbb1f3c1dc",
+  "93980ada3d798b3c"
  ],
  "news_seeded": true,
  "news_products": [
@@ -3430,7 +3430,7 @@
    "norm": "KB카드쓰담적금",
    "rate": 12.0,
    "first_news": "2026-08-21",
-   "count": 125,
+   "count": 127,
    "articles": [
     {
      "title": "KB국민은행, 'KB카드쓰담적금' 출시…최고 금리 연 12% - 연합뉴스",
