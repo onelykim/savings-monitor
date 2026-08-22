@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-22 20:28",
+ "updated_at": "2026-08-22 22:37",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2513,6 +2513,12 @@
  ],
  "news": [
   {
+   "title": "경기농협, ‘NH개인파킹통장·파킹모아적금’ 출시…여유자금 관리부터 목돈 마련까지 - 중앙뉴스타임스",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHWjI0WGRTWFpza1dfbjJUQzBWYXdFWU8yeFFPdEdpVmFUVjVZYk1FU2JKbGtQcENQbFBTc1pzMFRxR19kQmhMRUNpZWdHSm44TlcxUnFEN3hEVHJ0QnljX2FycUc?oc=5",
+   "source": "중앙뉴스타임스",
+   "date": "2026-08-22"
+  },
+  {
    "title": "국민은행, 최고 연 12.0% 금리 ‘KB카드쓰담적금’ 출시 - 데일리한국",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYVVJmR205M2RGOFZhWlJEb21VdXhOUDhPcUJ6MFctdktPN21MRnllRXhnWjF1S0RoeUpXdUM2SGlNLUJvTmZJNEtTNTdwVUpYRlUwcmpNSFFwV3RqVlZWZFlJV1JzbXJTaG9hQ0paMNIBc0FVX3lxTE1uSmUwRE14LVZuUWRVMjBxRVJOdUFGTzRpbHVjQTFVSHdSSG5jRFBHRTV2X1RiaWtKR0dvZ1VvR1VnN0JPUVoxOTRrV0Zfbm1HQ3Y5bHRpMlJsT0ZYRThsWDdBck5XRFN5X0NmR3prU3g1SEU?oc=5",
    "source": "데일리한국",
@@ -2577,16 +2583,9 @@
    "link": "https://www.thepublic.kr/news/articleView.html?idxno=315805",
    "source": "네이버뉴스",
    "date": "2026-08-22"
-  },
-  {
-   "title": "KB국민은행, 최고 연 12% ‘KB카드쓰담적금’ 출시 - 이뉴스투데이",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9tcGxIM2Nyd2twbldJbE1TeHdTanFvcGVUdmxFWmdMUTgzUDVYdG5ubGFEM2dJemNkd0c0QzNBbnhFc19SbktRbURIQUxQVzhzQzJ4Z00tLWdVMUxHejhvei1RY0lsSkdfd3Y3REcxcmw1NlZK0gF0QVVfeXFMT21wbEgzY3J3a3BuV0lsTVN4d1NqcW9wZVR2bEVaZ0xRODNQNVh0bm5sYUQzZ0l6Y2R3RzRDM0FueEVzX1JuS1FtREhBTFBXOHNDMnhnTS0tZ1UxTEd6OG96LVFjSWxKR193djdERzFybDU2Vko?oc=5",
-   "source": "이뉴스투데이",
-   "date": "2026-08-21"
   }
  ],
  "news_seen": [
-  "4279784011aa1da8",
   "ea34332d17484204",
   "ba9e795b6ad0eab1",
   "0bc29b0c9b71752e",
@@ -3385,7 +3384,8 @@
   "7b68a34b2ec524e6",
   "960badbbb1f3c1dc",
   "93980ada3d798b3c",
-  "abeabff5f2b3fa5d"
+  "abeabff5f2b3fa5d",
+  "2020f0c09b3fa3a5"
  ],
  "news_seeded": true,
  "news_products": [
