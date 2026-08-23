@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-24 07:30",
+ "updated_at": "2026-08-24 08:28",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2513,6 +2513,18 @@
  ],
  "news": [
   {
+   "title": "\"적금 찾는 분들 주목\"…'최고 연 12%' 적금 출시 - news.sbs.co.kr",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNLVByZmFSNjhFOW51VjJ1WTJaMEtpdnd6bHpBZGlYMGFnNmF0cTE5NUxBTDhHTVZZOWwtUHR1Ym16bDJ1THREZ2N6UmdFczF0SU9QS1JudGRRYU5IT19IRDJkdkJ2RlNHZDJpZzIzWmV4Y0ZXb1dpTnZCQjdhMUI1V21MTm1kUdIBZkFVX3lxTFBXN2JSZ0huSzl2aW1fMHhDVGpmUm5TTnY1aW0tN3Iyel9OdWZMbTZnNUcwcFMwYjJVRmo2dGRTZEZSVDJpZU5mREUyaXNESWxFOHFzNFdMT3lNYUxTMVZlOUZoX01yUQ?oc=5",
+   "source": "news.sbs.co.kr",
+   "date": "2026-08-24"
+  },
+  {
+   "title": "\"적금 찾는 분들 주목\"…'최고 연 12%' 적금 출시",
+   "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008717798&plink=ORI&cooper=NAVER",
+   "source": "네이버뉴스",
+   "date": "2026-08-24"
+  },
+  {
    "title": "경기농협, 'NH개인파킹통장.파킹모아적금' 출시 - 경기신문",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JYVM3Tl84YUVSc2VXM05UUlRQUHVVVzROaEVtOGRxUjk1aGlKNjAzR1o2OG0yN2Z3OUdqQ1JVZHVodmZDOEV0ZUkzZVRoZklweHlLbjZxcW9XcDZMMmZWZXl3?oc=5",
    "source": "경기신문",
@@ -2571,23 +2583,9 @@
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9fd041Zm42U2stU0R1SVV5ZVExeUxIa2NRUWVPdFM4MHpGdTFfTjJ4RFc4NjhhVUktY3lVTmpEcGItZ0tybXU4YTNsb0VMOVB3WGRjc2J1LUttMVkxZGFJUlR3WUc?oc=5",
    "source": "경기신문",
    "date": "2026-08-23"
-  },
-  {
-   "title": "금융권 ‘KB카드쓰담적금’ 출시·집중호우 피해 복구 성금 5억원 기부·자원봉사자 키트 전달 - 통신일보",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1EVVFuejdJMlNZaEFYZDFoaWQ2T1RGSE5XcUlsVTRsZkFoWWk2N05JWk1aRmRfRDZHSEo0TXBubXZuZE8yR193T1BYMnBFdS1ES3dkTGlyZVk1TXJURTRiTnRkRQ?oc=5",
-   "source": "통신일보",
-   "date": "2026-08-21"
-  },
-  {
-   "title": "경기농협, 'NH개인파킹통장.파킹모아적금' 출시 - 경기신문",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZNUx2WWlhZG05SDdDd3IyajJ4RzJSbDlqYnNtRjNDamdpYWxzME9mT0pvdTdLRlpOcm1iNVNMQmZjRFBCZ3VsZlNwWnljYUdLVjlaTmsxS3dCYVl2bmo0aw?oc=5",
-   "source": "경기신문",
-   "date": "2026-08-23"
   }
  ],
  "news_seen": [
-  "1cf94cd737a5b1fb",
-  "506b7367175178fb",
   "c5e53017a4693c58",
   "d62e1116ce2dc097",
   "56ec7d767def4a89",
@@ -3385,7 +3383,9 @@
   "f961be71c5e5f7e4",
   "e485a77d806f653f",
   "5b9fc09c62dca50c",
-  "a1b61154b6959b8e"
+  "a1b61154b6959b8e",
+  "8c13f506bb8b6d59",
+  "0884b60f9b62e5bf"
  ],
  "news_seeded": true,
  "news_products": [
