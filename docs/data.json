@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-23 21:55",
+ "updated_at": "2026-08-23 22:38",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2514,6 +2514,12 @@
  "news": [
   {
    "title": "국민은행, ‘KB카드쓰담적금’ 출시…최고 연 12.0% 금리 - 비즈월드",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxRThoX0pXWV84TjZWVkt3bzN1clJaNjdva096RFA5c3JUY3hvaDVEblNfclJXVmtGZDlqanBpMGcybjJlVXFOckVkZjAtSVpsRXhjcG1McERVR0QxaHh3RWRQbnpSRkFtLTNn?oc=5",
+   "source": "비즈월드",
+   "date": "2026-08-23"
+  },
+  {
+   "title": "국민은행, ‘KB카드쓰담적금’ 출시…최고 연 12.0% 금리 - 비즈월드",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXaGxBdEk5b055QnhtMG15NjM0UkJOX3phaFJhZUFzWE9mY19xY1pGbEJwdW53Z3oxTXZXQ0IwUFdxVDM2Sk1uQnBjQk52dWxHOWdPU2RUQTVxUjZ5dTFUblNMYXB0R2JCVlE?oc=5",
    "source": "비즈월드",
    "date": "2026-08-23"
@@ -2577,16 +2583,9 @@
    "link": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3032289",
    "source": "네이버뉴스",
    "date": "2026-08-23"
-  },
-  {
-   "title": "“티끌 모아 티끌 소중함 아시겠죠?”…‘최고 연13.5%’ 고금리 적금 잇따라 출시 [알쓸금잡] - 매일경제",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVVjFuczlMUFk2dURzeE5xcjV1NThjTmM4VDU4QTRYbmVxZEdXVmhoeVRSTTBjZk4tYlloU0paR2dUaWVRemVVZkpiWnBzNFdlWldBMA?oc=5",
-   "source": "매일경제",
-   "date": "2026-08-23"
   }
  ],
  "news_seen": [
-  "48d557b97c8b6659",
   "e35a93371778a199",
   "d61b420d762954d6",
   "0fc019a7aed86db6",
@@ -3385,7 +3384,8 @@
   "f7ea0a29403fb113",
   "3905c843d252a0b5",
   "210feca78c795d38",
-  "6d744be42d2004a3"
+  "6d744be42d2004a3",
+  "806bbc0b43516957"
  ],
  "news_seeded": true,
  "news_products": [
@@ -3430,7 +3430,7 @@
    "norm": "KB카드쓰담적금",
    "rate": 12.0,
    "first_news": "2026-08-21",
-   "count": 137,
+   "count": 138,
    "articles": [
     {
      "title": "KB국민은행, 'KB카드쓰담적금' 출시…최고 금리 연 12% - 연합뉴스",
