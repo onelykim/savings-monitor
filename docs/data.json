@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-23 18:35",
+ "updated_at": "2026-08-23 19:32",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2513,6 +2513,18 @@
  ],
  "news": [
   {
+   "title": "경기농협, ‘NH개인파킹통장·파킹모아적금’ 출시 - 서울일보",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XblU4XzNrbVA3Xy1rNjVCcVIzUnpHbHlfM0htR3JUaFdrZjlKWnQ2Y2RsakhmcnktWFR5d1ZhMHNzV3c1Uk5KMGp1eTd4UFBHSFJ3aFFjbF9BQkd5dGhXY1pGSjlNdXNZQ3ZpbWtEWdIBb0FVX3lxTE9XblU4XzNrbVA3Xy1rNjVCcVIzUnpHbHlfM0htR3JUaFdrZjlKWnQ2Y2RsakhmcnktWFR5d1ZhMHNzV3c1Uk5KMGp1eTd4UFBHSFJ3aFFjbF9BQkd5dGhXY1pGSjlNdXNZQ3ZpbWtEWQ?oc=5",
+   "source": "서울일보",
+   "date": "2026-08-23"
+  },
+  {
+   "title": "경기농협, 'NH개인파킹통장.파킹모아적금' 출시 - 경기신문",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9fd041Zm42U2stU0R1SVV5ZVExeUxIa2NRUWVPdFM4MHpGdTFfTjJ4RFc4NjhhVUktY3lVTmpEcGItZ0tybXU4YTNsb0VMOVB3WGRjc2J1LUttMVkxZGFJUlR3WUc?oc=5",
+   "source": "경기신문",
+   "date": "2026-08-23"
+  },
+  {
    "title": "금융권 ‘KB카드쓰담적금’ 출시·집중호우 피해 복구 성금 5억원 기부·자원봉사자 키트 전달 - 통신일보",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1EVVFuejdJMlNZaEFYZDFoaWQ2T1RGSE5XcUlsVTRsZkFoWWk2N05JWk1aRmRfRDZHSEo0TXBubXZuZE8yR193T1BYMnBFdS1ES3dkTGlyZVk1TXJURTRiTnRkRQ?oc=5",
    "source": "통신일보",
@@ -2571,23 +2583,9 @@
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1iQmx4UXFnaWNzQXAxNERkV1o0UUFqWTZCRGRfMDZEZFdET0h6cXNQX3ZrYk9VVFVZemZ5SV9TeWRtdEliZVFVczlLNHBEZU9FVmNsOHNxRnNCMTE0dlZ6T3J6Mk9leGhZVnQtVk5rVEw0elk?oc=5",
    "source": "한국경제TV",
    "date": "2026-08-21"
-  },
-  {
-   "title": "KB국민은행, 'KB카드쓰담적금' 출시…최고 금리 연 12% - 파이낸셜뉴스",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mWEQ3ZGlOSnhUQ21iVG9rak9CZ29OYVM1V0U5ZjlIellDS05ael9JVXBxMDVHVEJvTzNBNEwtMFRuRGdKSVJ1MERmY3dNcnltZlMwVXlNd2tZZw?oc=5",
-   "source": "파이낸셜뉴스",
-   "date": "2026-08-21"
-  },
-  {
-   "title": "캐나다 | 한인신협 특판 적금 마감…한국 왕복 항공권 당첨자 발표 - 밴쿠버 중앙일보",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWFdUYk0wTTZBU0xOY2lnYk1rM1Y0cGtXdkx4UTRjU0lCU3FnSmtkRUo1Y0hrbjhYa25mRnNwZm5SemtfWHR3Sm05dTBpUnk5TUhpYV9HYkpNTkRJdTNCQmFNS2g5TG9YVmpVVWZWMTJaUHljR3BmNVpMY3lNMUZaRVJPUDFlNldiXzVjMWNTdUUxSTFUM0dFV0laUWZ1RFk?oc=5",
-   "source": "밴쿠버 중앙일보",
-   "date": "2026-08-22"
   }
  ],
  "news_seen": [
-  "642888a9700fc75b",
-  "5af21cec8e0c74ff",
   "8c1edaca33301d60",
   "d8ed58f1481d0345",
   "15781cd608fa17d7",
@@ -3385,7 +3383,9 @@
   "63218ab0f3baf698",
   "8fdd6e9e91424810",
   "be8f873082c93471",
-  "221b2b0ef4708180"
+  "221b2b0ef4708180",
+  "68836ec6a89d77e0",
+  "f7ea0a29403fb113"
  ],
  "news_seeded": true,
  "news_products": [
