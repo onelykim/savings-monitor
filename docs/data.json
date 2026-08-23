@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-23 14:36",
+ "updated_at": "2026-08-23 15:54",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2513,6 +2513,18 @@
  ],
  "news": [
   {
+   "title": "경기농협, 'NH개인파킹통장.파킹모아적금' 출시 - 경기신문",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZNUx2WWlhZG05SDdDd3IyajJ4RzJSbDlqYnNtRjNDamdpYWxzME9mT0pvdTdLRlpOcm1iNVNMQmZjRFBCZ3VsZlNwWnljYUdLVjlaTmsxS3dCYVl2bmo0aw?oc=5",
+   "source": "경기신문",
+   "date": "2026-08-23"
+  },
+  {
+   "title": "경기농협, 'NH개인파킹통장.파킹모아적금' 출시",
+   "link": "https://www.kgnews.co.kr/news/article.html?no=908637",
+   "source": "네이버뉴스",
+   "date": "2026-08-23"
+  },
+  {
    "title": "경기농협 ‘NH개인파킹통장·파킹모아적금’ 출시 - 산경일보",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TbHZnZ2lreTI2TGRnR2RmNFpmRGlXODBDX1UwSnZKYVZWbzVxR19HMHl1ZFZaTlJuX0dKX2xDNFFMMzFwdzh1SUtCWnJwMk8xZ3hBcVlpbHhMZ0FCc2NmZnh6LTFaSnR2UDNDaVUweUE?oc=5",
    "source": "산경일보",
@@ -2571,23 +2583,9 @@
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tNURNcjVWLVVSTHNyaW5SR3JUNlFQVmJZNjI3NzB2TkdsOXZGWEp0WENiZ2ZVZlQ5MDN2REpfOE0zZU9NZWN2NTRpa285OWtOZFoxVkdueFFUUVlqOEg4RXhXcHduUk1u0gFoQVVfeXFMTW01RE1yNVYtVVJMc3JpblJHclQ2UVBWYlk2Mjc3MHZOR2w5dkZYSnRYQ2JnZlVmVDkwM3ZESl84TTNlT01lY3Y1NGlrbzk5a05kWjFWR254UVRRWWo4SDhFeFdwd25STW4?oc=5",
    "source": "글로벌 비즈 뉴스",
    "date": "2026-08-21"
-  },
-  {
-   "title": "경기농협, ‘NH개인파킹통장·파킹모아적금’ 출시…여유자금 관리부터 목돈 마련까지 - 중앙뉴스타임스",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHWjI0WGRTWFpza1dfbjJUQzBWYXdFWU8yeFFPdEdpVmFUVjVZYk1FU2JKbGtQcENQbFBTc1pzMFRxR19kQmhMRUNpZWdHSm44TlcxUnFEN3hEVHJ0QnljX2FycUc?oc=5",
-   "source": "중앙뉴스타임스",
-   "date": "2026-08-22"
-  },
-  {
-   "title": "국민은행, 최고 연 12.0% 금리 ‘KB카드쓰담적금’ 출시 - 데일리한국",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYVVJmR205M2RGOFZhWlJEb21VdXhOUDhPcUJ6MFctdktPN21MRnllRXhnWjF1S0RoeUpXdUM2SGlNLUJvTmZJNEtTNTdwVUpYRlUwcmpNSFFwV3RqVlZWZFlJV1JzbXJTaG9hQ0paMNIBc0FVX3lxTE1uSmUwRE14LVZuUWRVMjBxRVJOdUFGTzRpbHVjQTFVSHdSSG5jRFBHRTV2X1RiaWtKR0dvZ1VvR1VnN0JPUVoxOTRrV0Zfbm1HQ3Y5bHRpMlJsT0ZYRThsWDdBck5XRFN5X0NmR3prU3g1SEU?oc=5",
-   "source": "데일리한국",
-   "date": "2026-08-21"
   }
  ],
  "news_seen": [
-  "83450a4fd096a1c1",
-  "c6f63c91c9d01599",
   "964e7168fcba7ad3",
   "642888a9700fc75b",
   "5af21cec8e0c74ff",
@@ -3385,7 +3383,9 @@
   "d08571ac776d4877",
   "d13bfbd38c69e561",
   "3d26b70b4f7d278a",
-  "63218ab0f3baf698"
+  "63218ab0f3baf698",
+  "8fdd6e9e91424810",
+  "be8f873082c93471"
  ],
  "news_seeded": true,
  "news_products": [
