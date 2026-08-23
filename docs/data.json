@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-24 06:29",
+ "updated_at": "2026-08-24 07:30",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2513,6 +2513,12 @@
  ],
  "news": [
   {
+   "title": "경기농협, 'NH개인파킹통장.파킹모아적금' 출시 - 경기신문",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JYVM3Tl84YUVSc2VXM05UUlRQUHVVVzROaEVtOGRxUjk1aGlKNjAzR1o2OG0yN2Z3OUdqQ1JVZHVodmZDOEV0ZUkzZVRoZklweHlLbjZxcW9XcDZMMmZWZXl3?oc=5",
+   "source": "경기신문",
+   "date": "2026-08-23"
+  },
+  {
    "title": "은행들 \"신규 고객 잡아라\"… 최고 年 12% 적금도 선보여 - 조선일보",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSmwwZFlMOTdadVFtWWllSDZkVXEwT0hmRFlWV2E2ZnhBejFnZlVkYnJ5Ym9JTnMyOUh3LXZONmI2X0VyMGdsLWJaUmNKZ1BpMkdLcURMMUF1ZWJnWDNoMDVfbHh6QUwyMzJDLV93LWI3M2k2dXdEUjFLbl85V3NTQkJMWFQ5TEpWdzBz?oc=5",
    "source": "조선일보",
@@ -2577,16 +2583,9 @@
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZNUx2WWlhZG05SDdDd3IyajJ4RzJSbDlqYnNtRjNDamdpYWxzME9mT0pvdTdLRlpOcm1iNVNMQmZjRFBCZ3VsZlNwWnljYUdLVjlaTmsxS3dCYVl2bmo0aw?oc=5",
    "source": "경기신문",
    "date": "2026-08-23"
-  },
-  {
-   "title": "경기농협, 'NH개인파킹통장.파킹모아적금' 출시",
-   "link": "https://www.kgnews.co.kr/news/article.html?no=908637",
-   "source": "네이버뉴스",
-   "date": "2026-08-23"
   }
  ],
  "news_seen": [
-  "a533a48d0574479e",
   "1cf94cd737a5b1fb",
   "506b7367175178fb",
   "c5e53017a4693c58",
@@ -3385,7 +3384,8 @@
   "806bbc0b43516957",
   "f961be71c5e5f7e4",
   "e485a77d806f653f",
-  "5b9fc09c62dca50c"
+  "5b9fc09c62dca50c",
+  "a1b61154b6959b8e"
  ],
  "news_seeded": true,
  "news_products": [
