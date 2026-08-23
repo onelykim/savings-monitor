@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-24 00:30",
+ "updated_at": "2026-08-24 01:34",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2513,6 +2513,18 @@
  ],
  "news": [
   {
+   "title": "은행들 \"신규 고객 잡아라\"… 최고 年 12% 적금도 선보여 - 조선일보",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSmwwZFlMOTdadVFtWWllSDZkVXEwT0hmRFlWV2E2ZnhBejFnZlVkYnJ5Ym9JTnMyOUh3LXZONmI2X0VyMGdsLWJaUmNKZ1BpMkdLcURMMUF1ZWJnWDNoMDVfbHh6QUwyMzJDLV93LWI3M2k2dXdEUjFLbl85V3NTQkJMWFQ5TEpWdzBz?oc=5",
+   "source": "조선일보",
+   "date": "2026-08-24"
+  },
+  {
+   "title": "은행들 “신규 고객 잡아라”… 최고 年 12% 적금도 선보여",
+   "link": "https://www.chosun.com/economy/stock-finance/2026/08/24/BC2VG5R3V5CEZEZMWPRLN7Y7WQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+   "source": "네이버뉴스",
+   "date": "2026-08-24"
+  },
+  {
    "title": "경기농협, ‘NH개인파킹통장·파킹모아적금’ 출시 - v.daum.net",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8tTkhHVWhMbzBPWi1rOG1KQnZHQmliZVNnZDE2Rlp4dnFKTzU5blRKdXZFeFg0RmNxS2RuN3JxVzl2QU1GVHkxdENtWUdlWTlqaEh5Rg?oc=5",
    "source": "v.daum.net",
@@ -2571,23 +2583,9 @@
    "link": "https://www.kgnews.co.kr/news/article.html?no=908637",
    "source": "네이버뉴스",
    "date": "2026-08-23"
-  },
-  {
-   "title": "경기농협 ‘NH개인파킹통장·파킹모아적금’ 출시 - 산경일보",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TbHZnZ2lreTI2TGRnR2RmNFpmRGlXODBDX1UwSnZKYVZWbzVxR19HMHl1ZFZaTlJuX0dKX2xDNFFMMzFwdzh1SUtCWnJwMk8xZ3hBcVlpbHhMZ0FCc2NmZnh6LTFaSnR2UDNDaVUweUE?oc=5",
-   "source": "산경일보",
-   "date": "2026-08-23"
-  },
-  {
-   "title": "경기농협, ‘NH개인파킹통장·파킹모아적금’ 출시 - v.daum.net",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1TSXQtNXhYT3BiYW9BcmxZaXhwU1g1SFozWGxQZmtCRXY1RG9kTnNxMlI2ak41N3A1RFhBbUlBcnpzT3RlYV96dDhqOHRsa0k?oc=5",
-   "source": "v.daum.net",
-   "date": "2026-08-23"
   }
  ],
  "news_seen": [
-  "d61b420d762954d6",
-  "0fc019a7aed86db6",
   "a533a48d0574479e",
   "1cf94cd737a5b1fb",
   "506b7367175178fb",
@@ -3385,7 +3383,9 @@
   "210feca78c795d38",
   "6d744be42d2004a3",
   "806bbc0b43516957",
-  "f961be71c5e5f7e4"
+  "f961be71c5e5f7e4",
+  "e485a77d806f653f",
+  "5b9fc09c62dca50c"
  ],
  "news_seeded": true,
  "news_products": [
