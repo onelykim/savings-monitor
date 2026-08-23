@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-23 13:46",
+ "updated_at": "2026-08-23 14:36",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2513,6 +2513,12 @@
  ],
  "news": [
   {
+   "title": "경기농협 ‘NH개인파킹통장·파킹모아적금’ 출시 - 산경일보",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TbHZnZ2lreTI2TGRnR2RmNFpmRGlXODBDX1UwSnZKYVZWbzVxR19HMHl1ZFZaTlJuX0dKX2xDNFFMMzFwdzh1SUtCWnJwMk8xZ3hBcVlpbHhMZ0FCc2NmZnh6LTFaSnR2UDNDaVUweUE?oc=5",
+   "source": "산경일보",
+   "date": "2026-08-23"
+  },
+  {
    "title": "경기농협, ‘NH개인파킹통장·파킹모아적금’ 출시 - v.daum.net",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1TSXQtNXhYT3BiYW9BcmxZaXhwU1g1SFozWGxQZmtCRXY1RG9kTnNxMlI2ak41N3A1RFhBbUlBcnpzT3RlYV96dDhqOHRsa0k?oc=5",
    "source": "v.daum.net",
@@ -2577,16 +2583,9 @@
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYVVJmR205M2RGOFZhWlJEb21VdXhOUDhPcUJ6MFctdktPN21MRnllRXhnWjF1S0RoeUpXdUM2SGlNLUJvTmZJNEtTNTdwVUpYRlUwcmpNSFFwV3RqVlZWZFlJV1JzbXJTaG9hQ0paMNIBc0FVX3lxTE1uSmUwRE14LVZuUWRVMjBxRVJOdUFGTzRpbHVjQTFVSHdSSG5jRFBHRTV2X1RiaWtKR0dvZ1VvR1VnN0JPUVoxOTRrV0Zfbm1HQ3Y5bHRpMlJsT0ZYRThsWDdBck5XRFN5X0NmR3prU3g1SEU?oc=5",
    "source": "데일리한국",
    "date": "2026-08-21"
-  },
-  {
-   "title": "국민은행, 최고 연12% 'KB카드쓰담적금' 출시…카드·저축 연계 - 아시아경제",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhVU1ITFhSUXVBTjh2RjBfc0RBQTVHSVkxVm5xdWVVWHhnYUFZcXlUdzJ2R3ZlbmY0LXFCWTVEdHhuTkR6MGY2b3VoSFhjOXJKMGFaT3FPU29NYWF2RXl6VnRn?oc=5",
-   "source": "아시아경제",
-   "date": "2026-08-21"
   }
  ],
  "news_seen": [
-  "8dd322677cd0765a",
   "83450a4fd096a1c1",
   "c6f63c91c9d01599",
   "964e7168fcba7ad3",
@@ -3385,7 +3384,8 @@
   "d2054cc199adce13",
   "d08571ac776d4877",
   "d13bfbd38c69e561",
-  "3d26b70b4f7d278a"
+  "3d26b70b4f7d278a",
+  "63218ab0f3baf698"
  ],
  "news_seeded": true,
  "news_products": [
