@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-26 00:52",
+ "updated_at": "2026-08-26 01:48",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2513,6 +2513,12 @@
  ],
  "news": [
   {
+   "title": "[카드] KB국민카드, 카드 실적 연계 'KB카드쓰담적금' 출시 - 네이트",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFbWUyd2ZVV0xkZlJTUW5tYktmU0VBYmpsZ0NBWDNWTFR4ajBIOWtfaGFLRkpmMWtWYXNmajFfamVxajc1SE1ldXBYYkVtTHdtczJ3?oc=5",
+   "source": "네이트",
+   "date": "2026-08-24"
+  },
+  {
    "title": "농협상호금융 ‘개인파킹통장·파킹모아적금’ 출시 - 농민신문",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45SjZnWWhYRTVsbjhTR2lWc2taajBwOW0zakQyeGVKYXBXR3pCV2MyS0FmejB1TGJEYWp2Qzk2aFdJdGlaQ0NZT3dVZVhJNmZTV1pzN1Z0b1dNUQ?oc=5",
    "source": "농민신문",
@@ -2577,16 +2583,9 @@
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIUzkxMHNPOWgwcGQyLUZiWGZJMTFHaTV6Tk1QSFR5TWhtbWZOU2swSmV5YWhZaHZlOVdJcmdmZUFrZkg4bmdySHM5UFRHQ0VSU1RPbXdxOHYxUHNTUUVhb2RWWXVnMkpMd1FLTHNDTVdWUXRsNnfSAWZBVV95cUxQSG8zNlhzc3pwajM3UGhUbHV6cVhHUUdPNzNUZkNuYnZ0bFZaMU1LR0lZMjhaOUVjWmJweGRYRXJuZHNMNkFLR1ZjelV3SjBiUzBaMHhZSmpIeTAzRm9vMTFZYnNaaVE?oc=5",
    "source": "동아일보",
    "date": "2026-08-25"
-  },
-  {
-   "title": "하나은행, CJ올리브네트웍스와 맞손…‘최고 연 5%’ 적금상품 출시",
-   "link": "https://www.donga.com/news/Economy/article/all/20260825/134539029/1",
-   "source": "네이버뉴스",
-   "date": "2026-08-25"
   }
  ],
  "news_seen": [
-  "a6d41c342ef42865",
   "1f13b92a3aa5e6c5",
   "3a6e2502101e3b89",
   "9de359b007689b08",
@@ -3385,7 +3384,8 @@
   "e1292f77c22365ee",
   "2440d28f23c7d393",
   "473128caa49e1614",
-  "d6c2bcb6aed37cd3"
+  "d6c2bcb6aed37cd3",
+  "dfad7989672d331b"
  ],
  "news_seeded": true,
  "news_products": [
@@ -3534,7 +3534,7 @@
    "norm": "KB카드쓰담적금",
    "rate": 12.0,
    "first_news": "2026-08-21",
-   "count": 223,
+   "count": 224,
    "articles": [
     {
      "title": "KB국민은행, 'KB카드쓰담적금' 출시…최고 금리 연 12% - 연합뉴스",
