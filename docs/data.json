@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-25 19:40",
+ "updated_at": "2026-08-25 20:35",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2513,6 +2513,12 @@
  ],
  "news": [
   {
+   "title": "KB국민카드-KB국민은행, 최고 연 12.0% 'KB카드쓰담적금' 협업 출시 - livesnews.com",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Tbm5BdEdfdkFWVWNoelptZHU0U3FTdFNhb3l0ZFBuVEJqcG1fR1NvbVptUUE5NmRrOE5LdDd2YThEYzdjWE1EeE5KTjB6Z3BYdDZnbVJEdjVGbmtQRjRBa0pn?oc=5",
+   "source": "livesnews.com",
+   "date": "2026-08-24"
+  },
+  {
    "title": "[카드] KB국민카드, 카드 실적 연계 'KB카드쓰담적금' 출시 - 프라임경제",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HQUVwZzBVQU5hZmxOb1VRMUVHdWlJSmRTaGdmcWIzdjl0a3hBdlc0cXJ4YWdFbXhxb2M1WWV3OWk2Y3ZueGlDZjdmWUIxQndmM3dWTXhkMHRpSUNmV3pvRGpVXzRjZw?oc=5",
    "source": "프라임경제",
@@ -2577,16 +2583,9 @@
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42b21OUkNwZVRtX3hTbGJKOGRPb3l5Qlo2V05Nc01aVHBLaGdoRXQ3djlKcGJYR0ZNVHZQZGx5OWxXd3lyZkFPd0h3Vy1QRDVJWkZj?oc=5",
    "source": "데일리안",
    "date": "2026-08-25"
-  },
-  {
-   "title": "KB국민카드, 기업카드 발급 간소화…은행 협업 적금 출시",
-   "link": "https://sateconomy.co.kr/news/view/1065587578466569",
-   "source": "네이버뉴스",
-   "date": "2026-08-25"
   }
  ],
  "news_seen": [
-  "a6ab391f50f34a2c",
   "5b3ec297359206e3",
   "a6d41c342ef42865",
   "1f13b92a3aa5e6c5",
@@ -3385,7 +3384,8 @@
   "e360ef91131035b1",
   "b4e185347fc0949c",
   "e1292f77c22365ee",
-  "2440d28f23c7d393"
+  "2440d28f23c7d393",
+  "473128caa49e1614"
  ],
  "news_seeded": true,
  "news_products": [
@@ -3534,7 +3534,7 @@
    "norm": "KB카드쓰담적금",
    "rate": 12.0,
    "first_news": "2026-08-21",
-   "count": 222,
+   "count": 223,
    "articles": [
     {
      "title": "KB국민은행, 'KB카드쓰담적금' 출시…최고 금리 연 12% - 연합뉴스",
