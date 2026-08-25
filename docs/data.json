@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-25 18:44",
+ "updated_at": "2026-08-25 19:40",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2513,6 +2513,12 @@
  ],
  "news": [
   {
+   "title": "[카드] KB국민카드, 카드 실적 연계 'KB카드쓰담적금' 출시 - 프라임경제",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HQUVwZzBVQU5hZmxOb1VRMUVHdWlJSmRTaGdmcWIzdjl0a3hBdlc0cXJ4YWdFbXhxb2M1WWV3OWk2Y3ZueGlDZjdmWUIxQndmM3dWTXhkMHRpSUNmV3pvRGpVXzRjZw?oc=5",
+   "source": "프라임경제",
+   "date": "2026-08-24"
+  },
+  {
    "title": "iM뱅크(아이엠뱅크), ‘전라권 지점 개점 기념’ 더쿠폰 예·적금 특판 상품 판매 - 잡포스트",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9XV0FuYk53NjZfQmFmWDhHY3pHQVBDeXhERG9jU2EtNDBxcWhrVXh2cTFieFFvQVZrREt2ZDhaM1o5OGxGbWUtekdUY3Z2X0hPMVc0UzhjRE9aVVFrMWZQQkRIM1JpNGZGTU1LVVdGUUtCZ9IBckFVX3lxTE9XV0FuYk53NjZfQmFmWDhHY3pHQVBDeXhERG9jU2EtNDBxcWhrVXh2cTFieFFvQVZrREt2ZDhaM1o5OGxGbWUtekdUY3Z2X0hPMVc0UzhjRE9aVVFrMWZQQkRIM1JpNGZGTU1LVVdGUUtCZw?oc=5",
    "source": "잡포스트",
@@ -2577,16 +2583,9 @@
    "link": "https://sateconomy.co.kr/news/view/1065587578466569",
    "source": "네이버뉴스",
    "date": "2026-08-25"
-  },
-  {
-   "title": "KB국민카드·국민은행, 최고 연 12% '카드쓰담적금' 출시 - 네이트",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVZkYxUG1RSlRUSVFPUkpfT1hLeExINm1aT3FPUURwcDNSTER0Wk42TVFieDhyVnVXdHAyNWw1c1hmeENsTUhsMkk4ZkRwRnhpX1NGcVpVQ0U1M3Znd09uSw?oc=5",
-   "source": "네이트",
-   "date": "2026-08-24"
   }
  ],
  "news_seen": [
-  "4fd5777955da8482",
   "a6ab391f50f34a2c",
   "5b3ec297359206e3",
   "a6d41c342ef42865",
@@ -3385,7 +3384,8 @@
   "51eb2669945f9a23",
   "e360ef91131035b1",
   "b4e185347fc0949c",
-  "e1292f77c22365ee"
+  "e1292f77c22365ee",
+  "2440d28f23c7d393"
  ],
  "news_seeded": true,
  "news_products": [
@@ -3534,7 +3534,7 @@
    "norm": "KB카드쓰담적금",
    "rate": 12.0,
    "first_news": "2026-08-21",
-   "count": 221,
+   "count": 222,
    "articles": [
     {
      "title": "KB국민은행, 'KB카드쓰담적금' 출시…최고 금리 연 12% - 연합뉴스",
