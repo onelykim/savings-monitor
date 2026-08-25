@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-25 14:38",
+ "updated_at": "2026-08-25 16:00",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2513,6 +2513,24 @@
  ],
  "news": [
   {
+   "title": "하나은행, CJ올리브네트웍스와 맞손…'최고 5%' 적금 출시 - 파이낸셜뉴스",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42UkE1SUJLQ3pHVXgxVjRFcDAtcmRSTTMyU2huR3F5b1VCREh3WmEwdldKUzlUcVFMSW5naW9TLUNncWc3SzJGUU1oeVBQbVd1SUxNMXUyRmk3dw?oc=5",
+   "source": "파이낸셜뉴스",
+   "date": "2026-08-25"
+  },
+  {
+   "title": "하나은행, CJ올리브네트웍스와 맞손…'최고 5%' 적금 출시",
+   "link": "https://www.fnnews.com/news/202608251522299632",
+   "source": "네이버뉴스",
+   "date": "2026-08-25"
+  },
+  {
+   "title": "하나銀·CJ올리브네트웍스, 최고 연 5% CJ ONE 내맘적금 출시",
+   "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065593695247720",
+   "source": "네이버뉴스",
+   "date": "2026-08-25"
+  },
+  {
    "title": "하나은행, CJ올리브네트웍스와 맞손…‘최고 연 5%’ 적금상품 출시 - 동아일보",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIUzkxMHNPOWgwcGQyLUZiWGZJMTFHaTV6Tk1QSFR5TWhtbWZOU2swSmV5YWhZaHZlOVdJcmdmZUFrZkg4bmdySHM5UFRHQ0VSU1RPbXdxOHYxUHNTUUVhb2RWWXVnMkpMd1FLTHNDTVdWUXRsNnfSAWZBVV95cUxQSG8zNlhzc3pwajM3UGhUbHV6cVhHUUdPNzNUZkNuYnZ0bFZaMU1LR0lZMjhaOUVjWmJweGRYRXJuZHNMNkFLR1ZjelV3SjBiUzBaMHhZSmpIeTAzRm9vMTFZYnNaaVE?oc=5",
    "source": "동아일보",
@@ -2565,30 +2583,9 @@
    "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=86035",
    "source": "네이버뉴스",
    "date": "2026-08-25"
-  },
-  {
-   "title": "[통장잔GO] \"최고 연 12%\"…고금리 특판 적금 경쟁 후끈",
-   "link": "https://www.dailian.co.kr/news/view/1681892/?sc=Naver",
-   "source": "네이버뉴스",
-   "date": "2026-08-25"
-  },
-  {
-   "title": "전라권 뚫은 iM뱅크, 예·적금 특판 승부수",
-   "link": "https://www.imaeil.com/page/view/2026082509544206496",
-   "source": "네이버뉴스",
-   "date": "2026-08-25"
-  },
-  {
-   "title": "KB국민카드·은행 'KB카드쓰담적금' 협업 출시 - 중소기업신문",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUTmQyQUI4UEJYc3FiWUV0aU8ycEpRdklvbHZSQnJFTndGUXFnX1JMVWhxRWFrRVo5NGI4YmdpTDBWTFNaU09yRkNwLWE3em1OTFItc2NuY2lfLVNVSGhxX09XMzdMVEduaUNMdExB?oc=5",
-   "source": "중소기업신문",
-   "date": "2026-08-24"
   }
  ],
  "news_seen": [
-  "b5f6337e359166a1",
-  "204fd02ff5fa836b",
-  "2b34562ba7edb29d",
   "15ec6afb35fcb598",
   "1b5db0b5d76cdee1",
   "e36290c8a6cde004",
@@ -3385,7 +3382,10 @@
   "954c8729d144f1a9",
   "dc013215d054fa23",
   "c75f5c3932dff177",
-  "aef18a987c5ce296"
+  "aef18a987c5ce296",
+  "76501bd3c3a8e2ad",
+  "471a6d863509d43b",
+  "a5a644e4d1e1e0c9"
  ],
  "news_seeded": true,
  "news_products": [
@@ -3395,7 +3395,7 @@
    "norm": "최고연5.0%고금리적금출시",
    "rate": 5.0,
    "first_news": "2026-08-25",
-   "count": 3,
+   "count": 5,
    "articles": [
     {
      "title": "\"최고 연 5.0% 고금리 적금 출시\"…하나은행, CJ ONE 제휴 이벤트 전개",
@@ -3414,9 +3414,32 @@
      "link": "https://www.donga.com/news/Economy/article/all/20260825/134539029/1",
      "source": "네이버뉴스",
      "date": "2026-08-25"
+    },
+    {
+     "title": "하나은행, CJ올리브네트웍스와 맞손…'최고 5%' 적금 출시 - 파이낸셜뉴스",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42UkE1SUJLQ3pHVXgxVjRFcDAtcmRSTTMyU2huR3F5b1VCREh3WmEwdldKUzlUcVFMSW5naW9TLUNncWc3SzJGUU1oeVBQbVd1SUxNMXUyRmk3dw?oc=5",
+     "source": "파이낸셜뉴스",
+     "date": "2026-08-25"
     }
    ],
    "in_disclosure": false
+  },
+  {
+   "bank": "하나은행",
+   "name": "내맘적금",
+   "norm": "내맘적금",
+   "rate": 5.0,
+   "first_news": "2026-08-25",
+   "count": 1,
+   "articles": [
+    {
+     "title": "하나銀·CJ올리브네트웍스, 최고 연 5% CJ ONE 내맘적금 출시",
+     "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065593695247720",
+     "source": "네이버뉴스",
+     "date": "2026-08-25"
+    }
+   ],
+   "in_disclosure": true
   },
   {
    "bank": "iM뱅크",
@@ -3906,41 +3929,6 @@
      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9yS0ctSnFtM01IdHFnczdSNnpMTWs5VnhSeVFxY3c5VHRwU2t6aTBHU3VsYXdxWGdXR0VQcU1jLXU0bGQxWHpZeEpCdkU4MG44UnpRR21VaEQ0bDFHdXl5TTNYRmJrVmxGV3dFN01ob9IBb0FVX3lxTE9yS0ctSnFtM01IdHFnczdSNnpMTWs5VnhSeVFxY3c5VHRwU2t6aTBHU3VsYXdxWGdXR0VQcU1jLXU0bGQxWHpZeEpCdkU4MG44UnpRR21VaEQ0bDFHdXl5TTNYRmJrVmxGV3dFN01obw?oc=5",
      "source": "더퍼블릭",
      "date": "2026-08-12"
-    }
-   ],
-   "in_disclosure": false
-  },
-  {
-   "bank": "NH농협은행",
-   "name": "파격 적금",
-   "norm": "파격적금",
-   "rate": 8.15,
-   "first_news": "2026-08-11",
-   "count": 5,
-   "articles": [
-    {
-     "title": "NH농협은행 '파격 적금' 출시 ...\"최고 연 8.15% 금리\" | - 폴리뉴스 Polinews",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IYWFEMXdhcUVuZ1pobmV2YVRyZkkxN0g3YVdzalFvN0puMGVmLXVwTWUwWGZxRHZPbFNfUUtPWWVFTUI3TlBEcDJKQWhVd0daMWt6WDVOOG1NTTZNZ191VHdyMlJMZGgybnZ0V0FkYV8ydw?oc=5",
-     "source": "폴리뉴스 Polinews",
-     "date": "2026-08-13"
-    },
-    {
-     "title": "NH농협은행 '파격 적금' 출시 ...\"최고 연 8.15% 금리\"",
-     "link": "https://www.polinews.co.kr/news/articleView.html?idxno=740110",
-     "source": "네이버뉴스",
-     "date": "2026-08-13"
-    },
-    {
-     "title": "농협은행, ‘NH농심천심’ 예·적금 출시…적금 최고 연 8.15% - mdtoday.co.kr",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04N2RZR0wyc0tJMnlXWTB2MzctV1hBYlZLazlVRDcxOXRtcUpuNXFYdk4xQmtsMzFDUmZpbVVKOWtqXzVNU2pmWVBFczFvdlpZY0pyUGNfQVBlRlJCN09rU2JDT3hmNU9KRGYyWg?oc=5",
-     "source": "mdtoday.co.kr",
-     "date": "2026-08-13"
-    },
-    {
-     "title": "NH농협은행 창립기념 적금 출시…연 8.15% 1만좌 한정 - 창원특례신문",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vaDhJMy1PbFdrV0xxZjZveGY5Sjd6bEhhNGlzdk0wb1RnQU5qT1NkUEdEYUM2dlFtWk1YZXltWThXNl95TklOcmJkanIzeUxGRW1ORWkwR1JoeFZpN0hDWW1XbERqTnfSAWtBVV95cUxPaDFGS2R4Q3FmaXgtUmFLaDNQdXkwN2Z2UkYxSEZZLTJnM3YtclNXYVc3b3JwVElVcHZwWFlFaUpwUjZnTHItR2EtWmdycTdZY0RmVWVQTGxidm9aYmlxaVYya1BJN25md2tYMA?oc=5",
-     "source": "창원특례신문",
-     "date": "2026-08-11"
     }
    ],
    "in_disclosure": false
