@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-25 23:54",
+ "updated_at": "2026-08-26 00:52",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2513,6 +2513,12 @@
  ],
  "news": [
   {
+   "title": "농협상호금융 ‘개인파킹통장·파킹모아적금’ 출시 - 농민신문",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45SjZnWWhYRTVsbjhTR2lWc2taajBwOW0zakQyeGVKYXBXR3pCV2MyS0FmejB1TGJEYWp2Qzk2aFdJdGlaQ0NZT3dVZVhJNmZTV1pzN1Z0b1dNUQ?oc=5",
+   "source": "농민신문",
+   "date": "2026-08-24"
+  },
+  {
    "title": "KB국민카드-KB국민은행, 최고 연 12.0% 'KB카드쓰담적금' 협업 출시 - livesnews.com",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Tbm5BdEdfdkFWVWNoelptZHU0U3FTdFNhb3l0ZFBuVEJqcG1fR1NvbVptUUE5NmRrOE5LdDd2YThEYzdjWE1EeE5KTjB6Z3BYdDZnbVJEdjVGbmtQRjRBa0pn?oc=5",
    "source": "livesnews.com",
@@ -2577,16 +2583,9 @@
    "link": "https://www.donga.com/news/Economy/article/all/20260825/134539029/1",
    "source": "네이버뉴스",
    "date": "2026-08-25"
-  },
-  {
-   "title": "[통장잔GO] \"최고 연 12%\"…고금리 특판 적금 경쟁 후끈 - 데일리안",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42b21OUkNwZVRtX3hTbGJKOGRPb3l5Qlo2V05Nc01aVHBLaGdoRXQ3djlKcGJYR0ZNVHZQZGx5OWxXd3lyZkFPd0h3Vy1QRDVJWkZj?oc=5",
-   "source": "데일리안",
-   "date": "2026-08-25"
   }
  ],
  "news_seen": [
-  "5b3ec297359206e3",
   "a6d41c342ef42865",
   "1f13b92a3aa5e6c5",
   "3a6e2502101e3b89",
@@ -3385,7 +3384,8 @@
   "b4e185347fc0949c",
   "e1292f77c22365ee",
   "2440d28f23c7d393",
-  "473128caa49e1614"
+  "473128caa49e1614",
+  "d6c2bcb6aed37cd3"
  ],
  "news_seeded": true,
  "news_products": [
