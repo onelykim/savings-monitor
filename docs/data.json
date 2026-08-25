@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-26 04:38",
+ "updated_at": "2026-08-26 05:37",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2513,6 +2513,12 @@
  ],
  "news": [
   {
+   "title": "농협상호금융 ‘개인파킹통장·파킹모아적금’ 출시",
+   "link": "https://www.nongmin.com/article/20260824500693",
+   "source": "네이버뉴스",
+   "date": "2026-08-26"
+  },
+  {
    "title": "[카드] KB국민카드, 카드 실적 연계 'KB카드쓰담적금' 출시 - 네이트",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFbWUyd2ZVV0xkZlJTUW5tYktmU0VBYmpsZ0NBWDNWTFR4ajBIOWtfaGFLRkpmMWtWYXNmajFfamVxajc1SE1ldXBYYkVtTHdtczJ3?oc=5",
    "source": "네이트",
@@ -2577,16 +2583,9 @@
    "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065593695247720",
    "source": "네이버뉴스",
    "date": "2026-08-25"
-  },
-  {
-   "title": "하나은행, CJ올리브네트웍스와 맞손…‘최고 연 5%’ 적금상품 출시 - 동아일보",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIUzkxMHNPOWgwcGQyLUZiWGZJMTFHaTV6Tk1QSFR5TWhtbWZOU2swSmV5YWhZaHZlOVdJcmdmZUFrZkg4bmdySHM5UFRHQ0VSU1RPbXdxOHYxUHNTUUVhb2RWWXVnMkpMd1FLTHNDTVdWUXRsNnfSAWZBVV95cUxQSG8zNlhzc3pwajM3UGhUbHV6cVhHUUdPNzNUZkNuYnZ0bFZaMU1LR0lZMjhaOUVjWmJweGRYRXJuZHNMNkFLR1ZjelV3SjBiUzBaMHhZSmpIeTAzRm9vMTFZYnNaaVE?oc=5",
-   "source": "동아일보",
-   "date": "2026-08-25"
   }
  ],
  "news_seen": [
-  "1f13b92a3aa5e6c5",
   "3a6e2502101e3b89",
   "9de359b007689b08",
   "575568ec3072429a",
@@ -3385,7 +3384,8 @@
   "2440d28f23c7d393",
   "473128caa49e1614",
   "d6c2bcb6aed37cd3",
-  "dfad7989672d331b"
+  "dfad7989672d331b",
+  "cf0f5bcfa79f9bd5"
  ],
  "news_seeded": true,
  "news_products": [
