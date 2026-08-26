@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-26 14:41",
+ "updated_at": "2026-08-26 16:01",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -1190,26 +1190,26 @@
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
-     "intr_rate": 3.15,
-     "intr_rate2": 3.15
+     "intr_rate": 3.21,
+     "intr_rate2": 3.21
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
-     "intr_rate": 3.3,
-     "intr_rate2": 3.3
+     "intr_rate": 3.33,
+     "intr_rate2": 3.33
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
-     "intr_rate": 3.46,
-     "intr_rate2": 3.46
+     "intr_rate": 3.51,
+     "intr_rate2": 3.51
     }
    ],
-   "best_rate": 3.46,
-   "best_base_rate": 3.46,
+   "best_rate": 3.51,
+   "best_base_rate": 3.51,
    "best_term": 36,
    "naver_url": "https://search.naver.com/search.naver?query=%ED%95%9C%EA%B5%AD%EC%82%B0%EC%97%85%EC%9D%80%ED%96%89%20KDB%20%EA%B8%B0%EC%97%85%EC%A0%95%EA%B8%B0%EC%A0%81%EA%B8%88",
    "first_seen": "2026-07-10",
@@ -1253,26 +1253,26 @@
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.35,
-     "intr_rate2": 3.35
+     "intr_rate": 3.41,
+     "intr_rate2": 3.41
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.4,
-     "intr_rate2": 3.4
+     "intr_rate": 3.43,
+     "intr_rate2": 3.43
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.56,
-     "intr_rate2": 3.56
+     "intr_rate": 3.61,
+     "intr_rate2": 3.61
     }
    ],
-   "best_rate": 3.56,
-   "best_base_rate": 3.56,
+   "best_rate": 3.61,
+   "best_base_rate": 3.61,
    "best_term": 36,
    "naver_url": "https://search.naver.com/search.naver?query=%ED%95%9C%EA%B5%AD%EC%82%B0%EC%97%85%EC%9D%80%ED%96%89%20KDB%20%EC%9E%90%EC%9C%A0%EC%A0%81%EA%B8%88",
    "first_seen": "2026-07-10",
@@ -1629,7 +1629,7 @@
    "join_way": "영업점,인터넷,스마트폰",
    "join_member": "개인",
    "join_deny": "1",
-   "spcl_cnd": "1. 고향사랑기부금 납부고객 우대 : 0.5%p\n\n2-1. 만 65세 이상 고령자 우대 : 0.1%p\n2-2. 만 19~34세 MZ고객 우대 : 0.3%p\n\n3. NH채움카드 또는 [zgm.고향으로 카드] 이용실적 우대 : 0.1%p\n\n4. 고향사랑특별금리 : 0.1%p(금리시장상황에 따라 변동 가능)\n - 고향사랑특별금리는 상품 가입고객 모두에게 적용",
+   "spcl_cnd": "1. 고향사랑기부금을 건당 5만원이상 납부한 가입자 우대 : 0.5%p\n\n2-1. 만 65세 이상 고령자 우대 : 0.1%p\n2-2. 만 19~34세 MZ고객 우대 : 0.3%p",
    "mtrt_int": "만기후 1년 이내 : 만기시점 계약기간별 기본금리의 1/2\n만기후 1년 초과 : 보통예금 금리",
    "max_limit": 500000,
    "etc_note": "1.초입금1만원 이상 및 매회 1천원 이상, 매월50만원이내\n\n2. 고향사랑기부금 우대금리는 농협은행/농축협 영업점 또는 고향사랑e음 홈페이지를 통한 고향사랑기부금 납부실적이 확인되는 경우 제공\n\n3. 연간 판매액의 0.1% 공익기금 적립\n\n※자세한 사항은 상품설명서 참조",
@@ -1680,8 +1680,8 @@
      "save_trm": 12,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 2.94,
-     "intr_rate2": 3.74
+     "intr_rate": 2.97,
+     "intr_rate2": 3.77
     },
     {
      "save_trm": 24,
@@ -1698,8 +1698,8 @@
      "intr_rate2": 3.5
     }
    ],
-   "best_rate": 3.74,
-   "best_base_rate": 2.94,
+   "best_rate": 3.77,
+   "best_base_rate": 2.97,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EB%86%8D%ED%98%91%EC%9D%80%ED%96%89%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20NH%EC%A7%81%EC%9E%A5%EC%9D%B8%EC%9B%94%EB%B3%B5%EB%A6%AC%EC%A0%81%EA%B8%88",
    "first_seen": "2026-07-10",
