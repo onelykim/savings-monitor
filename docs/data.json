@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-27 01:24",
+ "updated_at": "2026-08-27 04:12",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2513,6 +2513,12 @@
  ],
  "news": [
   {
+   "title": "KB국민카드·국민은행, 최고 연 12% ‘카드쓰담적금’ 출시 - 메가경제",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xYmYwSWRyaTNXQ0dHc3VCTHZFOG5vUW1JM216T2oyOThQdUpjZU1QTXZ1UThhak1DR3JzTHlMNE5maGRUdHFrLVFuWldzeWNQa3JiaktGMVV0d01RR1FGWFk0WGZDT3N5NWkxdjQzWThSMUdB0gFyQVVfeXFMTmswcFJqbUE5YlpCaF8zemZtVklDanZ1OWItTUgwN3ppR0dzZk9CUDI5VXd3NTVzMFp2ckJMRmhpbmZndmJhVlV4djN5TER3SWl5RFlmQVhFTzVUYTBPckg1TEtDck9EZHlBT19neDh5ekpR?oc=5",
+   "source": "메가경제",
+   "date": "2026-08-24"
+  },
+  {
    "title": "KB국민은행, 최고 연 12.0% 금리 ‘KB카드쓰담적금’ 출시 - koreasprint.com",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE12T0dsWHBkNUtXWFdFbXk4MC1FWVQyM25DNTFKbjZtdTk5MzZfeE1qLUVIUGY0ZU11c2FvOXVPTlExbWo0bmpURW5vZV9FVkNGYkx1WlV4MGNMX2EyXy1peUJUX0h2NGNfR0RLWERn?oc=5",
    "source": "koreasprint.com",
@@ -2577,16 +2583,9 @@
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Tbm5BdEdfdkFWVWNoelptZHU0U3FTdFNhb3l0ZFBuVEJqcG1fR1NvbVptUUE5NmRrOE5LdDd2YThEYzdjWE1EeE5KTjB6Z3BYdDZnbVJEdjVGbmtQRjRBa0pn?oc=5",
    "source": "livesnews.com",
    "date": "2026-08-24"
-  },
-  {
-   "title": "[카드] KB국민카드, 카드 실적 연계 'KB카드쓰담적금' 출시 - 프라임경제",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HQUVwZzBVQU5hZmxOb1VRMUVHdWlJSmRTaGdmcWIzdjl0a3hBdlc0cXJ4YWdFbXhxb2M1WWV3OWk2Y3ZueGlDZjdmWUIxQndmM3dWTXhkMHRpSUNmV3pvRGpVXzRjZw?oc=5",
-   "source": "프라임경제",
-   "date": "2026-08-24"
   }
  ],
  "news_seen": [
-  "81b8b6a2f143fc8c",
   "d4429e4de8eb989e",
   "ba5f356b9900ddb8",
   "f9c697db0b84650a",
@@ -3385,7 +3384,8 @@
   "abd05583c8d34292",
   "84aa90e0ce955906",
   "3ac697c711ae702b",
-  "bd09ee81e530e103"
+  "bd09ee81e530e103",
+  "aed6baceabebca5a"
  ],
  "news_seeded": true,
  "news_products": [
@@ -3551,7 +3551,7 @@
    "norm": "KB카드쓰담적금",
    "rate": 12.0,
    "first_news": "2026-08-21",
-   "count": 225,
+   "count": 226,
    "articles": [
     {
      "title": "KB국민은행, 'KB카드쓰담적금' 출시…최고 금리 연 12% - 연합뉴스",
