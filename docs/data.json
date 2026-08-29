@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-29 17:57",
+ "updated_at": "2026-08-29 23:23",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2513,6 +2513,12 @@
  ],
  "news": [
   {
+   "title": "농협상호금융, NH개인파킹통장·NH파킹모아적금 출시",
+   "link": "http://www.youngnong.co.kr/news/articleView.html?idxno=61913",
+   "source": "네이버뉴스",
+   "date": "2026-08-29"
+  },
+  {
    "title": "수협, 최대 연 3.0%p 우대 '2026 더블찬스적금' 출시...1만좌 한정 - 이로운넷",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5jR2lYNWNSOGcyVDJ4cmJXelgtUGg0YmlRRmlkdktIcDZ0QnYwbzJuSzRjS0JSUHVXRFNGeU9qdWdRVktKZnA1MTVxZjdxS3daOXBvdHdmcG5CcEFsU0ptY2U0LUZkQQ?oc=5",
    "source": "이로운넷",
@@ -2577,16 +2583,9 @@
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NWTB3b0k1MXA4dEt5dHdHRWxPZG44Sm5BOUtJMmJzamxrMjN3bTBKN29qTjF0X1hPLUZzTmlfeVdKc3Z4OUFueXpKLUdDVEwwTU90U3Q5NGxhLURQaERyczdaa0hSRnBrQW1Jc1pSdHU?oc=5",
    "source": "thefairnews.co.kr",
    "date": "2026-08-28"
-  },
-  {
-   "title": "수협 상호금융, '2026 더블찬스적금' 출시 - 마일드경제",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44d3pZNDFTaE92TG5YZ0xxbHVTN0hlS3RVam1OLUFkdWVXbFF5cENjbXFaaUhvRmZxdVRsLUsxQ3lndHdma2dNNXpGMV9Nb3JHVWYwdEhyQ3k1UDVpa2JldTlUa2lZOVA4LXdr?oc=5",
-   "source": "마일드경제",
-   "date": "2026-08-28"
   }
  ],
  "news_seen": [
-  "ea8e504e01a24858",
   "dbbf0f4fa3c6557b",
   "65a58e8d463ee11f",
   "41fe8dea75d64a3b",
@@ -3385,7 +3384,8 @@
   "e0c795afb9102da2",
   "9decab2a02493911",
   "87453e4f35eb169e",
-  "4a5283071ce721c3"
+  "4a5283071ce721c3",
+  "ab99069ed6cedc08"
  ],
  "news_seeded": true,
  "news_products": [
