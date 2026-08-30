@@ -2513,6 +2513,18 @@
  ],
  "news": [
   {
+   "title": "‘금리 최대 19%’ 청년미래적금 출시 눈앞…가입하려면? - v.daum.net",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9WR1N6TlVsQnRmek41YWFoekNxMUxRZU1hQk9OLW9pU0tRSUxyM2ZnWHFuMXcxV3pNMlMydVl0QUNrQ0hWTkE?oc=5",
+   "source": "v.daum.net",
+   "date": "2026-08-29"
+  },
+  {
+   "title": "토스·하나은행, '만보기 적금' 시즌2 출시 - 한스경제",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE91ZnpxdUQyczhKVnhrWTd3cGhRdUQ5eXU5eE9VQVk4eXBwRnZsMFl5MS1OeUZNTzJyOE1NVjBlSDZycjhxZlJHNWxIdFNWNWdRN01SQ2k4TXRzMjZGRVZ5bUxyclhUTzVNcldn0gFvQVVfeXFMTnNtc0k4Q2M2WmdhcTJIdWJRdVZEV0M5WnFXQzZVZGFnOV9ZY1ZMRmpzQVJmaEpEbUZOZWN3SWdOSnVlNkhqWVEwZ2E0WEhfaHpkdXh6UUNnZ3FYZFR1T2g4R3dIOWh1cFcxbW12VGM0?oc=5",
+   "source": "한스경제",
+   "date": "2026-08-28"
+  },
+  {
    "title": "농협상호금융, NH개인파킹통장·NH파킹모아적금 출시 - 한국영농신문",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBVNXdIZm9EeEg0THFHdk92blRoUXFyTTBjUjBTYUpSRnp3czJfZXZ3SUpGRkVsR3BPZi1WNGV0dTB6ZFVnczhiaTh4NUh0SW42LWJRMnZxX0N1M1FnNEtLMUNSY3JIbVNVWXpmTmtn0gFuQVVfeXFMUFU1d0hmb0R4SDRMcUd2T3ZuVGhRcXJNMGNSMFNhSlJGendzMl9ldndJSkZGRWxHcE9mLVY0ZXR1MHpkVWdzOGJpOHg1SHRJbjYtYlEydnFfQ3UzUWc0S0sxQ1JjckhtU1VZemZOa2c?oc=5",
    "source": "한국영농신문",
@@ -2571,23 +2583,9 @@
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mdjllNjhpN1BDa01MUWJqclRGNEQ4ZU5SU054aTEzLTZPc251LTFBbzJldUFBdnJmeXlzM2RzZFNfWjZTVzhkZHF5dE1NZS1NQnQtZDRqSVYyNWhseTRGaEJQOW1NamEz0gFsQVVfeXFMTzczbnZZdzZ0aFZadE15U0FaUGdhUHZYT3I4eVF6b09HbFUwVEdvVVRmeC1tRTN1T3FnRjVsNmkwYnpJaFFGYTJReE9PaWotX29WcGVnTmVVbGlndjE2MFNzcWdiU1VDbklGOUdy?oc=5",
    "source": "직썰",
    "date": "2026-08-27"
-  },
-  {
-   "title": "농협상호금융, NH개인파킹통장·NH파킹모아적금 출시",
-   "link": "http://www.youngnong.co.kr/news/articleView.html?idxno=61913",
-   "source": "네이버뉴스",
-   "date": "2026-08-29"
-  },
-  {
-   "title": "수협, 최대 연 3.0%p 우대 '2026 더블찬스적금' 출시...1만좌 한정 - 이로운넷",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5jR2lYNWNSOGcyVDJ4cmJXelgtUGg0YmlRRmlkdktIcDZ0QnYwbzJuSzRjS0JSUHVXRFNGeU9qdWdRVktKZnA1MTVxZjdxS3daOXBvdHdmcG5CcEFsU0ptY2U0LUZkQQ?oc=5",
-   "source": "이로운넷",
-   "date": "2026-08-29"
   }
  ],
  "news_seen": [
-  "d37d8f411ff77fae",
-  "379d79f5282244c3",
   "96b7dd76a369ce9e",
   "c8d9c93c3f9f36e2",
   "216f8e72c62848ff",
@@ -3385,7 +3383,9 @@
   "14c522e53e6e2757",
   "305006f38fdacbfe",
   "6cbf7488de3c0d2d",
-  "9ded5d6365e31278"
+  "9ded5d6365e31278",
+  "636ee763aa16c4d2",
+  "56f3ec6fdc5b4933"
  ],
  "news_seeded": true,
  "news_products": [
@@ -3430,7 +3430,7 @@
    "norm": "하나만보기적금시즌2",
    "rate": 4.5,
    "first_news": "2026-08-27",
-   "count": 52,
+   "count": 53,
    "articles": [
     {
      "title": "하나은행, '하나 만보기 적금 시즌2' 출시…한도 2만 좌로 확대 - 뉴스핌",
