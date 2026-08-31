@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-01 02:00",
+ "updated_at": "2026-09-01 06:52",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2513,6 +2513,18 @@
  ],
  "news": [
   {
+   "title": "'최고 연 12%' 특판 쏟아지는데, 실제 이자는 6만원?…고금리 적금의 반전 - 뉴시스",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qN3k1Q2t1a1VrYmZ4eDdtZTZVb0NjNElDZnVra0k4Y1VJWl9OT00zY0tKSTB2UWl3OEg4NjJONmFieWZoUzlsZHlCaF9yWHJUNVdCNTJYZGhtc1R4ZG9DQtIBeEFVX3lxTFAxWTVUQ2p5ek94UDVBT0twSnQzTEVrbXQxVnJLUWpsVUJfZUk0REY4LUdOS2IwSFgwSzBTWmZ2aEJWSzZhOUNRNWM1amo0VUo3N2M5bGxXRXdZWGx0RkRmTGpsd3c3cmRmWGZqMl9jWER4UXlPRldDSA?oc=5",
+   "source": "뉴시스",
+   "date": "2026-09-01"
+  },
+  {
+   "title": "'최고 연 12%' 특판 쏟아지는데, 실제 이자는 6만원?…고금리 적금의 반...",
+   "link": "https://www.newsis.com/view/NISX20260831_0003770331",
+   "source": "네이버뉴스",
+   "date": "2026-09-01"
+  },
+  {
    "title": "수협중앙회, ‘2026 더블찬스적금’ 출시 - 일간투데이",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1BX1B3WlREU1BoYVRaX0dQVEdWWmM3SEJfYmlYUGpocGZNU0U2bG54blo0NlJxSlpKeGMyZFpzNjRfTUkyeWNWTG9qc2lDY01nTHhWWVBEN0pENE1BR0xPNlZ4QXZ2NW5LWGpZ?oc=5",
    "source": "일간투데이",
@@ -2571,23 +2583,9 @@
    "link": "https://www.handmk.com/news/articleView.html?idxno=42639",
    "source": "네이버뉴스",
    "date": "2026-08-31"
-  },
-  {
-   "title": "하루 만 보씩 걸으면 연 4.5%…토스-하나 '만보기 적금' 시즌2 출시 - 네이트",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tdmpRQ1ZET191UTlLWHZwT1ltMUNJUXRCNEUzX1l5cm0xeU5WLWtCX0hqb1lrTEJhRXNISk5KYUdFTWt1OElDckRMRW5KVXdTeGxr?oc=5",
-   "source": "네이트",
-   "date": "2026-08-28"
-  },
-  {
-   "title": "“신규면 1%p, 1천만원 맡기면 2%p 더”…수협, 최대 연 3.0%p ‘더블찬스적금’ 출시 - 더게이트",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RN0dReUU2X1VadGdMSTBqRmhldmo0UUIxMTV4WWdNd0VnUi1SRVdtNlNjb2hjMVZOZEhmWlVOLWt0cGFJWGVXU2VTRy02RTBvUUlWSU4wTDJVM3pLN2RtZ2JnUlpmQ2YybWVwUdIBbEFVX3lxTE1RN0dReUU2X1VadGdMSTBqRmhldmo0UUIxMTV4WWdNd0VnUi1SRVdtNlNjb2hjMVZOZEhmWlVOLWt0cGFJWGVXU2VTRy02RTBvUUlWSU4wTDJVM3pLN2RtZ2JnUlpmQ2YybWVwUQ?oc=5",
-   "source": "더게이트",
-   "date": "2026-08-28"
   }
  ],
  "news_seen": [
-  "4c585e8c27f4d2b9",
-  "5ec08f94ac74961b",
   "3727fb481d86adfc",
   "cb78c2243a1ad724",
   "8873e4fd8e73cb57",
@@ -3385,7 +3383,9 @@
   "c180288f068f52ec",
   "6a3aba948938369e",
   "fd2ce246d054b178",
-  "22a4a5730e377f81"
+  "22a4a5730e377f81",
+  "5bdb2486a92b962d",
+  "9763bb97c265bb85"
  ],
  "news_seeded": true,
  "news_products": [
