@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-31 10:20",
+ "updated_at": "2026-08-31 17:34",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -1183,33 +1183,33 @@
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
-     "intr_rate": 2.73,
-     "intr_rate2": 2.73
+     "intr_rate": 2.78,
+     "intr_rate2": 2.78
     },
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
-     "intr_rate": 3.21,
-     "intr_rate2": 3.21
+     "intr_rate": 3.27,
+     "intr_rate2": 3.27
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
-     "intr_rate": 3.33,
-     "intr_rate2": 3.33
+     "intr_rate": 3.38,
+     "intr_rate2": 3.38
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
-     "intr_rate": 3.51,
-     "intr_rate2": 3.51
+     "intr_rate": 3.55,
+     "intr_rate2": 3.55
     }
    ],
-   "best_rate": 3.51,
-   "best_base_rate": 3.51,
+   "best_rate": 3.55,
+   "best_base_rate": 3.55,
    "best_term": 36,
    "naver_url": "https://search.naver.com/search.naver?query=%ED%95%9C%EA%B5%AD%EC%82%B0%EC%97%85%EC%9D%80%ED%96%89%20KDB%20%EA%B8%B0%EC%97%85%EC%A0%95%EA%B8%B0%EC%A0%81%EA%B8%88",
    "first_seen": "2026-07-10",
@@ -1232,47 +1232,47 @@
      "save_trm": 1,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 2.78,
-     "intr_rate2": 2.78
+     "intr_rate": 2.83,
+     "intr_rate2": 2.83
     },
     {
      "save_trm": 3,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 2.78,
-     "intr_rate2": 2.78
+     "intr_rate": 2.83,
+     "intr_rate2": 2.83
     },
     {
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.03,
-     "intr_rate2": 3.03
+     "intr_rate": 3.08,
+     "intr_rate2": 3.08
     },
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.41,
-     "intr_rate2": 3.41
+     "intr_rate": 3.47,
+     "intr_rate2": 3.47
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.43,
-     "intr_rate2": 3.43
+     "intr_rate": 3.48,
+     "intr_rate2": 3.48
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.61,
-     "intr_rate2": 3.61
+     "intr_rate": 3.65,
+     "intr_rate2": 3.65
     }
    ],
-   "best_rate": 3.61,
-   "best_base_rate": 3.61,
+   "best_rate": 3.65,
+   "best_base_rate": 3.65,
    "best_term": 36,
    "naver_url": "https://search.naver.com/search.naver?query=%ED%95%9C%EA%B5%AD%EC%82%B0%EC%97%85%EC%9D%80%ED%96%89%20KDB%20%EC%9E%90%EC%9C%A0%EC%A0%81%EA%B8%88",
    "first_seen": "2026-07-10",
@@ -1680,8 +1680,8 @@
      "save_trm": 12,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 2.98,
-     "intr_rate2": 3.78
+     "intr_rate": 2.99,
+     "intr_rate2": 3.79
     },
     {
      "save_trm": 24,
@@ -1698,8 +1698,8 @@
      "intr_rate2": 3.5
     }
    ],
-   "best_rate": 3.78,
-   "best_base_rate": 2.98,
+   "best_rate": 3.79,
+   "best_base_rate": 2.99,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EB%86%8D%ED%98%91%EC%9D%80%ED%96%89%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20NH%EC%A7%81%EC%9E%A5%EC%9D%B8%EC%9B%94%EB%B3%B5%EB%A6%AC%EC%A0%81%EA%B8%88",
    "first_seen": "2026-07-10",
@@ -2513,6 +2513,48 @@
  ],
  "news": [
   {
+   "title": "수협중앙회, ‘2026 더블찬스적금’ 출시 - 일간투데이",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1BX1B3WlREU1BoYVRaX0dQVEdWWmM3SEJfYmlYUGpocGZNU0U2bG54blo0NlJxSlpKeGMyZFpzNjRfTUkyeWNWTG9qc2lDY01nTHhWWVBEN0pENE1BR0xPNlZ4QXZ2NW5LWGpZ?oc=5",
+   "source": "일간투데이",
+   "date": "2026-08-31"
+  },
+  {
+   "title": "수협, 우대금리 적용 ‘더블찬스적금’ 출시 - 핸드메이커",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13SlR0NWZ0aUNUV1U2d3lLQTFpLW1sT25LSFFGQVg3VENJWUd3ZHRHQ20tNkJqekpCelFOUlpGcDUxUkJNQW1DS2xWQldXXzNXOG5TYW5LcVMyWlZVLU9oSy1VOFJLWGfSAWtBVV95cUxNenBiaFRmaWc1RlZiYTVzZ191ODNiM3hWamJoZ0o2OTB1NWlaY3dBcGhnU0x5T0V5TDdaZVZWU2hCdHA4cWYtYkpqV3FLOERUVXRNLUZjRmt2WTlUa1I4WGJJeTVDZnJVMlNLUQ?oc=5",
+   "source": "핸드메이커",
+   "date": "2026-08-31"
+  },
+  {
+   "title": "금리 한 번, 거래 늘리면 또 한 번...수협 '더블찬스적금' 출시 - 소비자경제",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE11VXpnbDhJOXE2UDM2ZWdibmlkczdQRkxDNWFKYTdYTG9XT0xQRGc5MjQ1N3VHZ1M1dUJoTmI1andfQ3NYak5QeG5BTTNCMTBURkpIUmxyWGJoYkFWVGZsdm85eVBZZGhKay1N?oc=5",
+   "source": "소비자경제",
+   "date": "2026-08-31"
+  },
+  {
+   "title": "환아 가족 돕기 위해 ‘행운기부런 적금’ 출시한 맥도날드X하나은행... 7개월만에 1억 모금 달성 - insight.co.kr",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fZnR3ckpOdmI5TDJLWUdCaDgxbUl1YjVpTWNzT1hsVmxxMkdLcnFJVkliWTU5M2JTaEtvSTRIUl9WWlE3NkVTdmRqelBZQQ?oc=5",
+   "source": "insight.co.kr",
+   "date": "2026-08-31"
+  },
+  {
+   "title": "수협, 최대 3%p 우대 '2026 더블찬스적금' 출시 - 매일일보",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjM2ljcS0xQnMxdzd2RHhHaFRpTXBRU2p5bGVlVmNLMkxVNjVJVk9hX1BJeWx0d25ORzBPTnRYblJmRks4cjREajR0dUNVSUdZQk5NZHNidGw3a2pCUG81T3JtMnc?oc=5",
+   "source": "매일일보",
+   "date": "2026-08-31"
+  },
+  {
+   "title": "수협, 우대금리 적용 ‘더블찬스적금’ 출시 - 핸드메이커",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16cGJoVGZpZzVGVmJhNXNnX3U4M2IzeFZqYmhnSjY5MHU1aVpjd0FwaGdTTHlPRXlMN1plVlZTaEJ0cDhxZi1iSmpXcUs4RFRVdE0tRmNGa3ZZOVRrUjhYYkl5NUNmclUyU0tR0gFrQVVfeXFMTXpwYmhUZmlnNUZWYmE1c2dfdTgzYjN4VmpiaGdKNjkwdTVpWmN3QXBoZ1NMeU9FeUw3WmVWVlNoQnRwOHFmLWJKaldxSzhEVFV0TS1GY0Zrdlk5VGtSOFhiSXk1Q2ZyVTJTS1E?oc=5",
+   "source": "핸드메이커",
+   "date": "2026-08-31"
+  },
+  {
+   "title": "환아 가족 돕기 위해 '행운기부런 적금' 출시한 맥도날드X하나은행... 7...",
+   "link": "https://www.insight.co.kr/news/571049",
+   "source": "네이버뉴스",
+   "date": "2026-08-31"
+  },
+  {
    "title": "수협, 최대 3%p 우대 '2026 더블찬스적금' 출시 - 매일일보",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1TQ1JIRVZXVmRPLVRIQUdOUm93ZmFtUy1qbXhQTWFOUEJRNFFobFBwaVl1OGRLd2hNcmQxRmlxblgwZnVsSThJcDEzaTlfaWE1NjN1eVZ0M1ItTk1kZFl4akg0TQ?oc=5",
    "source": "매일일보",
@@ -2541,58 +2583,9 @@
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RN0dReUU2X1VadGdMSTBqRmhldmo0UUIxMTV4WWdNd0VnUi1SRVdtNlNjb2hjMVZOZEhmWlVOLWt0cGFJWGVXU2VTRy02RTBvUUlWSU4wTDJVM3pLN2RtZ2JnUlpmQ2YybWVwUdIBbEFVX3lxTE1RN0dReUU2X1VadGdMSTBqRmhldmo0UUIxMTV4WWdNd0VnUi1SRVdtNlNjb2hjMVZOZEhmWlVOLWt0cGFJWGVXU2VTRy02RTBvUUlWSU4wTDJVM3pLN2RtZ2JnUlpmQ2YybWVwUQ?oc=5",
    "source": "더게이트",
    "date": "2026-08-28"
-  },
-  {
-   "title": "토스·하나은행, 최고 연 4.5% 금리 주는 '만보기 적금 시즌2' 출시 - 파이낸셜포스트",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5OOXhHbTZNUzEyanphYU8zMHU5SHFaT25hSnI0dXhiU214QWM5ZlVmN0VBZkxnRms1ckNTUXNmdEhfcjBqOFhSaEg5b05JYjlqUktTVXUxUEpGYW11SWt0bHlyd2dsM2ozWk8tYVpCWTZra05h?oc=5",
-   "source": "파이낸셜포스트",
-   "date": "2026-08-28"
-  },
-  {
-   "title": "하나은행, ‘하나 만보기 적금 시즌2’ 출시…판매 한도 2만좌로 확대 - 퍼블릭타임스",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZZ0xSaDY5OHV4X3J6N1BoSDBybjRFaUNJX2J6cFpPM2tFbm1aQmZwYU1vdmU2XzRXX3RaUld4MjFkQmVsRTFpenhFZDVJLW5UUE5PR2xad0ZnTEJtQkJBRGxlaHVaVkk2LXfSAW5BVV95cUxNQXNTaWZuTktNSGZxQmRROUVwaURpVmt6eFpxWVlwXzM0NDFBRFoyZ3BTRDQ0am1kUDFsUWZLN0JnRVdMR1pBallDTXVpVmtQTC05Q3BuSDhoTTl3eDdETDdKQnQ4XzRVRERkV3dLZw?oc=5",
-   "source": "퍼블릭타임스",
-   "date": "2026-08-28"
-  },
-  {
-   "title": "최고 연 9% 금리 ‘신한 적금 9단’…출시 2주만에 10만좌 판매 - 매일경제",
-   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5SZmpPQXh6T0RrU1NzekpTRkJoWUZrZWZOUkFUZGdDNDFXTTg1eVpXeFFYY0RkM3J6M1djSXpPU3ctQWQ1YXc?oc=5",
-   "source": "매일경제",
-   "date": "2026-08-29"
-  },
-  {
-   "title": "수협, 최고 3.0% 금리 '2026 더블찬스적금' 출시 - 중소기업신문",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBVcUpTa0s2TWVKTGVxb0h2WHZEOXJQaEdDbW9qSFZwckxHN05OQ2c3bFlvbk5oeWtsQmU2czB2bU5sSHlTMWlIUkJGSHpXeC1zRXdfSXM4Vi13RjhVTHRxb1o4VFl1dlRaSTQwR193?oc=5",
-   "source": "중소기업신문",
-   "date": "2026-08-28"
-  },
-  {
-   "title": "하나은행, ‘하나 만보기 적금 시즌2’ 출시…판매 한도 2배 확대 - 뉴스N연합",
-   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAtWWN0N1hRc1JlSl9EeWw1NTZJVDRYVFp3eU5zTzBjUXBMb0JmNTdoZUg3NmkybWtCS0hLcUw4SkNfWjRTXzFIZTZB?oc=5",
-   "source": "뉴스N연합",
-   "date": "2026-08-28"
-  },
-  {
-   "title": "‘금리 최대 19%’ 청년미래적금 출시 눈앞…가입하려면? - v.daum.net",
-   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9WR1N6TlVsQnRmek41YWFoekNxMUxRZU1hQk9OLW9pU0tRSUxyM2ZnWHFuMXcxV3pNMlMydVl0QUNrQ0hWTkE?oc=5",
-   "source": "v.daum.net",
-   "date": "2026-08-29"
-  },
-  {
-   "title": "토스·하나은행, '만보기 적금' 시즌2 출시 - 한스경제",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE91ZnpxdUQyczhKVnhrWTd3cGhRdUQ5eXU5eE9VQVk4eXBwRnZsMFl5MS1OeUZNTzJyOE1NVjBlSDZycjhxZlJHNWxIdFNWNWdRN01SQ2k4TXRzMjZGRVZ5bUxyclhUTzVNcldn0gFvQVVfeXFMTnNtc0k4Q2M2WmdhcTJIdWJRdVZEV0M5WnFXQzZVZGFnOV9ZY1ZMRmpzQVJmaEpEbUZOZWN3SWdOSnVlNkhqWVEwZ2E0WEhfaHpkdXh6UUNnZ3FYZFR1T2g4R3dIOWh1cFcxbW12VGM0?oc=5",
-   "source": "한스경제",
-   "date": "2026-08-28"
   }
  ],
  "news_seen": [
-  "beaa096d462165d3",
-  "65f45d6ad3fe8618",
-  "c316f1fdb48e8a2d",
-  "dcf152c0042853e1",
-  "995ef54f5045ac91",
-  "83b8e0b82d81c6f9",
-  "cef9b1bd9751b27d",
   "4c585e8c27f4d2b9",
   "5ec08f94ac74961b",
   "3727fb481d86adfc",
@@ -3385,10 +3378,40 @@
   "6cade398c77e68cb",
   "54de2dcdde023280",
   "96286ee34b1ba8ca",
-  "249a8b3d23373ccb"
+  "249a8b3d23373ccb",
+  "d24c90f66c1dea75",
+  "40e8047d0b79840d",
+  "989f72b0ba65d644",
+  "c180288f068f52ec",
+  "6a3aba948938369e",
+  "fd2ce246d054b178",
+  "22a4a5730e377f81"
  ],
  "news_seeded": true,
  "news_products": [
+  {
+   "bank": "하나은행",
+   "name": "행운기부런 적금",
+   "norm": "행운기부런적금",
+   "rate": null,
+   "first_news": "2026-08-31",
+   "count": 2,
+   "articles": [
+    {
+     "title": "환아 가족 돕기 위해 ‘행운기부런 적금’ 출시한 맥도날드X하나은행... 7개월만에 1억 모금 달성 - insight.co.kr",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fZnR3ckpOdmI5TDJLWUdCaDgxbUl1YjVpTWNzT1hsVmxxMkdLcnFJVkliWTU5M2JTaEtvSTRIUl9WWlE3NkVTdmRqelBZQQ?oc=5",
+     "source": "insight.co.kr",
+     "date": "2026-08-31"
+    },
+    {
+     "title": "환아 가족 돕기 위해 '행운기부런 적금' 출시한 맥도날드X하나은행... 7...",
+     "link": "https://www.insight.co.kr/news/571049",
+     "source": "네이버뉴스",
+     "date": "2026-08-31"
+    }
+   ],
+   "in_disclosure": false
+  },
   {
    "bank": "카카오뱅크",
    "name": "26주적금",
@@ -3929,29 +3952,6 @@
      "title": "현대차 전북 \"전북은행 JB특판적금 가입하면 차 구매 할인\" - 뉴시스",
      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBUdV9rYzEwX1E4ckVYRlNQcHlMbjBCRXVfV3FGdm1ENWdSanhRLTNMUThYMGNqdjQxMXBSSTVFSGVDajJvR3N6RUp0c3VXamlxNHJ2ZDV1OWwzN3lDTk9WUDNGVm1qVkF5dGlmbWZNX0sxd0tiYkxnatIBeEFVX3lxTFBUdV9rYzEwX1E4ckVYRlNQcHlMbjBCRXVfV3FGdm1ENWdSanhRLTNMUThYMGNqdjQxMXBSSTVFSGVDajJvR3N6RUp0c3VXamlxNHJ2ZDV1OWwzN3lDTk9WUDNGVm1qVkF5dGlmbWZNX0sxd0tiYkxnag?oc=5",
      "source": "뉴시스",
-     "date": "2026-08-13"
-    }
-   ],
-   "in_disclosure": false
-  },
-  {
-   "bank": "신한은행",
-   "name": "연 9% 적금",
-   "norm": "연9%적금",
-   "rate": 9.0,
-   "first_news": "2026-08-13",
-   "count": 2,
-   "articles": [
-    {
-     "title": "신한은행, '연 9% 적금' 출시…1년 만기·월 최대 30만원",
-     "link": "https://www.cstimes.com/news/articleView.html?idxno=716676",
-     "source": "네이버뉴스",
-     "date": "2026-08-13"
-    },
-    {
-     "title": "신한은행, '연 9% 적금' 출시…1년 만기·월 최대 30만원 - 컨슈머타임스",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yeDJHWkNLNlhWVENjSHNuYVZhN21DVVYydWJIMk9UcXB5ekw4b2RTeHBHYTRHdHJWZFE3QTB1d01HaGZUcl8zQ01uTlB5SWpFVWNaSXFiOU5CZjdOdGx2R2k0SENidkFHZWc?oc=5",
-     "source": "컨슈머타임스",
      "date": "2026-08-13"
     }
    ],
