@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-01 10:12",
+ "updated_at": "2026-09-01 16:40",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -119,61 +119,61 @@
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
-     "intr_rate": 2.4,
-     "intr_rate2": 2.4
+     "intr_rate": 2.65,
+     "intr_rate2": 2.65
     },
     {
      "save_trm": 6,
-     "intr_rate_type_nm": "단리",
-     "rsrv_type_nm": "자유적립식",
-     "intr_rate": 2.3,
-     "intr_rate2": 2.3
-    },
-    {
-     "save_trm": 12,
-     "intr_rate_type_nm": "단리",
-     "rsrv_type_nm": "정액적립식",
-     "intr_rate": 2.7,
-     "intr_rate2": 2.7
-    },
-    {
-     "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
      "intr_rate": 2.55,
      "intr_rate2": 2.55
     },
     {
-     "save_trm": 24,
+     "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
-     "intr_rate": 2.75,
-     "intr_rate2": 2.75
+     "intr_rate": 2.95,
+     "intr_rate2": 2.95
     },
     {
-     "save_trm": 24,
+     "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 2.6,
-     "intr_rate2": 2.6
-    },
-    {
-     "save_trm": 36,
-     "intr_rate_type_nm": "단리",
-     "rsrv_type_nm": "정액적립식",
      "intr_rate": 2.8,
      "intr_rate2": 2.8
     },
     {
+     "save_trm": 24,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "정액적립식",
+     "intr_rate": 3.0,
+     "intr_rate2": 3.0
+    },
+    {
+     "save_trm": 24,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "자유적립식",
+     "intr_rate": 2.85,
+     "intr_rate2": 2.85
+    },
+    {
+     "save_trm": 36,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "정액적립식",
+     "intr_rate": 3.05,
+     "intr_rate2": 3.05
+    },
+    {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 2.65,
-     "intr_rate2": 2.65
+     "intr_rate": 2.9,
+     "intr_rate2": 2.9
     }
    ],
-   "best_rate": 2.8,
-   "best_base_rate": 2.8,
+   "best_rate": 3.05,
+   "best_base_rate": 3.05,
    "best_term": 36,
    "naver_url": "https://search.naver.com/search.naver?query=%ED%95%9C%EA%B5%AD%EC%8A%A4%ED%83%A0%EB%8B%A4%EB%93%9C%EC%B0%A8%ED%83%80%EB%93%9C%EC%9D%80%ED%96%89%20%ED%8D%BC%EC%8A%A4%ED%8A%B8%EA%B0%80%EA%B3%84%EC%A0%81%EA%B8%88",
    "first_seen": "2026-07-10",
@@ -1680,8 +1680,8 @@
      "save_trm": 12,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 2.99,
-     "intr_rate2": 3.79
+     "intr_rate": 3.0,
+     "intr_rate2": 3.8
     },
     {
      "save_trm": 24,
@@ -1698,8 +1698,8 @@
      "intr_rate2": 3.5
     }
    ],
-   "best_rate": 3.79,
-   "best_base_rate": 2.99,
+   "best_rate": 3.8,
+   "best_base_rate": 3.0,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EB%86%8D%ED%98%91%EC%9D%80%ED%96%89%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20NH%EC%A7%81%EC%9E%A5%EC%9D%B8%EC%9B%94%EB%B3%B5%EB%A6%AC%EC%A0%81%EA%B8%88",
    "first_seen": "2026-07-10",
@@ -2513,122 +2513,79 @@
  ],
  "news": [
   {
-   "title": "하나카드, 산림조합과 연 8% 특판 적금 출시 - 한국경제",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wV0xBVmpGVFFHQXdUTmtHSXdwSnI5eVNLRThXLXNMTVJjYkpNTWV4ck9DWFY5V0NWLWp6M2NvRkhBRnJpZ0NCZ19nU2pZS3JBVzhoVm9JbFd5Zw?oc=5",
-   "source": "한국경제",
+   "title": "[게시판] 하나카드·산림조합, 연 8.0% 특판 적금 출시 - 연합뉴스",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zb2pySURoQk1PVXZDaVNQR3A1STBPZXdHeEk0QUpobkV3VFJLX1hWZzc5a1FsdXY1ZFJadHM3U0VJcjdUVmI5ZlBsMGt5Sk9jeE02dWJtRDcxa1RpVzFRMtIBYEFVX3lxTE8zb2pySURoQk1PVXZDaVNQR3A1STBPZXdHeEk0QUpobkV3VFJLX1hWZzc5a1FsdXY1ZFJadHM3U0VJcjdUVmI5ZlBsMGt5Sk9jeE02dWJtRDcxa1RpVzFRMg?oc=5",
+   "source": "연합뉴스",
    "date": "2026-09-01"
   },
   {
-   "title": "[게시판] 하나카드·산림조합, 연 8.0% 특판 적금 출시 - 연합뉴스 한민족센터",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE55V01pRVA5WHJjRWM1eTY1OVE2LWFrLVB2S3c2SXNCTVZKODRaWU4zLUdXUy1qOFVPN1JXOWZpbEdmV3EydkI0SXJ0eVF0VDNkV0JIcmxIbGpFRUNFUkJ3UW94dFY4OVZjdERaTmN4UmRZSUNW?oc=5",
-   "source": "연합뉴스 한민족센터",
+   "title": "[카드 & Now] 하나카드·산림조합, 연 8% 특판 적금 출시 등 - ebn.co.kr",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fUjJ5MVBudUc5cUQ0bVdLbzdJeW9JV0Y4b2FEWmRqOFM4TmkyOEJZYVNaLUVzWG9hbTZGcTFWSkltaS1MYlhqQjZGbTJDb2RXVW5GUERqVUFtYVJYYVF4RTQ4NVlFMUJv?oc=5",
+   "source": "ebn.co.kr",
    "date": "2026-09-01"
   },
   {
-   "title": "하나카드·산림조합, 제휴카드 연계 평균 연 8.0% 적금 출시 - 파이낸셜포스트",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jaHpMU2pGRDdjbFl1SmU0Z1BmdHpWSlRXSjV2WXpSR29IMFVzc21VS3JYOHJ3U2cyWnBwczk3bjRydnNwMVJNTE1SXzVPWEticW1EX2o4QmppYTROdG5PLU1zN3RCaFhzTXJuRDNBTHFkbnZi?oc=5",
-   "source": "파이낸셜포스트",
+   "title": "하나카드·산림조합, 최고 연 8% 적금 특판 출시 - 전자신문",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9NSEt3SlVfdXBjYVZjQWtmSDdQazBkZXczRzcyVk5nWF95cDJoY0Znb3V2WW8xNXRkT2xFZjQyNjZkcU9sZTFUUEVoTUxaZw?oc=5",
+   "source": "전자신문",
    "date": "2026-09-01"
   },
   {
-   "title": "하나카드·산림조합, 최고 연 8% 적금 특판 출시 - 매일일보",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE11ZGowenRFTndiS2VYbmk5emRSNF9jb3JxR3JPTFNyZUVkMkRjMnFYNFhla3RDUmFkajFzSG90TkVkZWNWb1dyNXM5c05ZMmF2cXhTcGZCRkZBY1Y1VEh4WUVxcC3SAWhBVV95cUxOUm1naXNLYjZLMHBUck5nak5ZV3NzQUxLZjhrblhpS0QzSHJjcVA2d0tCQXp6MHhwUDk0ZXA1Y0VJTFh1ek8xVmtsZWVjYnlnQkN4RzFPWUsxUzJVTDZCVEFhTllsdl9DRQ?oc=5",
-   "source": "매일일보",
+   "title": "하나카드·산림조합, 연 8.0% 특판 적금 상품 출시 - 중소기업신문",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91cG90d2FIUDhSQjRrRWh1UmNJcTV6YUJra25zUFVNcGI5dUhSbEZxcWc2VmRSZ1phbG5oM2xwU0t5Q210Wk5qQm1NQzVaeG12ZEpTR2I2MldSVDJUdU5xejJBN09lWm5RLU44X2dn?oc=5",
+   "source": "중소기업신문",
+   "date": "2026-09-01"
+  },
+  {
+   "title": "하나카드·산림조합, 연 8% 적금 특판 출시…예금은 연 4% - 뉴스핌",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vWFpSQVdKNVY1R3V2SEg4Qk0zYlRkc29XZDF3dW1taDdicjJlOEltdTNKczREcGIxSE5iSkpyeWlQOG9tV2pFS2tTX0puMnZ5QXI0OWxUS0Y3YWE0?oc=5",
+   "source": "뉴스핌",
+   "date": "2026-09-01"
+  },
+  {
+   "title": "하나카드, 산림조합과 '연 8.0% 특판 적금' 출시 - 뉴스웰",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00UmhXcWFEVXRENHE2elRGZjYzU3FLTURSNXVDdEFYU3B5Wkp0RkpZdGlHZ2pBdDFiZ2ZRUFJGM0lEcEhvUkdEbnlGNFpGanRGTVlldEtwZV9rU1BqZ1FYU0JsU1FoS21DbFRmWA?oc=5",
+   "source": "뉴스웰",
+   "date": "2026-09-01"
+  },
+  {
+   "title": "하나카드, 산림조합과 연 8% 특판 적금 출시 - 우먼타임스",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Wb1hvS3pHUzJzamtGS3NsRkgwN0phbHZJNGt2T3pDNEUtX3hfOWRFTzJRQ2FnYW5RU0RONmp1NXgtYXRwZ0kzY0puVEMwczRZRU5qeGw3bW9Oa3BuZk5rWVdEWkZtSUVuRGs5OXc4NnJQX0k50gF0QVVfeXFMTlZvWG9LekdTMnNqa0ZLc2xGSDA3SmFsdkk0a3ZPekM0RS1feF85ZEVPMlFDYWdhblFTRE42anU1eC1hdHBnSTNjSm5UQzBzNFlFTmp4bDdtb05rcG5mTmtZV0RaRm1JRW5Eazk5dzg2clBfSTk?oc=5",
+   "source": "우먼타임스",
+   "date": "2026-09-01"
+  },
+  {
+   "title": "하나카드·산림조합, 평균 연 8% 적금 특판 상품 출시…10월 말까지 한정 판매 - 팝콘뉴스",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1aNVFkQ1diVW94eGRfSG9iT0hzREtvMWl6ZVdibzJnQzN1VGhCMk9uVzFPcFJMYlJSR2N4MmJPX3RTWXpnQjdEbkZvY2tJQzc2R0t3UTdHc1poQi1aTHJRVi1aaVZTSkRyaTcxZnRXMNIBckFVX3lxTE80WWYtVS15R19aTm5rMW4xcjgweUo3OHNTaVRPOXM4cGxXZ0R1QVM1U1FabjNfVnlhdUVCUldCVTNxRzI5TDZ3dDNrODk2STh5SVp6dDRuM0F3cV9FSDkwMXVrU3BNTXVsVmZubWtwZ000dw?oc=5",
+   "source": "팝콘뉴스",
    "date": "2026-09-01"
   },
   {
    "title": "[금융톡톡] 우리카드 '추석 무이자할부' 강화·하나카드 '연 8% 적금' 출시·신한카드 '지그재그 PLCC'·농협카드 '러닝족 공략' - 뉴스웍스",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1temFpYlV6cmtRYzVWQi1WUkZzVTNpNzJ6VlQwcEFjYXNGRTNaaFJQc0dDSEpCY3kzTHNJanBCTm9zb3AxOWhtTmhuRVBYOHBxQ2R3a2l6YVZNY3JrZTVQejB3UzdBbkdncGxnM0c1Z9IBc0FVX3lxTE5vUVBid09uYnRVRUgzclNjLWtpY0tvU1NfQ0tDemlBYlRNa3VQbkhyY2ExenpNbThwYTZraF9uTW1aY3ZXSk5DaVlTdjJ2NUxEU1hhSnBHVEphdWliNjdxSXdoRlJPUGVJZHZwbEtTRkNnU1k?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5vUVBid09uYnRVRUgzclNjLWtpY0tvU1NfQ0tDemlBYlRNa3VQbkhyY2ExenpNbThwYTZraF9uTW1aY3ZXSk5DaVlTdjJ2NUxEU1hhSnBHVEphdWliNjdxSXdoRlJPUGVJZHZwbEtTRkNnU1nSAXNBVV95cUxOb1FQYndPbmJ0VUVIM3JTYy1raWNLb1NTX0NLQ3ppQWJUTWt1UG5IcmNhMXp6TW04cGE2a2hfbk1tWmN2V0pOQ2lZU3YydjVMRFNYYUpwR1RKYXVpYjY3cUl3aEZST1BlSWR2cGxLU0ZDZ1NZ?oc=5",
    "source": "뉴스웍스",
    "date": "2026-09-01"
   },
   {
-   "title": "하나카드, 산림조합 손 잡고 평균 연 8% 적금 특판 출시 - PRESS9",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1tTkFqR3loUG1MX2J5a2p0VHp5ZVZEQ2hueUozanRMeDFCQjl2ZnlMQXcwcC1ra2dYMDdqcUpIQy0zaFEtd25rS0F2RGVBV2ZPOWZ3ejcxSWhqSU9fVXpvYzZaWVQ?oc=5",
-   "source": "PRESS9",
-   "date": "2026-09-01"
-  },
-  {
-   "title": "하나카드·산림조합, 연 8% 적금 특판 출시…예금은 연 4% - 네이트",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaamZacmdmTUxTOWExTWk3S0phQ0FGcHNfbGNlRkdzalRWUGlmYlBTUHBmOHlxY2RwNnc1YzhacXM0MlFOcnFvQkdURy1aZ01SM214QW9jQTZsN0pITlI1cg?oc=5",
+   "title": "하나카드, 산림조합과 연 8% 특판적금 출시 - 네이트",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZZF9ZLXZGNXhZTGhFVWtMWnlVSTYycmVDeTF2d3hNQTBPTkFMM1dxVWF6dFMwNFRLak9lMUhXZ195b0YySERlVFhtNVBDeXNPeklz?oc=5",
    "source": "네이트",
    "date": "2026-09-01"
   },
   {
-   "title": "“카드 쓰면 이자 더 드려요”…하나카드 연 8%·국민은행 12% 적금 내놓는 이유 - 매일경제",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxNnB0WVlmZ1IweTJzNHIxSzFYcnp3X0thWVNxN3lxOGZ4eGhfbVFMWHlMbjFGcF81RExYRm91MGdSLUNvRFc3ZEpKUkxtTVh3dlFFRA?oc=5",
-   "source": "매일경제",
+   "title": "하나카드, 산림조합과 연 8% 특판 적금 출시 - 네이트",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqemlEU0d3VkFSS2hNN2ZnMFpaX2lZWWRLUzVyalg1eWd3T2ZUTWhoc3ZLRElhOXU3bWJFcE5jX2FJTnA0Y2RQbTdhSXhKUDRuWUkw?oc=5",
+   "source": "네이트",
    "date": "2026-09-01"
   },
   {
-   "title": "카드업계 ‘지그재그’와 첫 PLCC 출시·산림조합과 예-적금 특판 상품 판매·무이자할부 강화 - 여성소비자신문",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9nbFUzXzRnZC1lZ0wtN0ZPRG84ejFxY2VyR29GYkF6ZUQydkNVakp3LWlQU1VwMERmWUFHVGRfLVhhU00yMVV0amJ2TVJqRFVuV3VSQWJOdVhNNEFOVC1mTmxpUU1PQQ?oc=5",
-   "source": "여성소비자신문",
-   "date": "2026-09-01"
-  },
-  {
-   "title": "카드업계 '지그재그'와 첫 PLCC 출시·산림조합과 예-적금 특판 상품 판...",
-   "link": "http://www.wsobi.com/news/articleView.html?idxno=317332",
-   "source": "네이버뉴스",
-   "date": "2026-09-01"
-  },
-  {
-   "title": "“카드 쓰면 이자 더 드려요”…하나카드 연 8%·국민은행 12% 적금 내놓...",
-   "link": "https://www.mk.co.kr/article/12141006",
-   "source": "네이버뉴스",
-   "date": "2026-09-01"
-  },
-  {
-   "title": "하나카드, 산림조합과 연 8% 특판 적금 출시",
-   "link": "https://www.womentimes.co.kr/news/articleView.html?idxno=105807",
-   "source": "네이버뉴스",
+   "title": "\"카드 쓰면 이자 더 드려요\"…하나카드 연 8%·국민은행 12% 적금 내놓는 이유 - 네이트",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE16XzNYaFRORkVoc2JwT19IaWZiSk5KRWRDQTkxUWdxRXpVZkRMVFpSMDJodEVsOWxNYVh4UTUwaHBrOHZoMXpoUTFaWTNIVkZ1RWhv?oc=5",
+   "source": "네이트",
    "date": "2026-09-01"
   }
  ],
  "news_seen": [
-  "09f5cf57c3288b04",
-  "4187c003239a24a9",
-  "29296f0bca0e2a04",
-  "a867061eae3b414b",
-  "ebe9d10b4c537f0d",
-  "9c9eee2cf8a1c77e",
-  "c6e70192a8a349aa",
-  "980cafc5175f907b",
-  "a10d5e7d01888efb",
-  "1e9b36f32188e2d4",
-  "41a18d2df75b5299",
-  "352f6b5bdc073fd8",
-  "eae9a464fb77b8a7",
-  "8ed840ccdc810e7a",
-  "8d9ed853c3ff3acb",
-  "0737c15f4ad74c21",
-  "21a632bfa421b333",
-  "bb6e02d1031edeb2",
-  "e94be922afebed2f",
-  "e1ba5138518aa4bd",
-  "8af1aef70e0c6922",
-  "aa833c415285b805",
-  "72abe9849ba2695c",
-  "a6fc525fbcffe0ac",
-  "0d2635e0d9d80d09",
-  "2d524825382e6356",
-  "3ac1a16534c451e4",
-  "63928221d408a63b",
-  "17c7550499494143",
-  "be24a2c9bf3c8627",
-  "9dbde4064fed4ed0",
-  "c541c203f9cee5bc",
-  "35eaa85208196b02",
-  "497324f25250677c",
-  "a2dc899673ea3abc",
-  "a6dab191fea67b2b",
-  "0bf7c072b3a37864",
-  "cce828c06a122ca0",
-  "a5bcdaec04abdce0",
-  "d7a0d7d61fd9dc80",
-  "7a7fca5af73d6f3e",
-  "0d6c8f90947f7dbf",
-  "68069a7a88e03e17",
   "90777233d56c6272",
   "adcd8a3487681298",
   "525d935016fab785",
@@ -3385,7 +3342,50 @@
   "e789df1f90adf481",
   "5b8dc4835dcd925d",
   "e6e20077c2c90495",
-  "6cab1c143ae76e11"
+  "6cab1c143ae76e11",
+  "8ed5ef7cac057ecf",
+  "fdce1ea9109a3033",
+  "725a98c29e1ac455",
+  "53074d468b8f4d3d",
+  "13feca4573f3bc9e",
+  "bf8754c85386adf8",
+  "1ce7925c5049ee48",
+  "9daae6ba314c4860",
+  "20f6027a0f4baf59",
+  "3d958e90ec597cc6",
+  "bdb41133b5772d89",
+  "27d210280b111139",
+  "0c8a09cea396893b",
+  "83e503b27b60c160",
+  "b548616022e3f30a",
+  "0840c7368d35c709",
+  "7902e2535063c845",
+  "4a0002dc34cc1cbb",
+  "d137243b56e60d59",
+  "9bd4f419ee10df26",
+  "054ad9bd44be8595",
+  "6a09b4edc38c898b",
+  "cc679f0ac3bacba3",
+  "f2a4053ceda4f13b",
+  "72f8d4ffdbc7a939",
+  "375825bc5e1da9db",
+  "a9528e9dcd778493",
+  "19bdd54231c78d73",
+  "9b1783c1618091d3",
+  "bda9b4d5851c1e5c",
+  "e8e119efcb762ca8",
+  "dd61034e6976791b",
+  "0dfd5a122b34f328",
+  "2d45dc58211feac8",
+  "fa934ea6ef70a066",
+  "30eefd9fefa70cd8",
+  "7e9f4f6405393409",
+  "650de2e1ced767ef",
+  "61e2cdbf550f811d",
+  "43f8f3249d1d4014",
+  "91625e8401efcd4e",
+  "7a61a887a8b68c4a",
+  "5d9dd5e4e628a576"
  ],
  "news_seeded": true,
  "news_products": [
