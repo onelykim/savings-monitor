@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-02 18:27",
+ "updated_at": "2026-09-02 23:19",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2513,6 +2513,18 @@
  ],
  "news": [
   {
+   "title": "[롤러코스피 후유증] 안전자산 ‘컴백’…은행 단기적금 특판, 저축은행은 ‘숨 고르기’ - 글로벌이코노믹",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR2cteklRRWJHR0Vpa3BQWGU1RTVJTVhWdndFUXFDNmxrdGlFN0lXbFI5RThKbURrR2pXeGNtOGEtbkV2TFdZYVc4bVdRcW5yeHBZY0pSeU01eXJnVHVqNzZqOFRPN3lTWjlYOUF6cHpVQzlnU05sbEI0bTBxYmtxSkk0V3A?oc=5",
+   "source": "글로벌이코노믹",
+   "date": "2026-09-02"
+  },
+  {
+   "title": "패션·러닝·연 8% 적금까지…가을 맞은 카드사 '신상 러시' [카드톡톡] - 매일일보",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DNnlMZzVJbFQ4aGg0bmNvSWhfMzJLcFhrY01Bd3NjSjQ4dWktejQzNG1OV19aVHQ4SGp4YlJDaXdRM3F4M0poX0Fua2FNaVJDcWNKYWVkVWhzeFNSdTRhZFBoclU2N3RO0gFoQVVfeXFMT0M2eUxnNUlsVDhoaDRuY29JaF8zMktwWGtjTUF3c2NKNDh1aS16NDM0bU5XX1pUdDhIanhiUkNpd1EzcXgzSmhfQW5rYU1pUkNxY0phZWRVaHN4U1J1NGFkUGhyVTY3dE4?oc=5",
+   "source": "매일일보",
+   "date": "2026-09-01"
+  },
+  {
    "title": "[포토] 'NH농심천심 예·적금' 출시 행사 - 이데일리TV",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE13M3B3UnRnd0htOFEwZGUxeXRxNEFyTTZIc1VfLWw1MnFLeEF0YUJ2OG1TMURyZjhkUDdLUlZpOWdITDVrTFVrTzQ3NjA0WDNjMFBvYTlDM1FDOW5jUFdUUHpTRmpvLUllSzJVaDhVN2hZNnQxX2x3QWpn?oc=5",
    "source": "이데일리TV",
@@ -2571,23 +2583,9 @@
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAxWTVUQ2p5ek94UDVBT0twSnQzTEVrbXQxVnJLUWpsVUJfZUk0REY4LUdOS2IwSFgwSzBTWmZ2aEJWSzZhOUNRNWM1amo0VUo3N2M5bGxXRXdZWGx0RkRmTGpsd3c3cmRmWGZqMl9jWER4UXlPRldDSNIBeEFVX3lxTFAxWTVUQ2p5ek94UDVBT0twSnQzTEVrbXQxVnJLUWpsVUJfZUk0REY4LUdOS2IwSFgwSzBTWmZ2aEJWSzZhOUNRNWM1amo0VUo3N2M5bGxXRXdZWGx0RkRmTGpsd3c3cmRmWGZqMl9jWER4UXlPRldDSA?oc=5",
    "source": "뉴시스",
    "date": "2026-09-01"
-  },
-  {
-   "title": "최대 8.0% 적금·4.0% 예금… 하나카드-산림조합, 고금리 제휴 특판 출시 - S저널",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5LVUJ6VjJya241S09jcEt6dFNnT0J2ckJUNHI4ZDU0NFhkTURiOW1fQXBnOVBXc1U1ZzRXajM3N05HYmpzV3VjcXRjaUlMbENUbFhQRXk3NDZCVEI1RlpIc3JnSVhxY3BjbXhmTFV3?oc=5",
-   "source": "S저널",
-   "date": "2026-09-01"
-  },
-  {
-   "title": "하나카드-산림조합, 증시 변동성 '연 8.0%' 특판 적금 상품 출시 - 마일드경제",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9SbW9uOFdlcG5XVXMxUThmcEZnLVUyOExVZ1ZYdEtRcjFGSWFHUVZwb2hBZ3NHSUEtNHBPVXI2ZS1wb1QyLVlqRE9sc1liRkhDVTNlUGd4SHgyc3RSckVLQUR4R01NdDhhTjNj?oc=5",
-   "source": "마일드경제",
-   "date": "2026-09-01"
   }
  ],
  "news_seen": [
-  "8a8d15ca08e6e77c",
-  "4598747ebb54abfc",
   "c94ac6aad8cce0f5",
   "50b66aadde858097",
   "4ccc60fa924a5982",
@@ -3385,7 +3383,9 @@
   "52e4746bf38af820",
   "c09d69b1bce68b95",
   "b96f960b8433da0c",
-  "2f88fcd8dbf6cef2"
+  "2f88fcd8dbf6cef2",
+  "e028dcdde231057e",
+  "8d00c2a78711c268"
  ],
  "news_seeded": true,
  "news_products": [
