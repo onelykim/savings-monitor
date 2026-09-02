@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-02 08:14",
+ "updated_at": "2026-09-02 13:15",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2513,6 +2513,24 @@
  ],
  "news": [
   {
+   "title": "하나카드·산림조합, 최고 연 8% 특판 적금 출시 - 한스경제",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wUW1KcVpKeFBSNkxRVUU2anNUY3dhTHJIeWxfZmloR0ZIZzRsYzV4b1BpNllhbG1GbDZMVXV3dHlzYlBnTUtYbGZFcEFaeV9fdnc4ai1IejdSLXp3RnFTZU4xUnBKVjV6Y0JhU9IBb0FVX3lxTE5zVXp6Uk5tVUdhb1JwN05iRlhWby03MlhzbjRyLThZU3U4cVM2MHdJYXktY2NIdEZnODg4QjVFYVZPdW9XQ0xSMEFmalhoSXVpRVJIaFFMdHB5bFQtc21aQ01GQV9fbDUtNFhlWEVOSQ?oc=5",
+   "source": "한스경제",
+   "date": "2026-09-02"
+  },
+  {
+   "title": "하나카드, 산림조합중앙회와 고금리 예·적금 특판…최고 연 8% - ilyoweekly.co.kr",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5IQ1ljSlBpYVEzR1Q4Nm5Yc1huWF9LVmZxczFWUGJXTHRNWmlkaGh3UGlBTEJnZlBzeTVHa3dQOW9sM1ZVZ3pEdnpCTURzR2hKMHRSNTllaDQ0ZEUyLVIxdnNpcUI5VFNtVjRPcktGWWtnZVE?oc=5",
+   "source": "ilyoweekly.co.kr",
+   "date": "2026-09-01"
+  },
+  {
+   "title": "'최고 연 12%' 특판 쏟아지는데, 실제 이자는 6만원?…고금리 적금의 반전 - 뉴시스",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAxWTVUQ2p5ek94UDVBT0twSnQzTEVrbXQxVnJLUWpsVUJfZUk0REY4LUdOS2IwSFgwSzBTWmZ2aEJWSzZhOUNRNWM1amo0VUo3N2M5bGxXRXdZWGx0RkRmTGpsd3c3cmRmWGZqMl9jWER4UXlPRldDSNIBeEFVX3lxTFAxWTVUQ2p5ek94UDVBT0twSnQzTEVrbXQxVnJLUWpsVUJfZUk0REY4LUdOS2IwSFgwSzBTWmZ2aEJWSzZhOUNRNWM1amo0VUo3N2M5bGxXRXdZWGx0RkRmTGpsd3c3cmRmWGZqMl9jWER4UXlPRldDSA?oc=5",
+   "source": "뉴시스",
+   "date": "2026-09-01"
+  },
+  {
    "title": "최대 8.0% 적금·4.0% 예금… 하나카드-산림조합, 고금리 제휴 특판 출시 - S저널",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5LVUJ6VjJya241S09jcEt6dFNnT0J2ckJUNHI4ZDU0NFhkTURiOW1fQXBnOVBXc1U1ZzRXajM3N05HYmpzV3VjcXRjaUlMbENUbFhQRXk3NDZCVEI1RlpIc3JnSVhxY3BjbXhmTFV3?oc=5",
    "source": "S저널",
@@ -2565,30 +2583,9 @@
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50ODRXQ3JVei1sNWVCNWp0SVhXMEljSEV3bGtWdzVYWlhBRU83OXRDelQyRldQS1hQdXdidllFbVVRZzA1OGN0dUl0Wkd5VkxPVFlJY09ubmppYUlsRlE?oc=5",
    "source": "아시아타임즈",
    "date": "2026-09-01"
-  },
-  {
-   "title": "하나카드, 산림조합과 고금리 예·적금 특판 - 뉴스엔뷰",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE82NUZ5bWt4bHZ1bDRPc0duYUF0cENtblVnLXQ1UHItQWl2c1VMZnh1VjY4STRSd1hFdzlwTXRmOER2ZjNlVDRUVTkyZHJVeUpDQ0JCYXZYVkdjWnBXX1JwUndxbF8?oc=5",
-   "source": "뉴스엔뷰",
-   "date": "2026-09-01"
-  },
-  {
-   "title": "\"최고 연8% 적금특판\" 하나카드, 산림조합과 10월31일까지 '하나더 적금·예금Ⅱ' 출시 | - catchnews.kr",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB1XzhoREd3QzlUM0lpSndwQ01kektoOFhaTDJLQkFCaUU3VXBSNzI1NzBJa1hkNThJU1BhODhjMGx3dXQ2V1NzQWR4ckZKdEwxSzZ1Nlc5a191M3ZwZEdlWTNUZUpOQWRCQ1RQQmFaYw?oc=5",
-   "source": "catchnews.kr",
-   "date": "2026-09-01"
-  },
-  {
-   "title": "\"적금 금리 연 8%\"…하나카드, 산림조합과 예·적금 특판 - 네이트",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0aEhwUjZYVm5vVWoyekdUSl84bFRpSGFKbDVsMmFMVWJzdk1GbGpwckswY0VxSk9ONi1JcXBDc0dGNThhUDBMNEs1WnBFeHRRVXJuc0YxUjVGTU5VUEtNVg?oc=5",
-   "source": "네이트",
-   "date": "2026-09-01"
   }
  ],
  "news_seen": [
-  "355504bfbde80dcc",
-  "741758086f5c1071",
-  "f5aa21ee67010024",
   "8af9ed98e11f4e3f",
   "ed09a4e5c7aa0105",
   "0af047e4873a55f6",
@@ -3385,7 +3382,10 @@
   "4d2c4b4e7884654e",
   "e4541702bae57f2f",
   "a3428717af93b463",
-  "ffec4cb52826d3dc"
+  "ffec4cb52826d3dc",
+  "9b122dcc73c270a9",
+  "42c1519eaa2483c7",
+  "4bbacbf03c2f923c"
  ],
  "news_seeded": true,
  "news_products": [
