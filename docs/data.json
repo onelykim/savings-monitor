@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-03 23:22",
+ "updated_at": "2026-09-04 03:30",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2513,6 +2513,12 @@
  ],
  "news": [
   {
+   "title": "새마을금고, 연 12% 금리 저출생 극복 적금…출시 두 달 만에 2만2000명 가입 - 뉴스퀘스트",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04TjFocGFOTmhOSmhMaEJZRVA3VjQ3c09hV2ZFaGpJY3lRRzVWVFhqZzRoVFRhYUpVSTlJbzEwc2lJMnI3bVNyeWI3dXBJcjlGM0hOcTZBQ1FmaV9CVFBVV1RncE9CLXgxMXVRMUtpOA?oc=5",
+   "source": "뉴스퀘스트",
+   "date": "2026-09-03"
+  },
+  {
    "title": "새마을금고중앙회·농협상호금융 ‘MG희망나눔 걸음마(馬)적금’ 가입자 증가...‘NH개인파킹통장’-‘NH파킹모아적금’ 출시 - 여성소비자신문",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE04X2dXaVdvamhwTDZBU1JNOW1qbTBvMEhuWjkxUTdoRXlLejhGcE1ueHowb1pZb3VIT0dmXzFQT05rMTF6eDFMNXZpNzlKUEpZcEpqQ0dXRWRGUjhEbEhNWTcxSk81Zw?oc=5",
    "source": "여성소비자신문",
@@ -2577,16 +2583,9 @@
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5UZ2gtMFU4d0gzZGtWN1c0SUdBOTk4b2tiU24ySzA4TWlIbDVOOXNGaGZXd3VHOTgybHN3ZkVIUGIzeHE4NVppTlFHRUx3SExoUEFtNEt1UFrSAVhBVV95cUxOVGdoLTBVOHdIM2RrVjdXNElHQTk5OG9rYlNuMkswOE1pSGw1TjlzRmhmV3d1Rzk4Mmxzd2ZFSFBiM3hxODVaaU5RR0VMd0hMaFBBbTRLdVBa?oc=5",
    "source": "미디어펜",
    "date": "2026-09-01"
-  },
-  {
-   "title": "수협중앙회, ‘더블찬스적금’ 출시…최대 연 3%p 우대금리로 자산형성 지원 - 일요주간",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5nS2hLZWt5aE9mZ2NURHpZekJZMnR1ZXUtSFBFbVhLN0phb3ZrSm5YdVdVMmd0aVRWMGFWeGVCcG9HWms4VWR1V1BEdHBsU29VU2xJMlZ2dG1VYTNlZWdDbmw0ODlDNGZ0UU5CQW9SSWpWWGE3aDVPMg?oc=5",
-   "source": "일요주간",
-   "date": "2026-08-31"
   }
  ],
  "news_seen": [
-  "1e10ef7bcbf7c58d",
   "5e281b2ea56d4fe8",
   "9630c2faf9f5ec2f",
   "74287b412bece05b",
@@ -3385,7 +3384,8 @@
   "8d00c2a78711c268",
   "d3427dea29e0b288",
   "b58a7e83cc10335a",
-  "bf04b81a965646a4"
+  "bf04b81a965646a4",
+  "92f92e9ffbfe3252"
  ],
  "news_seeded": true,
  "news_products": [
