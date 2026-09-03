@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-04 06:38",
+ "updated_at": "2026-09-04 08:56",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2513,6 +2513,12 @@
  ],
  "news": [
   {
+   "title": "하나카드, 산림조합과 연 8.0% 특판 적금 상품 출시 - 비즈월드",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xTm11M3RKU1lDdG01eFpvRTliWU1ZWG8td2cxdDZudkZFVjlXbVVSOEVveDlxM1dvVG9BWU1VQmVvYnE3WWhtb2JaaWxsQ19mWGktS3hMd0xrZFBpdlIyQUZGZE5jTUxmSl8w?oc=5",
+   "source": "비즈월드",
+   "date": "2026-09-03"
+  },
+  {
    "title": "새마을금고, 연 12% 금리 저출생 극복 적금…출시 두 달 만에 2만2000명 가입 - 뉴스퀘스트",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04TjFocGFOTmhOSmhMaEJZRVA3VjQ3c09hV2ZFaGpJY3lRRzVWVFhqZzRoVFRhYUpVSTlJbzEwc2lJMnI3bVNyeWI3dXBJcjlGM0hOcTZBQ1FmaV9CVFBVV1RncE9CLXgxMXVRMUtpOA?oc=5",
    "source": "뉴스퀘스트",
@@ -2577,16 +2583,9 @@
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8xZXpSeFctXzlVMkJQRy03TWZEU05GVmtjSU1iNGVmMk1tRU5TZEx1ekVEdXJVdTNJcThTQ0o3enh5ajJxTExWeE1fSm51MVQtVDR3X3UydU94eVp0Q3RpUmpDOTlteDlOcmQ1cXV30gFyQVVfeXFMTzRZZi1VLXlHX1pObmsxbjFyODB5Sjc4c1NpVE85czhwbFdnRHVBUzVTUVpuM19WeWF1RUJSV0JVM3FHMjlMNnd0M2s4OTZJOHlJWnp0NG4zQXdxX0VIOTAxdWtTcE1NdWxWZm5ta3BnTTR3?oc=5",
    "source": "팝콘뉴스",
    "date": "2026-09-01"
-  },
-  {
-   "title": "하나카드, 산림조합과 연 8.0% 특판 적금 상품 출시 - 미디어펜",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5UZ2gtMFU4d0gzZGtWN1c0SUdBOTk4b2tiU24ySzA4TWlIbDVOOXNGaGZXd3VHOTgybHN3ZkVIUGIzeHE4NVppTlFHRUx3SExoUEFtNEt1UFrSAVhBVV95cUxOVGdoLTBVOHdIM2RrVjdXNElHQTk5OG9rYlNuMkswOE1pSGw1TjlzRmhmV3d1Rzk4Mmxzd2ZFSFBiM3hxODVaaU5RR0VMd0hMaFBBbTRLdVBa?oc=5",
-   "source": "미디어펜",
-   "date": "2026-09-01"
   }
  ],
  "news_seen": [
-  "5e281b2ea56d4fe8",
   "9630c2faf9f5ec2f",
   "74287b412bece05b",
   "d627f9b18be01a26",
@@ -3385,7 +3384,8 @@
   "d3427dea29e0b288",
   "b58a7e83cc10335a",
   "bf04b81a965646a4",
-  "92f92e9ffbfe3252"
+  "92f92e9ffbfe3252",
+  "9f9689c27dd33886"
  ],
  "news_seeded": true,
  "news_products": [
