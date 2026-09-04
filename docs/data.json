@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-05 06:21",
+ "updated_at": "2026-09-05 08:55",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2513,6 +2513,12 @@
  ],
  "news": [
   {
+   "title": "노동진 수협 회장, 예·적금 판매 수익금 지역에 환원 ‘첫 지역 나눔 공익상품 출시 후 1천만 원 여수에 기부’ - 로컬세계",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9aM1duWGVSaVhrQmczRWNwTHNLaVJXRTMyaTl6REU5ZzI2WjhwT0NxS0ZQX0M2cmZjR0VzN0kxa1RtMGFhdUVtak9RR2w2UTJPMEZwa3BFaFlLLWtiUlFxUtIBWEFVX3lxTE5OU2RhX094OXVnLUhSbjZWSlNWY0xISFZGNk94Rl9OZGVBbEprUFJJYTVYN1dmMGQzclcxdktFbzJlRzU0Nl9MYUpCVVZNOWhGUFZZVnRQQWI?oc=5",
+   "source": "로컬세계",
+   "date": "2026-09-04"
+  },
+  {
    "title": "광주은행 ‘전남광주특별시 사랑적금’ 출시…고향사랑기부 연계 - 글로벌경제신문",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BQTlmYm13YTZDNENvakttSy1Dbk1RQ3VrTm9LRGJPWjlBN3V0elJ4ZDhuZGFZZGZWVGVrVC1wZnBHTW5xdUV6MFhBM1NCeldaTTlROVhxU3RqcFZDam1OZm8tNURKblNIYXYyTFhlb3LSAXBBVV95cUxPQUE5ZmJtd2E2QzRDb2pLbUstQ25NUUN1a05vS0RiT1o5QTd1dHpSeGQ4bmRhWWRmVlRla1QtcGZwR01ucXVFejBYQTNTQnpXWk05UTlYcVN0anBWQ2ptTmZvLTVESm5TSGF2MkxYZW9y?oc=5",
    "source": "글로벌경제신문",
@@ -2577,16 +2583,9 @@
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrdVVLb1l6V3k2bU5wNTREVTFFVDdMVnFYeHdGMVgwTmxJRWhYRTZLaUx5SmlGdzlRMUlOX1NWT0VjNzY3TlU4M1BKcVZCLS1TNWJROFVPVXpxdXVwM3BKak51Z2trZw?oc=5",
    "source": "여성소비자신문",
    "date": "2026-09-04"
-  },
-  {
-   "title": "광주은행, 전남광주통합특별시 사랑적금 출시 - 웹이코노미",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kV0ZNNmxMZ0oxaVBNUF9zYUFhNkRmNWdhUzZlaTZ0VmsxVFlhMUNORktxMUdVWFptdW03OGlWbzQyRXplMDVSVHhCYThDMnpVSlcyX1p2azJMMFpJWmNPWkZINVBLTzRXLW1Ta2NoeklqQQ?oc=5",
-   "source": "웹이코노미",
-   "date": "2026-09-04"
   }
  ],
  "news_seen": [
-  "3a4843efe2e52e5c",
   "bbecda44d44e8fcf",
   "af96e79e70f748cc",
   "0a305e09101d42dc",
@@ -3385,7 +3384,8 @@
   "1d484c3b7c24f4d2",
   "6a66b9b1bc454406",
   "1fc0afe23d6946cb",
-  "1bb7dd796a181a82"
+  "1bb7dd796a181a82",
+  "4c00ffcf49180aef"
  ],
  "news_seeded": true,
  "news_products": [
