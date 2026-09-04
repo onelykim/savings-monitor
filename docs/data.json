@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-04 18:29",
+ "updated_at": "2026-09-04 23:12",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2513,6 +2513,30 @@
  ],
  "news": [
   {
+   "title": "광주은행 ‘전남광주특별시 사랑적금’ 출시…고향사랑기부 연계 - 글로벌경제신문",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BQTlmYm13YTZDNENvakttSy1Dbk1RQ3VrTm9LRGJPWjlBN3V0elJ4ZDhuZGFZZGZWVGVrVC1wZnBHTW5xdUV6MFhBM1NCeldaTTlROVhxU3RqcFZDam1OZm8tNURKblNIYXYyTFhlb3LSAXBBVV95cUxPQUE5ZmJtd2E2QzRDb2pLbUstQ25NUUN1a05vS0RiT1o5QTd1dHpSeGQ4bmRhWWRmVlRla1QtcGZwR01ucXVFejBYQTNTQnpXWk05UTlYcVN0anBWQ2ptTmZvLTVESm5TSGF2MkxYZW9y?oc=5",
+   "source": "글로벌경제신문",
+   "date": "2026-09-04"
+  },
+  {
+   "title": "우리은행, 국가대표 응원 적금 출시…응원 댓글 많을수록 금리↑ - gukjenews.com",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0RlJxTjhSeHdGWm1kdzd4WmFtbzFQS2dVSmdlQjFKSm9TYnAyaEpPTmU1ZTJ5Zmx2aGN5OE5mSy1ERFdEZW5xdU1kV09ENUNWTW5haUJDQnlrbFItOHUxTXRabDFVc21jMDV6OWhn?oc=5",
+   "source": "gukjenews.com",
+   "date": "2026-09-04"
+  },
+  {
+   "title": "광주은행 최고 금리 4.7% '통합특별시 사랑적금' 출시",
+   "link": "https://kjmbc.co.kr/NewsArticle/1535517",
+   "source": "네이버뉴스",
+   "date": "2026-09-04"
+  },
+  {
+   "title": "하나카드, 산림조합과 연 8.0% 특판 적금 상품 출시 - 비즈월드",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zZ2ZyQ1pYam5Yd3Rsb1FYbDlvOThXbi11UGloZHlQVTRJeHRjaHM3UkR4ckswQTVfak9qRU10V01YckFSTG9qOGlHOGgzWXlOY3VTOHNsMkh6Tkg3SjBUdjJEYW9md0FVWmc?oc=5",
+   "source": "비즈월드",
+   "date": "2026-09-03"
+  },
+  {
    "title": "광주은행, ‘전남광주시 사랑적금’ 출시 - 진일보",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IVWhhWC1Wb0lyUVc5Ti1KOWtMczhsWEoxR1RhMEZtSFhVeWc1RWNGMy1xSnV6WE5nLWtTVWZGMl9aR1NNS2pEVFNzcFBRSklfUU1GNktXS3I4NFFKdUUyTlJyYnViQ2s4dlZ2am42bw?oc=5",
    "source": "진일보",
@@ -2559,37 +2583,9 @@
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kV0ZNNmxMZ0oxaVBNUF9zYUFhNkRmNWdhUzZlaTZ0VmsxVFlhMUNORktxMUdVWFptdW03OGlWbzQyRXplMDVSVHhCYThDMnpVSlcyX1p2azJMMFpJWmNPWkZINVBLTzRXLW1Ta2NoeklqQQ?oc=5",
    "source": "웹이코노미",
    "date": "2026-09-04"
-  },
-  {
-   "title": "광주은행 최고 금리 4.7% '통합특별시 사랑적금' 출시",
-   "link": "https://kjmbc.co.kr/NewsArticle/1535444",
-   "source": "네이버뉴스",
-   "date": "2026-09-04"
-  },
-  {
-   "title": "광주은행 '전남광주특별시 사랑적금' 출시…고향사랑기부 연계",
-   "link": "https://www.getnews.co.kr/news/articleView.html?idxno=879886",
-   "source": "네이버뉴스",
-   "date": "2026-09-04"
-  },
-  {
-   "title": "광주은행, 전남광주통합특별시 사랑적금 출시",
-   "link": "https://view.asiae.co.kr/article/2026090415304203497",
-   "source": "네이버뉴스",
-   "date": "2026-09-04"
-  },
-  {
-   "title": "광주은행, ‘전남광주시 사랑적금’ 출시",
-   "link": "https://www.thepowernews.co.kr/view.php?ud=2026090415235424026d16d784a7_7",
-   "source": "네이버뉴스",
-   "date": "2026-09-04"
   }
  ],
  "news_seen": [
-  "28d449c67970e7d1",
-  "aa597aae5b86f332",
-  "c9c1f1bf4c3f4cc6",
-  "d60bd9637c3b031b",
   "3a4843efe2e52e5c",
   "bbecda44d44e8fcf",
   "af96e79e70f748cc",
@@ -3385,7 +3381,11 @@
   "0fe2c3412b750c16",
   "5a7f634c1ea76883",
   "ae9db1231e857c26",
-  "839418072f103aa2"
+  "839418072f103aa2",
+  "1d484c3b7c24f4d2",
+  "6a66b9b1bc454406",
+  "1fc0afe23d6946cb",
+  "1bb7dd796a181a82"
  ],
  "news_seeded": true,
  "news_products": [
@@ -3395,7 +3395,7 @@
    "norm": "전남광주통합특별시사랑적금",
    "rate": 4.7,
    "first_news": "2026-09-04",
-   "count": 21,
+   "count": 22,
    "articles": [
     {
      "title": "광주은행, '전남광주통합특별시 사랑적금' 출시 - 연합뉴스",
@@ -3476,12 +3476,18 @@
    "norm": "전남광주특별시사랑적금",
    "rate": null,
    "first_news": "2026-09-04",
-   "count": 1,
+   "count": 2,
    "articles": [
     {
      "title": "광주은행 '전남광주특별시 사랑적금' 출시…고향사랑기부 연계",
      "link": "https://www.getnews.co.kr/news/articleView.html?idxno=879886",
      "source": "네이버뉴스",
+     "date": "2026-09-04"
+    },
+    {
+     "title": "광주은행 ‘전남광주특별시 사랑적금’ 출시…고향사랑기부 연계 - 글로벌경제신문",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BQTlmYm13YTZDNENvakttSy1Dbk1RQ3VrTm9LRGJPWjlBN3V0elJ4ZDhuZGFZZGZWVGVrVC1wZnBHTW5xdUV6MFhBM1NCeldaTTlROVhxU3RqcFZDam1OZm8tNURKblNIYXYyTFhlb3LSAXBBVV95cUxPQUE5ZmJtd2E2QzRDb2pLbUstQ25NUUN1a05vS0RiT1o5QTd1dHpSeGQ4bmRhWWRmVlRla1QtcGZwR01ucXVFejBYQTNTQnpXWk05UTlYcVN0anBWQ2ptTmZvLTVESm5TSGF2MkxYZW9y?oc=5",
+     "source": "글로벌경제신문",
      "date": "2026-09-04"
     }
    ],
