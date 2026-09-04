@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-04 13:18",
+ "updated_at": "2026-09-04 18:29",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -1680,8 +1680,8 @@
      "save_trm": 12,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.01,
-     "intr_rate2": 3.81
+     "intr_rate": 3.02,
+     "intr_rate2": 3.82
     },
     {
      "save_trm": 24,
@@ -1698,8 +1698,8 @@
      "intr_rate2": 3.5
     }
    ],
-   "best_rate": 3.81,
-   "best_base_rate": 3.01,
+   "best_rate": 3.82,
+   "best_base_rate": 3.02,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EB%86%8D%ED%98%91%EC%9D%80%ED%96%89%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20NH%EC%A7%81%EC%9E%A5%EC%9D%B8%EC%9B%94%EB%B3%B5%EB%A6%AC%EC%A0%81%EA%B8%88",
    "first_seen": "2026-07-10",
@@ -2513,91 +2513,79 @@
  ],
  "news": [
   {
-   "title": "광주은행, '전남광주통합특별시 사랑적금' 출시 - 연합뉴스",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UcDloN1k1T1lpeHl3T3lGYzBjUXBVeExsYUZNZlVEdmIxNzdhWHpWS2FnSkJHVXNtbGlVX0RSR2FZYTlBSHZJaHJlaENIMktSa0huX1dsQ0F2c0t6cXRsS9IBYEFVX3lxTE9UcDloN1k1T1lpeHl3T3lGYzBjUXBVeExsYUZNZlVEdmIxNzdhWHpWS2FnSkJHVXNtbGlVX0RSR2FZYTlBSHZJaHJlaENIMktSa0huX1dsQ0F2c0t6cXRsSw?oc=5",
-   "source": "연합뉴스",
+   "title": "광주은행, ‘전남광주시 사랑적금’ 출시 - 진일보",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IVWhhWC1Wb0lyUVc5Ti1KOWtMczhsWEoxR1RhMEZtSFhVeWc1RWNGMy1xSnV6WE5nLWtTVWZGMl9aR1NNS2pEVFNzcFBRSklfUU1GNktXS3I4NFFKdUUyTlJyYnViQ2s4dlZ2am42bw?oc=5",
+   "source": "진일보",
    "date": "2026-09-04"
   },
   {
-   "title": "광주은행, 최고 연 4.7% '전남광주통합특별시 사랑적금' 출시 - ebn.co.kr",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wZkFCa1ZETTJxcktselpIOXJtQ1hvNHlnTTZkZnNMVEs1dWx1Q2tLWFM2QzlnVTJmX05PTjRTQllyRUdNQTJTcVhKNXlickEtN1lkNmNSNVp0Zl8tcFYxY3EzRGV5WVdB?oc=5",
-   "source": "ebn.co.kr",
+   "title": "광주은행, '전남광주통합특별시 사랑적금' 출시...우대금리 충족 시 최고 연 4.70% 금리 제공 - fnnews.com",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93cnZrejhObTJqZ1pIdWpDLU1EWXF1WHhVd3NiVzNGSE1oX1l1SHZCMHQ2QlJuaTFyVm1FSlg4eUkzdS16WTBSalI0VjYzWEg5Y3Q1cE9lWFhyZw?oc=5",
+   "source": "fnnews.com",
    "date": "2026-09-04"
   },
   {
-   "title": "광주은행 통합특별시 사랑적금 출시 우대조건 충족 시 최고 연 4.70% > 뉴스 - 더코리아",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55VkYtTTV1RVRFTzBPNGNfNFJNV0JONDZISUdhV1d3RU04c194c19taEppQWRjSDNidkJTSkEzTnI0TGhVRUgtYlFTR1pjZ3pGZk5XeHRGdlJVRjc5YlotUWZwYzFMcjFFV0tJVE41UkU?oc=5",
-   "source": "더코리아",
+   "title": "광주은행, ‘전남광주시 사랑적금’ 출시 - thepowernews.co.kr",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5TMXo5dGphWGl3ZW9vZE9qajZXTms1UUp0NnVIeFBndWM4Q0stUDFfdGY2VHc0bW1rcWNzOTdTSjl0M21uRFNtZEpBZ0wxSWRFYWxocjJOa1RyWFZmZkRyQlpCaUhadUNZbzlsVUxzcTBFbDh3ZVRJTE9adWxIQQ?oc=5",
+   "source": "thepowernews.co.kr",
    "date": "2026-09-04"
   },
   {
-   "title": "광주은행, 고향사랑기부 연계 적금 출시 - 금융경제신문",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hRjBQRnpTSTg0VWh3dUgzOHhvcWpYUVQtdVZWVklKb3dkd2p2R1Y4aEpzSnM1T1ExSHQ4azZ5Um9BZ1I1TG1DaFdjNURjTjF2N09WbVV6V1dBUjlTVGo4bVFvamlzaGNUcWpPZtIBb0FVX3lxTFBZREZVby1yaU5Ja2w0VU0wS3lmVXZoYW0xNEFJcEZIeFBpUFI1V0ZqaHhzcnR4ajIzY0NFNWFtcks4VEczMWI1M3B3SzBJcWZ4XzNRa2laXzdqQ3VRT0xmNGpiOFBFaks5ZGM0Z2FHTQ?oc=5",
-   "source": "금융경제신문",
+   "title": "광주은행, ‘전남광주통합특별시 사랑적금’ 출시… 최고 연 4.70% 금리 제공 - 브레이크뉴스",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE55SU5WclFFcEJFMU5FdkNUbW40VUVYb3hwQW1DRkxwMkYwZ2RZOUNDSm9odlFHOTVYdDZ1VG5zTUsxZTUxRDNvcA?oc=5",
+   "source": "브레이크뉴스",
    "date": "2026-09-04"
   },
   {
-   "title": "광주은행, ‘전남광주통합특별시 사랑적금’ 출시 - 누리일보",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tS0NxN3QwRmplX2RDN0dDVWo4d3RsRWZnbVJGVDRPZ09LSlllOXJiQnNIWlZrYXNLUFFia3dxSzlXY3BCeXZpTl9XclB0VWY3SXhNcy1wT0dHcnc5?oc=5",
-   "source": "누리일보",
+   "title": "광주은행, '전남광주통합특별시 사랑적금' 출시 - 노컷뉴스",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBLZ2t1OHJMWDNGZ0U0dWhzekJaUkpPVEpCdi02T0lQTGsxR25YbmJiZUJrZFJReV8tbFBmQ2ozRTAxNkhhS2RhRS1CNno4bnJsbzctTQ?oc=5",
+   "source": "노컷뉴스",
    "date": "2026-09-04"
   },
   {
-   "title": "광주은행, 최고 연 4.70% '전남광주통합특별시 사랑적금' 출시 - gukjenews.com",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1vMDhvcmd1cUFZVHpwblFqWmFoVTBRU0xXZXZkQjhfRHlUVkgtUGRtcjVkVFl6bFFUeElYTjg1bGkzMmp4U256ZjZBRkFkQ095bXBoOTczcHNXQlhOTWxiVDVxcWZrQzdqSVpVYi1R?oc=5",
-   "source": "gukjenews.com",
-   "date": "2026-09-04"
-  },
-  {
-   "title": "광주은행, '전남광주통합특별시 사랑적금' 출시 - 네이트",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzVlJsd0FZdTBON0ZZTzhJZ25zZmkyUnA4ZExwbC1MeHJWY3Rmb3pLakEzVXFHeUx1Qld1YWFXRVNHd204VEREcFBxbG9TZ2xfRzZZ?oc=5",
+   "title": "광주은행, 전남광주통합특별시 사랑적금 출시 - 네이트",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5ZHpNUFNtd3lHVnlfaGhMeDlBOU9wci10d0RKY2hOTW1JR2EwQXRtQlRaU2FmeW9QOW5nSlFaUThCYzVZUDZIYkxUMDM2ZkwwSDlr?oc=5",
    "source": "네이트",
    "date": "2026-09-04"
   },
   {
-   "title": "광주은행, 최고 연 4.70% 금리제공 적금 출시 - 네이트",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PcENxYnhualRzUUFDUkRzbkI5UzZWMEJDUlMycEpiOEhoOWpfRTYxb1Exd0ZtYkJ0NDZyTzBVVERkMnczMzljVG5wNnlpc3FBc1hr?oc=5",
-   "source": "네이트",
+   "title": "KB증권·광주은행 ‘퇴직연금형 개인투자용 국채’ 거래 서비스 오픈·‘전남광주통합특별시 사랑적금’ 출시 - 여성소비자신문",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrdVVLb1l6V3k2bU5wNTREVTFFVDdMVnFYeHdGMVgwTmxJRWhYRTZLaUx5SmlGdzlRMUlOX1NWT0VjNzY3TlU4M1BKcVZCLS1TNWJROFVPVXpxdXVwM3BKak51Z2trZw?oc=5",
+   "source": "여성소비자신문",
    "date": "2026-09-04"
   },
   {
-   "title": "사랑예금 완판 이어…광주은행, '통합특별시 사랑적금' 출시 - 네이트",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFcHBJaWN6WmdZenlxSHZtNE0xSFFOWk13NFJrYjRwY0oxV2FrWmQ0eXBNWThraWZUZmk2ck85VnhIZWRHTXhpZE9IMXpmWFMtVGtB?oc=5",
-   "source": "네이트",
+   "title": "광주은행, 전남광주통합특별시 사랑적금 출시 - 웹이코노미",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kV0ZNNmxMZ0oxaVBNUF9zYUFhNkRmNWdhUzZlaTZ0VmsxVFlhMUNORktxMUdVWFptdW03OGlWbzQyRXplMDVSVHhCYThDMnpVSlcyX1p2azJMMFpJWmNPWkZINVBLTzRXLW1Ta2NoeklqQQ?oc=5",
+   "source": "웹이코노미",
    "date": "2026-09-04"
   },
   {
-   "title": "광주은행, ‘전남광주통합특별시 사랑적금’ 출시… 최고 연 4.70% 금리 ...",
-   "link": "http://www.breaknews.com/1234141",
+   "title": "광주은행 최고 금리 4.7% '통합특별시 사랑적금' 출시",
+   "link": "https://kjmbc.co.kr/NewsArticle/1535444",
    "source": "네이버뉴스",
    "date": "2026-09-04"
   },
   {
-   "title": "광주은행, 최고 연 4.70% '전남광주통합특별시 사랑적금' 출시",
-   "link": "https://www.the-today.com/news/articleView.html?idxno=89457",
+   "title": "광주은행 '전남광주특별시 사랑적금' 출시…고향사랑기부 연계",
+   "link": "https://www.getnews.co.kr/news/articleView.html?idxno=879886",
    "source": "네이버뉴스",
    "date": "2026-09-04"
   },
   {
-   "title": "광주은행, 최고 연 4.7% '전남광주통합특별시 사랑적금' 출시",
-   "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1723003",
+   "title": "광주은행, 전남광주통합특별시 사랑적금 출시",
+   "link": "https://view.asiae.co.kr/article/2026090415304203497",
+   "source": "네이버뉴스",
+   "date": "2026-09-04"
+  },
+  {
+   "title": "광주은행, ‘전남광주시 사랑적금’ 출시",
+   "link": "https://www.thepowernews.co.kr/view.php?ud=2026090415235424026d16d784a7_7",
    "source": "네이버뉴스",
    "date": "2026-09-04"
   }
  ],
  "news_seen": [
-  "a02b1e3b35aca916",
-  "81856446b0dfe9ce",
-  "f7c8dae2e8209541",
-  "69dcfc68504b632c",
-  "77258811505e42d6",
-  "8ec18165a977416c",
-  "c0d8f2af6316f959",
-  "f9b0d13b5708ee60",
-  "ed3205804246f1fd",
-  "2facd002e3a6f236",
-  "e1f4c96c0a999ca5",
-  "4d34213dbe5e5ab0",
   "28d449c67970e7d1",
   "aa597aae5b86f332",
   "c9c1f1bf4c3f4cc6",
@@ -3385,7 +3373,19 @@
   "f51f50190e90ad39",
   "2618457dd6b07c6e",
   "e2eb1715f7e84153",
-  "94ae710f941cf01c"
+  "94ae710f941cf01c",
+  "5309141eb8e52369",
+  "b24aa782ee4f481e",
+  "08281e0564a7bc24",
+  "604567bb40255884",
+  "ca18cc87d54c8727",
+  "36079cfd7b94f21b",
+  "616dbee58e0f77bb",
+  "229f5393875897ba",
+  "0fe2c3412b750c16",
+  "5a7f634c1ea76883",
+  "ae9db1231e857c26",
+  "839418072f103aa2"
  ],
  "news_seeded": true,
  "news_products": [
@@ -3395,7 +3395,7 @@
    "norm": "전남광주통합특별시사랑적금",
    "rate": 4.7,
    "first_news": "2026-09-04",
-   "count": 14,
+   "count": 21,
    "articles": [
     {
      "title": "광주은행, '전남광주통합특별시 사랑적금' 출시 - 연합뉴스",
@@ -3419,6 +3419,69 @@
      "title": "광주은행, ‘전남광주통합특별시 사랑적금’ 출시 - 누리일보",
      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tS0NxN3QwRmplX2RDN0dDVWo4d3RsRWZnbVJGVDRPZ09LSlllOXJiQnNIWlZrYXNLUFFia3dxSzlXY3BCeXZpTl9XclB0VWY3SXhNcy1wT0dHcnc5?oc=5",
      "source": "누리일보",
+     "date": "2026-09-04"
+    }
+   ],
+   "in_disclosure": false
+  },
+  {
+   "bank": "광주은행",
+   "name": "전남광주시 사랑적금",
+   "norm": "전남광주시사랑적금",
+   "rate": null,
+   "first_news": "2026-09-04",
+   "count": 3,
+   "articles": [
+    {
+     "title": "광주은행, ‘전남광주시 사랑적금’ 출시 - 진일보",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IVWhhWC1Wb0lyUVc5Ti1KOWtMczhsWEoxR1RhMEZtSFhVeWc1RWNGMy1xSnV6WE5nLWtTVWZGMl9aR1NNS2pEVFNzcFBRSklfUU1GNktXS3I4NFFKdUUyTlJyYnViQ2s4dlZ2am42bw?oc=5",
+     "source": "진일보",
+     "date": "2026-09-04"
+    },
+    {
+     "title": "광주은행, ‘전남광주시 사랑적금’ 출시 - thepowernews.co.kr",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5TMXo5dGphWGl3ZW9vZE9qajZXTms1UUp0NnVIeFBndWM4Q0stUDFfdGY2VHc0bW1rcWNzOTdTSjl0M21uRFNtZEpBZ0wxSWRFYWxocjJOa1RyWFZmZkRyQlpCaUhadUNZbzlsVUxzcTBFbDh3ZVRJTE9adWxIQQ?oc=5",
+     "source": "thepowernews.co.kr",
+     "date": "2026-09-04"
+    },
+    {
+     "title": "광주은행, ‘전남광주시 사랑적금’ 출시",
+     "link": "https://www.thepowernews.co.kr/view.php?ud=2026090415235424026d16d784a7_7",
+     "source": "네이버뉴스",
+     "date": "2026-09-04"
+    }
+   ],
+   "in_disclosure": false
+  },
+  {
+   "bank": "국민은행",
+   "name": "전남광주통합특별시 사랑적금",
+   "norm": "전남광주통합특별시사랑적금",
+   "rate": null,
+   "first_news": "2026-09-04",
+   "count": 1,
+   "articles": [
+    {
+     "title": "KB증권·광주은행 ‘퇴직연금형 개인투자용 국채’ 거래 서비스 오픈·‘전남광주통합특별시 사랑적금’ 출시 - 여성소비자신문",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrdVVLb1l6V3k2bU5wNTREVTFFVDdMVnFYeHdGMVgwTmxJRWhYRTZLaUx5SmlGdzlRMUlOX1NWT0VjNzY3TlU4M1BKcVZCLS1TNWJROFVPVXpxdXVwM3BKak51Z2trZw?oc=5",
+     "source": "여성소비자신문",
+     "date": "2026-09-04"
+    }
+   ],
+   "in_disclosure": false
+  },
+  {
+   "bank": "광주은행",
+   "name": "전남광주특별시 사랑적금",
+   "norm": "전남광주특별시사랑적금",
+   "rate": null,
+   "first_news": "2026-09-04",
+   "count": 1,
+   "articles": [
+    {
+     "title": "광주은행 '전남광주특별시 사랑적금' 출시…고향사랑기부 연계",
+     "link": "https://www.getnews.co.kr/news/articleView.html?idxno=879886",
+     "source": "네이버뉴스",
      "date": "2026-09-04"
     }
    ],
@@ -3872,93 +3935,6 @@
      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zSnVGeVQ3bUREUnNjRm9Sci1IV3ZoRWtDc2lfeDJvb1FnX2gzeFVSMFhaOVJsS21YQW10SDc1RHpZaDRiYUZuT09qLWNfbEl3WnVrblpwcVJOVUxaaHpwM3ZFVzZReWNvU3NieU9aRHPSAXBBVV95cUxPM0p1RnlUN21ERFJzY0ZvUnItSFd2aEVrQ3NpX3gyb29RZ19oM3hVUjBYWjlSbEttWEFtdEg3NUR6WWg0YmFGbk9Pai1jX2xJd1p1a25acHFSTlVMWmh6cDN2RVc2UXljb1NzYnlPWkRz?oc=5",
      "source": "소년한국일보",
      "date": "2026-08-14"
-    }
-   ],
-   "in_disclosure": false
-  },
-  {
-   "bank": "국민은행",
-   "name": "청년미래적금",
-   "norm": "청년미래적금",
-   "rate": 19.0,
-   "first_news": "2026-08-14",
-   "count": 1,
-   "articles": [
-    {
-     "title": "“최고 연 19% 효과” 청년미래적금 내일 출시 / KBS 2026.06.21. Retraites Complémentaires Erreurs (70hgXcR3Gh) - Mshale",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KV2FOSEtacFh6X0JxbnRmS2RRdE5tZWI3Y2lkMi1tRkktSURNMXl0WDdRYVpiRWRhdklzOV9UcFJNODJyUW9LR0NqSzJHbG0xdHM3UkdCZDA1ek0?oc=5",
-     "source": "Mshale",
-     "date": "2026-08-14"
-    }
-   ],
-   "in_disclosure": false
-  },
-  {
-   "bank": "신한은행",
-   "name": "신한 적금 9단",
-   "norm": "신한적금9단",
-   "rate": 9.0,
-   "first_news": "2026-08-13",
-   "count": 126,
-   "articles": [
-    {
-     "title": "신한은행, 최고 연 9.0% '신한 적금 9단' 출시 - 연합뉴스",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KOEZkUFFiWERYbFlORlg0Nk5qMi1FNkxNdnVrcXJQcmFzcURUVUVWQUNnOUpQbWpZSllGZnYtaXBIbUpOTjQwbHhOUnRNXzJtYzhZRGVPRUxteEJ4UW5rMtIBYEFVX3lxTE1KOEZkUFFiWERYbFlORlg0Nk5qMi1FNkxNdnVrcXJQcmFzcURUVUVWQUNnOUpQbWpZSllGZnYtaXBIbUpOTjQwbHhOUnRNXzJtYzhZRGVPRUxteEJ4UW5rMg?oc=5",
-     "source": "연합뉴스",
-     "date": "2026-08-13"
-    },
-    {
-     "title": "\"최고 연 9%\"…신한은행, 목돈 마련 돕는 '신한 적금 9단' 출시 - 한국경제",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxSG1lT2ZMbzVuNjZqUk1lb2lkTm9PVTFBNUFnU19EaUQ3cnZjNnJKMUxvYkg3LV9HZERLOFlhdF8xbEVBVWo0emYyN0dhNTZFczQ5R3hCbG9DUQ?oc=5",
-     "source": "한국경제",
-     "date": "2026-08-13"
-    },
-    {
-     "title": "신한은행, ‘신한 적금 9단’ 출시…최고 연 9% 금리 - 디지털데일리",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5hYlVkQVRWOGpabFBKLWMtM2dPdTBfZ05VQ09YbWdvQ083bTVaTHpTSkhJUTl6Q0dHUjA2d0JTTDdnU0pjOExCOFU4UzhZYk5DS2ZtWmhpcUo1NVlHV2wyY2Nn?oc=5",
-     "source": "디지털데일리",
-     "date": "2026-08-13"
-    },
-    {
-     "title": "신한은행, 최고 연 9% '신한 적금 9단' 출시 - ebn.co.kr",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZQVFBNGo5Vk1HNmhyenZhNXlwZE9GV3VzcWxqWGR0MF9YR3ZTem5GaDZfU05fVmJENTNPNzhmZUE2SVlhdlhYMzJIcUZSQjdXallGYmUzVS1jcV9qbjMzWW5oa2pvSHBk?oc=5",
-     "source": "ebn.co.kr",
-     "date": "2026-08-13"
-    }
-   ],
-   "in_disclosure": false
-  },
-  {
-   "bank": "전북은행",
-   "name": "현대자동차 X JB 특판적금",
-   "norm": "현대자동차XJB특판적금",
-   "rate": 4.5,
-   "first_news": "2026-08-13",
-   "count": 16,
-   "articles": [
-    {
-     "title": "전북은행, 최고 연 4.50% ‘현대자동차 X JB 특판적금’ 출시 및 이벤트 실시 - 전북투데이",
-     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHUjZMNklsYXpYVnQ5SlJCRXNuVXU4U2QyWjlGQUpJajJCYTNSVkNKdnU3SG9tVGViUEdacERJNjVSQXpSTDBuWDRvc0dDTUc2dFoxSGpmcTZQU1k4TmE2SzEzSFo?oc=5",
-     "source": "전북투데이",
-     "date": "2026-08-13"
-    },
-    {
-     "title": "전북은행, 현대차 연계 ‘JB 특판적금’ 출시…최고 연 4.50% - NSP통신",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvOWlJQWZVRmQtUlhKNEt4VXN3MTZYaURJQUxIdXJjNF9ld2U4allaSTJyQmlvLUVUMWN1ZXNxdUZqdk51aVB2U2pxOG9UVk9uT1VwZFRacF9EZEdqZGFBaQ?oc=5",
-     "source": "NSP통신",
-     "date": "2026-08-13"
-    },
-    {
-     "title": "“현대차 사고 최고 연 4.5% 금리 받는다”…전북은행, 제휴 특판적금 출시 - 전민일보",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE11RUp3WlJ1YXJoNlN3TGZMQUE0TXptOThCZE1IZEtyV1V6VTRHT09ucW1vczEyU0dPYUVnel9FQVNWdjZ0RGNaU043TEN4cG5PbG50SWo1WFhzdUxoTS11UDlOVU1vQQ?oc=5",
-     "source": "전민일보",
-     "date": "2026-08-13"
-    },
-    {
-     "title": "\"현대차 사고 최고 연 4.5% 금리 받는다\"…전북은행, 제휴 특판적금 출시",
-     "link": "http://www.jeonmin.co.kr/news/articleView.html?idxno=445167",
-     "source": "네이버뉴스",
-     "date": "2026-08-13"
     }
    ],
    "in_disclosure": false
