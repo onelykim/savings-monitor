@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-06 07:50",
+ "updated_at": "2026-09-06 09:48",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2513,111 +2513,79 @@
  ],
  "news": [
   {
-   "title": "광주은행, '전남광주통합특별시 사랑적금' 출시 - 노컷뉴스",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nQ0ZUNmpsNGZSS1EzTDd6ZmVMWXc3cVRSa0hqME1iQUJ2ZDVqeW04SmlwM0pyMmRXVG1JOHJseEpjS05GSDhLZmU4QkF4T2ZpWmc?oc=5",
-   "source": "노컷뉴스",
-   "date": "2026-09-04"
+   "title": "우리銀, 아시안게임 승리 기원...연 7.5% 적금 출시 - hankyung.com",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QVERYd1VnU2tCcHRQVTJmYVBQNW9naWZ2Q1ZDMXJIRTZXMHZPb3paek9Wa01mWEJqUFY2cnFRS0pnc2xfR1hGZ1RaM2hXYTdUQjdlUW9OOVo1QQ?oc=5",
+   "source": "hankyung.com",
+   "date": "2026-09-06"
   },
   {
-   "title": "광주은행, ‘전남광주통합특별시 사랑적금’ 출시 - 세계로컬타임즈",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnVHp0LXhMeGRBRnpMSUpoYk5ib3lvTWJGWTFFdk40c3B4UmlCS0ZiNi0yckFJZXdrdUQ5Zi1kU3puTktZckFiMDczTnl3Z1ROVW5NOGU0ZHBUVnZoeXc?oc=5",
-   "source": "세계로컬타임즈",
-   "date": "2026-09-04"
+   "title": "우리은행, 팀코리아 응원 적금 출시···최고 연 7.5% - newsway.co.kr",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHbXExb20yQi1PdHpsQUFta0V0UDY4T0REN3JxVVktX3B4WjdPVnV5ZkdhN0Zjd0J0MW9OWmgwTTVEQzd4a1JUdjlPWVBrWlNwb2E4Y0pOVHFxd0pKNHN0WlNvRUNFSnl5anc?oc=5",
+   "source": "newsway.co.kr",
+   "date": "2026-09-06"
+  },
+  {
+   "title": "우리은행, ‘아시안게임 팀코리아 승리 기원’ 적금 출시 - bikorea.net",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jWmFGWEoxQU5ULTRkYjduVnVyTndPQ2dqaWhqNWxvMkJDRWlnZ0ltcFF5YUN4ZVBHd1JFbS0wd3VETlpzWWNzUDBHbm1BWURzclo3SkVZZy1MRExkTHU1bk5JSkltSTA?oc=5",
+   "source": "bikorea.net",
+   "date": "2026-09-06"
+  },
+  {
+   "title": "우리銀, 아시안게임 팀코리아 승리 기원에 연 7.5% 적금 출시 - v.daum.net",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9OS21VcWcxaUNkUHJEWkdNRE1GWUdKN0VNOVppOFAyS052cEpvM1E0T1hXS19aSEYwMGlLbHZCQUJ4T0NaTnZJVFRtVlN1TTQ?oc=5",
+   "source": "v.daum.net",
+   "date": "2026-09-06"
+  },
+  {
+   "title": "우리은행, 아시안게임 ‘팀 코리아’ 응원 적금 출시 - 이코노뉴스",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xbk51SzlubnVfR0NlWkpCeVNVQXMwSTZ3R3ZmQVJ1ZVUxaXZ0WU5hSVBTamRvNFA1dlRJVFJJRU1EcDJoUi1PMnRxVjNtSUp3TUg4X19wdmcxSFlOYklSV2tTYnlwaUJGZjg0VWRB?oc=5",
+   "source": "이코노뉴스",
+   "date": "2026-09-06"
+  },
+  {
+   "title": "우리은행, 아시안게임 '팀코리아' 적금 출시…최고 연 7.5% - news.nate.com",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE45aUhiYXNRejFaaWE4WVIxWjNITEw5WUhnQ3RLaXFGU1NUak5GYnJJdS1BLWI2UVB1Sm9UbVBDNHdSaTgyRlZhODYwTXJnOTNxUjlr?oc=5",
+   "source": "news.nate.com",
+   "date": "2026-09-06"
+  },
+  {
+   "title": "우리은행, '아시안게임 승리 기원' 최고 연 7.5% 적금 출시 - 월요신문",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5yanU4aEtjbVhiNDEwUTI0OWlNZEFHM0tmRDFjT2tEMkVDbm1DdHk4UWpwT2wyQkxiNUFscjZyY3BVdDVlUmpXb0xhb3ZGUVRkbTFYRFJMNl9JTGxGRTVWRVlqOGgtdG5nYkE?oc=5",
+   "source": "월요신문",
+   "date": "2026-09-06"
+  },
+  {
+   "title": "우리은행, '팀코리아' 응원 적금 출시…최고 연 7.5% - 스포츠한국",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rWDFiZWdZbGxWdGh3WjZXa0IzRXFGaEdid1hRdXdneTJIbWRmVko3RTVvSXo4aHZBemJldVdBc1dKbmlBdnp1aHBtU1E1YTQwV0d1YXM3WnFNLXVPcG5KNUs5RUZSN3h3R3MtMENZMjLSAXRBVV95cUxNX2NUM3NyU0UteWhQUkxOcGFhY0g5azhXSV9HQlNnOHVLbUdlLUlLdGNhX3JLSmgxNGhoSWtNQWhnTV9QMjI0WTBIenNCQjQ1eFQ1aW5seGY1a21IdEVDeDhzZFRsci10X1ctN1V5ZUNrWHBCQg?oc=5",
+   "source": "스포츠한국",
+   "date": "2026-09-06"
+  },
+  {
+   "title": "우리은행, Team Korea 적금 2 출시…최고 연 7.5% 금리 제공 - 뉴스퀘스트",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TMkFrZVplUFc2UUVVRERiVHhEaVdsRFlPc3ZhbzhscGV1Nm1MQ013NklrU1RPUWxUUXl1NGZlYWtLWHBrQXFlN0xCdEFQdElqZ2ZZVWdUckxKMDBJRXJDS3BHazZmY3VMT2NZX0N4TQ?oc=5",
+   "source": "뉴스퀘스트",
+   "date": "2026-09-06"
   },
   {
    "title": "우리은행, 아시안게임 팀코리아 승리 기원 연 7.5% 적금 출시 - 웹이코노미",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUSDhUaE5oQkk3WVltOWZ5aTc4bTdWQk8zd2RKV243ZmdxVlZiOTVSbEZ4X1l3aHlldkVBeG5iSVRZdVBMZ3B1dUFYZzY5R3dKNFVjZEJKZ3dTQ3RVRWFVWnRKQjNKYi1Yb1hEWHJCNDR6dw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5qU2xSdWlWN0REb0xkSmo0Skc3bE9JdUVJQVVBYlAteDM4aFprS1R6LU5iM041cEFTUWIxTDZESFVza1d5TlBwVVZWaFNuRU1mR2J0QU5RR3B5SUJBZzhTNU5tOXRhakpmTWhTRHJTcWtvQQ?oc=5",
    "source": "웹이코노미",
-   "date": "2026-09-05"
+   "date": "2026-09-06"
   },
   {
-   "title": "광주은행, ‘전남광주통합특별시 사랑적금’ 출시 - 뉴스라운드",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fdWp6NExrQWdkQnk4dXY5N2F4RzdUOThReEtnaHRJaVBDSXVGRXllZ3NqWlhRSE1ObkVnRDFBaXN5NnhBc1RuRl9zeTFlc0I1cG5VdjUtVk1VSmlBNHFxR2REamRZRnFlRzJiNHNWZEnSAXBBVV95cUxPX3VqejRMa0FnZEJ5OHV2OTdheEc3VDk4UXhLZ2h0SWlQQ0l1RkV5ZWdzalpYUUhNTm5FZ0QxQWlzeTZ4QXNUbkZfc3kxZXNCNXBuVXY1LVZNVUppQTRxcUdkRGpkWUZxZUcyYjRzVmRJ?oc=5",
-   "source": "뉴스라운드",
-   "date": "2026-09-04"
+   "title": "우리은행, 아이치·나고야 아시안게임 맞아 ‘우리 Team Korea 적금 2’ 출시…최고 연 7.5% - 소셜밸류",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Dalo0cEdzb29BLVpCOGJldnRJMXJ1ZzJIaUxBZFhLSDZsZlhpUTBQTEp0bHMwdE9SXzlMc29ORzEwRmktekpBSVc4ZUU2VTktaUJZUW04NFI3ZkxuNkdaUXZzRdIBbEFVX3lxTE92c2xoZ3BpOWtUbFVZWjYxdW41TVNtaENYWllaVTBFM2Y3dlZGcmF4eXVLTjRDN1BlSTVMb1lrTmdpcERqcnpiYWcxTnVTS1N4TTlvTFJuVEJWaUpZZFBYTW95emJ2d1lNUVM3YQ?oc=5",
+   "source": "소셜밸류",
+   "date": "2026-09-06"
   },
   {
-   "title": "새마을금고중앙회·농협상호금융 ‘MG희망나눔 걸음마(馬)적금’ 가입자 증가...‘NH개인파킹통장’-‘NH파킹모아적금’ 출시 - 여성소비자신문",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9VbG9ZX25RWGNhMXZfS0RpcVkwUXdKaFFtVnQtbjh0Ni1ZTFVtak9qVDVEak5UWUZ6RGZVR250X2ltMDlhRzRHdVpTNFlhNElkV1c0eDFOWDROblJEaWQxS2h3Yw?oc=5",
-   "source": "여성소비자신문",
-   "date": "2026-09-03"
-  },
-  {
-   "title": "노동진 수협 회장, 예·적금 판매 수익금 지역에 환원 ‘첫 지역 나눔 공익상품 출시 후 1천만 원 여수에 기부’ - 로컬세계",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9aM1duWGVSaVhrQmczRWNwTHNLaVJXRTMyaTl6REU5ZzI2WjhwT0NxS0ZQX0M2cmZjR0VzN0kxa1RtMGFhdUVtak9RR2w2UTJPMEZwa3BFaFlLLWtiUlFxUtIBWEFVX3lxTE5OU2RhX094OXVnLUhSbjZWSlNWY0xISFZGNk94Rl9OZGVBbEprUFJJYTVYN1dmMGQzclcxdktFbzJlRzU0Nl9MYUpCVVZNOWhGUFZZVnRQQWI?oc=5",
-   "source": "로컬세계",
-   "date": "2026-09-04"
-  },
-  {
-   "title": "광주은행 ‘전남광주특별시 사랑적금’ 출시…고향사랑기부 연계 - 글로벌경제신문",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BQTlmYm13YTZDNENvakttSy1Dbk1RQ3VrTm9LRGJPWjlBN3V0elJ4ZDhuZGFZZGZWVGVrVC1wZnBHTW5xdUV6MFhBM1NCeldaTTlROVhxU3RqcFZDam1OZm8tNURKblNIYXYyTFhlb3LSAXBBVV95cUxPQUE5ZmJtd2E2QzRDb2pLbUstQ25NUUN1a05vS0RiT1o5QTd1dHpSeGQ4bmRhWWRmVlRla1QtcGZwR01ucXVFejBYQTNTQnpXWk05UTlYcVN0anBWQ2ptTmZvLTVESm5TSGF2MkxYZW9y?oc=5",
-   "source": "글로벌경제신문",
-   "date": "2026-09-04"
-  },
-  {
-   "title": "우리은행, 국가대표 응원 적금 출시…응원 댓글 많을수록 금리↑ - gukjenews.com",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0RlJxTjhSeHdGWm1kdzd4WmFtbzFQS2dVSmdlQjFKSm9TYnAyaEpPTmU1ZTJ5Zmx2aGN5OE5mSy1ERFdEZW5xdU1kV09ENUNWTW5haUJDQnlrbFItOHUxTXRabDFVc21jMDV6OWhn?oc=5",
-   "source": "gukjenews.com",
-   "date": "2026-09-04"
-  },
-  {
-   "title": "광주은행 최고 금리 4.7% '통합특별시 사랑적금' 출시",
-   "link": "https://kjmbc.co.kr/NewsArticle/1535517",
-   "source": "네이버뉴스",
-   "date": "2026-09-04"
-  },
-  {
-   "title": "하나카드, 산림조합과 연 8.0% 특판 적금 상품 출시 - 비즈월드",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zZ2ZyQ1pYam5Yd3Rsb1FYbDlvOThXbi11UGloZHlQVTRJeHRjaHM3UkR4ckswQTVfak9qRU10V01YckFSTG9qOGlHOGgzWXlOY3VTOHNsMkh6Tkg3SjBUdjJEYW9md0FVWmc?oc=5",
-   "source": "비즈월드",
-   "date": "2026-09-03"
-  },
-  {
-   "title": "광주은행, ‘전남광주시 사랑적금’ 출시 - 진일보",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IVWhhWC1Wb0lyUVc5Ti1KOWtMczhsWEoxR1RhMEZtSFhVeWc1RWNGMy1xSnV6WE5nLWtTVWZGMl9aR1NNS2pEVFNzcFBRSklfUU1GNktXS3I4NFFKdUUyTlJyYnViQ2s4dlZ2am42bw?oc=5",
-   "source": "진일보",
-   "date": "2026-09-04"
-  },
-  {
-   "title": "광주은행, '전남광주통합특별시 사랑적금' 출시...우대금리 충족 시 최고 연 4.70% 금리 제공 - fnnews.com",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93cnZrejhObTJqZ1pIdWpDLU1EWXF1WHhVd3NiVzNGSE1oX1l1SHZCMHQ2QlJuaTFyVm1FSlg4eUkzdS16WTBSalI0VjYzWEg5Y3Q1cE9lWFhyZw?oc=5",
-   "source": "fnnews.com",
-   "date": "2026-09-04"
+   "title": "우리은행, 최고 7.5% '팀코리아 적금' 출시 - news.nate.com",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9yekY1NG5mTzJPTXhHc3FnMXQ2blVJeHlZZzB6Zk5CdkJXV0F2RTBZOFB4V25TVWVrOWtCaFBMR3ZUVHE4VHY1eUNwNEhUZVZKcUw4?oc=5",
+   "source": "news.nate.com",
+   "date": "2026-09-06"
   }
  ],
  "news_seen": [
-  "b7d9678abe76580c",
-  "bad690b74ff2fc8a",
-  "00a85f2e6402d62c",
-  "e0685bb8ce522cd7",
-  "adeebb079e913316",
-  "f9351f70b09f2b53",
-  "b1536379ea7b81c5",
-  "8652ba05397c5878",
-  "965829b61ca239ab",
-  "8073b705b487e252",
-  "0bb358807cff167d",
-  "2636836742d47b9c",
-  "0306cb8e7b88bd8b",
-  "a486495c3b59c1ef",
-  "e15c87bfa7573ffe",
-  "e00c8a335c528ee4",
-  "4635213662039560",
-  "4797d6ed821685c5",
-  "6de2bb88fd6c3038",
-  "8b965fcde0294c98",
-  "479afbbda4b54988",
-  "82871b58015e741f",
-  "ca6cb3b739129432",
-  "5cb12c01cc048c73",
-  "678922d1cf8bb388",
-  "e820801a55ad8a0e",
-  "ec614a3c0e1f6ddc",
-  "66e56e90046eee1f",
-  "9b3ec3a5eecad44a",
-  "ab488cdcda83e051",
-  "d6396557b6302f88",
-  "aa46108e8e6c3296",
   "c5bcadf0b7a61ff3",
   "9f5ea9fc24843933",
   "86d02686f6904a50",
@@ -3385,10 +3353,112 @@
   "4cdc160284e6da74",
   "79f92120a0d82897",
   "acc7a4e7109b64d1",
-  "67ea2bc4194f762c"
+  "67ea2bc4194f762c",
+  "c1420bae2a1b403e",
+  "75d33e0294416970",
+  "f6379a5c4a816b7d",
+  "4d8778e11c2e08d1",
+  "b9c915655ec6264d",
+  "765074631877ba1a",
+  "711d69b8bfc5d015",
+  "cb7ab175e9ab7606",
+  "add6704586c437f4",
+  "6cfcc519c9da8f16",
+  "8b223ebce60b6da1",
+  "2a25875a225add6e",
+  "cd580b40afa3b4b7",
+  "1d100916549f1772",
+  "b697e2e365b6e2e9",
+  "41cdce56aacb37c7",
+  "1db6fbb256b3b7e2",
+  "58356468344c52c4",
+  "c321c6d932196b39",
+  "ebaf90a79984c01d",
+  "23242b3389fcf301",
+  "b2f685b42cce17cc",
+  "38a5c438f735a183",
+  "ac1830038f563754",
+  "86b7ca3d63aecde0",
+  "3e5db29fe2056d78",
+  "368c6d06cc37674d",
+  "96679b83c1258669",
+  "dad0d1b5b6290bfa",
+  "dd8c96073d50bb02",
+  "35fb5639410e3c14",
+  "336df3d2639e4042"
  ],
  "news_seeded": true,
  "news_products": [
+  {
+   "bank": "우리은행",
+   "name": "우리 Team Korea 적금 2",
+   "norm": "우리TeamKorea적금2",
+   "rate": 7.5,
+   "first_news": "2026-09-06",
+   "count": 16,
+   "articles": [
+    {
+     "title": "우리은행, 아이치·나고야 아시안게임 맞아 ‘우리 Team Korea 적금 2’ 출시…최고 연 7.5% - 소셜밸류",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Dalo0cEdzb29BLVpCOGJldnRJMXJ1ZzJIaUxBZFhLSDZsZlhpUTBQTEp0bHMwdE9SXzlMc29ORzEwRmktekpBSVc4ZUU2VTktaUJZUW04NFI3ZkxuNkdaUXZzRdIBbEFVX3lxTE92c2xoZ3BpOWtUbFVZWjYxdW41TVNtaENYWllaVTBFM2Y3dlZGcmF4eXVLTjRDN1BlSTVMb1lrTmdpcERqcnpiYWcxTnVTS1N4TTlvTFJuVEJWaUpZZFBYTW95emJ2d1lNUVM3YQ?oc=5",
+     "source": "소셜밸류",
+     "date": "2026-09-06"
+    },
+    {
+     "title": "우리은행, 아시안게임 팀코리아 승리 기원…연 7.5% 적금 출시 - news.nate.com",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zRHdDbl8xQkVrRHUySllSNlRUSGxESFhWZGR1TFdwSUJPQ1ZRUEtEQUhwYmV4YzhIaEVrYkRkUldPOUowMWRPbFlhc2tLR29NcGtZ?oc=5",
+     "source": "news.nate.com",
+     "date": "2026-09-06"
+    },
+    {
+     "title": "우리은행, 아시안게임 응원 적금 출시…최고 연 7.5% - news.nate.com",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ub1IyNEZHZEh3Qmd0WUt0UWNMa0hkYVBEeW1VcWJIOXRndDdJemc1bTZyNk1NX1FyMzI5YWloWGpGOHdhT1RBRnk0OUtPU0hhSmp3?oc=5",
+     "source": "news.nate.com",
+     "date": "2026-09-06"
+    },
+    {
+     "title": "우리은행, 아시안게임 '팀코리아' 응원…연 7.5% 적금 출시 - news.nate.com",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUME9LbVZHYVNHMlBJN24waHRIcTRGcEVQRXE5SWh0MW40VHdtYW0tOUtkcHFZWHp1R3ZYblcySGlLNHNGcU5wdk9YZ2w5clIzTHRj?oc=5",
+     "source": "news.nate.com",
+     "date": "2026-09-06"
+    }
+   ],
+   "in_disclosure": false
+  },
+  {
+   "bank": "우리은행",
+   "name": "팀코리아 적금",
+   "norm": "팀코리아적금",
+   "rate": 7.5,
+   "first_news": "2026-09-06",
+   "count": 4,
+   "articles": [
+    {
+     "title": "우리은행, 최고 7.5% '팀코리아 적금' 출시 - news.nate.com",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9yekY1NG5mTzJPTXhHc3FnMXQ2blVJeHlZZzB6Zk5CdkJXV0F2RTBZOFB4V25TVWVrOWtCaFBMR3ZUVHE4VHY1eUNwNEhUZVZKcUw4?oc=5",
+     "source": "news.nate.com",
+     "date": "2026-09-06"
+    },
+    {
+     "title": "우리은행, 아시안게임 '팀코리아 적금 2' 출시…최고 연 7.5% 금리 - 전자신문",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5tNXlXTVJMaUVMRUtzTGVxV1c5RktIa0xjVDRlRTYzT2JBVWVuY3VMRDYzb0hoamdrOEpWeERkUjN3eGRFbldjSXhuZ2lHUQ?oc=5",
+     "source": "전자신문",
+     "date": "2026-09-06"
+    },
+    {
+     "title": "우리은행, 아시안게임 '팀코리아 적금 2' 출시…최고 연 7.5% 금리",
+     "link": "https://www.etnews.com/20260906000031",
+     "source": "네이버뉴스",
+     "date": "2026-09-06"
+    },
+    {
+     "title": "우리은행, 최고 7.5% '팀코리아 적금' 출시",
+     "link": "https://www.newsis.com/view/NISX20260904_0003777136",
+     "source": "네이버뉴스",
+     "date": "2026-09-06"
+    }
+   ],
+   "in_disclosure": false
+  },
   {
    "bank": "광주은행",
    "name": "전남광주통합특별시 사랑적금",
@@ -3895,52 +3965,6 @@
      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yNWU4bkQ0ODRCdVBnSE4yZlN5TUJJQ2cwVFJOZGx3dF9HdkNXc3Y0OTVNc1J0NGdIaDRYb293dG8tR08yaEZZN0JkV2dleXd3U21WeE40eXpNOG0yQWlMMA?oc=5",
      "source": "네이트",
      "date": "2026-08-18"
-    }
-   ],
-   "in_disclosure": false
-  },
-  {
-   "bank": "국민은행",
-   "name": "골드키위적금",
-   "norm": "골드키위적금",
-   "rate": 4.0,
-   "first_news": "2026-08-17",
-   "count": 1,
-   "articles": [
-    {
-     "title": "KB저축은행 골드키위적금 4% 💰 고금리 특판적금 파킹통장 추천 | 잘살아보세 El Clasico (RcIVIJCgn8) - Mshale",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwODhEUTY3czhHOUJ1OUo4WnhJM3RDaTBIbDlSRUctNGI0cEFmY0F1TEEyampZbHlrZVM4X2VwSVBLNVJzLWZPNGVFNXdEWEFvUUdsZW1lR0Y3c2M?oc=5",
-     "source": "Mshale",
-     "date": "2026-08-17"
-    }
-   ],
-   "in_disclosure": false
-  },
-  {
-   "bank": "NH농협은행",
-   "name": "NH농심천금 적금",
-   "norm": "NH농심천금적금",
-   "rate": null,
-   "first_news": "2026-08-14",
-   "count": 3,
-   "articles": [
-    {
-     "title": "NH농협은행, ‘NH농심천금 적금’ 1만좌 소진…출시 이틀만 - 소년한국일보",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NQmY3OFE2c0xfX1lmdkNPRFBJd045Ykg1SnBfZXBHZDFuWElwalMzZkN1WGppTWlPR0NrWTJoWnBoeGhXckdsZTMyeGF0eDJvTHBGZ0VGc0ZidEU1d0NaZ3VQMC00cEw3VDFESNIBcEFVX3lxTE8zSnVGeVQ3bUREUnNjRm9Sci1IV3ZoRWtDc2lfeDJvb1FnX2gzeFVSMFhaOVJsS21YQW10SDc1RHpZaDRiYUZuT09qLWNfbEl3WnVrblpwcVJOVUxaaHpwM3ZFVzZReWNvU3NieU9aRHM?oc=5",
-     "source": "소년한국일보",
-     "date": "2026-08-14"
-    },
-    {
-     "title": "NH농협은행, 'NH농심천금 적금' 1만좌 소진…출시 이틀만",
-     "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=662496",
-     "source": "네이버뉴스",
-     "date": "2026-08-14"
-    },
-    {
-     "title": "NH농협은행, ‘NH농심천금 적금’ 1만좌 소진…출시 이틀만 - 소년한국일보",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zSnVGeVQ3bUREUnNjRm9Sci1IV3ZoRWtDc2lfeDJvb1FnX2gzeFVSMFhaOVJsS21YQW10SDc1RHpZaDRiYUZuT09qLWNfbEl3WnVrblpwcVJOVUxaaHpwM3ZFVzZReWNvU3NieU9aRHPSAXBBVV95cUxPM0p1RnlUN21ERFJzY0ZvUnItSFd2aEVrQ3NpX3gyb29RZ19oM3hVUjBYWjlSbEttWEFtdEg3NUR6WWg0YmFGbk9Pai1jX2xJd1p1a25acHFSTlVMWmh6cDN2RVc2UXljb1NzYnlPWkRz?oc=5",
-     "source": "소년한국일보",
-     "date": "2026-08-14"
     }
    ],
    "in_disclosure": false
