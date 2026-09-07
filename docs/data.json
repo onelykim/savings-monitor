@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-07 19:07",
+ "updated_at": "2026-09-08 01:23",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2513,6 +2513,18 @@
  ],
  "news": [
   {
+   "title": "[단신]우리은행, 최고 연 7.5% ‘팀코리아 적금’ 출시 外 - donga.com",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NRjZnVWktbE5LOGN3SHFQTFpyQUEwQzNHdjlFSVdtaHNDNm90cTR0LUJmaWNHT2kzNWNOYk90S0hxOW9iQ3BMSEVpbFM3akE3ekFSNlJmanpONm8zSWRWWVhSckUtU2lMekVOTXhyVks0bXJOVmfSAWZBVV95cUxNQnQ3RTd4R3hYSGJHNFFoYXhyckNkMm1aZ0pqdWRQUWE1ZWxWN05WTFN5WXF3clVFdldIU19HdkZfTjNOQVB4TF8zYndsTS1lMGswSUhubUM3cWVfTGZCV3AzbHdtcUE?oc=5",
+   "source": "donga.com",
+   "date": "2026-09-08"
+  },
+  {
+   "title": "[단신]우리은행, 최고 연 7.5% ‘팀코리아 적금’ 출시 外",
+   "link": "https://www.donga.com/news/Economy/article/all/20260907/134621959/2",
+   "source": "네이버뉴스",
+   "date": "2026-09-08"
+  },
+  {
    "title": "우리은행, 아시안게임 맞춤 적금 출시...최대 7.5% 수익 - 뉴스브라이트",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pOC15bG9IT0lVNVdTZjhmYnJuQjlGWUlCMERKSjczM3RVYzFjNkhaX0J6enpJd1R6TWlIYktLb3JKaG00dUtPZGhHaFUxSllBSGx4VDlnRno3TEI3ZmdkUEJTLXJncWkxVkZWZw?oc=5",
    "source": "뉴스브라이트",
@@ -2571,23 +2583,9 @@
    "link": "http://www.newsmaker.or.kr/news/articleView.html?idxno=182006",
    "source": "네이버뉴스",
    "date": "2026-09-07"
-  },
-  {
-   "title": "카카오뱅크, 한달적금 with MMA2026' 출시...저축할수록 당첨 확률↑",
-   "link": "https://www.the-today.com/news/articleView.html?idxno=89629",
-   "source": "네이버뉴스",
-   "date": "2026-09-07"
-  },
-  {
-   "title": "매일 납입하면 MMA 티켓이…카카오뱅크, ‘한달적금 위드 MMA2026’ 출시",
-   "link": "https://www.mk.co.kr/article/12146206",
-   "source": "네이버뉴스",
-   "date": "2026-09-07"
   }
  ],
  "news_seen": [
-  "8371de47cd3ba385",
-  "beee38baf3bf233b",
   "0a402460253f7b8f",
   "d2dadfd8dc6b7094",
   "bc1e6aab9500b5fd",
@@ -3385,7 +3383,9 @@
   "f1656662d68f7368",
   "bdaebc6ab0fd7738",
   "4af338186a9f4eb7",
-  "fe7aac92cd10ca4a"
+  "fe7aac92cd10ca4a",
+  "5899e37baf78a28e",
+  "5b9650ce06c98eba"
  ],
  "news_seeded": true,
  "news_products": [
@@ -3447,7 +3447,7 @@
    "norm": "팀코리아적금",
    "rate": 7.5,
    "first_news": "2026-09-06",
-   "count": 58,
+   "count": 60,
    "articles": [
     {
      "title": "우리은행, 최고 7.5% '팀코리아 적금' 출시 - news.nate.com",
