@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-07 13:21",
+ "updated_at": "2026-09-07 19:07",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -1029,33 +1029,33 @@
      "save_trm": 1,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 2.45,
-     "intr_rate2": 3.95
+     "intr_rate": 2.7,
+     "intr_rate2": 4.2
     },
     {
      "save_trm": 3,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 2.45,
-     "intr_rate2": 3.95
+     "intr_rate": 2.7,
+     "intr_rate2": 4.2
     },
     {
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 2.65,
-     "intr_rate2": 4.15
+     "intr_rate": 2.9,
+     "intr_rate2": 4.4
     },
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 2.85,
-     "intr_rate2": 4.35
+     "intr_rate": 3.1,
+     "intr_rate2": 4.6
     }
    ],
-   "best_rate": 4.35,
-   "best_base_rate": 2.85,
+   "best_rate": 4.6,
+   "best_base_rate": 3.1,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%A4%91%EC%86%8C%EA%B8%B0%EC%97%85%EC%9D%80%ED%96%89%20IBK%20D-day%EC%A0%81%EA%B8%88%28%EC%9E%90%EC%9C%A0%EC%A0%81%EB%A6%BD%EC%8B%9D%29",
    "first_seen": "2026-07-10",
@@ -1134,33 +1134,33 @@
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 2.45,
-     "intr_rate2": 2.65
+     "intr_rate": 2.7,
+     "intr_rate2": 2.9
     },
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 2.55,
-     "intr_rate2": 2.75
+     "intr_rate": 2.8,
+     "intr_rate2": 3.0
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 2.55,
-     "intr_rate2": 2.75
+     "intr_rate": 2.8,
+     "intr_rate2": 3.0
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 2.55,
-     "intr_rate2": 2.75
+     "intr_rate": 2.8,
+     "intr_rate2": 3.0
     }
    ],
-   "best_rate": 2.75,
-   "best_base_rate": 2.55,
+   "best_rate": 3.0,
+   "best_base_rate": 2.8,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%A4%91%EC%86%8C%EA%B8%B0%EC%97%85%EC%9D%80%ED%96%89%20IBK%EB%AA%A8%EC%9C%BC%EA%B8%B0%ED%86%B5%EC%9E%A5%28%EC%9E%90%EC%9C%A0%EC%A0%81%EB%A6%BD%EC%8B%9D%29",
    "first_seen": "2026-07-10",
@@ -1183,33 +1183,33 @@
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
-     "intr_rate": 2.78,
-     "intr_rate2": 2.78
+     "intr_rate": 2.92,
+     "intr_rate2": 2.92
     },
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
-     "intr_rate": 3.27,
-     "intr_rate2": 3.27
+     "intr_rate": 3.35,
+     "intr_rate2": 3.35
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
-     "intr_rate": 3.38,
-     "intr_rate2": 3.38
+     "intr_rate": 3.42,
+     "intr_rate2": 3.42
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
-     "intr_rate": 3.55,
-     "intr_rate2": 3.55
+     "intr_rate": 3.6,
+     "intr_rate2": 3.6
     }
    ],
-   "best_rate": 3.55,
-   "best_base_rate": 3.55,
+   "best_rate": 3.6,
+   "best_base_rate": 3.6,
    "best_term": 36,
    "naver_url": "https://search.naver.com/search.naver?query=%ED%95%9C%EA%B5%AD%EC%82%B0%EC%97%85%EC%9D%80%ED%96%89%20KDB%20%EA%B8%B0%EC%97%85%EC%A0%95%EA%B8%B0%EC%A0%81%EA%B8%88",
    "first_seen": "2026-07-10",
@@ -1232,47 +1232,47 @@
      "save_trm": 1,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 2.83,
-     "intr_rate2": 2.83
+     "intr_rate": 3.01,
+     "intr_rate2": 3.01
     },
     {
      "save_trm": 3,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 2.83,
-     "intr_rate2": 2.83
+     "intr_rate": 3.01,
+     "intr_rate2": 3.01
     },
     {
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.08,
-     "intr_rate2": 3.08
+     "intr_rate": 3.22,
+     "intr_rate2": 3.22
     },
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.47,
-     "intr_rate2": 3.47
+     "intr_rate": 3.55,
+     "intr_rate2": 3.55
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.48,
-     "intr_rate2": 3.48
+     "intr_rate": 3.52,
+     "intr_rate2": 3.52
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.65,
-     "intr_rate2": 3.65
+     "intr_rate": 3.7,
+     "intr_rate2": 3.7
     }
    ],
-   "best_rate": 3.65,
-   "best_base_rate": 3.65,
+   "best_rate": 3.7,
+   "best_base_rate": 3.7,
    "best_term": 36,
    "naver_url": "https://search.naver.com/search.naver?query=%ED%95%9C%EA%B5%AD%EC%82%B0%EC%97%85%EC%9D%80%ED%96%89%20KDB%20%EC%9E%90%EC%9C%A0%EC%A0%81%EA%B8%88",
    "first_seen": "2026-07-10",
@@ -2513,100 +2513,79 @@
  ],
  "news": [
   {
-   "title": "우리은행, 아시안게임 팀코리아 승리 기원 최고 연 7.5% 적금 출시 - dtoday.co.kr",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE40LUNiMk9BSjBtN0h6a05SRG5fX3BpNU45MEZVaUdpcDFtU3AwRlZodXFhN3pINzl0TXlhTHpOcXRzVEcyWHcxMTNxbGZqMGVaRWZ0MHd5YmtzU0ZCZEVoREtMYm9GWnFHVnlz?oc=5",
-   "source": "dtoday.co.kr",
+   "title": "우리은행, 아시안게임 맞춤 적금 출시...최대 7.5% 수익 - 뉴스브라이트",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pOC15bG9IT0lVNVdTZjhmYnJuQjlGWUlCMERKSjczM3RVYzFjNkhaX0J6enpJd1R6TWlIYktLb3JKaG00dUtPZGhHaFUxSllBSGx4VDlnRno3TEI3ZmdkUEJTLXJncWkxVkZWZw?oc=5",
+   "source": "뉴스브라이트",
    "date": "2026-09-07"
   },
   {
-   "title": "카카오뱅크, 뮤직페스티벌 연계 적금 출시…1000명에 초대권 쏜다 - 네이트",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zWHJzcHY0YTh0aUhKT0xoWXBKVkROV2k0LXRUeFVqM3Jab0x2YWpIX0kyWmZTVFJTRXhUZ1pPSmdsSWhZLUFGSzZsWENqcFhUNlRZ?oc=5",
+   "title": "우리銀, 아시안게임 팀코리아 승리 기원...연 7.5% 적금 출시 - 내외뉴스통신",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15MFJma2tjN0VURVlvQXRTTVVrOXpCZDRpSG1WZnZ1QnJ0SXFCR1hFLTFOTnBLbGFOazhIWVRNdFU4TWVONkZseTd6VzMwYWU0b2JsMm1IUWpQUnVaQnhXZ1diSERUUnRXV01GR9IBcEFVX3lxTE4xWDljcEc1VlNLcERDdE9wd1EwU1VtT3UxTWtvWXVwWGxLVURaQVBXME5odi0yTGw5SDZkb2tlOU0xUnVMTS1QSGtKR2ROUEI0NHRLamsyR1A3U0JuaDJxbWdvU0FQUzZVeE5nRmcwcjM?oc=5",
+   "source": "내외뉴스통신",
+   "date": "2026-09-07"
+  },
+  {
+   "title": "카카오뱅크, '한달적금 with MMA2026' 출시…초대권 1000장 제공 - PRESS9",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBSM21vTFNDOHU1M3BnSlNKNEtNSXJqU1dCUjJsYy1wdkFyR1hRZFVIdzRSTGpuTDVwTTY4MDBiLVc3alN0bDYyMGxnWGJIZ2xKQmNFMXp5NEJaSmpYSjF6WTkyZDRVQQ?oc=5",
+   "source": "PRESS9",
+   "date": "2026-09-07"
+  },
+  {
+   "title": "\"매일 저축하면 MMA 티켓 기회\"…카카오뱅크, 제휴 적금 출시 - 시사포커스",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CQWU2YUNMcEo5SkpvckdsSUxORnBIeFlHUnV5TVJNUGtaZU1xbkhYNGo1dU1IMXhtdnlDTG9SUEJqVldFbkpFRjlQRC0zQjJ1MmhVSkp3eFV3UTBJcF85bkd2WU1laUwwOWZ0QXM3bw?oc=5",
+   "source": "시사포커스",
+   "date": "2026-09-07"
+  },
+  {
+   "title": "카카오뱅크, '한달적금 with MMA2026' 출시... 최대 206번 티켓 응모 기회 - 뉴스락",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fRlZNZms2N0pxNExPTVh4TWN5LW1HLW5GQVZpYW10UDNma09oTkJSa2pjdDBoTHlGS0Rsa1luSVVHUGQzczI4WlVXcHNPOHF4d2Q5RlBJUnNHX1NLOXBrQnNMRlYtV0FfZl91Mw?oc=5",
+   "source": "뉴스락",
+   "date": "2026-09-07"
+  },
+  {
+   "title": "카카오뱅크 '한달적금 with MMA2026' 출시 - 현대경제신문",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRZkNjZmZCNHpSRjdaNnItMnd1MEx5RkFDNGtxUFlCNFE1azhNNnk0YVlPZ3pyWlNGdXRUWnJvSXhqSjJLRzlnWUZrNnVPQUJUS1hSaXNTNkJDV1Jybnk5U0lUUC0zSE5i0gFrQVVfeXFMTS1ONVVVV2lWT3JkZU1pQWpkVzJ5MFNETm1aMkVxSXVGbUNyaDFhbTl1cExUbHZyMFVWWXVDVXVhalRmNXQwXzA4VkswQllwM3E5dTlkc0l4WjliZjlkSGtDekVBV2tlOU5fODg?oc=5",
+   "source": "현대경제신문",
+   "date": "2026-09-07"
+  },
+  {
+   "title": "카카오뱅크, ‘한달적금 with MMA2026’ 출시…1000명에 티켓 제공 - 직썰",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jV3d0dzRiN05hd1d6dkUtUFMtV1ZyOG0xdjkyQjNBQW1TRTNoNUNHX0lQUlVzLTUxcEwwT3c1MlREbFpfQlVGUmwyYlZ0UGxGUGcyM3VGVVhBWkNRUklzRGZ6VmdXLVla0gFsQVVfeXFMTThwcFpYUk4tU2t2U1JYYktSbDNHdkozUVBod0RtZ2tQZ3gyMVdVOFVySjZ2dVhqMVg0Q25HY3pQTXZ2ZHZWSy1JbElFTF8xeUo3cS1Va0sxOXBHbl9lR1MyTV9aTGZCYUQ3U2VE?oc=5",
+   "source": "직썰",
+   "date": "2026-09-07"
+  },
+  {
+   "title": "카카오뱅크, '한달적금 with MMA2026' 출시…티켓 1000장 제공 - SR타임스",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5paDdHRE9QWklXWHREXzdIUTl6X1lqelE2MTgtdVN0Rk1jMlpPTkJ1c2JxNzdjcldteWZtTzZGVVQzZDljdWRUaUFTRFBwYUVVM1ZPdDVaSGo1aXRkOExmalQzUThrMk3SAWtBVV95cUxOQlE1dGpna3AyZGZhbl9HaWhwVldrUHk1cld3VDNZSzN1SmVndnhMZVlLdlB5RmpDVW5BWUhOWjJYMUhHTkR3MW1mQ1VhM05URGlsR1dqcE04RkVBdjBCSEliU3JhbGM2VGlDbw?oc=5",
+   "source": "SR타임스",
+   "date": "2026-09-07"
+  },
+  {
+   "title": "카뱅, '한달적금 with MMA2026' 출시 [코주부] - 네이트",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE13RVRJY1g1czlOXzZNNEpLSURfM0RGQ2E2WDZkdlM5SUNQZmxQMG9wQ3I5N0RyS1JmMFRWb1hVWkUtRFdyTEVGaTB3R2Y0d3RnckF3?oc=5",
    "source": "네이트",
    "date": "2026-09-07"
   },
   {
-   "title": "카카오뱅크, '한달적금 with MMA2026' 출시…\"저축하면 MMA 티켓 당첨률↑\" - 네이트",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZTUFoSXBYb29rRTQ3anVlUzRaekJWSjZWUmdYLWRGTElpczM5eEpOVUROa0FfcHdkNGxTcVNSeGlPZFhyN3JOOFNUTU96UjczTHdj?oc=5",
-   "source": "네이트",
-   "date": "2026-09-07"
-  },
-  {
-   "title": "우리은행, '팀 코리아 적금 2' 출시…최고 연 7.5%",
-   "link": "https://www.newscammp.co.kr/news/articleView.html?idxno=6876",
+   "title": "광주은행, 고향사랑기부 연계 적금 출시…최고 연 4.70% 금리",
+   "link": "http://www.newsmaker.or.kr/news/articleView.html?idxno=182006",
    "source": "네이버뉴스",
    "date": "2026-09-07"
   },
   {
-   "title": "우리은행, 아시안게임 맞춤 적금 출시...최대 7.5% 수익",
-   "link": "http://www.newsbrite.net/news/articleView.html?idxno=200207",
+   "title": "카카오뱅크, 한달적금 with MMA2026' 출시...저축할수록 당첨 확률↑",
+   "link": "https://www.the-today.com/news/articleView.html?idxno=89629",
    "source": "네이버뉴스",
    "date": "2026-09-07"
   },
   {
-   "title": "카카오뱅크 '한달적금 with MMA2026' 출시",
-   "link": "http://www.finomy.com/news/articleView.html?idxno=260896",
-   "source": "네이버뉴스",
-   "date": "2026-09-07"
-  },
-  {
-   "title": "카카오뱅크, '한달적금 with MMA2026' 출시…\"저축하면 MMA 티켓 당첨률...",
-   "link": "https://daily.hankooki.com/news/articleView.html?idxno=1403293",
-   "source": "네이버뉴스",
-   "date": "2026-09-07"
-  },
-  {
-   "title": "카카오뱅크, '26주 적금 with 카카오웹툰' 출시 하루 만에 10만좌 개설 - catchnews.kr",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WZFRqcmlvdkFGWndmQ0l0S1NGYm5RakM5T0MyZHRNakR2ckN2dGp1Ym5uM0M4QUktTDZnT0RXeXgyZFJNcDJuZ0JSNTZ6U3YzTUotSjRwbWVnUXVCanpDMnVwQWlYc3NyNlHSAW5BVV95cUxQMU9CSVctVktXaWRnNmxPSE4yQmZ2Nl9GTVBxSzE1a0w5Z0FiTFR6a3hOMW0wUXJqYkktMXVtQlYzTlpDR0R0RG1TTE82dng0RXdqZjI3RERORHhOWHFhSlNwc2h1ZnFRTTNYOHlyUQ?oc=5",
-   "source": "catchnews.kr",
-   "date": "2026-09-06"
-  },
-  {
-   "title": "우리銀, 최고 연 7.5% 아시안게임 팀코리아 적금 출시 [코주부] - 네이트",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96azJiMXZzYlloeTJKNUs1Ti1QYWl6dFZfYUJkTHZWRU9MV3Q2bmFSVE4wRkc5X196R1NES3d3Z19od0phTEdOWDI0dUpaNlh3U2I4?oc=5",
-   "source": "네이트",
-   "date": "2026-09-06"
-  },
-  {
-   "title": "우리은행, 아시안게임 응원 최고 연 7.5% '팀코리아' 적금 출시 - public25.com",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51dUdEMVI1VDFnMk1TRzhUQm1zZTN3MDJXb0VCckt6TXlnTDBhZXVmZEt0bWZDSWNpZ2ZhR1R4bWZYWVp2MUlYa2tpWFZkTW5sUTduU0d5bTJKcUwwUG9KQklVY3FEV21sNGfSAW5BVV95cUxQSUVkaFlVY09vOWZNbnFsMnctcVVfWWxadE5SYkhXM3VlcjA0RzBaNXpmLXBwbTdqa2E1TmduckFXMl9EN3BjdzFBZDU0bjNnNjlZWGtuTk1jX09Yelp1dkpqYnFzaW85M0hyekk5UQ?oc=5",
-   "source": "public25.com",
-   "date": "2026-09-07"
-  },
-  {
-   "title": "우리은행, 아시안게임 응원 적금 출시…최고 연 7.5% - 네이트",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HcTJMYTU2TFFmcDR2MGVaNmhqcU9pM0Iyb0pweDEyemhlcF9iQ2pVOE9lSHVqcGI5dU55REV1b0hfRUNTSW10ZTFYdGlUT3pSb19v?oc=5",
-   "source": "네이트",
-   "date": "2026-09-07"
-  },
-  {
-   "title": "우리은행, 아시안게임 응원 최고 연 7.5% '팀코리아' 적금 출시",
-   "link": "https://www.public25.com/news/articleView.html?idxno=54165",
+   "title": "매일 납입하면 MMA 티켓이…카카오뱅크, ‘한달적금 위드 MMA2026’ 출시",
+   "link": "https://www.mk.co.kr/article/12146206",
    "source": "네이버뉴스",
    "date": "2026-09-07"
   }
  ],
  "news_seen": [
-  "427d57adf7fd2294",
-  "13f4b5c8606082f6",
-  "1ef9b7601649fa6e",
-  "c8acf1b3f23c9df2",
-  "bf0a2a712a21b0d9",
-  "e5ba467457c0d8c9",
-  "de7240897c7b6020",
-  "65376d852636d8b3",
-  "c7039ed9cc81ff89",
-  "ee413df641019cba",
-  "06746b5f4280ea73",
-  "b8f1dfe17c0adb2e",
-  "6655f72d338881fc",
-  "a6987641081ea578",
-  "362445cfa226ea5d",
-  "c9fd7239225bc250",
-  "f4349186af6a14a2",
-  "5274b0465a5dd617",
-  "0221ab593d178644",
-  "35f8ee400c71a5ab",
-  "cecfc0e87deb3477",
   "8371de47cd3ba385",
   "beee38baf3bf233b",
   "0a402460253f7b8f",
@@ -3385,7 +3364,28 @@
   "229ba5048a39e56c",
   "2f4db024b7e0598a",
   "b5b0690aedceb68f",
-  "7ae93b40de3801a5"
+  "7ae93b40de3801a5",
+  "bdbb639f88f7a31e",
+  "9e64be58fe1d1ed4",
+  "231ceadec2654a81",
+  "cf824583e3d5290c",
+  "946d3fddf863ecfe",
+  "7eedc90651ec0da2",
+  "42971602dda8e508",
+  "28dd4b222326fd05",
+  "8b2d18df25f2ac87",
+  "af5cdd21fca23896",
+  "58caae5246b93963",
+  "0b957ef059bf8725",
+  "2e7a233773ad2b11",
+  "dad9d4af76ea6179",
+  "ab9ee10ee49e5222",
+  "dad42449465a3d7d",
+  "f6df064f12f77c14",
+  "f1656662d68f7368",
+  "bdaebc6ab0fd7738",
+  "4af338186a9f4eb7",
+  "fe7aac92cd10ca4a"
  ],
  "news_seeded": true,
  "news_products": [
@@ -3395,7 +3395,7 @@
    "norm": "한달적금withMMA2026",
    "rate": null,
    "first_news": "2026-09-07",
-   "count": 3,
+   "count": 14,
    "articles": [
     {
      "title": "카카오뱅크, '한달적금 with MMA2026' 출시…\"저축하면 MMA 티켓 당첨률↑\" - 네이트",
@@ -3414,6 +3414,29 @@
      "link": "https://daily.hankooki.com/news/articleView.html?idxno=1403293",
      "source": "네이버뉴스",
      "date": "2026-09-07"
+    },
+    {
+     "title": "카카오뱅크, '한달적금 with MMA2026' 출시…초대권 1000장 제공 - PRESS9",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBSM21vTFNDOHU1M3BnSlNKNEtNSXJqU1dCUjJsYy1wdkFyR1hRZFVIdzRSTGpuTDVwTTY4MDBiLVc3alN0bDYyMGxnWGJIZ2xKQmNFMXp5NEJaSmpYSjF6WTkyZDRVQQ?oc=5",
+     "source": "PRESS9",
+     "date": "2026-09-07"
+    }
+   ],
+   "in_disclosure": false
+  },
+  {
+   "bank": "카카오뱅크",
+   "name": "한달적금 위드 MMA2026",
+   "norm": "한달적금위드MMA2026",
+   "rate": null,
+   "first_news": "2026-09-07",
+   "count": 1,
+   "articles": [
+    {
+     "title": "매일 납입하면 MMA 티켓이…카카오뱅크, ‘한달적금 위드 MMA2026’ 출시",
+     "link": "https://www.mk.co.kr/article/12146206",
+     "source": "네이버뉴스",
+     "date": "2026-09-07"
     }
    ],
    "in_disclosure": false
@@ -3424,7 +3447,7 @@
    "norm": "팀코리아적금",
    "rate": 7.5,
    "first_news": "2026-09-06",
-   "count": 52,
+   "count": 58,
    "articles": [
     {
      "title": "우리은행, 최고 7.5% '팀코리아 적금' 출시 - news.nate.com",
@@ -3528,7 +3551,7 @@
    "norm": "전남광주통합특별시사랑적금",
    "rate": 4.7,
    "first_news": "2026-09-04",
-   "count": 35,
+   "count": 36,
    "articles": [
     {
      "title": "광주은행, '전남광주통합특별시 사랑적금' 출시 - 연합뉴스",
@@ -3911,23 +3934,6 @@
      "title": "KB국민은행, 최고 연 12% 'KB카드쓰담적금' 출시 - 데일리안",
      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcVhmQ2ZYMG1panBTSnZtWjdKMWVVZ1NDSlBsYXc3TWJGOE5VNVZvMWpOQXdTdDdzclE1dzVlRVlyUDRINVZybkl6ZDBySTJlcmkxR2FLVlhOeGhNVjlUMnAyaVI0cDFyZXZOY00wZG1BUTNxNUkxbnZ6Q005OHNUQk5ucFNCbHAyR2lvdHhmazk5MEJpS0lieTJvcFc3SHg5OWlRQzFrdEQ2ZE1MdTQxVG0yMExXZ2phazFOMW90dVNYUFJPU2hLUjh0UkdRaGZRT0J4eTVzRjY4bEFienlVeVJmMA?oc=5",
      "source": "데일리안",
-     "date": "2026-08-21"
-    }
-   ],
-   "in_disclosure": false
-  },
-  {
-   "bank": "국민은행",
-   "name": "연 최고 12.0% 금리 적금",
-   "norm": "연최고12.0%금리적금",
-   "rate": 12.0,
-   "first_news": "2026-08-21",
-   "count": 1,
-   "articles": [
-    {
-     "title": "KB국민은행, 선착순 10만좌 한정 '연 최고 12.0% 금리 적금' 출시 - 세이프머니",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82UUxheXVzUEhkeUx4UllqQVlKenRfWWlhYnlqc0ZkNGJGNVVQbjRwUEh2Xy1NRExhUjY1cVBDcVNQT3NrUEdLMkdjSU03XzFzbExBdUg0VGtSTlNyZklCMXE1a3VtYTktYW1PY1BB?oc=5",
-     "source": "세이프머니",
      "date": "2026-08-21"
     }
    ],
