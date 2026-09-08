@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-08 08:25",
+ "updated_at": "2026-09-08 13:21",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2513,94 +2513,79 @@
  ],
  "news": [
   {
-   "title": "우리銀, 아시안게임 승리 기원...연 7.5% 적금 출시 - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xT3hiR2tXazZTeDdJc0N5ZVl2MHR5YjhiRU1qVXBGSzZxMUlNbUFmbzJwcVdQM0J2ZUtYdjl3WFJuTkZTOXdOaHhBVHBlVWFvb0VuaXVyb0E1STA0UXA1ZWE2bjIwZGhB?oc=5",
-   "source": "TradingView",
-   "date": "2026-09-06"
-  },
-  {
-   "title": "[단신]우리은행, 최고 연 7.5% ‘팀코리아 적금’ 출시 外 - 동아일보",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CdDdFN3hHeFhIYkc0UWhheHJyQ2QybVpnSmp1ZFBRYTVlbFY3TlZMU3lZcXdyVUV2V0hTX0d2Rl9OM05BUHhMXzNid2xNLWUwazBJSG5tQzdxZV9MZkJXcDNsd21xQdIBZkFVX3lxTE1CdDdFN3hHeFhIYkc0UWhheHJyQ2QybVpnSmp1ZFBRYTVlbFY3TlZMU3lZcXdyVUV2V0hTX0d2Rl9OM05BUHhMXzNid2xNLWUwazBJSG5tQzdxZV9MZkJXcDNsd21xQQ?oc=5",
-   "source": "동아일보",
+   "title": "[단독]적금처럼 금 산다…카카오뱅크, '26주 금모으기' 출시 - 전자신문",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5sMmhrQTdwc2ZBb21nZnF5blFmMDZ1eVFZYlU0ZXEweE5jS2ZNdjBhanRwWWt6aUR1QXZ3MjBBZXVDSVpjMjFuc2pfOWxjdw?oc=5",
+   "source": "전자신문",
    "date": "2026-09-08"
   },
   {
-   "title": "우리은행, 연 7.5% 적금 출시…아시안게임 팀코리아 응원",
-   "link": "http://www.bizwnews.com/news/articleView.html?idxno=145517",
+   "title": "토스뱅크 '키워봐요 31일적금', 출시 한 달 만에 30만좌 돌파 - 매일일보",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfOFV2VzRUdGl2Uk5mYzg3ZU92OTluS1pVUTNQNUM3Wm00T3dkNHJPWUpicFRjX2I1QlRYXzJIQkZONGRyWUdXc1NiR0hSVmdELXM2RUlBUmhHMWhOZ3pzcmtOZUc4U1BU0gFoQVVfeXFMUF84VXZXNFR0aXZSTmZjODdlT3Y5OW5LWlVRM1A1QzdabTRPd2Q0ck9ZSmJwVGNfYjVCVFhfMkhCRk40ZHJZR1dzU2JHSFJWZ0QtczZFSUFSaEcxaE5nenNya05lRzhTUFQ?oc=5",
+   "source": "매일일보",
+   "date": "2026-09-08"
+  },
+  {
+   "title": "토스뱅크 ‘키워봐요 31일적금’, 출시 한 달 만에 30만좌 돌파 - 퍼블릭타임스",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tUVhFUG42ajB1NGVpY010OFV1UGhLVWpBaHBvRjVkcWVTUjUyOVYwaEpWdUVweTdrenJDcjBfMU9aOU8yeTE4UW5OQ1lXNS1jUjl0MnBKamloS2VXaTBzMTBJbGNIZDdVMlHSAW5BVV95cUxPQjVaTk8zQmlRVEx5ZXNkMEl2SURtTVZEcy1jcXhwUXFUaTRxTTh6WjFhUzBpNjkyOU5WQkVheXJLYjZ0czNNVkNtaHhUMTdMQmpObmNQbl9XWm1VSjcxenhMSHo5T0xRS0swbXMtdw?oc=5",
+   "source": "퍼블릭타임스",
+   "date": "2026-09-08"
+  },
+  {
+   "title": "토스뱅크 '키워봐요 31일적금', 출시 한 달 만 30만좌 넘었다 - 포인트데일리",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvb1JjTkt1ekxQUHoxTUN3SUtXSjM3ZW9uSndsVkRpbEwycU50VDBKdG1uUTZxX3pkUnIwR1p4RGs1aHBjajN5eXo2emwyQTZWZUJmNGN1aUJ6cU0xOFU2aWp5ZHAtR09kdkF1TjlmRHjSAXRBVV95cUxPOWd1OHRiYUt4dll3eERUaGpkdENQZHQ5Y08xcmY4dTV0SndsRVU5X01La1ZJQWVfdWpDRElRR2pBQXBCQzhvUUl3VEdheW5pQnhLX1pwWkctOXV3eDdtXzd4cWhfT1BaOUZ4ajdjOVlFTlhDeQ?oc=5",
+   "source": "포인트데일리",
+   "date": "2026-09-08"
+  },
+  {
+   "title": "토스뱅크, '키워봐요 31일적금' 출시 한 달 만에 30만좌 돌파 - 포인트경제",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5IQ0dSM3Q2emN4eXZNN2tZenFnd2U3anRIYzF6R1Y2Mnl6QVRSLWoxTFNSanA1MVlVTTFKSTdtNERBLVpvSVktZjVaTEhUaUlIMkluSVpUVTdwZFJiVGc4RnNhcERPZzZZMnc?oc=5",
+   "source": "포인트경제",
+   "date": "2026-09-08"
+  },
+  {
+   "title": "토스뱅크 '키워봐요 31일 적금' 출시 한 달 만에 30만좌 돌파 - 네이트",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1RMVY5MUx0RXBISkR0SjZUeTNKbFpaYjM5bFJwaS1VbnVLZGF0SkNnR2F0U196NEZNUWE4VHN6NFFwZHRYQjAxaTV0d1RyMy1RUVNv?oc=5",
+   "source": "네이트",
+   "date": "2026-09-08"
+  },
+  {
+   "title": "토스뱅크, 출시 한달 '31일적금' 누적 30만좌 돌파 - 뉴시스",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDVGlYR3dEYzlxc3pmcjdZU2MyWF9nMUVuR19CSzlTYVRWWTZUemcwZkM3R3J4MjQxZDB1REpDNEFJek80dktKUXpGMm05MHh5ZXhkbUwtWGQzNzd4NkRMb9IBeEFVX3lxTE1iWm1pMW0zMFZEUVZwZWVCUFVURnJ2SW9rbDlpa1k3b3kyZ3NoUnZQdVFDSWJDZUZ6MEIzMUJ1eHhLUzI1czg1QzR5SGhTSHN3cF9jMnltVm8zREFBTFNFVDZScU4tdzdRbFV2MlU0Rk9VMFpTSXFZUA?oc=5",
+   "source": "뉴시스",
+   "date": "2026-09-08"
+  },
+  {
+   "title": "토스뱅크 '키워봐요 31일적금'…출시 한 달 만에 30만좌 돌파 - 네이트",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sTzZQTVdvMm1lQWJ4LXBlQ2p3TGs5UmtkbU5LbFJTUUZCcWtuTzlsamV4NExOVW91ejdtcFltSDBkejZDZmRZcll1cWh4QnFoOXBZ?oc=5",
+   "source": "네이트",
+   "date": "2026-09-08"
+  },
+  {
+   "title": "카카오뱅크, 예·적금 넘어 투자까지…'주식 홈' 출시 - sports.hankooki.com",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCVzdrMEdGcWRWN2Z4b05SOWFQaWF1VWU4N1NYX295dWhNYTE4MVV5VVZqdHZ3OUVYLWllRVhqREo0bVRZbW1sdTZSVUtxYk1jT0dkWUZWU1F3bVBvaVY2MWE2MWhIWVd6a3NZRm1qZUjSAXRBVV95cUxQUE1ON2FVbWYydEt2Q0lxLXowX0JKNlM4T2FOVkp3S1ZmNmE0ckJEcU03YU5vcmh0aldJc0dkdVRXc20zajBLODhlaW5VSFNaeU0ycVdSaXhRTVVscW51LTVyYmZXa3pya3lkLU1naHduMC13Sw?oc=5",
+   "source": "sports.hankooki.com",
+   "date": "2026-09-08"
+  },
+  {
+   "title": "토스뱅크 '키워봐요 31일적금', 출시 한 달 만 30만좌 넘었다",
+   "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=318425",
    "source": "네이버뉴스",
    "date": "2026-09-08"
   },
   {
-   "title": "[단신]우리은행, 최고 연 7.5% ‘팀코리아 적금’ 출시 外 - donga.com",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NRjZnVWktbE5LOGN3SHFQTFpyQUEwQzNHdjlFSVdtaHNDNm90cTR0LUJmaWNHT2kzNWNOYk90S0hxOW9iQ3BMSEVpbFM3akE3ekFSNlJmanpONm8zSWRWWVhSckUtU2lMekVOTXhyVks0bXJOVmfSAWZBVV95cUxNQnQ3RTd4R3hYSGJHNFFoYXhyckNkMm1aZ0pqdWRQUWE1ZWxWN05WTFN5WXF3clVFdldIU19HdkZfTjNOQVB4TF8zYndsTS1lMGswSUhubUM3cWVfTGZCV3AzbHdtcUE?oc=5",
-   "source": "donga.com",
-   "date": "2026-09-08"
-  },
-  {
-   "title": "[단신]우리은행, 최고 연 7.5% ‘팀코리아 적금’ 출시 外",
-   "link": "https://www.donga.com/news/Economy/article/all/20260907/134621959/2",
+   "title": "토스뱅크 '키워봐요 31일적금', 출시 한 달 만에 30만좌 돌파",
+   "link": "https://www.public25.com/news/articleView.html?idxno=54278",
    "source": "네이버뉴스",
    "date": "2026-09-08"
   },
   {
-   "title": "우리은행, 아시안게임 맞춤 적금 출시...최대 7.5% 수익 - 뉴스브라이트",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pOC15bG9IT0lVNVdTZjhmYnJuQjlGWUlCMERKSjczM3RVYzFjNkhaX0J6enpJd1R6TWlIYktLb3JKaG00dUtPZGhHaFUxSllBSGx4VDlnRno3TEI3ZmdkUEJTLXJncWkxVkZWZw?oc=5",
-   "source": "뉴스브라이트",
-   "date": "2026-09-07"
-  },
-  {
-   "title": "우리銀, 아시안게임 팀코리아 승리 기원...연 7.5% 적금 출시 - 내외뉴스통신",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15MFJma2tjN0VURVlvQXRTTVVrOXpCZDRpSG1WZnZ1QnJ0SXFCR1hFLTFOTnBLbGFOazhIWVRNdFU4TWVONkZseTd6VzMwYWU0b2JsMm1IUWpQUnVaQnhXZ1diSERUUnRXV01GR9IBcEFVX3lxTE4xWDljcEc1VlNLcERDdE9wd1EwU1VtT3UxTWtvWXVwWGxLVURaQVBXME5odi0yTGw5SDZkb2tlOU0xUnVMTS1QSGtKR2ROUEI0NHRLamsyR1A3U0JuaDJxbWdvU0FQUzZVeE5nRmcwcjM?oc=5",
-   "source": "내외뉴스통신",
-   "date": "2026-09-07"
-  },
-  {
-   "title": "카카오뱅크, '한달적금 with MMA2026' 출시…초대권 1000장 제공 - PRESS9",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBSM21vTFNDOHU1M3BnSlNKNEtNSXJqU1dCUjJsYy1wdkFyR1hRZFVIdzRSTGpuTDVwTTY4MDBiLVc3alN0bDYyMGxnWGJIZ2xKQmNFMXp5NEJaSmpYSjF6WTkyZDRVQQ?oc=5",
-   "source": "PRESS9",
-   "date": "2026-09-07"
-  },
-  {
-   "title": "\"매일 저축하면 MMA 티켓 기회\"…카카오뱅크, 제휴 적금 출시 - 시사포커스",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CQWU2YUNMcEo5SkpvckdsSUxORnBIeFlHUnV5TVJNUGtaZU1xbkhYNGo1dU1IMXhtdnlDTG9SUEJqVldFbkpFRjlQRC0zQjJ1MmhVSkp3eFV3UTBJcF85bkd2WU1laUwwOWZ0QXM3bw?oc=5",
-   "source": "시사포커스",
-   "date": "2026-09-07"
-  },
-  {
-   "title": "카카오뱅크, '한달적금 with MMA2026' 출시... 최대 206번 티켓 응모 기회 - 뉴스락",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fRlZNZms2N0pxNExPTVh4TWN5LW1HLW5GQVZpYW10UDNma09oTkJSa2pjdDBoTHlGS0Rsa1luSVVHUGQzczI4WlVXcHNPOHF4d2Q5RlBJUnNHX1NLOXBrQnNMRlYtV0FfZl91Mw?oc=5",
-   "source": "뉴스락",
-   "date": "2026-09-07"
-  },
-  {
-   "title": "카카오뱅크 '한달적금 with MMA2026' 출시 - 현대경제신문",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRZkNjZmZCNHpSRjdaNnItMnd1MEx5RkFDNGtxUFlCNFE1azhNNnk0YVlPZ3pyWlNGdXRUWnJvSXhqSjJLRzlnWUZrNnVPQUJUS1hSaXNTNkJDV1Jybnk5U0lUUC0zSE5i0gFrQVVfeXFMTS1ONVVVV2lWT3JkZU1pQWpkVzJ5MFNETm1aMkVxSXVGbUNyaDFhbTl1cExUbHZyMFVWWXVDVXVhalRmNXQwXzA4VkswQllwM3E5dTlkc0l4WjliZjlkSGtDekVBV2tlOU5fODg?oc=5",
-   "source": "현대경제신문",
-   "date": "2026-09-07"
-  },
-  {
-   "title": "카카오뱅크, ‘한달적금 with MMA2026’ 출시…1000명에 티켓 제공 - 직썰",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jV3d0dzRiN05hd1d6dkUtUFMtV1ZyOG0xdjkyQjNBQW1TRTNoNUNHX0lQUlVzLTUxcEwwT3c1MlREbFpfQlVGUmwyYlZ0UGxGUGcyM3VGVVhBWkNRUklzRGZ6VmdXLVla0gFsQVVfeXFMTThwcFpYUk4tU2t2U1JYYktSbDNHdkozUVBod0RtZ2tQZ3gyMVdVOFVySjZ2dVhqMVg0Q25HY3pQTXZ2ZHZWSy1JbElFTF8xeUo3cS1Va0sxOXBHbl9lR1MyTV9aTGZCYUQ3U2VE?oc=5",
-   "source": "직썰",
-   "date": "2026-09-07"
+   "title": "토스뱅크, 출시 한달 '31일적금' 누적 30만좌 돌파",
+   "link": "https://www.newsis.com/view/NISX20260908_0003780560",
+   "source": "네이버뉴스",
+   "date": "2026-09-08"
   }
  ],
  "news_seen": [
-  "f31a9fe781f770c9",
-  "2126138c30ef2c5d",
-  "bc7e9bc70449849f",
-  "70e65f20ee2ca890",
-  "57aa27c916794aa4",
-  "44b476ffd8e795c0",
-  "a6e4847ebedbdf05",
-  "1889a1887494d842",
-  "40ed85f203263067",
-  "8c7140d80750a7ec",
-  "667cc76779442129",
-  "a93518a7665c2663",
-  "21049b354df8fdec",
-  "cd8a2596bfc78965",
-  "5a6d2c9440ccf8d0",
   "53006ed82bfb3a48",
   "614878fb354e7768",
   "56e53ab571ee3993",
@@ -3385,10 +3370,60 @@
   "5b9650ce06c98eba",
   "469523f59473f6a6",
   "f5a7c0c04f9510b3",
-  "89fdfa702d05a457"
+  "89fdfa702d05a457",
+  "2f0167c998f305dc",
+  "97eed66c4b794493",
+  "5b62a1ed40d78886",
+  "79363eaad44bf095",
+  "cdf7367761d97dab",
+  "e62d0588341b34a5",
+  "fabc784cf3630be9",
+  "fcfc5af490d206f2",
+  "74a4df4b0ff3d69f",
+  "72813ade357db495",
+  "26ac0b46aa3be190",
+  "238ff9b890f7f04f",
+  "ca8435d25238c07c",
+  "5f60cfd9dc8f0936",
+  "b59a77b2f426c90e"
  ],
  "news_seeded": true,
  "news_products": [
+  {
+   "bank": "토스뱅크",
+   "name": "키워봐요 31일적금",
+   "norm": "키워봐요31일적금",
+   "rate": null,
+   "first_news": "2026-09-08",
+   "count": 10,
+   "articles": [
+    {
+     "title": "토스뱅크 '키워봐요 31일적금', 출시 한 달 만에 30만좌 돌파 - 매일일보",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfOFV2VzRUdGl2Uk5mYzg3ZU92OTluS1pVUTNQNUM3Wm00T3dkNHJPWUpicFRjX2I1QlRYXzJIQkZONGRyWUdXc1NiR0hSVmdELXM2RUlBUmhHMWhOZ3pzcmtOZUc4U1BU0gFoQVVfeXFMUF84VXZXNFR0aXZSTmZjODdlT3Y5OW5LWlVRM1A1QzdabTRPd2Q0ck9ZSmJwVGNfYjVCVFhfMkhCRk40ZHJZR1dzU2JHSFJWZ0QtczZFSUFSaEcxaE5nenNya05lRzhTUFQ?oc=5",
+     "source": "매일일보",
+     "date": "2026-09-08"
+    },
+    {
+     "title": "토스뱅크 ‘키워봐요 31일적금’, 출시 한 달 만에 30만좌 돌파 - 퍼블릭타임스",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tUVhFUG42ajB1NGVpY010OFV1UGhLVWpBaHBvRjVkcWVTUjUyOVYwaEpWdUVweTdrenJDcjBfMU9aOU8yeTE4UW5OQ1lXNS1jUjl0MnBKamloS2VXaTBzMTBJbGNIZDdVMlHSAW5BVV95cUxPQjVaTk8zQmlRVEx5ZXNkMEl2SURtTVZEcy1jcXhwUXFUaTRxTTh6WjFhUzBpNjkyOU5WQkVheXJLYjZ0czNNVkNtaHhUMTdMQmpObmNQbl9XWm1VSjcxenhMSHo5T0xRS0swbXMtdw?oc=5",
+     "source": "퍼블릭타임스",
+     "date": "2026-09-08"
+    },
+    {
+     "title": "토스뱅크 '키워봐요 31일적금', 출시 한 달 만 30만좌 넘었다 - 포인트데일리",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvb1JjTkt1ekxQUHoxTUN3SUtXSjM3ZW9uSndsVkRpbEwycU50VDBKdG1uUTZxX3pkUnIwR1p4RGs1aHBjajN5eXo2emwyQTZWZUJmNGN1aUJ6cU0xOFU2aWp5ZHAtR09kdkF1TjlmRHjSAXRBVV95cUxPOWd1OHRiYUt4dll3eERUaGpkdENQZHQ5Y08xcmY4dTV0SndsRVU5X01La1ZJQWVfdWpDRElRR2pBQXBCQzhvUUl3VEdheW5pQnhLX1pwWkctOXV3eDdtXzd4cWhfT1BaOUZ4ajdjOVlFTlhDeQ?oc=5",
+     "source": "포인트데일리",
+     "date": "2026-09-08"
+    },
+    {
+     "title": "토스뱅크, '키워봐요 31일적금' 출시 한 달 만에 30만좌 돌파 - 포인트경제",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5IQ0dSM3Q2emN4eXZNN2tZenFnd2U3anRIYzF6R1Y2Mnl6QVRSLWoxTFNSanA1MVlVTTFKSTdtNERBLVpvSVktZjVaTEhUaUlIMkluSVpUVTdwZFJiVGc4RnNhcERPZzZZMnc?oc=5",
+     "source": "포인트경제",
+     "date": "2026-09-08"
+    }
+   ],
+   "in_disclosure": true
+  },
   {
    "bank": "카카오뱅크",
    "name": "한달적금 with MMA2026",
@@ -3430,12 +3465,18 @@
    "norm": "한달적금위드MMA2026",
    "rate": null,
    "first_news": "2026-09-07",
-   "count": 1,
+   "count": 2,
    "articles": [
     {
      "title": "매일 납입하면 MMA 티켓이…카카오뱅크, ‘한달적금 위드 MMA2026’ 출시",
      "link": "https://www.mk.co.kr/article/12146206",
      "source": "네이버뉴스",
+     "date": "2026-09-07"
+    },
+    {
+     "title": "매일 납입하면 MMA 티켓이…카카오뱅크, ‘한달적금 위드 MMA2026’ 출시 - 매일경제",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WOHVkQXg0ZUhFbGR0cnlrN0NHd0IzMnNWQ0Riem5DdTgyM1pTYXRTYkhaajVWMlAtcWRVMjU5V2FqRU5vcGVqa2FfQWExMFJycnFsSw?oc=5",
+     "source": "매일경제",
      "date": "2026-09-07"
     }
    ],
@@ -3447,7 +3488,7 @@
    "norm": "팀코리아적금",
    "rate": 7.5,
    "first_news": "2026-09-06",
-   "count": 63,
+   "count": 65,
    "articles": [
     {
      "title": "우리은행, 최고 7.5% '팀코리아 적금' 출시 - news.nate.com",
@@ -3899,41 +3940,6 @@
      "title": "광주은행, '통합특별시 사랑예금' 완판에 적금도 출시 - 네이트",
      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5sMGRnNXFQandPaFVicU5NM09sYW5fUGdyclNNX0JUOFhYVUl0WGJyNnFYRFdaR185aWdKam5ONmh5OC10Wkh6TTFOX0F4WXYyM1hkRkViSjB3RDRpNXRXRG5mNkt4OWd5bWttdUV0R0tQR1lzYWZRUg?oc=5",
      "source": "네이트",
-     "date": "2026-08-21"
-    }
-   ],
-   "in_disclosure": false
-  },
-  {
-   "bank": "국민은행",
-   "name": "KB카드쓰담적금",
-   "norm": "KB카드쓰담적금",
-   "rate": 12.0,
-   "first_news": "2026-08-21",
-   "count": 227,
-   "articles": [
-    {
-     "title": "KB국민은행, 'KB카드쓰담적금' 출시…최고 금리 연 12% - 연합뉴스",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4aWJEMkp5X1VvbHNCcHR4R3hWQ3RmWExFOHEwbTAzWHNFaVZuNFVocTRhRS1KTEZRaENNZ05ySEllTmgza0wzSXVfUkh5OF93STQ0Q2s3MnhGX2fSAWBBVV95cUxOWm01RWpaUDRCUUxrbXFPbERpdXlTNmFYa29KQXRzTmxTOG0zaU1pd2VrS0I3OVhPZWtLS1ZFeU81aWVYRlo3bF9ZQ1RpSmZ1a3k0eVB4VUcxUHE3OHRRUnQ?oc=5",
-     "source": "연합뉴스",
-     "date": "2026-08-21"
-    },
-    {
-     "title": "KB국민은행, 최고 연 12% ‘KB카드쓰담적금’ 출시 - 이뉴스투데이",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXX3lwblVaVzY3QWVhREliMG82X1dPYk1hRWtKQnc2aFRzazl6UzI2aHV1b0luYnM2Wmgtem52aGp2NlZFN0JRRWZHb2pkNTY2ZW1GUUg3TjhhNU5lYXZwcHVQLUswMkFKMDVJbUEzWUjSAXRBVV95cUxPbXBsSDNjcndrcG5XSWxNU3h3U2pxb3BlVHZsRVpnTFE4M1A1WHRubmxhRDNnSXpjZHdHNEMzQW54RXNfUm5LUW1ESEFMUFc4c0MyeGdNLS1nVTFMR3o4b3otUWNJbEpHX3d2N0RHMXJsNTZWSg?oc=5",
-     "source": "이뉴스투데이",
-     "date": "2026-08-21"
-    },
-    {
-     "title": "KB국민은행, 최고 연 12.0% 금리 'KB카드쓰담적금' 출시 - 로이슈",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5vcEkxZWJnQlZES2p4UWUyNEM2NmJPd1J3RVV2Q0ZQYWVhMFRsNDZkQ1B6S0lPNnRzMUx6cTBXeVhFU2MxdmdsVmJIRTRFNGU3UTBtTlZBaTBuMU9NWldnWUZJV0kzMUFLeXBpd0RkVTZBSU1BNEtBem93?oc=5",
-     "source": "로이슈",
-     "date": "2026-08-21"
-    },
-    {
-     "title": "KB국민은행, 최고 연 12% 'KB카드쓰담적금' 출시 - 데일리안",
-     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcVhmQ2ZYMG1panBTSnZtWjdKMWVVZ1NDSlBsYXc3TWJGOE5VNVZvMWpOQXdTdDdzclE1dzVlRVlyUDRINVZybkl6ZDBySTJlcmkxR2FLVlhOeGhNVjlUMnAyaVI0cDFyZXZOY00wZG1BUTNxNUkxbnZ6Q005OHNUQk5ucFNCbHAyR2lvdHhmazk5MEJpS0lieTJvcFc3SHg5OWlRQzFrdEQ2ZE1MdTQxVG0yMExXZ2phazFOMW90dVNYUFJPU2hLUjh0UkdRaGZRT0J4eTVzRjY4bEFienlVeVJmMA?oc=5",
-     "source": "데일리안",
      "date": "2026-08-21"
     }
    ],
