@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-10 06:37",
+ "updated_at": "2026-09-10 09:03",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2513,6 +2513,18 @@
  ],
  "news": [
   {
+   "title": "카카오뱅크, ‘한달적금 with MMA2026’ 출시…20일까지 한정 판매 - 비즈월드",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DUjlYVHJDcjY2aWx0eVFRRWV0aXRzN0wxMmRBeGZadjFibUxBbHRpQlc3WlhsZGhnaDhsYkZseEdNSlBNN0x5QVNfMlBxUC1kTjEycWM1RFdpWHlrY01iTFVTMzg5a3d4Umc?oc=5",
+   "source": "비즈월드",
+   "date": "2026-09-10"
+  },
+  {
+   "title": "카카오뱅크, '한달적금 with MMA2026' 출시…20일까지 한정 판매",
+   "link": "http://www.bizwnews.com/news/articleView.html?idxno=145791",
+   "source": "네이버뉴스",
+   "date": "2026-09-10"
+  },
+  {
    "title": "NH저축은행, 최고 연 6.0% 'NH FIC 올바른지구 정기적금' 출시... 선착순...",
    "link": "https://weeklytrade.co.kr/news/view.html?section=1&category=6&item=&no=101366",
    "source": "네이버뉴스",
@@ -2571,23 +2583,9 @@
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VcFFsMFhIb1ltTGxJVVJSQ09hRWJkaEYydWpsTTNuSjVaWDhJeGxUMzQzeEstWFdWMXl6UDZKOHc4anBNcXlBVWdwZ3gtX2R5Y0twb1ZudUtfWmFDdVpYMEVLMU1GYlQ3bDBV?oc=5",
    "source": "비즈월드",
    "date": "2026-09-08"
-  },
-  {
-   "title": "카카오뱅크, 뮤직페스티벌 연계 적금 출시...1000명에 초대권 쏜다 - 뉴스핌",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9sREhYZlpMczBTTTRkQUlpRFVSeU9MelRkS0FKblgzVkp4STl0X1NsRkZIeVptSmNTV1I2TWZpb2NOV21SNUV6VVpfR1RNcWo3dnU3cUljOXc5a3pu?oc=5",
-   "source": "뉴스핌",
-   "date": "2026-09-07"
-  },
-  {
-   "title": "토스뱅크 ‘키워봐요 31일적금’, 출시 한 달 만에 30만좌 돌파 - 소년한국일보",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmaVZPN2duSkxTR2pQREJmRGFXTkM4UEIwN2FfOU41QmRCS3FrekdkREVIclFtNEh3SEFycWZTMEl2TWNubUp1QVdHNVRRazRYbkJjb1hBRlRfM1hCRGlxWHprcUhlM0pmZ29LetIBcEFVX3lxTFBmTE84VHNoTWd2QmhXTWJaa1NIS2F6ZFJZMmpwT3BUZGFUSGhieldUTWNUcHJQTEw5c3MxZ2F3cFFjOWkwVFgxNWdxYW9OTTcyQ3M4MlBNWk9OY2pIZDhzSV9Cd011MmlMbUJqT211VUU?oc=5",
-   "source": "소년한국일보",
-   "date": "2026-09-09"
   }
  ],
  "news_seen": [
-  "20b4bad021daa744",
-  "0bd4dacec3ba870a",
   "3cdaadbdeb44a5a5",
   "79798367224df4ce",
   "e0ba189d38b69d43",
@@ -3385,7 +3383,9 @@
   "f011073b0c8bc8e8",
   "87416c91bdacf5fa",
   "d677e89f97d7a80d",
-  "5d3d88b6421ece54"
+  "5d3d88b6421ece54",
+  "3ff714c544db7480",
+  "503c84462eb43e9b"
  ],
  "news_seeded": true,
  "news_products": [
@@ -3447,7 +3447,7 @@
    "norm": "한달적금withMMA2026",
    "rate": null,
    "first_news": "2026-09-07",
-   "count": 17,
+   "count": 19,
    "articles": [
     {
      "title": "카카오뱅크, '한달적금 with MMA2026' 출시…\"저축하면 MMA 티켓 당첨률↑\" - 네이트",
