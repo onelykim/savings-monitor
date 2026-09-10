@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-10 13:27",
+ "updated_at": "2026-09-10 18:34",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -1680,8 +1680,8 @@
      "save_trm": 12,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.03,
-     "intr_rate2": 3.83
+     "intr_rate": 3.04,
+     "intr_rate2": 3.84
     },
     {
      "save_trm": 24,
@@ -1698,8 +1698,8 @@
      "intr_rate2": 3.5
     }
    ],
-   "best_rate": 3.83,
-   "best_base_rate": 3.03,
+   "best_rate": 3.84,
+   "best_base_rate": 3.04,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EB%86%8D%ED%98%91%EC%9D%80%ED%96%89%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20NH%EC%A7%81%EC%9E%A5%EC%9D%B8%EC%9B%94%EB%B3%B5%EB%A6%AC%EC%A0%81%EA%B8%88",
    "first_seen": "2026-07-10",
@@ -2513,6 +2513,18 @@
  ],
  "news": [
   {
+   "title": "\"지금 바로 신청하세요\"… NH저축은행, 연 6% 정기적금 출시 - 토픽트리",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAzLVpkUDBMMnZOUVR5ejRkZXRkX3dtQkxmQTdTUmpCcGxMc3FvaEJLdzJueUh1TmpKN25iYVlHdVRTMlNvQlZ6Qlo5V0xzc0pzb1dZWkJjZ0VmLWdYTzJ0WUIxQU40Y0NsQjFIWGFSLW0wcFpHdnM1cTNJc18yd9IBhgFBVV95cUxNeVA3Qjk1WWpGLV9Tb2k1cldsZjJUUHNPMGc3U2JVOHRYMDJaYUlCUGhSU2w5aDdPaTlBdHBoUGw2WlV0TTFtbWVFd2xkRDVqVG5La1M0eUNjalVkN05DcEE3MHZrbU5WbEFUc2JwaXE5d3V6TDFLLUJHNkJvVmRqa2o5Z3pUdw?oc=5",
+   "source": "토픽트리",
+   "date": "2026-09-10"
+  },
+  {
+   "title": "NH저축은행, 최고 연 6% ‘올바른지구 정기적금’ 출시",
+   "link": "https://www.nongmin.com/article/20260910500213",
+   "source": "네이버뉴스",
+   "date": "2026-09-10"
+  },
+  {
    "title": "카카오뱅크, ‘한달적금 with MMA2026’ 출시…20일까지 한정 판매 - 비즈월드",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5pd2tPYVo1Mmh3bzlJWV8xOUluSzZZb3pTcjBFWkpQX1BMMFJaYkFiRWJNNGdSaTFPbjNUd0RFNHJvbGhtQkJ6OTk1akh0S3ItRkJFZGdCLWFrODdDdUhoM3RTdzBqV0ZKOEhR?oc=5",
    "source": "비즈월드",
@@ -2571,23 +2583,9 @@
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tSjBrQWk3TGk5NGhmZkNMdFNMdms1UnJmeWdNTkdzQTdSeVNfdjFTTVA4MS03YXJKQVVQaDBqYzhVSlpZVGczcmItdUlwMEk1WDR2NEpHX2R4d9IBVEFVX3lxTFBQZnp5R0tmTEhBMFhXdzFYMzltNlVrUXVpRTdCVUx0NVNiM1FzeEtUczJUc01INFhza2RTVGc0TlV5dUhhdnFsWXBZVUxTal9ocG9XdQ?oc=5",
    "source": "더팩트",
    "date": "2026-09-08"
-  },
-  {
-   "title": "NH저축은행, 최고 연 6% 적금 출시...800좌 한정 판매 - 아주경제",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSSFMtOU44ZXZUQjVocnhrdl9rVGR1QndfeTF1MHV3V09ZMTdwU2c2UDBscF8wMzFnU21rMmF6SHZZUnowYkt0ZjFzb0QzSjBWZU1GbXkwazDSAVhBVV95cUxQUkhTLTlOOGV2VEI1aHJ4a3Zfa1RkdUJ3X3kxdTB1d1dPWTE3cFNnNlAwbHBfMDMxZ1NtazJhekh2WVJ6MGJLdGYxc29EM0owVmVNRm15MGsw?oc=5",
-   "source": "아주경제",
-   "date": "2026-09-09"
-  },
-  {
-   "title": "수협 상호금융, '2026 더블찬스적금' 출시 나흘만에 조기 완판",
-   "link": "https://www.suhyupnews.co.kr/news/articleView.html?idxno=40552",
-   "source": "네이버뉴스",
-   "date": "2026-09-09"
   }
  ],
  "news_seen": [
-  "e0ba189d38b69d43",
-  "9e70c751df1f3fc4",
   "3381efaf882535f1",
   "832a42d3faff8dff",
   "5b43f3c8a166e099",
@@ -3385,7 +3383,9 @@
   "3ff714c544db7480",
   "503c84462eb43e9b",
   "c3b02e3cdef16365",
-  "f2daf2cafac10ff4"
+  "f2daf2cafac10ff4",
+  "b16e8c09561da714",
+  "81140a7de49ae2b6"
  ],
  "news_seeded": true,
  "news_products": [
