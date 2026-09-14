@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-14 15:03",
+ "updated_at": "2026-09-14 21:33",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -1190,26 +1190,26 @@
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
-     "intr_rate": 3.35,
-     "intr_rate2": 3.35
+     "intr_rate": 3.4,
+     "intr_rate2": 3.4
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
-     "intr_rate": 3.42,
-     "intr_rate2": 3.42
+     "intr_rate": 3.46,
+     "intr_rate2": 3.46
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
-     "intr_rate": 3.6,
-     "intr_rate2": 3.6
+     "intr_rate": 3.63,
+     "intr_rate2": 3.63
     }
    ],
-   "best_rate": 3.6,
-   "best_base_rate": 3.6,
+   "best_rate": 3.63,
+   "best_base_rate": 3.63,
    "best_term": 36,
    "naver_url": "https://search.naver.com/search.naver?query=%ED%95%9C%EA%B5%AD%EC%82%B0%EC%97%85%EC%9D%80%ED%96%89%20KDB%20%EA%B8%B0%EC%97%85%EC%A0%95%EA%B8%B0%EC%A0%81%EA%B8%88",
    "first_seen": "2026-07-10",
@@ -1253,26 +1253,26 @@
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.55,
-     "intr_rate2": 3.55
+     "intr_rate": 3.6,
+     "intr_rate2": 3.6
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.52,
-     "intr_rate2": 3.52
+     "intr_rate": 3.56,
+     "intr_rate2": 3.56
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.7,
-     "intr_rate2": 3.7
+     "intr_rate": 3.73,
+     "intr_rate2": 3.73
     }
    ],
-   "best_rate": 3.7,
-   "best_base_rate": 3.7,
+   "best_rate": 3.73,
+   "best_base_rate": 3.73,
    "best_term": 36,
    "naver_url": "https://search.naver.com/search.naver?query=%ED%95%9C%EA%B5%AD%EC%82%B0%EC%97%85%EC%9D%80%ED%96%89%20KDB%20%EC%9E%90%EC%9C%A0%EC%A0%81%EA%B8%88",
    "first_seen": "2026-07-10",
@@ -1680,8 +1680,8 @@
      "save_trm": 12,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.04,
-     "intr_rate2": 3.84
+     "intr_rate": 3.05,
+     "intr_rate2": 3.85
     },
     {
      "save_trm": 24,
@@ -1698,8 +1698,8 @@
      "intr_rate2": 3.5
     }
    ],
-   "best_rate": 3.84,
-   "best_base_rate": 3.04,
+   "best_rate": 3.85,
+   "best_base_rate": 3.05,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EB%86%8D%ED%98%91%EC%9D%80%ED%96%89%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20NH%EC%A7%81%EC%9E%A5%EC%9D%B8%EC%9B%94%EB%B3%B5%EB%A6%AC%EC%A0%81%EA%B8%88",
    "first_seen": "2026-07-10",
@@ -2513,6 +2513,60 @@
  ],
  "news": [
   {
+   "title": "케이뱅크, ‘쎄봉라마’와 함께하는 ‘궁금한 적금’ 시즌8 출시…최대 연 6.7% - 나눔경제뉴스",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOa2Vsal96eEhGWEZCUlZReTdmQ1hDbzJmbTlJdU9wRzJnRzN1MjVEUUlMOHhsSTVZVnE3SzhHUDAyZnVIT0U5eENrSTNsQXpITDZtZG95b3RsQ2t5VGg3R2FVTE1YZlc5ZlJYZw?oc=5",
+   "source": "나눔경제뉴스",
+   "date": "2026-09-14"
+  },
+  {
+   "title": "케이뱅크 '궁금한 적금' 시즌8 출시, 최고 연 6.7% - 세이프머니",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9iNmw4NGkyWjhJeFNORFFwZ1dxNmZvRnZqdzVMeTNrTW9TYjNqZlNPenliNi1mZ3M3Yi03c3JxRHZmSEZWbDhHWDZ4Zng4RFVJVTk0VTlRVmpRRUFGOWI2VVFwbzlYQThMdmFDVEd3?oc=5",
+   "source": "세이프머니",
+   "date": "2026-09-14"
+  },
+  {
+   "title": "\"금리 최고 연6.7%\" 케이뱅크 '궁금한 적금' 시즌8 출시 - catchnews.kr",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sRFUyRFJhSENjN1ZScExYNWFzMjh0WHFjd2paZVVkTGdSbC1qbE9fbm1uNkJTRGowb3diOTZiSmZrOVR1RVhQODJuZ2puU1VLRXdyZGxXU29oc3BwWHBIRGVZdmZtUWFZV3kw?oc=5",
+   "source": "catchnews.kr",
+   "date": "2026-09-14"
+  },
+  {
+   "title": "케이뱅크, ‘쎄봉라마’와 협업 '궁금한 적금' 시즌8 출시...최대 연 6.7% - 퍼블릭타임스",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEUkJXQ3g4TnRnUmYyTkVsb3U2a2xrMElxb20wVU1NUW9DX2hoNmtaN0M0NGxCMGQxMGtONmcycWFyYmpXVTJldzVKMUR2bVpNbGZScDF4dGVRaUgzdldkUDF2MUs4Y1M1YmfSAW5BVV95cUxPSW9pay1kTklyT3k4YmpmS1BIM2tiWlpzN2VUX3VKT3RQY2hYbFlEdTIydnI4a1NZcmxYQnFnV0FiNFVPem9nek9wb2M2eFBqN0R5TjBqZFpLZnYxeE9qcGs3blFnOUt1dDRVaVU4dw?oc=5",
+   "source": "퍼블릭타임스",
+   "date": "2026-09-14"
+  },
+  {
+   "title": "케이뱅크, 최고 연 6.7% 금리 '궁금한 적금' 신규 테마 선보여 - fetv.co.kr",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Ka3lNeWZyT0E4VDBWN2g0dkVlYWpraE95UnJhTjVZZzM0dTgtdUIzalpqb0hzTXA0U1lfOXlYa2pvMGx4WmNucEtsWWUtcHdKc2hWS1E2UG11djdDVnJzLTJ5YVROU1RM?oc=5",
+   "source": "fetv.co.kr",
+   "date": "2026-09-14"
+  },
+  {
+   "title": "\"8개계열사 고금리적금·특판상품 한자리에\" 우리금융, 9월30일까지 '우다폐' 사전알림 접수 - catchnews.kr",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03OGdUSUE4ZGd0VmdZd183VFpTc0JYMTh5TGNEbE94TXdCUTBlOWlTdHU1VE0zUmFUaktEUVBDMk1uaEZOaHFhZEVfQXdzNUtvOTJrT21ObnpkOTZSOXRuNHlXT1dONGY1alBB?oc=5",
+   "source": "catchnews.kr",
+   "date": "2026-09-14"
+  },
+  {
+   "title": "케이뱅크, 최고 연 6.7% 금리 '궁금한 적금' 신규 테마 선보여",
+   "link": "https://www.fetv.co.kr/news/articleView.html?idxno=310169",
+   "source": "네이버뉴스",
+   "date": "2026-09-14"
+  },
+  {
+   "title": "\"금리 최고 연6.7%\" 케이뱅크 '궁금한 적금' 시즌8 출시",
+   "link": "https://www.catchnews.kr/news/articleView.html?idxno=128393",
+   "source": "네이버뉴스",
+   "date": "2026-09-14"
+  },
+  {
+   "title": "\"8개계열사 고금리적금·특판상품 한자리에\" 우리금융, 9월30일까지 '우...",
+   "link": "https://www.catchnews.kr/news/articleView.html?idxno=128388",
+   "source": "네이버뉴스",
+   "date": "2026-09-14"
+  },
+  {
    "title": "케이뱅크, 인기 캐릭터 ‘쎄봉라마’ 적용 적금 출시 - weekly.hankooki.com",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NUkZHS2kwVDM2QkZXbnlQcDdNclc5RGNCd1FlNnFFX0NfWXRqeHUxSnQ3MkpHM1ByMVpvQVhCQ1hfQ2tMeDA4UWFEY1NOQWRxSDVHZHd0MGFjQThrWmgxWEF4TWtKalZkd3lqdkRqdWh5OTNQ0gF0QVVfeXFMT01SRkdLaTBUMzZCRldueVBwN01yVzlEY0J3UWU2cUVfQ19ZdGp4dTFKdDcySkczUHIxWm9BWEJDWF9Da0x4MDhRYURjU05BZHFINUdkd3QwYWNBOGtaaDFYQXhNa0pqVmR3eWp2RGp1aHk5M1A?oc=5",
    "source": "weekly.hankooki.com",
@@ -2529,72 +2583,9 @@
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1UMTViS1RQLUhfSW93SHp2cXBCa0h4bkthcnM2UGpQb1pyVDRBQjlpLTZiWXJtVDEybFdLRm1BV0c4b2puRWVXX2kwRjBIMHZRSjUwNVhlQUxJX3Jha1BfWXMzQTFGWC0x0gFrQVVfeXFMTkJQTHNUS0t5RUctN0JfREVreXhuQ1MxUzNoaExUWTAtM0s4QVZfX2YwTjdvc0pNa3M0VUp0RnlJbnVHSUVCZlNySWRaVGZHN1hkN3VCZEU5NjFBVVg1V0dDak9DM3VwS29YZmM?oc=5",
    "source": "finomy.com",
    "date": "2026-09-14"
-  },
-  {
-   "title": "케이뱅크, ‘궁금한 적금’ 쎄봉라마 테마 출시 - 이뉴스투데이",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYZWo5czB2bnRnNklCbzhZcW5qcjlZNm15QVVpbmllYjI3TE9HYjFNRkVmelpnRGlrRXd6TGRvemFGTGdxOW5mV183R2pHZFdnSFhDbnB4N2x6NWllS296MUthRUNhR08xNDU1UEN6NHnSAXRBVV95cUxPc1JBZ0RSZE94UWNUX3R6cHFHVkl2QU1rVHNjcjlkNWxUTW1icWRJbVppV1RLTDRid18zSmRNeXBsQWt1WXVkdDdTX0djYzRObFMxYVlxVnF4WVJ0TmtuT1hqa2VGTmVMeXBBR2NUM0Z0b2hNQg?oc=5",
-   "source": "이뉴스투데이",
-   "date": "2026-09-14"
-  },
-  {
-   "title": "우리금융, 10월 ‘우다페’ 개최...고금리 적금 등 16개 특판[코주부] - sedaily.com",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1NVpSS1pIcXljc3BCR290R1BDOWJWSV9NemZtRG1XSkIxU1pjQXg5NVBmeFlhWkEtTlVyRFR6NXQtaExWRDZaQXIzRnJtMlktLUHSAVNBVV95cUxNR1VkZERVVHlaalE5R2NONzNDRmRIUzZmWlYzdEhZTVlrN0Z6aGR1VzdmN05nQnNZcW1yMGI4bmZpSG01aS1ZMFBDTGFaMlA1YzFPWQ?oc=5",
-   "source": "sedaily.com",
-   "date": "2026-09-14"
-  },
-  {
-   "title": "케이뱅크, '쎄봉라마'와 협업 '궁금한 적금' 시즌8 출시...최대 연 6.7%",
-   "link": "https://www.public25.com/news/articleView.html?idxno=54707",
-   "source": "네이버뉴스",
-   "date": "2026-09-14"
-  },
-  {
-   "title": "케이뱅크, '쎄봉라마' 입힌 궁금한 적금 시즌8 출시",
-   "link": "http://www.finomy.com/news/articleView.html?idxno=261475",
-   "source": "네이버뉴스",
-   "date": "2026-09-14"
-  },
-  {
-   "title": "케이뱅크, 인기 캐릭터 '쎄봉라마' 적용 적금 출시",
-   "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7184058",
-   "source": "네이버뉴스",
-   "date": "2026-09-14"
-  },
-  {
-   "title": "케이뱅크, '궁금한 적금' 쎄봉라마 테마 출시",
-   "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2469983",
-   "source": "네이버뉴스",
-   "date": "2026-09-14"
-  },
-  {
-   "title": "케이뱅크, 인기 캐릭터 '쎄봉라마' 품은 '궁금한 적금' 시즌8 출시",
-   "link": "https://www.pointe.co.kr/news/articleView.html?idxno=84695",
-   "source": "네이버뉴스",
-   "date": "2026-09-14"
-  },
-  {
-   "title": "우리금융, 10월 ‘우다페’ 개최...고금리 적금 등 16개 특판[코주부]",
-   "link": "https://www.sedaily.com/article/20090604?ref=naver",
-   "source": "네이버뉴스",
-   "date": "2026-09-14"
-  },
-  {
-   "title": "매일 저축하면 그림 한 장씩…케이뱅크, ‘쎄봉라마 적금’ 출시 - 뉴스퀘스트",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5YaHA0a0dHcTRMQkljMjFBOWR4U2ZWQUp6RjF6S3dTdVpZZENnaGZ2YnMxTHBKcm9yVVE3aWh3eGVkcDlSSml4dko2d1k4eVBYYzEzLVhjZ1prMkg2eHFtZXZYdk9wZ0F3OGFBUk1Nbw?oc=5",
-   "source": "뉴스퀘스트",
-   "date": "2026-09-14"
   }
  ],
  "news_seen": [
-  "c3eccfd4753ffc93",
-  "1add733d5616acfc",
-  "ecc83d6cf1ce0057",
-  "01e9be0064622711",
-  "1a910a382db339fb",
-  "1fab17ef61adefcf",
-  "9a6f9af49cabaf9c",
-  "2cd889d64f2cb20f",
-  "4e00ae849412c8b9",
   "e31560ade0bd2418",
   "eb90f6ae25cea871",
   "68a88568220063d1",
@@ -3385,7 +3376,16 @@
   "071c98b4225fd4b9",
   "f15d9d95d26082d2",
   "63288c39335129b4",
-  "844df73e228f8c0b"
+  "844df73e228f8c0b",
+  "7f9631a5df8aa98c",
+  "ce6024ae052c12c0",
+  "3d5f08ff64c95c15",
+  "b8e6b7393824d1b4",
+  "aebb15ec3e09b86c",
+  "77e64ebbc0eb6112",
+  "7d659b8c1cae9234",
+  "a7b25b3c20cd3de6",
+  "f3587abc557a96e5"
  ],
  "news_seeded": true,
  "news_products": [
@@ -3418,7 +3418,7 @@
    "norm": "궁금한적금",
    "rate": 6.7,
    "first_news": "2026-09-14",
-   "count": 9,
+   "count": 16,
    "articles": [
     {
      "title": "케이뱅크, '궁금한 적금' 쎄봉라마 테마 출시…최대 연 6.7% - 뉴스핌",
