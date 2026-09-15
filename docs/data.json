@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-15 16:36",
+ "updated_at": "2026-09-15 22:25",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2513,6 +2513,18 @@
  ],
  "news": [
   {
+   "title": "케이뱅크, '궁금한 적금' 시즌8 출시… 6.7% 금리에 캐릭터·웹소설 입혔다 - 비즈트리뷴",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uQnNfT1dZWUtScEd5ck1WblMxT29zYU10VUtieDRHYWtUcGVaa2NDWk1ueVZzOEhjVHA0bVhVbHdJVWlmdXRqQ0tDYWRsWVNkRlpSQ3VJSGZNSFBHRS1hSzVoTlBqTlAyYlMtdDQ4OFo?oc=5",
+   "source": "비즈트리뷴",
+   "date": "2026-09-15"
+  },
+  {
+   "title": "케이뱅크, '궁금한 적금' 시즌8 출시… 6.7% 금리에 캐릭터·웹소설 입혔...",
+   "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=359069",
+   "source": "네이버뉴스",
+   "date": "2026-09-15"
+  },
+  {
    "title": "케이뱅크, 인기 캐릭터 ‘쎄봉라마’ 적용 적금 출시 - 주간한국",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9CUEFzOGZhdWlSb1RYNWdEV2gwUTdIc1FCenBnT2ZIVjdVb3lsM1lLREp1RmNQTlZ3VWNPak9sMmJlVVl2andzbEVRTDlNVXh1SFV5TF90X2F1cElONnJlVjJsQTlsZW9ESThlUTctdTfSAXRBVV95cUxPTVJGR0tpMFQzNkJGV255UHA3TXJXOURjQndRZTZxRV9DX1l0anh1MUp0NzJKRzNQcjFab0FYQkNYX0NrTHgwOFFhRGNTTkFkcUg1R2R3dDBhY0E4a1poMVhBeE1rSmpWZHd5anZEanVoeTkzUA?oc=5",
    "source": "주간한국",
@@ -2571,23 +2583,9 @@
    "link": "https://www.catchnews.kr/news/articleView.html?idxno=128388",
    "source": "네이버뉴스",
    "date": "2026-09-14"
-  },
-  {
-   "title": "케이뱅크, 인기 캐릭터 ‘쎄봉라마’ 적용 적금 출시 - weekly.hankooki.com",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NUkZHS2kwVDM2QkZXbnlQcDdNclc5RGNCd1FlNnFFX0NfWXRqeHUxSnQ3MkpHM1ByMVpvQVhCQ1hfQ2tMeDA4UWFEY1NOQWRxSDVHZHd0MGFjQThrWmgxWEF4TWtKalZkd3lqdkRqdWh5OTNQ0gF0QVVfeXFMT01SRkdLaTBUMzZCRldueVBwN01yVzlEY0J3UWU2cUVfQ19ZdGp4dTFKdDcySkczUHIxWm9BWEJDWF9Da0x4MDhRYURjU05BZHFINUdkd3QwYWNBOGtaaDFYQXhNa0pqVmR3eWp2RGp1aHk5M1A?oc=5",
-   "source": "weekly.hankooki.com",
-   "date": "2026-09-14"
-  },
-  {
-   "title": "케이뱅크, 인기 캐릭터 '쎄봉라마' 품은 '궁금한 적금' 시즌8 출시 - 포인트경제",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YUkdfVDRVVXJUOTI0d3N5WGNOT0VPNGFZT1Yxb3IzSVJ0eTZnVXA5ci1yUHRqMkhnNGtGQklnOVkwOTRfZlpQdWVNTF9veTZpbmxmd2NrXzdGNXkzMVhGcTlob0dNSXM2SFE?oc=5",
-   "source": "포인트경제",
-   "date": "2026-09-14"
   }
  ],
  "news_seen": [
-  "eb90f6ae25cea871",
-  "68a88568220063d1",
   "99c609cd9deece0a",
   "727f47cf62d35e6d",
   "8d99dd5e6456a3bb",
@@ -3385,7 +3383,9 @@
   "7d659b8c1cae9234",
   "a7b25b3c20cd3de6",
   "f3587abc557a96e5",
-  "1ebf11f87dfd3bb3"
+  "1ebf11f87dfd3bb3",
+  "134bfdb937e75706",
+  "6331aa70284dcdbf"
  ],
  "news_seeded": true,
  "news_products": [
@@ -3418,7 +3418,7 @@
    "norm": "궁금한적금",
    "rate": 6.7,
    "first_news": "2026-09-14",
-   "count": 16,
+   "count": 18,
    "articles": [
     {
      "title": "케이뱅크, '궁금한 적금' 쎄봉라마 테마 출시…최대 연 6.7% - 뉴스핌",
