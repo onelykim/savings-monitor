@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-15 22:25",
+ "updated_at": "2026-09-16 03:05",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2513,6 +2513,12 @@
  ],
  "news": [
   {
+   "title": "케이뱅크, '쎄봉라마' 입힌 궁금한 적금 시즌8 출시 - finomy.com",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CUExzVEtLeUVHLTdCX0RFa3l4bkNTMVMzaGhMVFkwLTNLOEFWX19mME43b3NKTWtzNFVKdEZ5SW51R0lFQmZTcklkWlRmRzdYZDd1QmRFOTYxQVVYNVdHQ2pPQzN1cEtvWGZj0gFrQVVfeXFMTkJQTHNUS0t5RUctN0JfREVreXhuQ1MxUzNoaExUWTAtM0s4QVZfX2YwTjdvc0pNa3M0VUp0RnlJbnVHSUVCZlNySWRaVGZHN1hkN3VCZEU5NjFBVVg1V0dDak9DM3VwS29YZmM?oc=5",
+   "source": "finomy.com",
+   "date": "2026-09-14"
+  },
+  {
    "title": "케이뱅크, '궁금한 적금' 시즌8 출시… 6.7% 금리에 캐릭터·웹소설 입혔다 - 비즈트리뷴",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uQnNfT1dZWUtScEd5ck1WblMxT29zYU10VUtieDRHYWtUcGVaa2NDWk1ueVZzOEhjVHA0bVhVbHdJVWlmdXRqQ0tDYWRsWVNkRlpSQ3VJSGZNSFBHRS1hSzVoTlBqTlAyYlMtdDQ4OFo?oc=5",
    "source": "비즈트리뷴",
@@ -2577,16 +2583,9 @@
    "link": "https://www.catchnews.kr/news/articleView.html?idxno=128393",
    "source": "네이버뉴스",
    "date": "2026-09-14"
-  },
-  {
-   "title": "\"8개계열사 고금리적금·특판상품 한자리에\" 우리금융, 9월30일까지 '우...",
-   "link": "https://www.catchnews.kr/news/articleView.html?idxno=128388",
-   "source": "네이버뉴스",
-   "date": "2026-09-14"
   }
  ],
  "news_seen": [
-  "99c609cd9deece0a",
   "727f47cf62d35e6d",
   "8d99dd5e6456a3bb",
   "8dbc29c2e7221b09",
@@ -3385,7 +3384,8 @@
   "f3587abc557a96e5",
   "1ebf11f87dfd3bb3",
   "134bfdb937e75706",
-  "6331aa70284dcdbf"
+  "6331aa70284dcdbf",
+  "6ed0ced39d64b975"
  ],
  "news_seeded": true,
  "news_products": [
