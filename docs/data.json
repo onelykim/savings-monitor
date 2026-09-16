@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-16 14:53",
+ "updated_at": "2026-09-16 20:22",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -1680,8 +1680,8 @@
      "save_trm": 12,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.05,
-     "intr_rate2": 3.85
+     "intr_rate": 3.06,
+     "intr_rate2": 3.86
     },
     {
      "save_trm": 24,
@@ -1698,8 +1698,8 @@
      "intr_rate2": 3.5
     }
    ],
-   "best_rate": 3.85,
-   "best_base_rate": 3.05,
+   "best_rate": 3.86,
+   "best_base_rate": 3.06,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EB%86%8D%ED%98%91%EC%9D%80%ED%96%89%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20NH%EC%A7%81%EC%9E%A5%EC%9D%B8%EC%9B%94%EB%B3%B5%EB%A6%AC%EC%A0%81%EA%B8%88",
    "first_seen": "2026-07-10",
@@ -2513,6 +2513,36 @@
  ],
  "news": [
   {
+   "title": "年 최대 19.4% 청년미래적금 2차 출시…다음 달 7일부터 신청 접수 - 동아일보",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1RdjctVlRzUklDM29lbnBEZkw4TTJVcWVpQnpMN3NkME05RWNMelNlcHktZ0dmUVNVdVBBdk5TejZkSVdZV0U3ZVY3M1drWVY4TnlXZ2tfamFiNm1pVlVxUWQtb25GQdIBZkFVX3lxTE1RdjctVlRzUklDM29lbnBEZkw4TTJVcWVpQnpMN3NkME05RWNMelNlcHktZ0dmUVNVdVBBdk5TejZkSVdZV0U3ZVY3M1drWVY4TnlXZ2tfamFiNm1pVlVxUWQtb25GQQ?oc=5",
+   "source": "동아일보",
+   "date": "2026-09-16"
+  },
+  {
+   "title": "금융위, 청년미래적금 2차 출시…다음달 7~16일 신청 접수 - 데일리한국",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DYjlqVC1JVlU1YzZyQzZTaW9WN0RLbFlfekRfSUxhaWt1SFJvMlJON3JWZlBZN2MzTzNqbm1ldHhWTmFYVHJxR0RZT2pYNllUQWU2SktBeUd1V2pTcng2VDhCVFc4cTZtZlJaWHdQNNIBc0FVX3lxTE1FY2swV1RWSll3eUVuNXE5dUs1aTIzVUxFMV8wYTNlMlh4X1NnRVViUk9OTF94S0hLREl4b1F5TGpOR2VHbndjRThfZkQ2NUU0V21Fc3l5MEhscTN2RGhDc2RJMjZGeFNmV1FHcG9RT05iX3c?oc=5",
+   "source": "데일리한국",
+   "date": "2026-09-16"
+  },
+  {
+   "title": "청년미래적금 2차 출시…다음 달 7~16일 신청접수 - 뉴시스",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WaVdIRm9icUwxN3dlMlRYYzBOc056Wk9uYVYtZ2syQjJJUnpkRXNtNjBqNlRfUWptQkR5NjEyeUlua3hoUDR4VmNhZkpMZ0tOb3RrQ0oydjUzVUVFVVJtN9IBeEFVX3lxTE4tczJqODAycjBudmFwWm5PY3RROXpvekpiV0pNc2RmM0Y4NlVZbFRTazBidmdZSnQ1MFFwNE9aQ2V5ZW1veWZreHU3S1FCTVlBSEp1ZFE3aEh5ZVNWRHdOMU5wa3o4M1M5U3RhOHE0d1JHaXJwUnpyYw?oc=5",
+   "source": "뉴시스",
+   "date": "2026-09-16"
+  },
+  {
+   "title": "은행권, 고금리 단기 적금 ‘돌풍’…최고 연 12% 특판 쏟아낸다 - 데일리e뉴스",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBQOFpfWmZFTjlvaVZyMjRSeV9DN1pFbVpTellfLUpRT2FjTlNiQzNDU2FIZ0R6WXBWQ2ZZTnpYbm93aFBialUzcC15MTZ5NWZhMkFNcURGS3YwNnNVdFRGRndRSDVJZVpDaWlfd0I1dw?oc=5",
+   "source": "데일리e뉴스",
+   "date": "2026-09-16"
+  },
+  {
+   "title": "금융위, 청년미래적금 2차 출시…다음달 7~16일 신청 접수",
+   "link": "https://daily.hankooki.com/news/articleView.html?idxno=1406908",
+   "source": "네이버뉴스",
+   "date": "2026-09-16"
+  },
+  {
    "title": "청년미래적금 2차 출시…다음 달 7~16일 신청접수 - newsis.com",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tczJqODAycjBudmFwWm5PY3RROXpvekpiV0pNc2RmM0Y4NlVZbFRTazBidmdZSnQ1MFFwNE9aQ2V5ZW1veWZreHU3S1FCTVlBSEp1ZFE3aEh5ZVNWRHdOMU5wa3o4M1M5U3RhOHE0d1JHaXJwUnpyY9IBeEFVX3lxTE4tczJqODAycjBudmFwWm5PY3RROXpvekpiV0pNc2RmM0Y4NlVZbFRTazBidmdZSnQ1MFFwNE9aQ2V5ZW1veWZreHU3S1FCTVlBSEp1ZFE3aEh5ZVNWRHdOMU5wa3o4M1M5U3RhOHE0d1JHaXJwUnpyYw?oc=5",
    "source": "newsis.com",
@@ -2553,44 +2583,9 @@
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9CUEFzOGZhdWlSb1RYNWdEV2gwUTdIc1FCenBnT2ZIVjdVb3lsM1lLREp1RmNQTlZ3VWNPak9sMmJlVVl2andzbEVRTDlNVXh1SFV5TF90X2F1cElONnJlVjJsQTlsZW9ESThlUTctdTfSAXRBVV95cUxPTVJGR0tpMFQzNkJGV255UHA3TXJXOURjQndRZTZxRV9DX1l0anh1MUp0NzJKRzNQcjFab0FYQkNYX0NrTHgwOFFhRGNTTkFkcUg1R2R3dDBhY0E4a1poMVhBeE1rSmpWZHd5anZEanVoeTkzUA?oc=5",
    "source": "주간한국",
    "date": "2026-09-14"
-  },
-  {
-   "title": "케이뱅크, ‘쎄봉라마’와 함께하는 ‘궁금한 적금’ 시즌8 출시…최대 연 6.7% - 나눔경제뉴스",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOa2Vsal96eEhGWEZCUlZReTdmQ1hDbzJmbTlJdU9wRzJnRzN1MjVEUUlMOHhsSTVZVnE3SzhHUDAyZnVIT0U5eENrSTNsQXpITDZtZG95b3RsQ2t5VGg3R2FVTE1YZlc5ZlJYZw?oc=5",
-   "source": "나눔경제뉴스",
-   "date": "2026-09-14"
-  },
-  {
-   "title": "케이뱅크 '궁금한 적금' 시즌8 출시, 최고 연 6.7% - 세이프머니",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9iNmw4NGkyWjhJeFNORFFwZ1dxNmZvRnZqdzVMeTNrTW9TYjNqZlNPenliNi1mZ3M3Yi03c3JxRHZmSEZWbDhHWDZ4Zng4RFVJVTk0VTlRVmpRRUFGOWI2VVFwbzlYQThMdmFDVEd3?oc=5",
-   "source": "세이프머니",
-   "date": "2026-09-14"
-  },
-  {
-   "title": "\"금리 최고 연6.7%\" 케이뱅크 '궁금한 적금' 시즌8 출시 - catchnews.kr",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sRFUyRFJhSENjN1ZScExYNWFzMjh0WHFjd2paZVVkTGdSbC1qbE9fbm1uNkJTRGowb3diOTZiSmZrOVR1RVhQODJuZ2puU1VLRXdyZGxXU29oc3BwWHBIRGVZdmZtUWFZV3kw?oc=5",
-   "source": "catchnews.kr",
-   "date": "2026-09-14"
-  },
-  {
-   "title": "케이뱅크, ‘쎄봉라마’와 협업 '궁금한 적금' 시즌8 출시...최대 연 6.7% - 퍼블릭타임스",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEUkJXQ3g4TnRnUmYyTkVsb3U2a2xrMElxb20wVU1NUW9DX2hoNmtaN0M0NGxCMGQxMGtONmcycWFyYmpXVTJldzVKMUR2bVpNbGZScDF4dGVRaUgzdldkUDF2MUs4Y1M1YmfSAW5BVV95cUxPSW9pay1kTklyT3k4YmpmS1BIM2tiWlpzN2VUX3VKT3RQY2hYbFlEdTIydnI4a1NZcmxYQnFnV0FiNFVPem9nek9wb2M2eFBqN0R5TjBqZFpLZnYxeE9qcGs3blFnOUt1dDRVaVU4dw?oc=5",
-   "source": "퍼블릭타임스",
-   "date": "2026-09-14"
-  },
-  {
-   "title": "케이뱅크, 최고 연 6.7% 금리 '궁금한 적금' 신규 테마 선보여 - fetv.co.kr",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Ka3lNeWZyT0E4VDBWN2g0dkVlYWpraE95UnJhTjVZZzM0dTgtdUIzalpqb0hzTXA0U1lfOXlYa2pvMGx4WmNucEtsWWUtcHdKc2hWS1E2UG11djdDVnJzLTJ5YVROU1RM?oc=5",
-   "source": "fetv.co.kr",
-   "date": "2026-09-14"
   }
  ],
  "news_seen": [
-  "1552119805a879de",
-  "b5cb30e3aef27684",
-  "22334586d037e103",
-  "86f5334e84eb6f39",
-  "f0aec90dfdb87879",
   "7928b5fedca76781",
   "b538ebfaaf35c971",
   "bdd2f02d1347b272",
@@ -3385,7 +3380,12 @@
   "6ed0ced39d64b975",
   "7cfae156e6b66772",
   "63d41ca1db20c000",
-  "291abb68dfe71f62"
+  "291abb68dfe71f62",
+  "16e9f149ee8b4916",
+  "7b2d165d96291bea",
+  "53aefb8fd5d6a845",
+  "76ce5e8ce22c89bc",
+  "6ba620f33d736027"
  ],
  "news_seeded": true,
  "news_products": [
