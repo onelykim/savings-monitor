@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-16 09:07",
+ "updated_at": "2026-09-16 14:53",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2513,6 +2513,24 @@
  ],
  "news": [
   {
+   "title": "청년미래적금 2차 출시…다음 달 7~16일 신청접수 - newsis.com",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tczJqODAycjBudmFwWm5PY3RROXpvekpiV0pNc2RmM0Y4NlVZbFRTazBidmdZSnQ1MFFwNE9aQ2V5ZW1veWZreHU3S1FCTVlBSEp1ZFE3aEh5ZVNWRHdOMU5wa3o4M1M5U3RhOHE0d1JHaXJwUnpyY9IBeEFVX3lxTE4tczJqODAycjBudmFwWm5PY3RROXpvekpiV0pNc2RmM0Y4NlVZbFRTazBidmdZSnQ1MFFwNE9aQ2V5ZW1veWZreHU3S1FCTVlBSEp1ZFE3aEh5ZVNWRHdOMU5wa3o4M1M5U3RhOHE0d1JHaXJwUnpyYw?oc=5",
+   "source": "newsis.com",
+   "date": "2026-09-16"
+  },
+  {
+   "title": "청년미래적금 2차 출시…다음 달 7~16일 신청접수",
+   "link": "https://www.newsis.com/view/NISX20260916_0003791501",
+   "source": "네이버뉴스",
+   "date": "2026-09-16"
+  },
+  {
+   "title": "\"8개계열사 고금리적금·특판상품 한자리에\" 우리금융, 9월30일까지 '우다폐' 사전알림 접수 | - catchnews.kr",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zZnJqczBwRGRUb2ZtTDlFdXJtX2NYNkl2aHFYeHdBcVBHR3ExQzVKdU1yWWxJcy1Ja2FzOFdJVjNON292N0xWOUFlQXpUdDFURTA0OGYzVDlicG1IQk44WDZhZkRDY3R1Uk1vUGl4Yw?oc=5",
+   "source": "catchnews.kr",
+   "date": "2026-09-14"
+  },
+  {
    "title": "케이뱅크, '쎄봉라마' 입힌 궁금한 적금 시즌8 출시 - finomy.com",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CUExzVEtLeUVHLTdCX0RFa3l4bkNTMVMzaGhMVFkwLTNLOEFWX19mME43b3NKTWtzNFVKdEZ5SW51R0lFQmZTcklkWlRmRzdYZDd1QmRFOTYxQVVYNVdHQ2pPQzN1cEtvWGZj0gFrQVVfeXFMTkJQTHNUS0t5RUctN0JfREVreXhuQ1MxUzNoaExUWTAtM0s4QVZfX2YwTjdvc0pNa3M0VUp0RnlJbnVHSUVCZlNySWRaVGZHN1hkN3VCZEU5NjFBVVg1V0dDak9DM3VwS29YZmM?oc=5",
    "source": "finomy.com",
@@ -2565,30 +2583,9 @@
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Ka3lNeWZyT0E4VDBWN2g0dkVlYWpraE95UnJhTjVZZzM0dTgtdUIzalpqb0hzTXA0U1lfOXlYa2pvMGx4WmNucEtsWWUtcHdKc2hWS1E2UG11djdDVnJzLTJ5YVROU1RM?oc=5",
    "source": "fetv.co.kr",
    "date": "2026-09-14"
-  },
-  {
-   "title": "\"8개계열사 고금리적금·특판상품 한자리에\" 우리금융, 9월30일까지 '우다폐' 사전알림 접수 - catchnews.kr",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03OGdUSUE4ZGd0VmdZd183VFpTc0JYMTh5TGNEbE94TXdCUTBlOWlTdHU1VE0zUmFUaktEUVBDMk1uaEZOaHFhZEVfQXdzNUtvOTJrT21ObnpkOTZSOXRuNHlXT1dONGY1alBB?oc=5",
-   "source": "catchnews.kr",
-   "date": "2026-09-14"
-  },
-  {
-   "title": "케이뱅크, 최고 연 6.7% 금리 '궁금한 적금' 신규 테마 선보여",
-   "link": "https://www.fetv.co.kr/news/articleView.html?idxno=310169",
-   "source": "네이버뉴스",
-   "date": "2026-09-14"
-  },
-  {
-   "title": "\"금리 최고 연6.7%\" 케이뱅크 '궁금한 적금' 시즌8 출시",
-   "link": "https://www.catchnews.kr/news/articleView.html?idxno=128393",
-   "source": "네이버뉴스",
-   "date": "2026-09-14"
   }
  ],
  "news_seen": [
-  "727f47cf62d35e6d",
-  "8d99dd5e6456a3bb",
-  "8dbc29c2e7221b09",
   "1552119805a879de",
   "b5cb30e3aef27684",
   "22334586d037e103",
@@ -3385,7 +3382,10 @@
   "1ebf11f87dfd3bb3",
   "134bfdb937e75706",
   "6331aa70284dcdbf",
-  "6ed0ced39d64b975"
+  "6ed0ced39d64b975",
+  "7cfae156e6b66772",
+  "63d41ca1db20c000",
+  "291abb68dfe71f62"
  ],
  "news_seeded": true,
  "news_products": [
