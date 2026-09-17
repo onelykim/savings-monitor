@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-17 16:32",
+ "updated_at": "2026-09-17 22:21",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2513,6 +2513,18 @@
  ],
  "news": [
   {
+   "title": "“특판 적금·비트코인” 아시안게임 ‘팀 코리아’ 응원나선 금융권 - 스포츠동아",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5SMElOSnZYR2xzMlp2Qi1iRGotNDlGU3BEMjNYSjIxMGVNUkVIZktVWm1jTGgxX2ZyQmN6TzF4bGdWbjU5dTVscFF2bjdSOE5RMVdqdE9QMXRlZEFsRFp1dW1oVEN2TkFZeTlIeGh0OENoU3c?oc=5",
+   "source": "스포츠동아",
+   "date": "2026-09-17"
+  },
+  {
+   "title": "“특판 적금·비트코인” 아시안게임 ‘팀 코리아’ 응원나선 금융권",
+   "link": "https://sports.donga.com/economy/article/all/20260917/134687190/1",
+   "source": "네이버뉴스",
+   "date": "2026-09-17"
+  },
+  {
    "title": "年 최대 19.4% 청년미래적금 2차 출시…다음 달 7일부터 신청 접수 - 동아일보",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1RdjctVlRzUklDM29lbnBEZkw4TTJVcWVpQnpMN3NkME05RWNMelNlcHktZ0dmUVNVdVBBdk5TejZkSVdZV0U3ZVY3M1drWVY4TnlXZ2tfamFiNm1pVlVxUWQtb25GQdIBZkFVX3lxTE1RdjctVlRzUklDM29lbnBEZkw4TTJVcWVpQnpMN3NkME05RWNMelNlcHktZ0dmUVNVdVBBdk5TejZkSVdZV0U3ZVY3M1drWVY4TnlXZ2tfamFiNm1pVlVxUWQtb25GQQ?oc=5",
    "source": "동아일보",
@@ -2571,23 +2583,9 @@
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uQnNfT1dZWUtScEd5ck1WblMxT29zYU10VUtieDRHYWtUcGVaa2NDWk1ueVZzOEhjVHA0bVhVbHdJVWlmdXRqQ0tDYWRsWVNkRlpSQ3VJSGZNSFBHRS1hSzVoTlBqTlAyYlMtdDQ4OFo?oc=5",
    "source": "비즈트리뷴",
    "date": "2026-09-15"
-  },
-  {
-   "title": "케이뱅크, '궁금한 적금' 시즌8 출시… 6.7% 금리에 캐릭터·웹소설 입혔...",
-   "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=359069",
-   "source": "네이버뉴스",
-   "date": "2026-09-15"
-  },
-  {
-   "title": "케이뱅크, 인기 캐릭터 ‘쎄봉라마’ 적용 적금 출시 - 주간한국",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9CUEFzOGZhdWlSb1RYNWdEV2gwUTdIc1FCenBnT2ZIVjdVb3lsM1lLREp1RmNQTlZ3VWNPak9sMmJlVVl2andzbEVRTDlNVXh1SFV5TF90X2F1cElONnJlVjJsQTlsZW9ESThlUTctdTfSAXRBVV95cUxPTVJGR0tpMFQzNkJGV255UHA3TXJXOURjQndRZTZxRV9DX1l0anh1MUp0NzJKRzNQcjFab0FYQkNYX0NrTHgwOFFhRGNTTkFkcUg1R2R3dDBhY0E4a1poMVhBeE1rSmpWZHd5anZEanVoeTkzUA?oc=5",
-   "source": "주간한국",
-   "date": "2026-09-14"
   }
  ],
  "news_seen": [
-  "7928b5fedca76781",
-  "b538ebfaaf35c971",
   "bdd2f02d1347b272",
   "af4191905ab6bd81",
   "88e71595f3333d40",
@@ -3385,7 +3383,9 @@
   "7b2d165d96291bea",
   "53aefb8fd5d6a845",
   "76ce5e8ce22c89bc",
-  "6ba620f33d736027"
+  "6ba620f33d736027",
+  "dd6586e0eecf3ef7",
+  "395c18d06c65efde"
  ],
  "news_seeded": true,
  "news_products": [
