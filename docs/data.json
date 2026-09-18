@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-19 03:18",
+ "updated_at": "2026-09-19 06:34",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2513,6 +2513,12 @@
  ],
  "news": [
   {
+   "title": "하나은행, 공적연금 전용 멤버십 출시…연금통장·적금·대출 한곳에 - 폴리뉴스 Polinews",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5sN3l4NUlNWTVESXdPdjFFMllGZERibnUxLTdVbVlzS1U3MDFuS3FKWjQ4b3pzMXFPUE9sVmRydkdkZ2xSN01wemlDUDA4LWhLdFNZdEpRcEJwUGJYcnJBNS14cVNaaGppVThac1930gFyQVVfeXFMTWhPMmxrWXYzMmxXMzdpNnRrejFIUGhSSF9RU29SRUJhOEJqUUVfblliUE5fYVZqZFZIQnJQaC1fYjc1UGFteEF4OVJiU0REYUxnWGdwZ1ljUmNDNnhEeFpuNWZyMm80d2JxSGdhX2RPanln?oc=5",
+   "source": "폴리뉴스 Polinews",
+   "date": "2026-09-18"
+  },
+  {
    "title": "하나은행, 공적연금 전용 멤버십 출시...통장·적금·대출 한곳에 모았다 - ftoday.co.kr",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRelRoMHZCNGRCbjRsR2pHQnhWeEpfWjVuSDdOaWhjNWtwTEtvdHpLcXRJZU5wUEpjcTJBdHpUVG1hZGlMLU5EeFJkVjFHY1BRdGktdExUQmpubHUwU25ZeDZBbUs1NUVUeVNr0gFuQVVfeXFMTWJ5aVhtZlc1bkFFeUV3LU1BWWY3OGRaUExsVk5IU1NtRWQwSGVscjdjOHJkd3BtSnQ2cGJKRGVYOGdwa2RDNWxqNXdic0lQYnVucFZGVmtjSU84T0RMV0hWcmlPRFJPRFlpM2p2ZWc?oc=5",
    "source": "ftoday.co.kr",
@@ -2577,16 +2583,9 @@
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DYjlqVC1JVlU1YzZyQzZTaW9WN0RLbFlfekRfSUxhaWt1SFJvMlJON3JWZlBZN2MzTzNqbm1ldHhWTmFYVHJxR0RZT2pYNllUQWU2SktBeUd1V2pTcng2VDhCVFc4cTZtZlJaWHdQNNIBc0FVX3lxTE1FY2swV1RWSll3eUVuNXE5dUs1aTIzVUxFMV8wYTNlMlh4X1NnRVViUk9OTF94S0hLREl4b1F5TGpOR2VHbndjRThfZkQ2NUU0V21Fc3l5MEhscTN2RGhDc2RJMjZGeFNmV1FHcG9RT05iX3c?oc=5",
    "source": "데일리한국",
    "date": "2026-09-16"
-  },
-  {
-   "title": "청년미래적금 2차 출시…다음 달 7~16일 신청접수 - 뉴시스",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WaVdIRm9icUwxN3dlMlRYYzBOc056Wk9uYVYtZ2syQjJJUnpkRXNtNjBqNlRfUWptQkR5NjEyeUlua3hoUDR4VmNhZkpMZ0tOb3RrQ0oydjUzVUVFVVJtN9IBeEFVX3lxTE4tczJqODAycjBudmFwWm5PY3RROXpvekpiV0pNc2RmM0Y4NlVZbFRTazBidmdZSnQ1MFFwNE9aQ2V5ZW1veWZreHU3S1FCTVlBSEp1ZFE3aEh5ZVNWRHdOMU5wa3o4M1M5U3RhOHE0d1JHaXJwUnpyYw?oc=5",
-   "source": "뉴시스",
-   "date": "2026-09-16"
   }
  ],
  "news_seen": [
-  "38d3c549eaf4a5a6",
   "43bd8290b2092315",
   "694954ffe97b542e",
   "81ba6ee7e5959035",
@@ -3385,7 +3384,8 @@
   "0a41aa7c9c793c7c",
   "e6ecfacd4378b270",
   "039e995970861150",
-  "3819d12979ff682d"
+  "3819d12979ff682d",
+  "04c477bfe5ff4454"
  ],
  "news_seeded": true,
  "news_products": [
@@ -3395,7 +3395,7 @@
    "norm": "연금통장적금",
    "rate": null,
    "first_news": "2026-09-18",
-   "count": 6,
+   "count": 7,
    "articles": [
     {
      "title": "하나은행, 공적연금 전용 멤버십 출시…연금통장·적금·대출 한곳에 - 폴리뉴스 Polinews",
