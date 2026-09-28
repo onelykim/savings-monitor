@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-28 09:31",
+ "updated_at": "2026-09-28 15:38",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -1162,33 +1162,33 @@
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
-     "intr_rate": 2.97,
-     "intr_rate2": 2.97
+     "intr_rate": 3.0,
+     "intr_rate2": 3.0
     },
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
-     "intr_rate": 3.48,
-     "intr_rate2": 3.48
+     "intr_rate": 3.6,
+     "intr_rate2": 3.6
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
-     "intr_rate": 3.57,
-     "intr_rate2": 3.57
+     "intr_rate": 3.7,
+     "intr_rate2": 3.7
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
-     "intr_rate": 3.77,
-     "intr_rate2": 3.77
+     "intr_rate": 3.86,
+     "intr_rate2": 3.86
     }
    ],
-   "best_rate": 3.77,
-   "best_base_rate": 3.77,
+   "best_rate": 3.86,
+   "best_base_rate": 3.86,
    "best_term": 36,
    "naver_url": "https://search.naver.com/search.naver?query=%ED%95%9C%EA%B5%AD%EC%82%B0%EC%97%85%EC%9D%80%ED%96%89%20KDB%20%EA%B8%B0%EC%97%85%EC%A0%95%EA%B8%B0%EC%A0%81%EA%B8%88",
    "first_seen": "2026-07-10",
@@ -1211,47 +1211,47 @@
      "save_trm": 1,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.03,
-     "intr_rate2": 3.03
+     "intr_rate": 3.04,
+     "intr_rate2": 3.04
     },
     {
      "save_trm": 3,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.03,
-     "intr_rate2": 3.03
+     "intr_rate": 3.04,
+     "intr_rate2": 3.04
     },
     {
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.27,
-     "intr_rate2": 3.27
+     "intr_rate": 3.3,
+     "intr_rate2": 3.3
     },
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.68,
-     "intr_rate2": 3.68
+     "intr_rate": 3.8,
+     "intr_rate2": 3.8
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.67,
-     "intr_rate2": 3.67
+     "intr_rate": 3.8,
+     "intr_rate2": 3.8
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.87,
-     "intr_rate2": 3.87
+     "intr_rate": 3.96,
+     "intr_rate2": 3.96
     }
    ],
-   "best_rate": 3.87,
-   "best_base_rate": 3.87,
+   "best_rate": 3.96,
+   "best_base_rate": 3.96,
    "best_term": 36,
    "naver_url": "https://search.naver.com/search.naver?query=%ED%95%9C%EA%B5%AD%EC%82%B0%EC%97%85%EC%9D%80%ED%96%89%20KDB%20%EC%9E%90%EC%9C%A0%EC%A0%81%EA%B8%88",
    "first_seen": "2026-07-10",
@@ -1659,8 +1659,8 @@
      "save_trm": 12,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.23,
-     "intr_rate2": 4.03
+     "intr_rate": 3.24,
+     "intr_rate2": 4.04
     },
     {
      "save_trm": 24,
@@ -1677,8 +1677,8 @@
      "intr_rate2": 3.5
     }
    ],
-   "best_rate": 4.03,
-   "best_base_rate": 3.23,
+   "best_rate": 4.04,
+   "best_base_rate": 3.24,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EB%86%8D%ED%98%91%EC%9D%80%ED%96%89%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20NH%EC%A7%81%EC%9E%A5%EC%9D%B8%EC%9B%94%EB%B3%B5%EB%A6%AC%EC%A0%81%EA%B8%88",
    "first_seen": "2026-07-10",
@@ -2492,112 +2492,79 @@
  ],
  "news": [
   {
-   "title": "추석 용돈, 예·적금에 넣어볼까… 특판 금리 최고 연 12% - 조선비즈 - Chosunbiz",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSFo0QjR4VzN4YUFDN1poUnE1d1U3RGxvLVVfUURGXy00enAtMFVKbldkaHBPU1RIY2dITHBaLTlfV00tVXZ6eTNWVmotOW16LUlUVE8yaHE2ZzdQZnB5ei0tZGFMNlVhMkt2el9ZbW0zRlowT0tEOGxUdWZSTEk0M9IBlAFBVV95cUxNbGJYNWctZ3dYdGpoeDctSUU2YXBEQ1RZVXMzd2Z1U3JmbHpKbUg3dWRDd0RJbjJEMlllY2FaYXFiLWNxWUNxZTByb09XSjRQZFBuckdwOTByU04wd2FFdW9veUlrZVM5RFItRlRTTVNha3VlcnJWSXlSSnBtRjIxTC0zRTdFNUgtTjRKNDlLWnlyZHR1?oc=5",
-   "source": "Chosunbiz",
-   "date": "2026-09-27"
+   "title": "카카오뱅크 한달적금 출시…매일 저축하면 SSF샵 혜택 - 연합뉴스",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02ZVB5ZGlMOV8tazc2QktZR284VVhsVnUtMHl6Q1E4U0h4MkhjSWZKd3FPaDQtanVtcWotNTJ1ZUZTSTA1LXpSLXE0U3EzcmZSY2dnaEE5THdKZlHSAWBBVV95cUxOZ19YNXJ2ektrYkFFcEg0OFNaVE1rdUlVVGpKLXd1RUMzSXQxVHFVTzhBQWkyVkFDLWtiaTFWQ2dhRG1zZVp6c2dRTklkaHgwZ2YwdS1yc2lDSHdlT19vV0o?oc=5",
+   "source": "연합뉴스",
+   "date": "2026-09-28"
   },
   {
-   "title": "추석 용돈, 예·적금에 넣어볼까… 특판 금리 최고 연 12%",
-   "link": "https://biz.chosun.com/stock/finance/2026/09/27/4C2V75FJZRDDXPGRQQHX572SWE/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-   "source": "네이버뉴스",
-   "date": "2026-09-27"
+   "title": "카카오뱅크, SSF샵 제휴 ‘한달적금’ 출시…포인트·경품 제공 - 서울경제TV",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1GYl84dmtpNTVlYUFvSHlSZjFwNmVDcm52dklxcVo2Tkd3QlpkcGVsZ3MxMC1UT25LNm5IdDZoRzBuWG8yRnFpc0VROF9Ed2hvRDd3b08yaVlNS3RaM0thY3Y4NHk?oc=5",
+   "source": "서울경제TV",
+   "date": "2026-09-28"
   },
   {
-   "title": "신한은행, ‘신한 운동화 적금’ 출시 - metroseoul.co.kr",
-   "link": "https://news.google.com/rss/articles/CBMimwdBVV95cUxOdUxNNFBQMnVWRzNDRTlpXzRkOElYbDBFa291WnQ2UE85ZzZzWTVudFpqSUVFT1VwXzFoaUdWQWc1R1NDcWh0ZWVRN0F4TU5WV2VOdTdwbWVwTFo4bnJtamdLSTMwZFhwcFk3eEI1Q0dPcTVQRXJTc0VLQkxmamVSSlRGUS1LN2JDQk0wQU04dzlPdm9OMk9yNWhxS3RwQzJ0MXlyWmRGOGhiZXVVWUxnYWkzbnNYRzNnajFIbWpHd25DR3JJVWEtOXFGajZHOU8zQTc5akRuVE9GOVJHb3hEaXRCRTU5TWNCb0ZTR2cwZU5KYzBCdTAwMGE0THlHRklwQ2QxdlhkblFQTDlxNTY2SGR5M25pUngwdVVYWjlGbHh2X05reGhYWkpRdzNkMm05WGJacmpzbnpHeHZ4SndXOE9PaEhVdHJWSmk5eFY0UDdhQXREQkkxNldvQTA3d2x5Vk5YdVZrOUVpNTJTbFZSeVNPSTc0ckpYbDVMdGIxakZlQk8xblBGZmZMb2xqUGZhYy1nNTBaM0tWWldyYWh6a3J5TGhTWEZpZGVGS25sQS0wUTdJN3J2bFktQVVKazAwYjF3WFNXTFA4M0RrQ3pNblljVUZNUmhzTjNQZjlWajhBRW5CUlpIanNIUllFUWQ2MXc0MDBsbEhrU0NibVdqNDNPa0tTemMwRkZ2dzNFZnFQRHVjT0paWngtdFVPSVJjN2VvTE9Uc3RwWnlvOUtlMnYyc0dFT3dvcVpWeDZZSW9pQXcyQUNRMEwwRGMzellrR09wbFR3YWMyaWg5c3gtWGprRTV6MjFiQjdxUk5RNWFSOG1jaklRRVZwLVVmQmR6aEY3XzFrMnJGblItNjd1ZkhSYTJoVGo0WTd5NjdmeURtZl9TTXpSX3RQXzkxZUpHVU14UXVxVEVvb0Y0UkQtWDR3c0dYQnpuZS16c1dlY3JiNXVoOVRVVVFxbHhxZkloWm04eVFMM3Y5UHJoSjhhTlh0cDU1YXJwUFkwQ3NUUVFPQnV6a2k1M0h0VC01dkE2Yktnbk5KXzZvazZ5M1kxNHdqQTFiZGtSVVNIUzlzajFIQmxLcDBQUlVOYnRkbTBMUkZTcU0tN0lNRTRxMmFlYzRUbFc2MEhyc1hReFY1Njh2S0wwUF9heGk1aF9ka0QwLTUyaU9oODRjdUh6ZHktVC1tQ0ZGYnB4RkJ4MGtvMWNJZ1RhdUZpRG5pcw?oc=5",
-   "source": "metroseoul.co.kr",
-   "date": "2026-09-22"
+   "title": "카카오뱅크, SSF샵과 손잡고 ‘한달적금’ 출시… 저축하면 할인쿠폰·패션 경품 제공 - S저널",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5sX1pSTEo2T2Y4S1NabFhGWU00YWJtUXYxOHZQUjBJeDNlQTJULUFybHR4ZGdWQXVJUFU5QXdBZThuVi1UQTBSMGJxOHluYjhxaFBYWVpsR2NXOV9uQVA4QllBUFZvdHl3RUViVk93?oc=5",
+   "source": "S저널",
+   "date": "2026-09-28"
   },
   {
-   "title": "'청년미래적금' 2차 출시… 신청 일정·방법은? - 금강일보",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqTVpaS3pfUmJkRm90Mk9ZWE1rVERWZ0tHVUphOU5yWFB1ZFN4R0NLM2hPbndER0txTE8xLVQtZGRTd0JHVlpWci1CbTJXclZNdkR3cEl4a3BPRU9raUtMS0NzZjJlSWoyNkE?oc=5",
-   "source": "금강일보",
-   "date": "2026-09-20"
+   "title": "카카오뱅크, SSF샵과 손잡고 '한달적금' 출시…할인·경품 혜택 - 비욘드포스트",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Ca1F3eWM1V3NrTzVXdlljQ0Frb3pNc21xTEMxdVJOVVlZLTd2bXp2RVZweFF3NkFYWWVxNUZnTTBEcHRWRXBLNjRwdGFBZTJmdEVKTHo3UDBrNWZhMkZRVkQ2LUpVRTBfNWFvLXN3eE9wQ0Q1c25OYlJUV1g?oc=5",
+   "source": "비욘드포스트",
+   "date": "2026-09-28"
   },
   {
-   "title": "'청년미래적금' 2차 출시… 신청 일정·방법은?",
-   "link": "https://www.ggilbo.com/news/articleView.html?idxno=1182145",
-   "source": "네이버뉴스",
-   "date": "2026-09-20"
+   "title": "카카오뱅크, SSF샵 제휴 '한달적금 with SSF SHOP' 출시 - 뉴스핌",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9qTTZfQ1U4dW5YbTBRZ3NvbVM4eUlBeGFlMm5tN245WHRkZ1lpWEJBaThBMXc4OHJnWGp6bVp6dUtGVkZ4T0ROOUJ0WTR5bnl1OG5oNGNENGtlakdx?oc=5",
+   "source": "뉴스핌",
+   "date": "2026-09-28"
   },
   {
-   "title": "카카오엔터, 카카오뱅크와 26주적금 페이지 상품 출시 - 전자신문",
-   "link": "https://news.google.com/rss/articles/CBMilgVBVV95cUxNWkxJZER6c1l5bDZPTVBlejBwZ1cwal9QajBRRmZXZWpoTE9LYmpEMzVQd3I3bWNJdnVyenEwUEtPMnhza3hVWDY1ZVpQSUo5WmtWRnF0Yk9XSHdHTFRqUjdWMkZLeUstVERsSlpwWXZmYWoyVTNtSHZicEw5Nnd3QWh5X2kxZHJlSC1Iek9ROXl0OF9idXI0THFDRUdpeHZ1X00yR19CT0cwMHR2MUstZkI0Q1dwMHVBU1pIS0lOU01BWm9vM3NQUnh5MDZlLUY4dWVWWlBQX2JHejRVVWJtZDE1aklsOW5NUVIwRmhnQ0UzWGNzdU5oMk1KMFJQbEd1ZmF5TEJsc1J5MUptNlM4TEdTZWs2NWtEdTctRDl6ajUtdkJqaXd6eFFSVDhsWS1iMGpSVTdKZEpMcHVkam11Yk54VWJlTzdfemlGMmw5SThya1V4WXBGbFR2TThmLW9HQ2xqSkMxa0xqcHR3MEpjQVNHVEplcTVUQU9UOVBpa0VuaGd4VVlaVVdqSlRtXzhFWFBPQ2tmN3BNLUw0TDk4MUtqRW40TURFR1pxUXdiZ25qSWhtLUdkWDBxeC01M01KSzJRRFF1NlRRRXpreEJKTGtpUC1DSEtUdFhJbm5MWlp6VjRlWmJSSGh0aGJEVVFSTVpIV2xoS05ZbWVTVmVIMUVBdmVTWDZObmJxMk1TNEdic3FRYTI3SFpzY0h3dUYtWFl4dGw2SlZwYWFxUkFwNW51TW9BVWdVY0VvTzdPZGM2TWllTnZuV05vSjhsR1hEY3c2ODEwVlRHdXk4Zi1wNk9KcEx2UmdCNUxnNEg3ZFhKeGdtOHRYMXcxSXBOQVg1c0RoVWNzU1dfZktsSVZmMHBFZC1GQQ?oc=5",
-   "source": "전자신문",
-   "date": "2026-09-20"
+   "title": "카카오뱅크, ‘한달적금 with SSF SHOP’ 출시 - CNB뉴스",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9EaERnNjhtdlgzWEc3NDhsNlpGSjJHbUZKbl80VkNOdXI2LTBfOV9ZeWVva2k4Rm4wNDVXTXRoT3FIalRtYWd3QUlSTXdlWmx6SDdmNUdzM3VBY01UTUx0dGRYOTFsOFlxeWxJ?oc=5",
+   "source": "CNB뉴스",
+   "date": "2026-09-28"
   },
   {
-   "title": "하나은행, 공적연금 전용 멤버십 출시…연금통장·적금·대출 한곳에 - 폴리뉴스 Polinews",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5sN3l4NUlNWTVESXdPdjFFMllGZERibnUxLTdVbVlzS1U3MDFuS3FKWjQ4b3pzMXFPUE9sVmRydkdkZ2xSN01wemlDUDA4LWhLdFNZdEpRcEJwUGJYcnJBNS14cVNaaGppVThac1930gFyQVVfeXFMTWhPMmxrWXYzMmxXMzdpNnRrejFIUGhSSF9RU29SRUJhOEJqUUVfblliUE5fYVZqZFZIQnJQaC1fYjc1UGFteEF4OVJiU0REYUxnWGdwZ1ljUmNDNnhEeFpuNWZyMm80d2JxSGdhX2RPanln?oc=5",
-   "source": "폴리뉴스 Polinews",
-   "date": "2026-09-18"
+   "title": "카카오뱅크, ‘한달적금 with SSF SHOP’ 출시 - 매일일보",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KczFBWmR5U3lhdUNhVzdGOWRvbDA3a2xGTkRvaVNRemhLZDIycV84eExMMEtCYl9BeVpabUpFd1hsbi13RXpxZktKSUVmU1lSVVNKZUVKSk1pQk5LWGEwakFkLUHSAWhBVV95cUxQMGxra0Z1TEk0ejJTang1c3lzS3dOT2FYbFg1NW1KTUZiM1UtM0FteHAteTZLYVdmVGI2ZWJfS0lxWXNwSzlVYUluSElYdXdCUGpEY0s2cERxa2ZsQ0xsZ1p5TWZHX0pMMw?oc=5",
+   "source": "매일일보",
+   "date": "2026-09-28"
   },
   {
-   "title": "하나은행, 공적연금 전용 멤버십 출시...통장·적금·대출 한곳에 모았다 - ftoday.co.kr",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRelRoMHZCNGRCbjRsR2pHQnhWeEpfWjVuSDdOaWhjNWtwTEtvdHpLcXRJZU5wUEpjcTJBdHpUVG1hZGlMLU5EeFJkVjFHY1BRdGktdExUQmpubHUwU25ZeDZBbUs1NUVUeVNr0gFuQVVfeXFMTWJ5aVhtZlc1bkFFeUV3LU1BWWY3OGRaUExsVk5IU1NtRWQwSGVscjdjOHJkd3BtSnQ2cGJKRGVYOGdwa2RDNWxqNXdic0lQYnVucFZGVmtjSU84T0RMV0hWcmlPRFJPRFlpM2p2ZWc?oc=5",
-   "source": "ftoday.co.kr",
-   "date": "2026-09-18"
+   "title": "카카오뱅크, SSF샵과 한달적금 출시...내달 28일까지 한정판매 - pointdaily.co.kr",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zc3ZORW5qRm1GbS1iNXltaFRuZFU2QXZ6bzlRampaR0xLNGVLMUNmaDJnelJicVdzdnVVMllocWRYNXNqdGM0WFRnMEN0a2c3am5ZamkwZ1d6b09aQVJkTGVocS05Y3EwNGYyVmNYR2fSAXRBVV95cUxNWDUxYVRza01TekNQMnhlbmlnczRpbG9DSV9aazZ4ZW92ZG5EZTR0NDZINkdNRGMzNndCSHNTQ19xa0RzdGdOS2RsNm04Rm5nUHNlNk4yM0k3Y19GRE5BNlF4Y2lGLURHT1VaYUF5eUFNYlMyMw?oc=5",
+   "source": "pointdaily.co.kr",
+   "date": "2026-09-28"
   },
   {
-   "title": "하나은행, 공적연금 고객 전용 서비스 출시…통장·적금·대출 한곳에 - 비즈니스플러스",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBOX3J0amFVOVBMU0VYMXNjSTFKVlRKU215RWFQbmROOTZPM1hXdW1oWXVGRl9XbXU4eHVZYk9xM3AtN3BVSktBbzdTVHRMekJUYl9DNExpcEtoV1huZWVIaUt2ay1OdWk4M3VjVXZNaw?oc=5",
-   "source": "비즈니스플러스",
-   "date": "2026-09-18"
+   "title": "31일 저축하면 패션 경품까지…카카오뱅크 제휴 적금 출시 - SR타임스",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCLWViYkg4a05nLUhkTFVBOU1JU0VBSEIwNVBSZDFhM3lsVmt2ZGxEUWp5ZXdjaDMwQWZ4Z1M5aHQ2LWlsUWN5UEY0RTdBQjVCb00xQ2FBQS16ZS1NekNOYkJXNV9kOHfSAWtBVV95cUxPWEVGaTRCeWx4YURQeGtUMDlHLW04TjljXzZlcVdlV2t3cTk2WUlvWVV1WHVKQ0h3TVZIejVkSU4xOE0wMHpLQ2R2amFJaXY1RzM5REZyajhyMTJkMEdJZzVCQUVhWVVTUGpPdw?oc=5",
+   "source": "SR타임스",
+   "date": "2026-09-28"
   },
   {
-   "title": "하나은행, 공적연금 전용 멤버십 출시...통장·적금·대출 한곳에 모았...",
-   "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=365752",
-   "source": "네이버뉴스",
-   "date": "2026-09-18"
+   "title": "카카오뱅크, 패션 혜택 더한 ‘한달적금 with SSF SHOP’ 출시 - 뉴스퀘스트",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9BSlJrOGZ5VG04TG4yaUVxQ3NBWlRRbF90eTVNTWFPenF6b3BhOVlnOFJTSzJlTk5FWVp2bnFVYklWdEVtWFExR1Z4RllmZEZsZUhpdWJCNk5sZ0oxOWR2dFZHRTNsZjVnMjFJMXZNYw?oc=5",
+   "source": "뉴스퀘스트",
+   "date": "2026-09-28"
   },
   {
-   "title": "하나은행, 공적연금 전용 멤버십 출시…연금통장·적금·대출 한곳에 - 폴리뉴스 Polinews",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1oTzJsa1l2MzJsVzM3aTZ0a3oxSFBoUkhfUVNvUkVCYThCalFFX25ZYlBOX2FWamRWSEJyUGgtX2I3NVBhbXhBeDlSYlNERGFMZ1hncGdZY1JjQzZ4RHhabjVmcjJvNHdicUhnYV9kT2p5Z9IBckFVX3lxTE1oTzJsa1l2MzJsVzM3aTZ0a3oxSFBoUkhfUVNvUkVCYThCalFFX25ZYlBOX2FWamRWSEJyUGgtX2I3NVBhbXhBeDlSYlNERGFMZ1hncGdZY1JjQzZ4RHhabjVmcjJvNHdicUhnYV9kT2p5Zw?oc=5",
-   "source": "폴리뉴스 Polinews",
-   "date": "2026-09-18"
+   "title": "카카오뱅크, SSF샵과 '한달적금' 출시…패션 할인·경품 혜택 - 핀포인트뉴스",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9MRm80aTluZG1IRnp0a2o3SDRuRVNaU1VhOWpGSENrWUpPbGdHQWVpUFRra2syQ0dURHd0OFU3YVBEeHg4bDFuQTNtOXBvb010NHotV00xeDZsdWxPZm5BeGppdlUtSE1rRzhmTEkyLXpZNE3SAXdBVV95cUxPY181bVNBWUlVWUhpcFB5NGJZaFhJcEM5dUJwVU1aaEFBZktNb0JPQVNuMzluR2YwY09KeDJpUXhRelVBdVg2ZU93N1NqX2NwX0p2enhrUnhYUk1lckc3YzZRcVVEQzZWdTRXbm4tSzMzbGFtNHJ3TQ?oc=5",
+   "source": "핀포인트뉴스",
+   "date": "2026-09-28"
   },
   {
-   "title": "하나은행, 공적연금 전용 멤버십 출시…연금통장·적금·대출 한곳에",
-   "link": "https://www.polinews.co.kr/news/articleView.html?idxno=743502",
-   "source": "네이버뉴스",
-   "date": "2026-09-18"
+   "title": "카카오뱅크, SSF샵과 손잡았다…패션 혜택 담은 한달적금 출시 - 아주경제",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RUXZyQWRwU196R2V6MWVOSHNpdkpRNjJuUzJDNEdiME1aMlJBZ3BNR0JMeEdWcllHUmtTczBWV3BHbDdTSVNpZE9jRTdXVkpHc3l0TmJrX3RvZ9IBWEFVX3lxTE42c3NKY1NHX0NvamRsRkhsN25CRnEtTk1FYzZEWENLc3BmWllNRG5Ca25VWjFLYUNpRldGMGtsaWh3WURFQklHNHhEbzYta0tQeFd0VzRqVTY?oc=5",
+   "source": "아주경제",
+   "date": "2026-09-28"
   }
  ],
  "news_seen": [
-  "0257de58b14523f0",
-  "39d8aedf73a9d0d9",
-  "d708729cbcbe31bd",
-  "2c5fc3ba7bc01b5d",
-  "725e359d09cf907a",
-  "89b7eeca263538b5",
-  "b18ee655a98f340a",
-  "a1793ea1c1b9ef1f",
-  "10f7767041713c1f",
-  "5bf9ecc45520cbf9",
-  "4146ab53581610ce",
-  "a86b0790e4c81f46",
-  "1517e4bf0f646fa9",
-  "3903c2dc3837e934",
-  "f9b304af20dada0b",
-  "a9579f56e4df1c96",
-  "e77df148f4283f03",
-  "7b68a34b2ec524e6",
-  "960badbbb1f3c1dc",
-  "93980ada3d798b3c",
-  "abeabff5f2b3fa5d",
-  "2020f0c09b3fa3a5",
-  "551309a6f02d3ae8",
-  "f2e3c8bbe00e018b",
-  "86bc52dd88e4ac07",
-  "da6445f757894ce9",
-  "0141924f29d2da94",
-  "d2054cc199adce13",
-  "d08571ac776d4877",
-  "d13bfbd38c69e561",
-  "3d26b70b4f7d278a",
-  "63218ab0f3baf698",
-  "8fdd6e9e91424810",
   "be8f873082c93471",
   "221b2b0ef4708180",
   "68836ec6a89d77e0",
@@ -3364,10 +3331,78 @@
   "9be85ee9b58614f8",
   "f991972bf63f01c2",
   "7cc1c0dc7d37e245",
-  "bb1f0ad1e30ce1c3"
+  "bb1f0ad1e30ce1c3",
+  "8d0ef1f1798c7e5e",
+  "642a3aa3d6f69098",
+  "bf62159528cfe527",
+  "79440092b9fa9a66",
+  "76d51139a69e040a",
+  "d5d2c641874ccc96",
+  "5e091401f3993d2f",
+  "28233c0829ca01a4",
+  "5a3e88a85ed1be14",
+  "270bf5b1b110868c",
+  "d9943646be4b389a",
+  "b7c2d305a6f8f472",
+  "ea76f2691e4d2293",
+  "dfa98bae154a12d8",
+  "215dce4a2f7162ad",
+  "da90d2e3f473530b",
+  "8a13b1d7a847133d",
+  "31b8eb362e862700",
+  "6afde41467b497fb",
+  "b565bd6264d875dc",
+  "494fde6f2e30f3ee",
+  "b9dd9cbccd887251",
+  "f4f6d2ad443e132a",
+  "7de8d53c1f6af92d",
+  "3796476abe8db365",
+  "ba56950fcf98f098",
+  "c3a96bd6fcf44052",
+  "b774775b5b49c528",
+  "85bdb30c655c181d",
+  "4e594f8d6cd1e12d",
+  "e41518253cd5bfff",
+  "b78760cfbdb1f5af",
+  "60c46afbcc2123f7"
  ],
  "news_seeded": true,
  "news_products": [
+  {
+   "bank": "카카오뱅크",
+   "name": "한달적금 with SSF SHOP",
+   "norm": "한달적금withSSFSHOP",
+   "rate": null,
+   "first_news": "2026-09-28",
+   "count": 17,
+   "articles": [
+    {
+     "title": "카카오뱅크, SSF샵 제휴 '한달적금 with SSF SHOP' 출시 - 뉴스핌",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9qTTZfQ1U4dW5YbTBRZ3NvbVM4eUlBeGFlMm5tN245WHRkZ1lpWEJBaThBMXc4OHJnWGp6bVp6dUtGVkZ4T0ROOUJ0WTR5bnl1OG5oNGNENGtlakdx?oc=5",
+     "source": "뉴스핌",
+     "date": "2026-09-28"
+    },
+    {
+     "title": "카카오뱅크, ‘한달적금 with SSF SHOP’ 출시 - CNB뉴스",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9EaERnNjhtdlgzWEc3NDhsNlpGSjJHbUZKbl80VkNOdXI2LTBfOV9ZeWVva2k4Rm4wNDVXTXRoT3FIalRtYWd3QUlSTXdlWmx6SDdmNUdzM3VBY01UTUx0dGRYOTFsOFlxeWxJ?oc=5",
+     "source": "CNB뉴스",
+     "date": "2026-09-28"
+    },
+    {
+     "title": "카카오뱅크, ‘한달적금 with SSF SHOP’ 출시 - 매일일보",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KczFBWmR5U3lhdUNhVzdGOWRvbDA3a2xGTkRvaVNRemhLZDIycV84eExMMEtCYl9BeVpabUpFd1hsbi13RXpxZktKSUVmU1lSVVNKZUVKSk1pQk5LWGEwakFkLUHSAWhBVV95cUxQMGxra0Z1TEk0ejJTang1c3lzS3dOT2FYbFg1NW1KTUZiM1UtM0FteHAteTZLYVdmVGI2ZWJfS0lxWXNwSzlVYUluSElYdXdCUGpEY0s2cERxa2ZsQ0xsZ1p5TWZHX0pMMw?oc=5",
+     "source": "매일일보",
+     "date": "2026-09-28"
+    },
+    {
+     "title": "카카오뱅크, 패션 혜택 더한 ‘한달적금 with SSF SHOP’ 출시 - 뉴스퀘스트",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9BSlJrOGZ5VG04TG4yaUVxQ3NBWlRRbF90eTVNTWFPenF6b3BhOVlnOFJTSzJlTk5FWVp2bnFVYklWdEVtWFExR1Z4RllmZEZsZUhpdWJCNk5sZ0oxOWR2dFZHRTNsZjVnMjFJMXZNYw?oc=5",
+     "source": "뉴스퀘스트",
+     "date": "2026-09-28"
+    }
+   ],
+   "in_disclosure": false
+  },
   {
    "bank": "신한은행",
    "name": "신한 운동화 적금",
@@ -3559,7 +3594,7 @@
    "norm": "한달적금withMMA2026",
    "rate": null,
    "first_news": "2026-09-07",
-   "count": 20,
+   "count": 35,
    "articles": [
     {
      "title": "카카오뱅크, '한달적금 with MMA2026' 출시…\"저축하면 MMA 티켓 당첨률↑\" - 네이트",
@@ -3876,41 +3911,6 @@
     }
    ],
    "in_disclosure": true
-  },
-  {
-   "bank": "하나은행",
-   "name": "하나 만보기 적금 시즌2",
-   "norm": "하나만보기적금시즌2",
-   "rate": 4.5,
-   "first_news": "2026-08-27",
-   "count": 56,
-   "articles": [
-    {
-     "title": "하나은행, '하나 만보기 적금 시즌2' 출시…한도 2만 좌로 확대 - 뉴스핌",
-     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ROWVYb3U0SVFqbzZHUEJVYXRhMjl2WFBEME9vYTVHUjU2WXFZaUVaeFhKR093YllMWVRXam9oTmRDa2w4UkVxdzlWcG93NTBnclM4ckg1aXIxZnBy?oc=5",
-     "source": "뉴스핌",
-     "date": "2026-08-27"
-    },
-    {
-     "title": "하나은행, ‘만보기 적금 시즌2’ 출시…판매한도 2만좌로 확대 - 안전신문",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zeVBGdnpzeTh5UnA0U3FSQ3RwR2R4RUxVWkhwSDhBbks5Szd0ejlOOWliMmRkQl9yZE12SkltRjBlbHlvdzVpNmFqdTlvUERFOVB3QmpDeEc1OW5OU0tWUWFDTUdIeGwzQkZZUXJLRHA?oc=5",
-     "source": "안전신문",
-     "date": "2026-08-27"
-    },
-    {
-     "title": "하나은행, 토스와 손잡고 '하나 만보기 적금 시즌2' 출시 - 현대경제신문",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlSmhGRENFaFhaVl9fQ1pkd3ZYa0R3VVRhcERtLVVFZmdHTGl2N0JWMVhzdkRQa1BaYTIzYVFENnhJY28yTVRESjRsX0ZicW5ndzRyZ2Y0b2lyZndfdlFMSW5NSDRXSWZz0gFrQVVfeXFMUDk5RVJ0aUtuVkpsdzZadnAtREhGSHZESnNNUHg4NTdnVktIZTlqSjhxRFBfQWlQLXpHbm5OWFdPVWExSDJJd0RWTHNoNktpb3pRcDlSU19ja18tcnVRclY0c05fUThUNU45N1k?oc=5",
-     "source": "현대경제신문",
-     "date": "2026-08-27"
-    },
-    {
-     "title": "하나은행, '하나 만보기 적금 시즌2' 출시 - 초이스경제",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1UMVZxcFh1bjgtWWQyTS1LM1NIMzNTY2NxQVZSbXkxQ2tVNGpGTXRDRldaQkFqMTYxV3hTcTdZNWlRVGVfM3lrUDFrcVBJZERQbG9wOWt1SEJXSThHZTZRSzFDSTBQNFgxM2J2ZVZHRdIBc0FVX3lxTE5uTTduVUdwbzZuUFR3Ql9wVWRuTGdtU0lyLXA3NnEyNWVwZE0ybHFFSFF1NmNOSU43aldlMnNmWGd1eTlMU0VkWG4wLUtoYUtEaHJ0SnNIeHhQOGVuMkRGZ2p2cUZWZVNCN28tY3NfWVBfejQ?oc=5",
-     "source": "초이스경제",
-     "date": "2026-08-27"
-    }
-   ],
-   "in_disclosure": false
   }
  ]
 }
