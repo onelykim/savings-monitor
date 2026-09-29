@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-29 10:46",
+ "updated_at": "2026-09-29 17:19",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -1659,8 +1659,8 @@
      "save_trm": 12,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.24,
-     "intr_rate2": 4.04
+     "intr_rate": 3.25,
+     "intr_rate2": 4.05
     },
     {
      "save_trm": 24,
@@ -1677,8 +1677,8 @@
      "intr_rate2": 3.5
     }
    ],
-   "best_rate": 4.04,
-   "best_base_rate": 3.24,
+   "best_rate": 4.05,
+   "best_base_rate": 3.25,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EB%86%8D%ED%98%91%EC%9D%80%ED%96%89%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20NH%EC%A7%81%EC%9E%A5%EC%9D%B8%EC%9B%94%EB%B3%B5%EB%A6%AC%EC%A0%81%EA%B8%88",
    "first_seen": "2026-07-10",
@@ -1820,47 +1820,47 @@
      "save_trm": 1,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 2.8,
-     "intr_rate2": 2.8
+     "intr_rate": 2.9,
+     "intr_rate2": 2.9
     },
     {
      "save_trm": 3,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.0,
-     "intr_rate2": 3.0
+     "intr_rate": 3.1,
+     "intr_rate2": 3.1
     },
     {
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.5,
-     "intr_rate2": 3.5
+     "intr_rate": 3.6,
+     "intr_rate2": 3.6
     },
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.7,
-     "intr_rate2": 3.7
+     "intr_rate": 3.8,
+     "intr_rate2": 3.8
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.0,
-     "intr_rate2": 3.0
+     "intr_rate": 3.2,
+     "intr_rate2": 3.2
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.0,
-     "intr_rate2": 3.0
+     "intr_rate": 3.2,
+     "intr_rate2": 3.2
     }
    ],
-   "best_rate": 3.7,
-   "best_base_rate": 3.7,
+   "best_rate": 3.8,
+   "best_base_rate": 3.8,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20%EC%BC%80%EC%9D%B4%EB%B1%85%ED%81%AC%20%EC%BD%94%EB%93%9CK%20%EC%9E%90%EC%9C%A0%EC%A0%81%EA%B8%88",
    "first_seen": "2026-07-10",
@@ -1988,33 +1988,33 @@
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.2,
-     "intr_rate2": 3.8
+     "intr_rate": 3.3,
+     "intr_rate2": 3.9
     },
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.6,
-     "intr_rate2": 4.2
+     "intr_rate": 3.7,
+     "intr_rate2": 4.3
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.4,
-     "intr_rate2": 4.0
+     "intr_rate": 3.5,
+     "intr_rate2": 4.1
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.4,
-     "intr_rate2": 4.0
+     "intr_rate": 3.5,
+     "intr_rate2": 4.1
     }
    ],
-   "best_rate": 4.2,
-   "best_base_rate": 3.6,
+   "best_rate": 4.3,
+   "best_base_rate": 3.7,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20%EC%BC%80%EC%9D%B4%EB%B1%85%ED%81%AC%20%EC%A3%BC%EA%B1%B0%EB%9E%98%EC%9A%B0%EB%8C%80%20%EC%9E%90%EC%9C%A0%EC%A0%81%EA%B8%88",
    "first_seen": "2026-07-10",
@@ -2385,7 +2385,7 @@
    "join_way": "스마트폰",
    "join_member": "· 토스뱅크 통장 또는 토스뱅크 서브 통장을 보유한 실명의 개인",
    "join_deny": "1",
-   "spcl_cnd": "· 적금 가입 시 설정되는 월 단위 자동이체를 모두 성공하는 경우 : 연 0.50% 제공",
+   "spcl_cnd": "· 전체 계약월수 중 1/2 이상에 해당하는 개월 수 동안 자동이체를 성공한 경우 : 연 0.50% 제공",
    "mtrt_int": "· 만기 후 1개월 이내 : 만기시점 기본금리 X 50% \n· 만기 후 1개월 초과 3개월 이내 : 만기시점 기본금리 X 20% \n· 만기 후 3개월 초과 : 연 0.10%",
    "max_limit": 3000000,
    "etc_note": "· 1인 1계좌 (단, 이벤트 등으로 토스뱅크가 복수의 계좌개설을 허용하는 경우 추가 개설 가능)\n· 가입금액 : 0원 이상 300만원 이하\n· 우대금리는 만기 해지하는 경우에만 제공됨",
@@ -2441,7 +2441,7 @@
    "join_way": "스마트폰",
    "join_member": "· 토스뱅크 아이 통장을 보유한 15세 이하 실명의 개인",
    "join_deny": "3",
-   "spcl_cnd": "· 적금 가입 시 설정되는 월 단위 자동이체를 모두 성공하는 경우 : 연 2.50% 제공",
+   "spcl_cnd": "· 전체 계약월수 중 1/2 이상에 해당하는 개월 수 동안 자동이체를 성공한 경우 : 연 2.50% 제공",
    "mtrt_int": "· 만기 후 1개월 이내 : 만기시점 기본금리 X 50% \n· 만기 후 1개월 초과 3개월 이내 : 만기시점 기본금리 X 20% \n· 만기 후 3개월 초과 : 연 0.10%",
    "max_limit": 200000,
    "etc_note": "· 1인 1계좌 \n· 가입금액 : 0원\n· 우대금리는 만기 해지하는 경우에만 제공됨",
