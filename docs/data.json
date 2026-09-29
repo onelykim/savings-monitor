@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-30 00:39",
+ "updated_at": "2026-09-30 05:39",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2492,6 +2492,12 @@
  ],
  "news": [
   {
+   "title": "카카오뱅크, ‘한달적금 with SSF SHOP’ 출시…패션 플랫폼 첫 제휴 - 직썰",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zTG0zc2ZoNFZ2MHhwT1FLVmtscHdFSmZSMTZwTFI0Z04wOUt6eE9CYVQtay1yejhyUmM5emN6UndVWllhYTFra250cm1EWWhDRWktT1lrNmc2ZVZwMHgxQ3lMeno3bDJ0WXFNVNIBbEFVX3lxTE9zTG0zc2ZoNFZ2MHhwT1FLVmtscHdFSmZSMTZwTFI0Z04wOUt6eE9CYVQtay1yejhyUmM5emN6UndVWllhYTFra250cm1EWWhDRWktT1lrNmc2ZVZwMHgxQ3lMeno3bDJ0WXFNVA?oc=5",
+   "source": "직썰",
+   "date": "2026-09-28"
+  },
+  {
    "title": "카카오뱅크, ‘한달적금 with SSF SHOP’ 출시…르메르 가방 경품 - 비즈월드",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5SWDVKNGhuVmVWcE9ZYVNxUUtkYUxkUFFmNTRLSGk5UGNqa0tBaUc4d2tFZ1BJYzBLVkw0RG02c0xPb3NjRkpKZnJ1TmdwV2pBNDZSZU4tOEpGaWhqVmt1TFMtTGR2UXJhQjJV?oc=5",
    "source": "비즈월드",
@@ -2556,16 +2562,9 @@
    "link": "https://daily.hankooki.com/news/articleView.html?idxno=1410121",
    "source": "네이버뉴스",
    "date": "2026-09-28"
-  },
-  {
-   "title": "카카오뱅크, 삼성물산 쇼핑 플랫폼 혜택 '한달적금' 출시",
-   "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=363835",
-   "source": "네이버뉴스",
-   "date": "2026-09-28"
   }
  ],
  "news_seen": [
-  "8c13f506bb8b6d59",
   "0884b60f9b62e5bf",
   "6b33d4c6f1d81221",
   "8f529d69bf32e226",
@@ -3364,7 +3363,8 @@
   "8ae99efee947f27e",
   "5406445c8c201932",
   "b54d4b1d4d492f33",
-  "7757e3ca0dcce128"
+  "7757e3ca0dcce128",
+  "ff76fbf1e2021339"
  ],
  "news_seeded": true,
  "news_products": [
@@ -3374,7 +3374,7 @@
    "norm": "한달적금withSSFSHOP",
    "rate": null,
    "first_news": "2026-09-28",
-   "count": 29,
+   "count": 30,
    "articles": [
     {
      "title": "카카오뱅크, SSF샵 제휴 '한달적금 with SSF SHOP' 출시 - 뉴스핌",
