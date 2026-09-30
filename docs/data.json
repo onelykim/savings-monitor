@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-30 22:34",
+ "updated_at": "2026-10-01 04:05",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2492,6 +2492,18 @@
  ],
  "news": [
   {
+   "title": "“증시 반등 기다리다 특판 12%짜리 넣었어요”…여윳돈, 예금서 적금으로 - v.daum.net",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uaDl2N1RaMkdjTnRJUDdVU0JMQUEwWlREeEM0WEdRWmRtLVJkRzQtOTF2SDVtWVpuREg4T203SmF1d3FkX2dkbWRPMkxscV9fSW9OTA?oc=5",
+   "source": "v.daum.net",
+   "date": "2026-09-30"
+  },
+  {
+   "title": "카카오뱅크, SSF샵 포인트·쿠폰 주는 '한달적금' 출시 - 뉴스드림",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfclBDYmMwZXlIUjBPVkx3eDcybW8wZ3lXNFJ5bHo0TUtGMWlpZ2JXRjFWNGxnU3I5MlhVR0FPNnJXcG0wMWxJQkRIZjZiMnIyVVBYOEJKNFMtbkQ3VU8td1J0RzBKVHBvNEHSAW5BVV95cUxOMUE0YnF3YnlSX3c1d09HMjVGVnN5WXpLY1FOMGlKUWRWamZXOTUtVXNaR3dCYU94U0JVeTlZN2ZnTGxvaFlpSS15WVdvTGtuYTEtdFJXbFV4WUp0amlMUXcxS3J1VjZuTXdNRGRMdw?oc=5",
+   "source": "뉴스드림",
+   "date": "2026-09-28"
+  },
+  {
    "title": "카카오뱅크, ‘한달적금 with SSF샵’ 출시 - sports.donga.com",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9FWHk3R1dBdW10MTRfempmVGRkSkNwejEzYno1RmYyTGltSU9JUXc0WEZEaXhpVXNMVTBuTFNsb3djYmU2a1lDQlJydXRfMlg1bEE0Tmc1aDBqVGlRM1hQQTZYTkMtNkdTQVN6VGNhR0EtT2c?oc=5",
    "source": "sports.donga.com",
@@ -2550,23 +2562,9 @@
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9HVEZuZjJCWmtGUUprVmNCa0Z0VjJ2Yks3Nmc3dlhQNzg0TzEwdkh2blcxelR4OVo5SElkV1o1bmVwaTgzSHFnVVo1cw?oc=5",
    "source": "v.daum.net",
    "date": "2026-09-30"
-  },
-  {
-   "title": "\"최고 연 9% 적금 선보인다\"…우리금융, 내달 '다함께 페스타'",
-   "link": "http://www.kdfnews.com/news/articleView.html?idxno=188665",
-   "source": "네이버뉴스",
-   "date": "2026-09-30"
-  },
-  {
-   "title": "도민 저금리 생활자금 대출·목돈 마련 적금 출시",
-   "link": "http://www.samdailbo.com/news/articleView.html?idxno=270827",
-   "source": "네이버뉴스",
-   "date": "2026-09-30"
   }
  ],
  "news_seen": [
-  "5e01cfdeeec86b18",
-  "82d31a7ec740f36e",
   "7518522eb27ad6de",
   "ecb9cef72d6fdcfe",
   "523067af25ea8050",
@@ -3364,7 +3362,9 @@
   "22c2e58a5c1b3950",
   "5126838c11284c68",
   "d25f58b5f7bc30b7",
-  "80dca5eba0c59271"
+  "80dca5eba0c59271",
+  "0636b4126be33240",
+  "a71948bfce45c524"
  ],
  "news_seeded": true,
  "news_products": [
@@ -3373,8 +3373,8 @@
    "name": "한달적금 with SSF샵",
    "norm": "한달적금withSSF샵",
    "rate": null,
-   "first_news": "2026-09-30",
-   "count": 2,
+   "first_news": "2026-09-28",
+   "count": 3,
    "articles": [
     {
      "title": "카카오뱅크, ‘한달적금 with SSF샵’ 출시 - sports.donga.com",
@@ -3387,6 +3387,12 @@
      "link": "https://sports.donga.com/economy/article/all/20260930/134757378/1",
      "source": "네이버뉴스",
      "date": "2026-09-30"
+    },
+    {
+     "title": "카카오뱅크, SSF샵 포인트·쿠폰 주는 '한달적금' 출시 - 뉴스드림",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfclBDYmMwZXlIUjBPVkx3eDcybW8wZ3lXNFJ5bHo0TUtGMWlpZ2JXRjFWNGxnU3I5MlhVR0FPNnJXcG0wMWxJQkRIZjZiMnIyVVBYOEJKNFMtbkQ3VU8td1J0RzBKVHBvNEHSAW5BVV95cUxOMUE0YnF3YnlSX3c1d09HMjVGVnN5WXpLY1FOMGlKUWRWamZXOTUtVXNaR3dCYU94U0JVeTlZN2ZnTGxvaFlpSS15WVdvTGtuYTEtdFJXbFV4WUp0amlMUXcxS3J1VjZuTXdNRGRMdw?oc=5",
+     "source": "뉴스드림",
+     "date": "2026-09-28"
     }
    ],
    "in_disclosure": false
