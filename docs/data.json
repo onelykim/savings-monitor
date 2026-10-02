@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-02 17:22",
+ "updated_at": "2026-10-03 00:41",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2492,6 +2492,12 @@
  ],
  "news": [
   {
+   "title": "‘Sh청년미래적금’ 출시…최고 연 7% 금리 제공 - 수산인신문",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lLUJTcnQ1Ukc1UWNiLVFtbUt0bHJJaVhBcUFVV0ZsOVl0cG1jNFFrWDhQNjFDaVlzV0RfcHFwVGRqdTZFc2tBcnQ5RmZFYUYtY1ZxWi1zeHl2X1FoelRlTjVvYkF0M3ZZMUE?oc=5",
+   "source": "수산인신문",
+   "date": "2026-10-02"
+  },
+  {
    "title": "우리금융, 10월 '우다페' 진행…최고 9% 적금 등 특판 - newsis.com",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01RHhIcnJUclE4bDdkSXp0c2VEZGI1M0lHS2RBQm9iTHpsdmxmOHBnT25vLTA1WEhVS0ZZTjM5al9LZWM2ODNHdFBFc2hBQl9TVUNxX3ZMYm5qNUJtUVpOcNIBeEFVX3lxTE1aUjRxN0FzZzRZTzhESE1JWWkzUlRIdHZQdnV6WjVoQzZycEs2YlhLT0pSZ29FSy14ZjFwUEtQZDBPUTVwcDhwX3E1akduOUtVbzFLWHp6SElSRTVLWmg5Um5TbjdRekt1V2hQWV94M1VhRWE0UmhsRQ?oc=5",
    "source": "newsis.com",
@@ -2556,16 +2562,9 @@
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UMzBoOXhGdUlUZ2NsMkY5V2dmZkdBS0xmWTdMUUVYYUg1TEd2d2VRM2RtWTcteTFLeDN3X0VmVE5XNjM2R19uLV9rY29KZF9GTjNFZzFKT0RMdy1hWTBodFpydVpsM1hhbVpXYQ?oc=5",
    "source": "samdailbo.com",
    "date": "2026-09-30"
-  },
-  {
-   "title": "연 9% 적금에 ETF 선물까지…우리금융, 10월 특판공세 - 한국경제",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JZ01wSWtlc3c1ODZyZmZOcUhxblBYVmtzbHZtUEdCamRzQUEtb3B6cWRNdXUzai1UV3RsWW0zMlU4WGZKQk9CcVJJSGJxbkxOMlR5VUR0djF3UQ?oc=5",
-   "source": "한국경제",
-   "date": "2026-09-30"
   }
  ],
  "news_seen": [
-  "b24dc4ac38dcf0c5",
   "a9515bd6e28ead98",
   "38c0ca09707dbeb2",
   "ecdd52d5d4f84892",
@@ -3364,7 +3363,8 @@
   "a71948bfce45c524",
   "aa93b0e078224310",
   "938c1ac87b7b8c2d",
-  "c70ceedd81ef199d"
+  "c70ceedd81ef199d",
+  "8873e4fd8e73cb57"
  ],
  "news_seeded": true,
  "news_products": [
