@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-03 05:37",
+ "updated_at": "2026-10-03 09:22",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2492,6 +2492,18 @@
  ],
  "news": [
   {
+   "title": "우리은행 최고 연 9.0% '우리금융 다함께 적금2' 출시 - 진일보",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lMTRBckRsbVh3TUFhczdDa241NzVXRVdsTlp4WW9vM3Zpek9hYlJRTmh6N05DRWJmaGxTdUxBM2dweFNYM1luMVp1YnFkNU5hMTRTZWhkRURUNnZFbmdTU1NCS3lVVGVGczB6Q0lsRQ?oc=5",
+   "source": "진일보",
+   "date": "2026-10-03"
+  },
+  {
+   "title": "우리은행 최고 연 9.0% '우리금융 다함께 적금2' 출시",
+   "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000070574",
+   "source": "네이버뉴스",
+   "date": "2026-10-03"
+  },
+  {
    "title": "‘Sh청년미래적금’ 출시…최고 연 7% 금리 제공 - 수산인신문",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lLUJTcnQ1Ukc1UWNiLVFtbUt0bHJJaVhBcUFVV0ZsOVl0cG1jNFFrWDhQNjFDaVlzV0RfcHFwVGRqdTZFc2tBcnQ5RmZFYUYtY1ZxWi1zeHl2X1FoelRlTjVvYkF0M3ZZMUE?oc=5",
    "source": "수산인신문",
@@ -2550,23 +2562,9 @@
    "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=359822",
    "source": "네이버뉴스",
    "date": "2026-09-30"
-  },
-  {
-   "title": "카카오뱅크, 삼성물산 쇼핑 플랫폼 혜택 '한달적금' 출시 - 중소기업신문",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yWm5CWHlRYkRpNm4zX25YclJwWkFqY09Way1RVng3b2RORmx3UlV1RWNDQlNzelBBZ3pRRjhTM2swbzVKbUdzekV3NmF0aWJfenZtMXBJWXNBem92RDh1V3FQZ2s3alBkSmRLdQ?oc=5",
-   "source": "중소기업신문",
-   "date": "2026-09-28"
-  },
-  {
-   "title": "도민 저금리 생활자금 대출·목돈 마련 적금 출시 - samdailbo.com",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UMzBoOXhGdUlUZ2NsMkY5V2dmZkdBS0xmWTdMUUVYYUg1TEd2d2VRM2RtWTcteTFLeDN3X0VmVE5XNjM2R19uLV9rY29KZF9GTjNFZzFKT0RMdy1hWTBodFpydVpsM1hhbVpXYQ?oc=5",
-   "source": "samdailbo.com",
-   "date": "2026-09-30"
   }
  ],
  "news_seen": [
-  "a9515bd6e28ead98",
-  "38c0ca09707dbeb2",
   "ecdd52d5d4f84892",
   "f706634fb6813dc5",
   "f18a97a6869f00a7",
@@ -3364,10 +3362,35 @@
   "aa93b0e078224310",
   "938c1ac87b7b8c2d",
   "c70ceedd81ef199d",
-  "8873e4fd8e73cb57"
+  "8873e4fd8e73cb57",
+  "5f4f80f9fcba50bf",
+  "e0b65d80b80069b0"
  ],
  "news_seeded": true,
  "news_products": [
+  {
+   "bank": "우리은행",
+   "name": "우리금융 다함께 적금2",
+   "norm": "우리금융다함께적금2",
+   "rate": 9.0,
+   "first_news": "2026-10-03",
+   "count": 2,
+   "articles": [
+    {
+     "title": "우리은행 최고 연 9.0% '우리금융 다함께 적금2' 출시 - 진일보",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lMTRBckRsbVh3TUFhczdDa241NzVXRVdsTlp4WW9vM3Zpek9hYlJRTmh6N05DRWJmaGxTdUxBM2dweFNYM1luMVp1YnFkNU5hMTRTZWhkRURUNnZFbmdTU1NCS3lVVGVGczB6Q0lsRQ?oc=5",
+     "source": "진일보",
+     "date": "2026-10-03"
+    },
+    {
+     "title": "우리은행 최고 연 9.0% '우리금융 다함께 적금2' 출시",
+     "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000070574",
+     "source": "네이버뉴스",
+     "date": "2026-10-03"
+    }
+   ],
+   "in_disclosure": false
+  },
   {
    "bank": "카카오뱅크",
    "name": "한달적금 with SSF샵",
@@ -3885,29 +3908,6 @@
      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BQTlmYm13YTZDNENvakttSy1Dbk1RQ3VrTm9LRGJPWjlBN3V0elJ4ZDhuZGFZZGZWVGVrVC1wZnBHTW5xdUV6MFhBM1NCeldaTTlROVhxU3RqcFZDam1OZm8tNURKblNIYXYyTFhlb3LSAXBBVV95cUxPQUE5ZmJtd2E2QzRDb2pLbUstQ25NUUN1a05vS0RiT1o5QTd1dHpSeGQ4bmRhWWRmVlRla1QtcGZwR01ucXVFejBYQTNTQnpXWk05UTlYcVN0anBWQ2ptTmZvLTVESm5TSGF2MkxYZW9y?oc=5",
      "source": "글로벌경제신문",
      "date": "2026-09-04"
-    }
-   ],
-   "in_disclosure": false
-  },
-  {
-   "bank": "하나은행",
-   "name": "행운기부런 적금",
-   "norm": "행운기부런적금",
-   "rate": null,
-   "first_news": "2026-08-31",
-   "count": 2,
-   "articles": [
-    {
-     "title": "환아 가족 돕기 위해 ‘행운기부런 적금’ 출시한 맥도날드X하나은행... 7개월만에 1억 모금 달성 - insight.co.kr",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fZnR3ckpOdmI5TDJLWUdCaDgxbUl1YjVpTWNzT1hsVmxxMkdLcnFJVkliWTU5M2JTaEtvSTRIUl9WWlE3NkVTdmRqelBZQQ?oc=5",
-     "source": "insight.co.kr",
-     "date": "2026-08-31"
-    },
-    {
-     "title": "환아 가족 돕기 위해 '행운기부런 적금' 출시한 맥도날드X하나은행... 7...",
-     "link": "https://www.insight.co.kr/news/571049",
-     "source": "네이버뉴스",
-     "date": "2026-08-31"
     }
    ],
    "in_disclosure": false
