@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-03 09:22",
+ "updated_at": "2026-10-03 15:20",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2492,6 +2492,12 @@
  ],
  "news": [
   {
+   "title": "우리금융, 8개 계열사 참여 ‘다함께 페스타’ 개막… 최고 9% 적금 등 특판 - 비즈트리뷴",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TOVdEX1VMM3VMcno2anFTX0tMNGFiZFVtdGwtZl9Vc3g2RnBwNzVTUmZYSGd3b3BDZlAycktsR1dLd0MxaTVfX3lDWHlQdURWT1lNQ05UOVBOTmU2WXZrNU84bTlLMnE3T2FMUW9MWQ?oc=5",
+   "source": "비즈트리뷴",
+   "date": "2026-09-30"
+  },
+  {
    "title": "우리은행 최고 연 9.0% '우리금융 다함께 적금2' 출시 - 진일보",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lMTRBckRsbVh3TUFhczdDa241NzVXRVdsTlp4WW9vM3Zpek9hYlJRTmh6N05DRWJmaGxTdUxBM2dweFNYM1luMVp1YnFkNU5hMTRTZWhkRURUNnZFbmdTU1NCS3lVVGVGczB6Q0lsRQ?oc=5",
    "source": "진일보",
@@ -2556,16 +2562,9 @@
    "link": "https://sports.donga.com/economy/article/all/20260930/134757378/1",
    "source": "네이버뉴스",
    "date": "2026-09-30"
-  },
-  {
-   "title": "우리금융, 8개 계열사 참여 '다함께 페스타' 개막… 최고 9% 적금 등 특판",
-   "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=359822",
-   "source": "네이버뉴스",
-   "date": "2026-09-30"
   }
  ],
  "news_seen": [
-  "ecdd52d5d4f84892",
   "f706634fb6813dc5",
   "f18a97a6869f00a7",
   "f4e3aebc6a8e8cf9",
@@ -3364,7 +3363,8 @@
   "c70ceedd81ef199d",
   "8873e4fd8e73cb57",
   "5f4f80f9fcba50bf",
-  "e0b65d80b80069b0"
+  "e0b65d80b80069b0",
+  "4f086309c0773bc7"
  ],
  "news_seeded": true,
  "news_products": [
