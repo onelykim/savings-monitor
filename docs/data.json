@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-07 06:33",
+ "updated_at": "2026-10-07 10:24",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2492,6 +2492,18 @@
  ],
  "news": [
   {
+   "title": "우리금융 다함께 적금2 출시…월 30만원 한도로 최고 연 9% - https://www.diarypoint.com/",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xNjJDVjN1Q2VQOWdLSXRlVng1dGxXYklTYUhiV2pTckFIMnlMaWVKY1NCMFdEWkY0SUR5M05PZ3pQcUtRMTZWUm5tQlAyeDVlbVpBeWlrRERnUVlhM2J3eTdIMS03dmNoaWxR?oc=5",
+   "source": "https://www.diarypoint.com/",
+   "date": "2026-10-06"
+  },
+  {
+   "title": "우리은행, '우다페' 연계 적금 출시…최고 연 9.0% - 화이트페이퍼",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZUHVJakdrZ3llaTk3TkYtUWJQZ0V0X3hpT3NpdnM3TDFQY0d5S2d3NmctejA4YmxlbHlzeWtSNDN3VkIwRG1MeWtrOFA4X19ua2JKWUhoREt3UF9LZ1NlcGRwU1JheGNSOGJSbWw5WdIBc0FVX3lxTFBoZHlBUDZqek1OalUwMGNtYndVNldObTFNUkF2S3NoNUplOGMySmtrZXhCdG9fSFpYLTdCaGhSbGpZOE1nelVCcVV5UnRubklQVDl3eGM5eGJ6czExb0ptb1diWUFQS3VYMWY5S0VKZ0NFdlU?oc=5",
+   "source": "화이트페이퍼",
+   "date": "2026-10-05"
+  },
+  {
    "title": "우리은행, ‘우리금융 다함께 적금2’ 출시···최고 연 9% - 이뉴스투데이",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xR0xRNWp1a1JTZDNpXy13bHRXNHdKMlM3cWNwR2JZWnEyS3ZrNlB1RTZxb3pUT2tsbzBZcVN5M2U1U25pMDFWVHZpV0NXTktseGhwTXZoQ1NwVzc2aVY3ZzhfVGxSWm9VUmZURW9tdldQUdIBdEFVX3lxTE9GMFVyRE1BQUF4ZEo3MkM3UFNLOHZGQm9QcWNTeVY3cGd5TWpYbzJ0MWZSNFprSmtLbTZEM01oWkM1OUdoRkNiampLSDdfRlJLLS0ybzFnVE4ydm1jQTBRTjlaaGpEc0d2TGFmUVVva3ZJNGtk?oc=5",
    "source": "이뉴스투데이",
@@ -2550,23 +2562,9 @@
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01dDJpU24wWE9ZMzZUcWR1Q0JPaEpiWFA2bG9VVElHSXdEOTlRVzhZOHhIS0F6cl9CQW9RQmV2ZmpnYjRYdU1pUHRJT0d2a3NqX2d2NA?oc=5",
    "source": "이투데이",
    "date": "2026-10-05"
-  },
-  {
-   "title": "[단신]우리은행, ‘우다페’ 연계 최고 9% 적금 출시 外 - 동아일보",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8xdHF3SnZFa1QyVFVfdGU5NllCQjNYUHdCcHlOMUVpTU5YMHdHaG5ZWlFUT1RFRjJzak1vMmQ4NkNiVDcwcEFtV18wNjlnUEtDOUF6b0xlQWFoMzVqNnluV24xVTVIM25SbjRUcGZlbExILWhxblHSAWZBVV95cUxQV0tQVndWYjI4OVUtNWJZangwTHoxM1BqaldZUklVQi1xa1lfdFFMLS03S3l3UjI5eThlbXJuT3VKc1gwTFhkZFEyMS0wSDlGZ2FpRHVPVW5JOUtWb0VkRXlLNXlGcFE?oc=5",
-   "source": "동아일보",
-   "date": "2026-10-06"
-  },
-  {
-   "title": "[단신]우리은행, ‘우다페’ 연계 최고 9% 적금 출시 外",
-   "link": "https://www.donga.com/news/Economy/article/all/20261005/134787961/2",
-   "source": "네이버뉴스",
-   "date": "2026-10-06"
   }
  ],
  "news_seen": [
-  "4cf728757ad41d58",
-  "32c0f8d4f76c5cab",
   "18cfbcd83e94497c",
   "9691f5bcf5d97927",
   "6ebcccb5784286c4",
@@ -3364,7 +3362,9 @@
   "974708cbf76b93dd",
   "bd1393fdd3366056",
   "43911cc77c6a1ac1",
-  "ae23d111c67f61db"
+  "ae23d111c67f61db",
+  "273bc3ed18477676",
+  "46814c0cf8080eeb"
  ],
  "news_seeded": true,
  "news_products": [
@@ -3374,7 +3374,7 @@
    "norm": "최고연9.0%대박적금잡는다",
    "rate": 9.0,
    "first_news": "2026-10-04",
-   "count": 17,
+   "count": 18,
    "articles": [
     {
      "title": "“최고 연 9.0% 대박 적금 잡는다”… 우리은행, ‘우리금융 다함께 적금2’ 전격 출시 - 스마트경제",
