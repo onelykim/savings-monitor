@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-07 17:32",
+ "updated_at": "2026-10-08 01:19",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2492,6 +2492,18 @@
  ],
  "news": [
   {
+   "title": "KB국민은행, 'KB카드쓰담적금' 출시",
+   "link": "https://www.hdhy.co.kr/news/articleView.html?idxno=35365",
+   "source": "네이버뉴스",
+   "date": "2026-10-07"
+  },
+  {
+   "title": "우리금융 다함께 적금2 출시…최고 연 9.0% 금리 - 매일경제",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45TnUxTldxajFkOHU0N3F0NjJVNEFTalItbXhxNndNazNXR1NBc1ByYWN1VkF3ZlFOUWZ5YjhuVVBlNER0UFRNbFVTcUNyQ0tFbkNuSA?oc=5",
+   "source": "매일경제",
+   "date": "2026-10-05"
+  },
+  {
    "title": "우리은행 9% 적금, \"우리금융 다함께 적금2 출시\"… 월 30만원 한도와 우대금리 조건 - 경제시그널",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB2elFwMzZoZTZ0dkpTMzVZNS1adVdiOEppbjVUU2FPcmZNRmhyUklpa1pRY216YVlON2lQbzZ5cTdvV3A0NU5mZXFCU0ItOGlTc3pHajlTUG1MNFYyazN6TkF4dFd4S0JQaTV1Q29SOXlURHc?oc=5",
    "source": "경제시그널",
@@ -2550,23 +2562,9 @@
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBoZHlBUDZqek1OalUwMGNtYndVNldObTFNUkF2S3NoNUplOGMySmtrZXhCdG9fSFpYLTdCaGhSbGpZOE1nelVCcVV5UnRubklQVDl3eGM5eGJ6czExb0ptb1diWUFQS3VYMWY5S0VKZ0NFdlXSAXNBVV95cUxQaGR5QVA2anpNTmpVMDBjbWJ3VTZXTm0xTVJBdktzaDVKZThjMkpra2V4QnRvX0haWC03QmhoUmxqWThNZ3pVQnFVeVJ0bm5JUFQ5d3hjOXhienMxMW9KbW9XYllBUEt1WDFmOUtFSmdDRXZV?oc=5",
    "source": "whitepaper.co.kr",
    "date": "2026-10-05"
-  },
-  {
-   "title": "[단신]우리은행, ‘우다페’ 연계 최고 9% 적금 출시 外 - 동아일보",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXS1BWd1ZiMjg5VS01YllqeDBMejEzUGpqV1lSSVVCLXFrWV90UUwtLTdLeXdSMjl5OGVtcm5PdUpzWDBMWGRkUTIxLTBIOUZnYWlEdU9Vbkk5S1ZvRWRFeUs1eUZwUdIBZkFVX3lxTFBXS1BWd1ZiMjg5VS01YllqeDBMejEzUGpqV1lSSVVCLXFrWV90UUwtLTdLeXdSMjl5OGVtcm5PdUpzWDBMWGRkUTIxLTBIOUZnYWlEdU9Vbkk5S1ZvRWRFeUs1eUZwUQ?oc=5",
-   "source": "동아일보",
-   "date": "2026-10-06"
-  },
-  {
-   "title": "[이코노 브리핑] 우리銀, 최고 연 9% ‘다함께 적금2’ 출시 - 세계일보",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJSXhmelpicGZsR2NKVEJqdG1fSkFNU2ZyMDlNX2pzUFBXRk1jZjE1Mmc2enc1UkIzenAtMHRmVFBkV3dJOUI3Q2d6Z0pIakhJbUtIWVRpR1EzSjNEbGxiZUZSaS1LSk9KcDBZ0gFUQVVfeXFMT0Z3QU9jQU1kS0xYemEyUEo2RmxBbEJlcWs0VU5FN0RudldVWVMwTHM2N3ByZndmVjNmakxQMW9ZM0JEY2JJNXN5LTNXUHBKR1JwMGpD?oc=5",
-   "source": "세계일보",
-   "date": "2026-10-06"
   }
  ],
  "news_seen": [
-  "6ebcccb5784286c4",
-  "70b8a3087878b559",
   "07c97b8b21d8beb1",
   "13a66a63c88ebe18",
   "b2e885b5630c74ff",
@@ -3364,10 +3362,29 @@
   "273bc3ed18477676",
   "46814c0cf8080eeb",
   "4c655558f578a11f",
-  "7c1ceb2a6af54b84"
+  "7c1ceb2a6af54b84",
+  "0f0890d12c40387c",
+  "e2826e4e418fbbb8"
  ],
  "news_seeded": true,
  "news_products": [
+  {
+   "bank": "국민은행",
+   "name": "KB카드쓰담적금",
+   "norm": "KB카드쓰담적금",
+   "rate": null,
+   "first_news": "2026-10-07",
+   "count": 1,
+   "articles": [
+    {
+     "title": "KB국민은행, 'KB카드쓰담적금' 출시",
+     "link": "https://www.hdhy.co.kr/news/articleView.html?idxno=35365",
+     "source": "네이버뉴스",
+     "date": "2026-10-07"
+    }
+   ],
+   "in_disclosure": false
+  },
   {
    "bank": "우리은행",
    "name": "최고 연 9.0% 대박 적금 잡는다",
@@ -3914,23 +3931,6 @@
      "title": "광주은행, ‘전남광주시 사랑적금’ 출시",
      "link": "https://www.thepowernews.co.kr/view.php?ud=2026090415235424026d16d784a7_7",
      "source": "네이버뉴스",
-     "date": "2026-09-04"
-    }
-   ],
-   "in_disclosure": false
-  },
-  {
-   "bank": "국민은행",
-   "name": "전남광주통합특별시 사랑적금",
-   "norm": "전남광주통합특별시사랑적금",
-   "rate": null,
-   "first_news": "2026-09-04",
-   "count": 1,
-   "articles": [
-    {
-     "title": "KB증권·광주은행 ‘퇴직연금형 개인투자용 국채’ 거래 서비스 오픈·‘전남광주통합특별시 사랑적금’ 출시 - 여성소비자신문",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrdVVLb1l6V3k2bU5wNTREVTFFVDdMVnFYeHdGMVgwTmxJRWhYRTZLaUx5SmlGdzlRMUlOX1NWT0VjNzY3TlU4M1BKcVZCLS1TNWJROFVPVXpxdXVwM3BKak51Z2trZw?oc=5",
-     "source": "여성소비자신문",
      "date": "2026-09-04"
     }
    ],
