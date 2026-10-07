@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-07 10:24",
+ "updated_at": "2026-10-07 17:32",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -1659,8 +1659,8 @@
      "save_trm": 12,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.27,
-     "intr_rate2": 4.07
+     "intr_rate": 3.26,
+     "intr_rate2": 4.06
     },
     {
      "save_trm": 24,
@@ -1677,8 +1677,8 @@
      "intr_rate2": 3.5
     }
    ],
-   "best_rate": 4.07,
-   "best_base_rate": 3.27,
+   "best_rate": 4.06,
+   "best_base_rate": 3.26,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EB%86%8D%ED%98%91%EC%9D%80%ED%96%89%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20NH%EC%A7%81%EC%9E%A5%EC%9D%B8%EC%9B%94%EB%B3%B5%EB%A6%AC%EC%A0%81%EA%B8%88",
    "first_seen": "2026-07-10",
@@ -2492,6 +2492,18 @@
  ],
  "news": [
   {
+   "title": "우리은행 9% 적금, \"우리금융 다함께 적금2 출시\"… 월 30만원 한도와 우대금리 조건 - 경제시그널",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB2elFwMzZoZTZ0dkpTMzVZNS1adVdiOEppbjVUU2FPcmZNRmhyUklpa1pRY216YVlON2lQbzZ5cTdvV3A0NU5mZXFCU0ItOGlTc3pHajlTUG1MNFYyazN6TkF4dFd4S0JQaTV1Q29SOXlURHc?oc=5",
+   "source": "경제시그널",
+   "date": "2026-10-07"
+  },
+  {
+   "title": "[이코노 브리핑] 우리銀, 최고 연 9% ‘다함께 적금2’ 출시 - 세계일보",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QYmVHY24zRkRJMXllVG1mczVWNEpMbUUzWDJxcldhR3EyYUdLRXljVUppakpSaXJYc3NNRWpIYUlaYUxRZVVyRDBJVE5FUC0zU3A5Wk9CTVfSAVRBVV95cUxPRndBT2NBTWRLTFh6YTJQSjZGbEFsQmVxazRVTkU3RG52V1VZUzBMczY3cHJmd2ZWM2ZqTFAxb1kzQkRjYkk1c3ktM1dQcEpHUnAwakM?oc=5",
+   "source": "세계일보",
+   "date": "2026-10-06"
+  },
+  {
    "title": "우리금융 다함께 적금2 출시…월 30만원 한도로 최고 연 9% - https://www.diarypoint.com/",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xNjJDVjN1Q2VQOWdLSXRlVng1dGxXYklTYUhiV2pTckFIMnlMaWVKY1NCMFdEWkY0SUR5M05PZ3pQcUtRMTZWUm5tQlAyeDVlbVpBeWlrRERnUVlhM2J3eTdIMS03dmNoaWxR?oc=5",
    "source": "https://www.diarypoint.com/",
@@ -2550,23 +2562,9 @@
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJSXhmelpicGZsR2NKVEJqdG1fSkFNU2ZyMDlNX2pzUFBXRk1jZjE1Mmc2enc1UkIzenAtMHRmVFBkV3dJOUI3Q2d6Z0pIakhJbUtIWVRpR1EzSjNEbGxiZUZSaS1LSk9KcDBZ0gFUQVVfeXFMT0Z3QU9jQU1kS0xYemEyUEo2RmxBbEJlcWs0VU5FN0RudldVWVMwTHM2N3ByZndmVjNmakxQMW9ZM0JEY2JJNXN5LTNXUHBKR1JwMGpD?oc=5",
    "source": "세계일보",
    "date": "2026-10-06"
-  },
-  {
-   "title": "[이코노 브리핑] 우리銀, 최고 연 9% ‘다함께 적금2’ 출시",
-   "link": "https://www.segye.com/newsView/20261005508683?OutUrl=naver",
-   "source": "네이버뉴스",
-   "date": "2026-10-06"
-  },
-  {
-   "title": "우리은행, 최고 연 9% ‘다함께 적금2’ 출시 - 이투데이",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01dDJpU24wWE9ZMzZUcWR1Q0JPaEpiWFA2bG9VVElHSXdEOTlRVzhZOHhIS0F6cl9CQW9RQmV2ZmpnYjRYdU1pUHRJT0d2a3NqX2d2NA?oc=5",
-   "source": "이투데이",
-   "date": "2026-10-05"
   }
  ],
  "news_seen": [
-  "18cfbcd83e94497c",
-  "9691f5bcf5d97927",
   "6ebcccb5784286c4",
   "70b8a3087878b559",
   "07c97b8b21d8beb1",
@@ -3364,7 +3362,9 @@
   "43911cc77c6a1ac1",
   "ae23d111c67f61db",
   "273bc3ed18477676",
-  "46814c0cf8080eeb"
+  "46814c0cf8080eeb",
+  "4c655558f578a11f",
+  "7c1ceb2a6af54b84"
  ],
  "news_seeded": true,
  "news_products": [
@@ -3409,7 +3409,7 @@
    "norm": "우리금융다함께적금2",
    "rate": 9.0,
    "first_news": "2026-10-03",
-   "count": 58,
+   "count": 60,
    "articles": [
     {
      "title": "우리은행 최고 연 9.0% '우리금융 다함께 적금2' 출시 - 진일보",
