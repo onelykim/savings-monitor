@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-08 10:46",
+ "updated_at": "2026-10-08 17:47",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -1659,8 +1659,8 @@
      "save_trm": 12,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.26,
-     "intr_rate2": 4.06
+     "intr_rate": 3.25,
+     "intr_rate2": 4.05
     },
     {
      "save_trm": 24,
@@ -1677,8 +1677,8 @@
      "intr_rate2": 3.5
     }
    ],
-   "best_rate": 4.06,
-   "best_base_rate": 3.26,
+   "best_rate": 4.05,
+   "best_base_rate": 3.25,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EB%86%8D%ED%98%91%EC%9D%80%ED%96%89%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20NH%EC%A7%81%EC%9E%A5%EC%9D%B8%EC%9B%94%EB%B3%B5%EB%A6%AC%EC%A0%81%EA%B8%88",
    "first_seen": "2026-07-10",
@@ -2492,6 +2492,18 @@
  ],
  "news": [
   {
+   "title": "NH농협은행, 안전경영활동 우수기업 대상 전용상품 출시·‘청년미래적금’ 가입 이벤트 진행 - 여성소비자신문",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE42eU1qSzZ6Xy02ZmdfWm1zcFQ5TVBicUdlX1FuaWV0WERuNjloallwOWt0RHU0S29PakF3aGdHT1FVV2p2X1dGcmxadnF6Ri1PX2xFOVF0em1ZTnBqMjdZdG9OaEZqQQ?oc=5",
+   "source": "여성소비자신문",
+   "date": "2026-10-08"
+  },
+  {
+   "title": "NH농협은행, 안전경영활동 우수기업 대상 전용상품 출시·'청년미래적금...",
+   "link": "http://www.wsobi.com/news/articleView.html?idxno=319397",
+   "source": "네이버뉴스",
+   "date": "2026-10-08"
+  },
+  {
    "title": "\"청년 자립 돕는다\"…NH농협은행, '청년미래적금' 2차 출시·이벤트 진행 - 더페어",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ORHdpU2ZKZkU3T2g1dW9ZU1VIeEZ0eUlnN0xaS3NwSXQwT2RmRXBHOVdFOEVpbTV0amlCeHpqc3N3MURhTElla3FZdGZFS3pIR1NlSEpFN1hjcVp3RlRUUWd3TWVrNXFpN1F3RFhnSlo?oc=5",
    "source": "더페어",
@@ -2550,23 +2562,9 @@
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xNjJDVjN1Q2VQOWdLSXRlVng1dGxXYklTYUhiV2pTckFIMnlMaWVKY1NCMFdEWkY0SUR5M05PZ3pQcUtRMTZWUm5tQlAyeDVlbVpBeWlrRERnUVlhM2J3eTdIMS03dmNoaWxR?oc=5",
    "source": "https://www.diarypoint.com/",
    "date": "2026-10-06"
-  },
-  {
-   "title": "우리은행, '우다페' 연계 적금 출시…최고 연 9.0% - 화이트페이퍼",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZUHVJakdrZ3llaTk3TkYtUWJQZ0V0X3hpT3NpdnM3TDFQY0d5S2d3NmctejA4YmxlbHlzeWtSNDN3VkIwRG1MeWtrOFA4X19ua2JKWUhoREt3UF9LZ1NlcGRwU1JheGNSOGJSbWw5WdIBc0FVX3lxTFBoZHlBUDZqek1OalUwMGNtYndVNldObTFNUkF2S3NoNUplOGMySmtrZXhCdG9fSFpYLTdCaGhSbGpZOE1nelVCcVV5UnRubklQVDl3eGM5eGJ6czExb0ptb1diWUFQS3VYMWY5S0VKZ0NFdlU?oc=5",
-   "source": "화이트페이퍼",
-   "date": "2026-10-05"
-  },
-  {
-   "title": "우리은행, ‘우리금융 다함께 적금2’ 출시···최고 연 9% - 이뉴스투데이",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xR0xRNWp1a1JTZDNpXy13bHRXNHdKMlM3cWNwR2JZWnEyS3ZrNlB1RTZxb3pUT2tsbzBZcVN5M2U1U25pMDFWVHZpV0NXTktseGhwTXZoQ1NwVzc2aVY3ZzhfVGxSWm9VUmZURW9tdldQUdIBdEFVX3lxTE9GMFVyRE1BQUF4ZEo3MkM3UFNLOHZGQm9QcWNTeVY3cGd5TWpYbzJ0MWZSNFprSmtLbTZEM01oWkM1OUdoRkNiampLSDdfRlJLLS0ybzFnVE4ydm1jQTBRTjlaaGpEc0d2TGFmUVVva3ZJNGtk?oc=5",
-   "source": "이뉴스투데이",
-   "date": "2026-10-05"
   }
  ],
  "news_seen": [
-  "44190f5e3a5bafe2",
-  "c58048c9eece4281",
   "4f868444af6ec89b",
   "01f10f0370a7199d",
   "38ed81db4c45d497",
@@ -3364,7 +3362,9 @@
   "7dd350c17d4be3df",
   "3c7b60c16ce26bc8",
   "4001b52622ce9eb0",
-  "cd4216c8c1b561da"
+  "cd4216c8c1b561da",
+  "cc602355006e0b29",
+  "e74df302e38e9eb5"
  ],
  "news_seeded": true,
  "news_products": [
@@ -3374,7 +3374,7 @@
    "norm": "청년미래적금",
    "rate": null,
    "first_news": "2026-10-08",
-   "count": 2,
+   "count": 4,
    "articles": [
     {
      "title": "\"청년 자립 돕는다\"…NH농협은행, '청년미래적금' 2차 출시·이벤트 진행 - 더페어",
@@ -3385,6 +3385,18 @@
     {
      "title": "\"청년 자립 돕는다\"…NH농협은행, '청년미래적금' 2차 출시·이벤트 진행",
      "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=90097",
+     "source": "네이버뉴스",
+     "date": "2026-10-08"
+    },
+    {
+     "title": "NH농협은행, 안전경영활동 우수기업 대상 전용상품 출시·‘청년미래적금’ 가입 이벤트 진행 - 여성소비자신문",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE42eU1qSzZ6Xy02ZmdfWm1zcFQ5TVBicUdlX1FuaWV0WERuNjloallwOWt0RHU0S29PakF3aGdHT1FVV2p2X1dGcmxadnF6Ri1PX2xFOVF0em1ZTnBqMjdZdG9OaEZqQQ?oc=5",
+     "source": "여성소비자신문",
+     "date": "2026-10-08"
+    },
+    {
+     "title": "NH농협은행, 안전경영활동 우수기업 대상 전용상품 출시·'청년미래적금...",
+     "link": "http://www.wsobi.com/news/articleView.html?idxno=319397",
      "source": "네이버뉴스",
      "date": "2026-10-08"
     }
