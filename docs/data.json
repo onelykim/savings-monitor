@@ -2492,6 +2492,12 @@
  ],
  "news": [
   {
+   "title": "금융권, 네이버페이 등과 소상공인 상생 MOU·임직원 참여 ‘자원순환 DAY’ 실시·서울 골목상권 활성화 지원·‘다함께 적금2’ 출시 - 여성소비자신문",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBNTnFJNVhkVE9rT2ZBMzZaYWl5UDJ0NkpmT1QxeGlWd19KR1pIb3E4QzdQSjNuWDdSRnFBUHVLQUFfZmJFSFp2cmM2c3BTaGxrSllGUEowMElnak1admlKSEtpaw?oc=5",
+   "source": "여성소비자신문",
+   "date": "2026-10-06"
+  },
+  {
    "title": "NH농협은행, 안전경영활동 우수기업 대상 전용상품 출시·‘청년미래적금’ 가입 이벤트 진행 - 여성소비자신문",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE42eU1qSzZ6Xy02ZmdfWm1zcFQ5TVBicUdlX1FuaWV0WERuNjloallwOWt0RHU0S29PakF3aGdHT1FVV2p2X1dGcmxadnF6Ri1PX2xFOVF0em1ZTnBqMjdZdG9OaEZqQQ?oc=5",
    "source": "여성소비자신문",
@@ -2556,16 +2562,9 @@
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QYmVHY24zRkRJMXllVG1mczVWNEpMbUUzWDJxcldhR3EyYUdLRXljVUppakpSaXJYc3NNRWpIYUlaYUxRZVVyRDBJVE5FUC0zU3A5Wk9CTVfSAVRBVV95cUxPRndBT2NBTWRLTFh6YTJQSjZGbEFsQmVxazRVTkU3RG52V1VZUzBMczY3cHJmd2ZWM2ZqTFAxb1kzQkRjYkk1c3ktM1dQcEpHUnAwakM?oc=5",
    "source": "세계일보",
    "date": "2026-10-06"
-  },
-  {
-   "title": "우리금융 다함께 적금2 출시…월 30만원 한도로 최고 연 9% - https://www.diarypoint.com/",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xNjJDVjN1Q2VQOWdLSXRlVng1dGxXYklTYUhiV2pTckFIMnlMaWVKY1NCMFdEWkY0SUR5M05PZ3pQcUtRMTZWUm5tQlAyeDVlbVpBeWlrRERnUVlhM2J3eTdIMS03dmNoaWxR?oc=5",
-   "source": "https://www.diarypoint.com/",
-   "date": "2026-10-06"
   }
  ],
  "news_seen": [
-  "4f868444af6ec89b",
   "01f10f0370a7199d",
   "38ed81db4c45d497",
   "691569dd295487d2",
@@ -3364,7 +3363,8 @@
   "4001b52622ce9eb0",
   "cd4216c8c1b561da",
   "cc602355006e0b29",
-  "e74df302e38e9eb5"
+  "e74df302e38e9eb5",
+  "0cf4364dbe8220a2"
  ],
  "news_seeded": true,
  "news_products": [
