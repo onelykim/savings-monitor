@@ -2492,6 +2492,12 @@
  ],
  "news": [
   {
+   "title": "NH농협은행, 안전경영활동 우수기업 대상 전용상품 출시·‘청년미래적금’ 가입 이벤트 진행 - 여성소비자신문",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9EeFlkeEh3Q25nZ0hibl8tMWl3S1IxMmZMeXZXV2dQOWU2OEhnQU9ISnMwNDBBN0xUOW56TFViZGJmTGxYTmxxRk9lWWNSeEtqeWhwTlVFOFEzWk9WUHpKbmR3SQ?oc=5",
+   "source": "여성소비자신문",
+   "date": "2026-10-08"
+  },
+  {
    "title": "금융권, 네이버페이 등과 소상공인 상생 MOU·임직원 참여 ‘자원순환 DAY’ 실시·서울 골목상권 활성화 지원·‘다함께 적금2’ 출시 - 여성소비자신문",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBNTnFJNVhkVE9rT2ZBMzZaYWl5UDJ0NkpmT1QxeGlWd19KR1pIb3E4QzdQSjNuWDdSRnFBUHVLQUFfZmJFSFp2cmM2c3BTaGxrSllGUEowMElnak1admlKSEtpaw?oc=5",
    "source": "여성소비자신문",
@@ -2556,16 +2562,9 @@
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB2elFwMzZoZTZ0dkpTMzVZNS1adVdiOEppbjVUU2FPcmZNRmhyUklpa1pRY216YVlON2lQbzZ5cTdvV3A0NU5mZXFCU0ItOGlTc3pHajlTUG1MNFYyazN6TkF4dFd4S0JQaTV1Q29SOXlURHc?oc=5",
    "source": "경제시그널",
    "date": "2026-10-07"
-  },
-  {
-   "title": "[이코노 브리핑] 우리銀, 최고 연 9% ‘다함께 적금2’ 출시 - 세계일보",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QYmVHY24zRkRJMXllVG1mczVWNEpMbUUzWDJxcldhR3EyYUdLRXljVUppakpSaXJYc3NNRWpIYUlaYUxRZVVyRDBJVE5FUC0zU3A5Wk9CTVfSAVRBVV95cUxPRndBT2NBTWRLTFh6YTJQSjZGbEFsQmVxazRVTkU3RG52V1VZUzBMczY3cHJmd2ZWM2ZqTFAxb1kzQkRjYkk1c3ktM1dQcEpHUnAwakM?oc=5",
-   "source": "세계일보",
-   "date": "2026-10-06"
   }
  ],
  "news_seen": [
-  "01f10f0370a7199d",
   "38ed81db4c45d497",
   "691569dd295487d2",
   "0608c827a1fd10f1",
@@ -3364,7 +3363,8 @@
   "cd4216c8c1b561da",
   "cc602355006e0b29",
   "e74df302e38e9eb5",
-  "0cf4364dbe8220a2"
+  "0cf4364dbe8220a2",
+  "c690d58e3a54a8e9"
  ],
  "news_seeded": true,
  "news_products": [
@@ -3374,7 +3374,7 @@
    "norm": "청년미래적금",
    "rate": null,
    "first_news": "2026-10-08",
-   "count": 4,
+   "count": 5,
    "articles": [
     {
      "title": "\"청년 자립 돕는다\"…NH농협은행, '청년미래적금' 2차 출시·이벤트 진행 - 더페어",
