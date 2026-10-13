@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-13 02:43",
+ "updated_at": "2026-10-13 09:31",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2492,6 +2492,30 @@
  ],
  "news": [
   {
+   "title": "카카오뱅크, AI가 저축 관리하는 'AI 목표적금' 출시…최고 연 5%",
+   "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=280009",
+   "source": "네이버뉴스",
+   "date": "2026-10-13"
+  },
+  {
+   "title": "카카오뱅크, AI가 저축 돕는 '목표적금' 출시…최고 연 5%",
+   "link": "https://www.etnews.com/20261013000044",
+   "source": "네이버뉴스",
+   "date": "2026-10-13"
+  },
+  {
+   "title": "저축 관리도 AI가 돕는다…카카오뱅크, 최고 연 5% 'AI 목표적금' 출시",
+   "link": "https://www.ajunews.com/view/20261013090707399",
+   "source": "네이버뉴스",
+   "date": "2026-10-13"
+  },
+  {
+   "title": "카카오뱅크, AI 목표적금 출시",
+   "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=713468",
+   "source": "네이버뉴스",
+   "date": "2026-10-13"
+  },
+  {
    "title": "NH농협은행, 안전경영활동 우수기업 대상 전용상품 출시·‘청년미래적금’ 가입 이벤트 진행 - 여성소비자신문",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9EeFlkeEh3Q25nZ0hibl8tMWl3S1IxMmZMeXZXV2dQOWU2OEhnQU9ISnMwNDBBN0xUOW56TFViZGJmTGxYTmxxRk9lWWNSeEtqeWhwTlVFOFEzWk9WUHpKbmR3SQ?oc=5",
    "source": "여성소비자신문",
@@ -2538,37 +2562,9 @@
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EaFUyakxHbDBNbXBzUTQzN0tONUQ3ZVF0cHJnYjhaelQ1d1AxSERVZlo3WmMtTTAtai1HTmRNWXNiM0RwVmlrVEpzakM5YlA2NEpkNHBpLTN4Zw?oc=5",
    "source": "파이낸셜뉴스",
    "date": "2026-10-05"
-  },
-  {
-   "title": "우리은행, 최고 연 9% '우리금융 다함께 적금2' 출시 - 뉴스1",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KT3N1S1JyS0VCWDN5b09wVmhSbnluSllhYVhfd1JUX0loSGhFaGNHZXhrbmZFUVJkcDg1TGhrUkFpcVRPdmNnZzZETGNnRHZjckk0?oc=5",
-   "source": "뉴스1",
-   "date": "2026-10-05"
-  },
-  {
-   "title": "KB국민은행, 'KB카드쓰담적금' 출시",
-   "link": "https://www.hdhy.co.kr/news/articleView.html?idxno=35365",
-   "source": "네이버뉴스",
-   "date": "2026-10-07"
-  },
-  {
-   "title": "우리금융 다함께 적금2 출시…최고 연 9.0% 금리 - 매일경제",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45TnUxTldxajFkOHU0N3F0NjJVNEFTalItbXhxNndNazNXR1NBc1ByYWN1VkF3ZlFOUWZ5YjhuVVBlNER0UFRNbFVTcUNyQ0tFbkNuSA?oc=5",
-   "source": "매일경제",
-   "date": "2026-10-05"
-  },
-  {
-   "title": "우리은행 9% 적금, \"우리금융 다함께 적금2 출시\"… 월 30만원 한도와 우대금리 조건 - 경제시그널",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB2elFwMzZoZTZ0dkpTMzVZNS1adVdiOEppbjVUU2FPcmZNRmhyUklpa1pRY216YVlON2lQbzZ5cTdvV3A0NU5mZXFCU0ItOGlTc3pHajlTUG1MNFYyazN6TkF4dFd4S0JQaTV1Q29SOXlURHc?oc=5",
-   "source": "경제시그널",
-   "date": "2026-10-07"
   }
  ],
  "news_seen": [
-  "38ed81db4c45d497",
-  "691569dd295487d2",
-  "0608c827a1fd10f1",
-  "307c419c2a8a9989",
   "cf3ba75c440d7718",
   "8aa846fa6f4a122a",
   "c50135b3816ccaaa",
@@ -3364,10 +3360,49 @@
   "cc602355006e0b29",
   "e74df302e38e9eb5",
   "0cf4364dbe8220a2",
-  "c690d58e3a54a8e9"
+  "c690d58e3a54a8e9",
+  "a465afa7ecf29ae8",
+  "7ec2e538d104319a",
+  "dbf19e7c42dad130",
+  "8dbd6f81cd64fbb6"
  ],
  "news_seeded": true,
  "news_products": [
+  {
+   "bank": "카카오뱅크",
+   "name": "AI 목표적금",
+   "norm": "AI목표적금",
+   "rate": 5.0,
+   "first_news": "2026-10-13",
+   "count": 4,
+   "articles": [
+    {
+     "title": "카카오뱅크, AI가 저축 관리하는 'AI 목표적금' 출시…최고 연 5%",
+     "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=280009",
+     "source": "네이버뉴스",
+     "date": "2026-10-13"
+    },
+    {
+     "title": "카카오뱅크, AI가 저축 돕는 '목표적금' 출시…최고 연 5%",
+     "link": "https://www.etnews.com/20261013000044",
+     "source": "네이버뉴스",
+     "date": "2026-10-13"
+    },
+    {
+     "title": "저축 관리도 AI가 돕는다…카카오뱅크, 최고 연 5% 'AI 목표적금' 출시",
+     "link": "https://www.ajunews.com/view/20261013090707399",
+     "source": "네이버뉴스",
+     "date": "2026-10-13"
+    },
+    {
+     "title": "카카오뱅크, AI 목표적금 출시",
+     "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=713468",
+     "source": "네이버뉴스",
+     "date": "2026-10-13"
+    }
+   ],
+   "in_disclosure": false
+  },
   {
    "bank": "NH농협은행",
    "name": "청년미래적금",
@@ -3903,41 +3938,6 @@
      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUME9LbVZHYVNHMlBJN24waHRIcTRGcEVQRXE5SWh0MW40VHdtYW0tOUtkcHFZWHp1R3ZYblcySGlLNHNGcU5wdk9YZ2w5clIzTHRj?oc=5",
      "source": "news.nate.com",
      "date": "2026-09-06"
-    }
-   ],
-   "in_disclosure": false
-  },
-  {
-   "bank": "광주은행",
-   "name": "전남광주통합특별시 사랑적금",
-   "norm": "전남광주통합특별시사랑적금",
-   "rate": 4.7,
-   "first_news": "2026-09-04",
-   "count": 36,
-   "articles": [
-    {
-     "title": "광주은행, '전남광주통합특별시 사랑적금' 출시 - 연합뉴스",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UcDloN1k1T1lpeHl3T3lGYzBjUXBVeExsYUZNZlVEdmIxNzdhWHpWS2FnSkJHVXNtbGlVX0RSR2FZYTlBSHZJaHJlaENIMktSa0huX1dsQ0F2c0t6cXRsS9IBYEFVX3lxTE9UcDloN1k1T1lpeHl3T3lGYzBjUXBVeExsYUZNZlVEdmIxNzdhWHpWS2FnSkJHVXNtbGlVX0RSR2FZYTlBSHZJaHJlaENIMktSa0huX1dsQ0F2c0t6cXRsSw?oc=5",
-     "source": "연합뉴스",
-     "date": "2026-09-04"
-    },
-    {
-     "title": "광주은행, 최고 연 4.7% '전남광주통합특별시 사랑적금' 출시 - ebn.co.kr",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wZkFCa1ZETTJxcktselpIOXJtQ1hvNHlnTTZkZnNMVEs1dWx1Q2tLWFM2QzlnVTJmX05PTjRTQllyRUdNQTJTcVhKNXlickEtN1lkNmNSNVp0Zl8tcFYxY3EzRGV5WVdB?oc=5",
-     "source": "ebn.co.kr",
-     "date": "2026-09-04"
-    },
-    {
-     "title": "광주은행 통합특별시 사랑적금 출시 우대조건 충족 시 최고 연 4.70% > 뉴스 - 더코리아",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55VkYtTTV1RVRFTzBPNGNfNFJNV0JONDZISUdhV1d3RU04c194c19taEppQWRjSDNidkJTSkEzTnI0TGhVRUgtYlFTR1pjZ3pGZk5XeHRGdlJVRjc5YlotUWZwYzFMcjFFV0tJVE41UkU?oc=5",
-     "source": "더코리아",
-     "date": "2026-09-04"
-    },
-    {
-     "title": "광주은행, ‘전남광주통합특별시 사랑적금’ 출시 - 누리일보",
-     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tS0NxN3QwRmplX2RDN0dDVWo4d3RsRWZnbVJGVDRPZ09LSlllOXJiQnNIWlZrYXNLUFFia3dxSzlXY3BCeXZpTl9XclB0VWY3SXhNcy1wT0dHcnc5?oc=5",
-     "source": "누리일보",
-     "date": "2026-09-04"
     }
    ],
    "in_disclosure": false
