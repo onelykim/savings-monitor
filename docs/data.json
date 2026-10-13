@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-13 16:36",
+ "updated_at": "2026-10-14 00:51",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2492,95 +2492,79 @@
  ],
  "news": [
   {
+   "title": "카카오뱅크, AI 코칭 적금 출시…최고 연 5% 금리 - 조세일보",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qaFlXcVBrRjVsbFZGSjJPMlFnNFpDakR0QWtlQUtyWlBkZFd5Q0Y4SVh2bEh3WUxkbzBaSnV2cGhGQm5nbzhqYTFqNmdHUzhwVE1KV1JtTGhjTGdTc05R?oc=5",
+   "source": "조세일보",
+   "date": "2026-10-13"
+  },
+  {
+   "title": "카카오뱅크, ‘AI 목표적금’ 출시…금융권 최초 AI가 저축상품 코칭 - 비즈월드",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XeDJJQlQ5U2lVbkJlWW8wRGN4RmxaeEF5Qm5kSFJWQ2oxQmh5X1psV3dIZkpGR3JPTTlKRjVNNnlaS2R2SUJtOTRWV01NOEJRc2VCRGs3MEJmaEVKRUI2emtfYkNTQ3ktdXc?oc=5",
+   "source": "비즈월드",
+   "date": "2026-10-13"
+  },
+  {
    "title": "카카오뱅크, ‘AI 목표적금’ 출시…저축 상황 따라 맞춤형 조언 - 팍스경제TV",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JQUJ0Tk1WckZkb0VScy1YMWs5SUZaZHJSeHotS2dLa0tJd2owWWZrQ1pacUR3M0FDcEthLWczeW13TlN1X09IeEJMbEJfUEJYMTJNTVpCZHVGejlRbWMzdGN0ZlZfZzQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XamI3Y0hlWm82UjNVckxVeExYajJaUmdTbndXRENCUjhKeXlsdUNLemg5UmUxZlFaYXBxYXlUTnB3SF9IeDJUQ0ROYkRDSGRrUmZfQmNWQURKLUhGa0RVcjhTbE9wSThk?oc=5",
    "source": "팍스경제TV",
    "date": "2026-10-13"
   },
   {
-   "title": "카카오뱅크, 최고 연 5% 금리 ‘AI 목표적금’ 출시 - 동아일보",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYUHp4elFKUWdmTk1GSzBmd2lsZHl5N1FkRHlOTHkzU1JtQ085RjVhY2MwNWR4X1NZX0dWMElnRXpIcFdZbDdUd3VXN24tTzVlT2x4RXF5ZFVlUVN3YWhLc05yNjlqSjBRdWdCbm5TTi1wN2pGUUHSAWZBVV95cUxNNnFaNjh1emhCeGNkYmhEU3NtZEY4bEpNaUhaTHlwWXVkaWFQd0syRWo5a3UxQ3ZqNHRWS1oxTTFZRG81M09QUmN5SFhDUlZudmJOQUtfbWVPLU4tM2phSUtVcnpRaHc?oc=5",
-   "source": "동아일보",
+   "title": "카카오뱅크, AI 페이스메이커 적용 'AI 목표적금' 출시 - FETV",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MOV9RRkIyQUk4VGlDQXVEY2p5SzR2MTAtY3hwZnpPSWJ3ZDNCbUowM0lHNENSTElQbnJWVXEtejkyUFRFcjc2aEEwcnlvQ09OT1hfbFgzOTF0N3c0Z3NkQXBnNDlPUklL?oc=5",
+   "source": "FETV",
    "date": "2026-10-13"
   },
   {
-   "title": "카카오뱅크, AI가 목표 달성 조언하는 적금 출시…최대 5% 금리 - 연합뉴스",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE56U2wxbTV1d0tUVWdfUVNqZlpOenMtclNiSFc0Vm45Zm1ZX2FxOEN0X0V5ZG9oTVFDVlY3a0cwNU5HeTNiVUZzOUVteVBNY1FXWXluRW0wbm9PdDTSAWBBVV95cUxNX0xrZ2JrejhqZzd6LXM2eWJncEpZbWdOZk9OYkVBaUJudU41VnFLcUZfZGwxMC1JSDJIOUFlVmJvRVB5MGgwaUZlNk53aHozektyb2RnYWxadjZxcVZOZno?oc=5",
-   "source": "연합뉴스",
+   "title": "카카오뱅크 'AI 목표적금' 출시, 저축 목표 달성하면 최고 연 5% 금리 - 비즈니스포스트",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE94cXpxakJOZk9vR2h2eVlWcUtXVHgwMVljV2xqdE02UDQxTVdQdDNuUmhPcmlRcGEzdVlzVnluZ3BMM2sxalBzRHpFaUdxQWhzdTJsWlFMSi1ySkJqSVZZUFZ4TXBJb3ZyWDk3MURRR3F3YWc?oc=5",
+   "source": "비즈니스포스트",
    "date": "2026-10-13"
   },
   {
-   "title": "카카오뱅크 'AI 목표적금' 출시…AI가 저축 도와 - 중소기업신문",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtNXJicG01SF9mZG5zUTlWSER3RGxzdTcyVmVTUExPdWZCRDI4S1hVU3lUWmV3UXk3MW5CTS1qNFBHRWgzWUY5OWdNX0J6YzczTVdBWHVkS3F6VjBZX3V1dGVEampxR3ZiYTU2TQ?oc=5",
-   "source": "중소기업신문",
+   "title": "카카오뱅크, 금융권 최초 AI 코칭 더한 'AI 목표적금' 출시 - 미래경제",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WcjFNQTZ1SUlxdjFQWlNLdy14TzIzQmJYb21HSkNEbnRVT0tCUmZwRXJrMldVWnZlU2NxUnhYYXFGMGI5MDJrT0x3TjNIWFZMVi0zcWdzMDUydGhWQk9vZFNVd1d6aWVIb2dfWQ?oc=5",
+   "source": "미래경제",
    "date": "2026-10-13"
   },
   {
-   "title": "카카오뱅크, AI가 저축 코칭해주는 적금 출시…최고 연 5% - 비욘드포스트",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE94Q3Myek9zQVdRU0MxNWxPYzlOSzE5YU5XekpBNWtvdWpOM1ZXc1lIdVVodU1fS1FLelRIa2F0MzV1X2oyR2JPYUlIWU04OXkxOEpBdWwxbExWeE9BREFUanJIVU9OeVA5OWI2ZlBjVVZMOHFMRldRNmxGU1k?oc=5",
-   "source": "비욘드포스트",
+   "title": "카카오뱅크, AI가 저축 관리하는 ‘목표적금’ 출시 - 뉴스인사이드",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBycEpVLTM1QjRIZjl0eHRHUVk4MVNnNllUeldpYnFLMGZEV1Bvc3VVcUhoT0lHVFdmTXhDeFRzNi1UMWdnc1hJX1I5QUJ4dXpzaElLUjRkekFXTklSOGpZa0hPemppNFhpWjVGbkdn?oc=5",
+   "source": "뉴스인사이드",
    "date": "2026-10-13"
   },
   {
-   "title": "카카오뱅크, AI가 저축 코치해주는 적금 출시…최대 연 5% - 머니투데이 - 머니투데이",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1FOHdWZ05UUklfZHI0MGRqTFVpTTdhaS1vMHppTTF3dDBMUzRYZHNoZWd0eF8xeDFVRlNSN3c3Z29IdnNqQlhrYko2VGIyVzdMZXUwaWdMclN6Zy1yOXpuWjFPbDlOcElkaVNN0gFwQVVfeXFMT3VSdzM0MHZnTlBjVS10aWJKV2dNcWNzN29IN04wak10LUFWajNZSlU0Q0kyUUpSU09La0pYTGRPaXRnekRuWmtDMG5SSEp4cmNyOFlGNDJROWROV0pwaTNZRDA4djhVSnMwb2VNVVlXaQ?oc=5",
-   "source": "머니투데이",
+   "title": "저축 관리도 AI가 돕는다…카카오뱅크, 최고 연 5% AI 목표적금 출시 - 아주경제",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5UcVZVR0tWT29TV2sycTRDOE81dUFQQW1peVBEa0ZqZVFsSTRJSE1CMnVEMDdvRWtpUkdZVXpaelZEVm5rSzJnSy1KNU5mTmsxeEpwRVZQUWnSAVhBVV95cUxOVHFWVUdLVk9vU1drMnE0QzhPNXVBUEFtaXlQRGtGamVRbEk0SUhNQjJ1RDA3b0VraVJHWVV6WnpWRFZua0syZ0stSjVOZk5rMXhKcEVWUFFp?oc=5",
+   "source": "아주경제",
    "date": "2026-10-13"
   },
   {
-   "title": "[카드] 카카오뱅크 '최고 연 5%' AI 목표적금 출시 - 프라임경제",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HelZXRGZLWnVvenZmSGVZZThtUnc2eFdVVHRJa1d6aVhIa3lQVVRVM2h4TGxoeXZzRWU5WkdWZGZWLThYbWRHaElJc2lUQXdQX3VWeFpHUWk0RjV5WWV4REM3ZWwtNk9TVGtCYmljTmNWUQ?oc=5",
-   "source": "프라임경제",
+   "title": "카카오뱅크, 'AI 목표적금' 출시…금융권 최초 AI가 저축상품 코칭",
+   "link": "http://www.bizwnews.com/news/articleView.html?idxno=148738",
+   "source": "네이버뉴스",
    "date": "2026-10-13"
   },
   {
-   "title": "카카오뱅크, AI가 저축 돕는 '목표적금' 출시…최고 연 5% - 전자신문",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8xek1kTjFrVU1lZkdWc091RWZCbHduZ1RGbUZnclBUcFphUVk0bHBjdlpDbUZkSG9kWUVJYmlneUczTHpEeGxhQk5fbkpLQQ?oc=5",
-   "source": "전자신문",
+   "title": "“AI가 저축 목표부터 관리까지”…카카오뱅크, 최고 연 5% 적금 출시",
+   "link": "https://www.sportsseoul.com/news/read/1641105?ref=naver",
+   "source": "네이버뉴스",
    "date": "2026-10-13"
   },
   {
-   "title": "카카오뱅크, AI 코칭 적용한 'AI 목표적금' 출시…최고 연 5.0% - 뉴스핌",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRdUdPSHR0cTFzYU56NGhSeTA0XzYzdDU4SFJ0T1owTWo1SEZISERBTGxzUnhsb0ZxYjNaQURHMjBaUzRfZnNmajM2WllrdEx6V21kYmJxTGJtUTc3?oc=5",
-   "source": "뉴스핌",
+   "title": "카카오뱅크 'AI 목표적금' 출시, 저축 목표 달성하면 최고 연 5% 금리",
+   "link": "https://www.businesspost.co.kr/BP?command=article_view&num=449215",
+   "source": "네이버뉴스",
    "date": "2026-10-13"
   },
   {
-   "title": "“유럽여행 720만원 모으기”…카카오뱅크, AI가 조언하는 ‘목표적금’ 출시 - 이코노미스트",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE14ZEN3bC1yV2llSWlVaGs3ZWs0V05waEF4Nzk4LUpBQjZuOUYzbTdVdUlOQS0xQU1fR1VyR3NEdmNjWnBreDZSdS1ib0ktbzZMaEtXUHliU0E2cUJ5MnRreDZB?oc=5",
-   "source": "이코노미스트",
-   "date": "2026-10-13"
-  },
-  {
-   "title": "카카오뱅크, 최고 5% 'AI 코칭 목표적금' 출시 - 뉴시스",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tS3dZWng4dHRBb2t4cHZpQjBxMEdCdVo2N3RXRVpoSDNYdGtpdlQtX29YaXNNNk4ycjZhNjAwOWNQbS04bjJLTEZWaENGMjByOS1ERl9GazBvUHlLckNyMFhidWE1SG5vZjFKYzdhTzZCbmNQWkN6UtIBeEFVX3lxTE1tS3dZWng4dHRBb2t4cHZpQjBxMEdCdVo2N3RXRVpoSDNYdGtpdlQtX29YaXNNNk4ycjZhNjAwOWNQbS04bjJLTEZWaENGMjByOS1ERl9GazBvUHlLckNyMFhidWE1SG5vZjFKYzdhTzZCbmNQWkN6Ug?oc=5",
-   "source": "뉴시스",
-   "date": "2026-10-13"
-  },
-  {
-   "title": "카카오뱅크, AI가 저축 돕는 '목표적금' 출시…연 최고 5% 금리 - ER 이코노믹리뷰",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Ddm1JVFd1WUNDSC1RN0FuRDVwbmtld1ZoUFJxWXJMSjgxVlpLOExvZy14VnJFcDdub3N6cndfNnI3NWRIOFRleERfeWxzbFlQU21NbWhBNEtQQW11cnZuRmJQcFJpRlBKa3MtbQ?oc=5",
-   "source": "ER 이코노믹리뷰",
+   "title": "\"여행비 얼마씩 모으면 돼?\"…카뱅, AI 목표적금 출시",
+   "link": "https://www.hankyung.com/article/2026101396371",
+   "source": "네이버뉴스",
    "date": "2026-10-13"
   }
  ],
  "news_seen": [
-  "aed6baceabebca5a",
-  "86d731e11a206208",
-  "b04b640bbbd39137",
-  "45563c3726217494",
-  "6728623a55fa83ba",
-  "f050e74998e18b91",
-  "a3e1d19f561e5699",
-  "aa647b0208320ee4",
-  "280b89f352bd98ae",
-  "093518bb8b50d752",
-  "90d1fef1fd9ea090",
-  "525f410fa215d0f8",
-  "3ce0f8d457b4e13e",
-  "fdc08a69edf86a80",
-  "f2010583adf67cc4",
-  "8774779b6162b890",
   "d038448b5799dce6",
   "db2ddc6d5b85311e",
   "0bf3a12ca24c7cd3",
@@ -3364,7 +3348,23 @@
   "73a5ad608a7fb7c8",
   "013bb8e2ddf5b801",
   "e9e7ef5f8a35c951",
-  "c4401cacdf39aea6"
+  "c4401cacdf39aea6",
+  "6afd82df34e01fa0",
+  "decdf5a3cabc3da5",
+  "a2a99e7cc7448fc6",
+  "4d06fb5fff523832",
+  "2148c02c23f35a52",
+  "a0cb079248b564b0",
+  "8e57ae2bfa8c896f",
+  "0b641357bc13074d",
+  "03de41659a2a6f49",
+  "c009cf7da922b418",
+  "3eea6e094d313239",
+  "b5030689aeac31d0",
+  "3ba2e5bbe0786a09",
+  "4abba9b986d582f0",
+  "5286c882897af386",
+  "2ff9d9dec61af89b"
  ],
  "news_seeded": true,
  "news_products": [
@@ -3374,7 +3374,7 @@
    "norm": "AI목표적금",
    "rate": 5.0,
    "first_news": "2026-10-13",
-   "count": 35,
+   "count": 50,
    "articles": [
     {
      "title": "카카오뱅크, AI가 저축 관리하는 'AI 목표적금' 출시…최고 연 5%",
@@ -3415,6 +3415,23 @@
      "title": "카카오뱅크, 최고 5% 'AI 코칭 목표적금' 출시 - 뉴시스",
      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tS3dZWng4dHRBb2t4cHZpQjBxMEdCdVo2N3RXRVpoSDNYdGtpdlQtX29YaXNNNk4ycjZhNjAwOWNQbS04bjJLTEZWaENGMjByOS1ERl9GazBvUHlLckNyMFhidWE1SG5vZjFKYzdhTzZCbmNQWkN6UtIBeEFVX3lxTE1tS3dZWng4dHRBb2t4cHZpQjBxMEdCdVo2N3RXRVpoSDNYdGtpdlQtX29YaXNNNk4ycjZhNjAwOWNQbS04bjJLTEZWaENGMjByOS1ERl9GazBvUHlLckNyMFhidWE1SG5vZjFKYzdhTzZCbmNQWkN6Ug?oc=5",
      "source": "뉴시스",
+     "date": "2026-10-13"
+    }
+   ],
+   "in_disclosure": false
+  },
+  {
+   "bank": "카카오뱅크",
+   "name": "AI적금",
+   "norm": "AI적금",
+   "rate": null,
+   "first_news": "2026-10-13",
+   "count": 1,
+   "articles": [
+    {
+     "title": "카카오뱅크 'AI적금' 출시…저축목표 따라 맞춤형 조언",
+     "link": "https://www.mk.co.kr/article/12174756",
+     "source": "네이버뉴스",
      "date": "2026-10-13"
     }
    ],
@@ -3901,23 +3918,6 @@
     {
      "title": "우리은행, 아시안게임 팀코리아 승리 기원 '최고 연 7.5% 적금' 출시",
      "link": "https://www.getnews.co.kr/news/articleView.html?idxno=879927",
-     "source": "네이버뉴스",
-     "date": "2026-09-06"
-    }
-   ],
-   "in_disclosure": false
-  },
-  {
-   "bank": "신한은행",
-   "name": "신한은행 적금 9단 출시",
-   "norm": "신한은행적금9단출시",
-   "rate": null,
-   "first_news": "2026-09-06",
-   "count": 1,
-   "articles": [
-    {
-     "title": "'신한은행 적금 9단 출시' 캐시워크 돈 버는 퀴즈, 정답은?",
-     "link": "https://www.ajunews.com/view/20260906102612768",
      "source": "네이버뉴스",
      "date": "2026-09-06"
     }
