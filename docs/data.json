@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-14 20:41",
+ "updated_at": "2026-10-15 02:01",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2492,6 +2492,24 @@
  ],
  "news": [
   {
+   "title": "하나은행, 서금원과 ‘청년미래적금’ 출시…22일부터 신청 접수 - 시사매거진",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBsbl9fd0J5UzNBVHpxZE9hdFluSEtjYU43WkxCVlFxcHBSWE1IcVREcmR4XzViUy1SZHVNSUQxb1hiMlE4eURRN0F5djdKYWdpOVN0aWEwRUU?oc=5",
+   "source": "시사매거진",
+   "date": "2026-10-14"
+  },
+  {
+   "title": "\"여행비 얼마씩 모으면 돼?\"…카뱅, AI 목표적금 출시 - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YVHl3Mnd0aFVEVDVnZE1HcjJMRzBvbGc1ekJMT0x0UHV4WU5aSzd3QVlkejh6QWNDTlhLX29qMDkxMUo3ZlVnMzVuQzcwRWNNWmxRUVJIOVF5aUtIam53ZzNCVGVrMGhD?oc=5",
+   "source": "TradingView",
+   "date": "2026-10-13"
+  },
+  {
+   "title": "카카오뱅크, ‘AI 목표적금’ 출시…금융권 최초 AI가 저축상품 코칭 - 비즈월드",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1eU9EOGpvWHFBM01HVXlZUUswZnZKUnJNdlpTRVdKdHdULUlSREhGY3M5M0hsV2I0aDFfUGk4bDI5Y3BXS1c2OWxDU3YtZjhnamE4dnpVRDlMc25OV3NkRmZLMjRUUlVlOXFn?oc=5",
+   "source": "비즈월드",
+   "date": "2026-10-13"
+  },
+  {
    "title": "카카오뱅크, AI 목표적금 출시... \"AI 저축 러닝메이트” - 시장경제신문",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5CSFIzbGFzOWpDTVNnMkVlLUpKVUhhbzRIb1FZYXFPalg1Q1VYY1dUZHo0TE5Sd3VxQ2Z3bFRHWWlPblpzeUlzejMwZnlIakp4RVY2UExmcng3MHZBNWk3b3hfZW93VGs2TWlkOHYxYjg?oc=5",
    "source": "시장경제신문",
@@ -2544,30 +2562,9 @@
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MOV9RRkIyQUk4VGlDQXVEY2p5SzR2MTAtY3hwZnpPSWJ3ZDNCbUowM0lHNENSTElQbnJWVXEtejkyUFRFcjc2aEEwcnlvQ09OT1hfbFgzOTF0N3c0Z3NkQXBnNDlPUklL?oc=5",
    "source": "FETV",
    "date": "2026-10-13"
-  },
-  {
-   "title": "카카오뱅크 'AI 목표적금' 출시, 저축 목표 달성하면 최고 연 5% 금리 - 비즈니스포스트",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE94cXpxakJOZk9vR2h2eVlWcUtXVHgwMVljV2xqdE02UDQxTVdQdDNuUmhPcmlRcGEzdVlzVnluZ3BMM2sxalBzRHpFaUdxQWhzdTJsWlFMSi1ySkJqSVZZUFZ4TXBJb3ZyWDk3MURRR3F3YWc?oc=5",
-   "source": "비즈니스포스트",
-   "date": "2026-10-13"
-  },
-  {
-   "title": "카카오뱅크, 금융권 최초 AI 코칭 더한 'AI 목표적금' 출시 - 미래경제",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WcjFNQTZ1SUlxdjFQWlNLdy14TzIzQmJYb21HSkNEbnRVT0tCUmZwRXJrMldVWnZlU2NxUnhYYXFGMGI5MDJrT0x3TjNIWFZMVi0zcWdzMDUydGhWQk9vZFNVd1d6aWVIb2dfWQ?oc=5",
-   "source": "미래경제",
-   "date": "2026-10-13"
-  },
-  {
-   "title": "카카오뱅크, AI가 저축 관리하는 ‘목표적금’ 출시 - 뉴스인사이드",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBycEpVLTM1QjRIZjl0eHRHUVk4MVNnNllUeldpYnFLMGZEV1Bvc3VVcUhoT0lHVFdmTXhDeFRzNi1UMWdnc1hJX1I5QUJ4dXpzaElLUjRkekFXTklSOGpZa0hPemppNFhpWjVGbkdn?oc=5",
-   "source": "뉴스인사이드",
-   "date": "2026-10-13"
   }
  ],
  "news_seen": [
-  "773045cbcb19ff9b",
-  "74d7c3e16c5e3171",
-  "9d7bba0f7e9bd154",
   "5b8e288a21116ade",
   "f9714973a161df75",
   "145e32449c8cb77b",
@@ -3364,17 +3361,37 @@
   "b6748eefeb363cbf",
   "9105466707fc887d",
   "49fac0b6303935d6",
-  "0ccbe71ed7691af6"
+  "0ccbe71ed7691af6",
+  "1ce30cde78a3c563",
+  "08cd85618e75e425",
+  "8ea55e96087dcd7e"
  ],
  "news_seeded": true,
  "news_products": [
+  {
+   "bank": "하나은행",
+   "name": "청년미래적금",
+   "norm": "청년미래적금",
+   "rate": null,
+   "first_news": "2026-10-14",
+   "count": 1,
+   "articles": [
+    {
+     "title": "하나은행, 서금원과 ‘청년미래적금’ 출시…22일부터 신청 접수 - 시사매거진",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBsbl9fd0J5UzNBVHpxZE9hdFluSEtjYU43WkxCVlFxcHBSWE1IcVREcmR4XzViUy1SZHVNSUQxb1hiMlE4eURRN0F5djdKYWdpOVN0aWEwRUU?oc=5",
+     "source": "시사매거진",
+     "date": "2026-10-14"
+    }
+   ],
+   "in_disclosure": false
+  },
   {
    "bank": "카카오뱅크",
    "name": "AI 목표적금",
    "norm": "AI목표적금",
    "rate": 5.0,
    "first_news": "2026-10-13",
-   "count": 55,
+   "count": 57,
    "articles": [
     {
      "title": "카카오뱅크, AI가 저축 관리하는 'AI 목표적금' 출시…최고 연 5%",
@@ -3901,23 +3918,6 @@
     {
      "title": "우리은행, 최고 7.5% '팀코리아 적금' 출시",
      "link": "https://www.newsis.com/view/NISX20260904_0003777136",
-     "source": "네이버뉴스",
-     "date": "2026-09-06"
-    }
-   ],
-   "in_disclosure": false
-  },
-  {
-   "bank": "우리은행",
-   "name": "최고 연 7.5% 적금",
-   "norm": "최고연7.5%적금",
-   "rate": 7.5,
-   "first_news": "2026-09-06",
-   "count": 1,
-   "articles": [
-    {
-     "title": "우리은행, 아시안게임 팀코리아 승리 기원 '최고 연 7.5% 적금' 출시",
-     "link": "https://www.getnews.co.kr/news/articleView.html?idxno=879927",
      "source": "네이버뉴스",
      "date": "2026-09-06"
     }
