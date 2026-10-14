@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-14 15:03",
+ "updated_at": "2026-10-14 20:41",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2492,6 +2492,12 @@
  ],
  "news": [
   {
+   "title": "카카오뱅크, AI 목표적금 출시... \"AI 저축 러닝메이트” - 시장경제신문",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5CSFIzbGFzOWpDTVNnMkVlLUpKVUhhbzRIb1FZYXFPalg1Q1VYY1dUZHo0TE5Sd3VxQ2Z3bFRHWWlPblpzeUlzejMwZnlIakp4RVY2UExmcng3MHZBNWk3b3hfZW93VGs2TWlkOHYxYjg?oc=5",
+   "source": "시장경제신문",
+   "date": "2026-10-13"
+  },
+  {
    "title": "카카오뱅크, AI가 저축 목표 관리하는 ‘AI 목표적금’ 출시…최고 연 5% - 직썰",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2d1ZuaUZWT3lwRnhYTUkwNUh3WUVKMHVDTFl5SnB5TkpXV2hyb21XYndfX25LUFhhcms0b2c2TXB6NHcyeEpRU211eU04WHBkU3pNWU1RQkNSaTEtWlZ3X2pNUHhTSXpUNHpBOdIBbEFVX3lxTFA2d1ZuaUZWT3lwRnhYTUkwNUh3WUVKMHVDTFl5SnB5TkpXV2hyb21XYndfX25LUFhhcms0b2c2TXB6NHcyeEpRU211eU04WHBkU3pNWU1RQkNSaTEtWlZ3X2pNUHhTSXpUNHpBOQ?oc=5",
    "source": "직썰",
@@ -2556,16 +2562,9 @@
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBycEpVLTM1QjRIZjl0eHRHUVk4MVNnNllUeldpYnFLMGZEV1Bvc3VVcUhoT0lHVFdmTXhDeFRzNi1UMWdnc1hJX1I5QUJ4dXpzaElLUjRkekFXTklSOGpZa0hPemppNFhpWjVGbkdn?oc=5",
    "source": "뉴스인사이드",
    "date": "2026-10-13"
-  },
-  {
-   "title": "저축 관리도 AI가 돕는다…카카오뱅크, 최고 연 5% AI 목표적금 출시 - 아주경제",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5UcVZVR0tWT29TV2sycTRDOE81dUFQQW1peVBEa0ZqZVFsSTRJSE1CMnVEMDdvRWtpUkdZVXpaelZEVm5rSzJnSy1KNU5mTmsxeEpwRVZQUWnSAVhBVV95cUxOVHFWVUdLVk9vU1drMnE0QzhPNXVBUEFtaXlQRGtGamVRbEk0SUhNQjJ1RDA3b0VraVJHWVV6WnpWRFZua0syZ0stSjVOZk5rMXhKcEVWUFFp?oc=5",
-   "source": "아주경제",
-   "date": "2026-10-13"
   }
  ],
  "news_seen": [
-  "c867773001eb73e8",
   "773045cbcb19ff9b",
   "74d7c3e16c5e3171",
   "9d7bba0f7e9bd154",
@@ -3364,7 +3363,8 @@
   "26841ca345115773",
   "b6748eefeb363cbf",
   "9105466707fc887d",
-  "49fac0b6303935d6"
+  "49fac0b6303935d6",
+  "0ccbe71ed7691af6"
  ],
  "news_seeded": true,
  "news_products": [
@@ -3374,7 +3374,7 @@
    "norm": "AI목표적금",
    "rate": 5.0,
    "first_news": "2026-10-13",
-   "count": 54,
+   "count": 55,
    "articles": [
     {
      "title": "카카오뱅크, AI가 저축 관리하는 'AI 목표적금' 출시…최고 연 5%",
