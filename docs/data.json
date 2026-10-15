@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15 23:51",
+ "updated_at": "2026-10-16 04:01",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2492,6 +2492,12 @@
  ],
  "news": [
   {
+   "title": "카카오뱅크, 최고 5% 'AI 코칭 목표적금' 출시 - 뉴시스",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81TkxRTzBsWVBWdFdrY2J6ZHpFU1ZqZWVRdWtJLUtRSE1OVENFbG5fT0FyeFdkSG5sSlJ5Z1BMNnFISlRkZXBiVGF4U0F5NzJQN1NSSi1MdC1weTFlcFBoVtIBeEFVX3lxTE1tS3dZWng4dHRBb2t4cHZpQjBxMEdCdVo2N3RXRVpoSDNYdGtpdlQtX29YaXNNNk4ycjZhNjAwOWNQbS04bjJLTEZWaENGMjByOS1ERl9GazBvUHlLckNyMFhidWE1SG5vZjFKYzdhTzZCbmNQWkN6Ug?oc=5",
+   "source": "뉴시스",
+   "date": "2026-10-13"
+  },
+  {
    "title": "우리銀 특판적금에 자금 몰린다 - 서울경제",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80VjZ4MlhaQk9yWV9VcEE4ek1QYjFHX3JhV1Q3QnlCV0VFZFhOLTROb3dBRWlFRHhyMEdVOTJPOUNHUndFbkNOanYxcFppaUxYYmc?oc=5",
    "source": "서울경제",
@@ -2556,16 +2562,9 @@
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZN2t3UUlHcWV1M3NqNmQ0eW1HR1NibWpiYm9QYkQzTDBOSkRoY003Y2taYUg1eDB1YkNfSlMwUnpUeTN6VlJfTlpRdEV4Z2hUQk9ObEE3N3VPejhPcEJSdS1vQ0M2dW1HT3BxVkZJdldzRHfSAXdBVV95cUxQRjZLa2ZhRk9HUlZYdnZINGlVQnh0alkxOHFNQmVBMC1sQUpPbnh2Z2FnTk1DS1dpdDhLOUt1Smt1VFhwcjd0bnFvVXloUlhGVV84UFVoWkQ1SmI3eFROUm9sYkRLS2tiZHNZazZNQlFpNGtWenAzbw?oc=5",
    "source": "뉴스프리존",
    "date": "2026-10-13"
-  },
-  {
-   "title": "카카오뱅크, AI가 저축 목표 관리하는 ‘AI 목표적금’ 출시…최고 연 5% - 직썰",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01enVwbTNRNnVUcGl4RkRUeFFFS3BuMnYxaEFFTXJRS3M0dkE2YW1yN1pFZ0k2VDJIWHRseEdLSHlDVldjNm5uaXByUzgyc2pJZXFRRXpyUEF4RHNwb0ZQZ1hJUXdJRVVD0gFsQVVfeXFMUDZ3Vm5pRlZPeXBGeFhNSTA1SHdZRUowdUNMWXlKcHlOSldXaHJvbVdid19fbktQWGFyazRvZzZNcHo0dzJ4SlFTbXV5TThYcGRTek1ZTVFCQ1JpMS1aVndfak1QeFNJelQ0ekE5?oc=5",
-   "source": "직썰",
-   "date": "2026-10-13"
   }
  ],
  "news_seen": [
-  "b1d9ee181e1856f4",
   "98c093ab786bd3eb",
   "4eda957e4fdb6824",
   "38c59c02f7131061",
@@ -3364,7 +3363,8 @@
   "dac0747d796ac3e9",
   "f02b1dd6fecb3571",
   "d3e1489b6e4fe109",
-  "3c67c6af6eb570a4"
+  "3c67c6af6eb570a4",
+  "e0040de65889ffed"
  ],
  "news_seeded": true,
  "news_products": [
@@ -3426,11 +3426,17 @@
    "norm": "AI코칭목표적금",
    "rate": 5.0,
    "first_news": "2026-10-13",
-   "count": 1,
+   "count": 2,
    "articles": [
     {
      "title": "카카오뱅크, 최고 5% 'AI 코칭 목표적금' 출시 - 뉴시스",
      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tS3dZWng4dHRBb2t4cHZpQjBxMEdCdVo2N3RXRVpoSDNYdGtpdlQtX29YaXNNNk4ycjZhNjAwOWNQbS04bjJLTEZWaENGMjByOS1ERl9GazBvUHlLckNyMFhidWE1SG5vZjFKYzdhTzZCbmNQWkN6UtIBeEFVX3lxTE1tS3dZWng4dHRBb2t4cHZpQjBxMEdCdVo2N3RXRVpoSDNYdGtpdlQtX29YaXNNNk4ycjZhNjAwOWNQbS04bjJLTEZWaENGMjByOS1ERl9GazBvUHlLckNyMFhidWE1SG5vZjFKYzdhTzZCbmNQWkN6Ug?oc=5",
+     "source": "뉴시스",
+     "date": "2026-10-13"
+    },
+    {
+     "title": "카카오뱅크, 최고 5% 'AI 코칭 목표적금' 출시 - 뉴시스",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81TkxRTzBsWVBWdFdrY2J6ZHpFU1ZqZWVRdWtJLUtRSE1OVENFbG5fT0FyeFdkSG5sSlJ5Z1BMNnFISlRkZXBiVGF4U0F5NzJQN1NSSi1MdC1weTFlcFBoVtIBeEFVX3lxTE1tS3dZWng4dHRBb2t4cHZpQjBxMEdCdVo2N3RXRVpoSDNYdGtpdlQtX29YaXNNNk4ycjZhNjAwOWNQbS04bjJLTEZWaENGMjByOS1ERl9GazBvUHlLckNyMFhidWE1SG5vZjFKYzdhTzZCbmNQWkN6Ug?oc=5",
      "source": "뉴시스",
      "date": "2026-10-13"
     }
