@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-17 20:32",
+ "updated_at": "2026-10-18 00:25",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2492,6 +2492,18 @@
  ],
  "news": [
   {
+   "title": "우리금융, 8개 계열사 통합 금융행사…최고 연 9% 적금 출시 - 웹이코노미",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5PRWtwbzVYYWtxV0tEWlJRUjdhU1Rjay1XRnZqRmo3ZXA0eGtlcmFoaDRVNmNhdmEzLTZKeUdLOGFyeDVQeklBZFRjSUdndURVZTRIWTBWdlVCQVpNT09uMFV0Si1VMEluTWNxbFlRTWxkdw?oc=5",
+   "source": "웹이코노미",
+   "date": "2026-10-17"
+  },
+  {
+   "title": "우리금융, 8개 계열사 통합 금융행사…최고 연 9% 적금 출시",
+   "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2337471",
+   "source": "네이버뉴스",
+   "date": "2026-10-17"
+  },
+  {
    "title": "카카오뱅크, AI가 저축 코치해주는 적금 출시…최대 연 5% - 머니투데이 - 머니투데이",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBXdmQ5TDBPcHpmcXFUS25OdTI1Y1VjQ1VUbkc3eFgzb19sQTNfeVpWQUhRNjRqSndzQ3hzbHdxSGJPYnY5QldZUW5uRFN5MkY3anJuX0NwQ2t2S2FmMVNnLW5McFhyYmxVZjUxX0o4R28xRVZEQzdpX9IBfkFVX3lxTE5jX0QwU296aVZUV1Y4WXBNWjNwY1BMc0ltS1VsclQzamhPb3YyLUZZaDV3Q0gxb2ZjbDRuRDdMaERiUVRFb1I1VlBkMTV0X2ViQ2N4eEdPcHYzQkVFNXJJVUhWbThaNHhobHZFeDZ0TG1Vb3oyTEZIdWQ4Zm9oZw?oc=5",
    "source": "머니투데이",
@@ -2550,23 +2562,9 @@
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1eU9EOGpvWHFBM01HVXlZUUswZnZKUnJNdlpTRVdKdHdULUlSREhGY3M5M0hsV2I0aDFfUGk4bDI5Y3BXS1c2OWxDU3YtZjhnamE4dnpVRDlMc25OV3NkRmZLMjRUUlVlOXFn?oc=5",
    "source": "비즈월드",
    "date": "2026-10-13"
-  },
-  {
-   "title": "카카오뱅크, AI 목표적금 출시... \"AI 저축 러닝메이트” - 시장경제신문",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5CSFIzbGFzOWpDTVNnMkVlLUpKVUhhbzRIb1FZYXFPalg1Q1VYY1dUZHo0TE5Sd3VxQ2Z3bFRHWWlPblpzeUlzejMwZnlIakp4RVY2UExmcng3MHZBNWk3b3hfZW93VGs2TWlkOHYxYjg?oc=5",
-   "source": "시장경제신문",
-   "date": "2026-10-13"
-  },
-  {
-   "title": "카카오뱅크, AI가 저축 목표 관리하는 ‘AI 목표적금’ 출시…최고 연 5% - 직썰",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2d1ZuaUZWT3lwRnhYTUkwNUh3WUVKMHVDTFl5SnB5TkpXV2hyb21XYndfX25LUFhhcms0b2c2TXB6NHcyeEpRU211eU04WHBkU3pNWU1RQkNSaTEtWlZ3X2pNUHhTSXpUNHpBOdIBbEFVX3lxTFA2d1ZuaUZWT3lwRnhYTUkwNUh3WUVKMHVDTFl5SnB5TkpXV2hyb21XYndfX25LUFhhcms0b2c2TXB6NHcyeEpRU211eU04WHBkU3pNWU1RQkNSaTEtWlZ3X2pNUHhTSXpUNHpBOQ?oc=5",
-   "source": "직썰",
-   "date": "2026-10-13"
   }
  ],
  "news_seen": [
-  "4eda957e4fdb6824",
-  "38c59c02f7131061",
   "795648cb95273d72",
   "5a2cb7aa2e8c2804",
   "44ffe09ef9fef4aa",
@@ -3364,7 +3362,9 @@
   "d3e1489b6e4fe109",
   "3c67c6af6eb570a4",
   "e0040de65889ffed",
-  "272bc46c81b7334f"
+  "272bc46c81b7334f",
+  "236adc59248b6689",
+  "891939fb427aead8"
  ],
  "news_seeded": true,
  "news_products": [
