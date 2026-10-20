@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20 13:36",
+ "updated_at": "2026-10-20 18:56",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2492,6 +2492,12 @@
  ],
  "news": [
   {
+   "title": "제주은행, '제주 상생포용적금' 출시... 도민 목돈 마련 촉진",
+   "link": "http://www.newslock.co.kr/news/articleView.html?idxno=138295",
+   "source": "네이버뉴스",
+   "date": "2026-10-20"
+  },
+  {
    "title": "제주은행, '연 7%+납입액 지원' 제주 상생포용적금 출시 - 헤드라인제주",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE80WS1tSUVqeW01YjVHQlE0TVFwMTRkeFI3ekV3bVdLOXdBNDl2R2tzR2RSUW5PR2NqdkxZZDdIYzUwbzlMUWFQVnU4dEgtaVZ1Y2JpWVhzNjI1V0E4OHY3NEJMejc3Um9NRm5MVjNsaW0wODQ?oc=5",
    "source": "헤드라인제주",
@@ -2556,16 +2562,9 @@
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBXdmQ5TDBPcHpmcXFUS25OdTI1Y1VjQ1VUbkc3eFgzb19sQTNfeVpWQUhRNjRqSndzQ3hzbHdxSGJPYnY5QldZUW5uRFN5MkY3anJuX0NwQ2t2S2FmMVNnLW5McFhyYmxVZjUxX0o4R28xRVZEQzdpX9IBfkFVX3lxTE5jX0QwU296aVZUV1Y4WXBNWjNwY1BMc0ltS1VsclQzamhPb3YyLUZZaDV3Q0gxb2ZjbDRuRDdMaERiUVRFb1I1VlBkMTV0X2ViQ2N4eEdPcHYzQkVFNXJJVUhWbThaNHhobHZFeDZ0TG1Vb3oyTEZIdWQ4Zm9oZw?oc=5",
    "source": "머니투데이",
    "date": "2026-10-13"
-  },
-  {
-   "title": "카카오뱅크, 최고 5% 'AI 코칭 목표적금' 출시 - 뉴시스",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81TkxRTzBsWVBWdFdrY2J6ZHpFU1ZqZWVRdWtJLUtRSE1OVENFbG5fT0FyeFdkSG5sSlJ5Z1BMNnFISlRkZXBiVGF4U0F5NzJQN1NSSi1MdC1weTFlcFBoVtIBeEFVX3lxTE1tS3dZWng4dHRBb2t4cHZpQjBxMEdCdVo2N3RXRVpoSDNYdGtpdlQtX29YaXNNNk4ycjZhNjAwOWNQbS04bjJLTEZWaENGMjByOS1ERl9GazBvUHlLckNyMFhidWE1SG5vZjFKYzdhTzZCbmNQWkN6Ug?oc=5",
-   "source": "뉴시스",
-   "date": "2026-10-13"
   }
  ],
  "news_seen": [
-  "4efb2172b831d313",
   "682e1db353a9c49e",
   "96294467a1c2f22f",
   "dd0db2d6912bcc69",
@@ -3364,7 +3363,8 @@
   "5ab3693a7c36ef02",
   "44d45cf8175392fe",
   "bf752133c32a19f8",
-  "23147b8f0c0b7ca5"
+  "23147b8f0c0b7ca5",
+  "e5097b1fc5a67950"
  ],
  "news_seeded": true,
  "news_products": [
@@ -3374,7 +3374,7 @@
    "norm": "상생포용적금",
    "rate": 7.0,
    "first_news": "2026-10-20",
-   "count": 6,
+   "count": 7,
    "articles": [
     {
      "title": "제주은행, '연 7%+납입액 지원' 제주 상생포용적금 출시 - 헤드라인제주",
