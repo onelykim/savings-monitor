@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20 23:55",
+ "updated_at": "2026-10-21 04:07",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2492,6 +2492,12 @@
  ],
  "news": [
   {
+   "title": "1.1.1. 제주은행, ‘제주 상생포용적금’ 출시 - 일간제주",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YTElnVHFNWkszdC1VLTA0ZU1DZ1ZYVFVrNGhwczdvdEExWjVja1NmMWIxblJCbDVvbXFUcy1iX1Y5dUZWLUQ5cFA5cnNrd1U4SHdwWXYwNWRFcF84MVBPT2c5R1ZtZUMtenAw?oc=5",
+   "source": "일간제주",
+   "date": "2026-10-20"
+  },
+  {
    "title": "제주은행, '제주 상생포용적금' 출시... 도민 목돈 마련 촉진",
    "link": "http://www.newslock.co.kr/news/articleView.html?idxno=138295",
    "source": "네이버뉴스",
@@ -2556,16 +2562,9 @@
    "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2337471",
    "source": "네이버뉴스",
    "date": "2026-10-17"
-  },
-  {
-   "title": "카카오뱅크, AI가 저축 코치해주는 적금 출시…최대 연 5% - 머니투데이 - 머니투데이",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBXdmQ5TDBPcHpmcXFUS25OdTI1Y1VjQ1VUbkc3eFgzb19sQTNfeVpWQUhRNjRqSndzQ3hzbHdxSGJPYnY5QldZUW5uRFN5MkY3anJuX0NwQ2t2S2FmMVNnLW5McFhyYmxVZjUxX0o4R28xRVZEQzdpX9IBfkFVX3lxTE5jX0QwU296aVZUV1Y4WXBNWjNwY1BMc0ltS1VsclQzamhPb3YyLUZZaDV3Q0gxb2ZjbDRuRDdMaERiUVRFb1I1VlBkMTV0X2ViQ2N4eEdPcHYzQkVFNXJJVUhWbThaNHhobHZFeDZ0TG1Vb3oyTEZIdWQ4Zm9oZw?oc=5",
-   "source": "머니투데이",
-   "date": "2026-10-13"
   }
  ],
  "news_seen": [
-  "682e1db353a9c49e",
   "96294467a1c2f22f",
   "dd0db2d6912bcc69",
   "cdfbc0365bbeb7ef",
@@ -3364,7 +3363,8 @@
   "44d45cf8175392fe",
   "bf752133c32a19f8",
   "23147b8f0c0b7ca5",
-  "e5097b1fc5a67950"
+  "e5097b1fc5a67950",
+  "e4fbc076f37d27d2"
  ],
  "news_seeded": true,
  "news_products": [
@@ -3374,7 +3374,7 @@
    "norm": "상생포용적금",
    "rate": 7.0,
    "first_news": "2026-10-20",
-   "count": 7,
+   "count": 8,
    "articles": [
     {
      "title": "제주은행, '연 7%+납입액 지원' 제주 상생포용적금 출시 - 헤드라인제주",
