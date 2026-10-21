@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21 16:26",
+ "updated_at": "2026-10-21 22:40",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2389,8 +2389,7 @@
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B1%85%ED%81%AC%20%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B1%85%ED%81%AC%20AI%20%EB%AA%A9%ED%91%9C%EC%A0%81%EA%B8%88",
    "first_seen": "2026-10-21",
-   "is_baseline": false,
-   "analysis": "은행권 60개 적금 중 최고우대금리 11위 (상위 18%). 기본 3.00% + 우대 2.00%p → 우대폭이 커서 조건 확인이 중요. 가입대상 제한: 만 14세 이상의 실명의 내국인"
+   "is_baseline": false
   },
   {
    "key": "0017801|1001303001003",
