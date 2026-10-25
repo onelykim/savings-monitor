@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-25 14:54",
+ "updated_at": "2026-10-26 00:59",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2534,6 +2534,18 @@
  ],
  "news": [
   {
+   "title": "OK저축은행, 최고 연 15% 단기 적금 ‘마이펫적금’ 출시 - 핀포인트뉴스",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9McC15V05LTjRxNmNNZTZjU0RCWlNDMm1FeEhFWm1YNUV4cTdNXzY0VmRyVXhNb2dVbDhLUG52ZzJPc1lhM3ptODJkbmtleXRyWllWRUVROUt1MHFkVF9HNi1hTjNSY05iSzM4M1ZvTXg0TTDSAXdBVV95cUxQQTNtWUpFRVJDc19pRHhwS1Juc1RFcmhVZ2ZWYVVDdERYSnNvSGpxMUxoQklFTWhtZ3ozSnVKYlBHcHN6Z1hJUExPaVV0bTZyV2w2M0xrSVhwXzZsc1pNLWFVcVhmNEtpckxERXNwYkJMNjBCaG51WQ?oc=5",
+   "source": "핀포인트뉴스",
+   "date": "2026-10-23"
+  },
+  {
+   "title": "OK저축은행, 최고 연 15% '마이펫적금' 출시 - 증권경제신문",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBqY3hLSmF4LUtTanBMN01hRmlNc2JMRmYzbTR6NlBEcFFZUkVCNmV0Sm80NEVwZlhoVC1KTkhXeDdISnRvMVRJTnpYdkNqclBhYWVNaF93WmNlREhwV0ZIckhzZVZHeld1VGpyX2tfWFkxZ9IBdkFVX3lxTE5sU2NROW9jRzhFal9kcE5nUEtiWDgxT0JsMmhpR1ZZU1dMS2xhbksxdmdObE0wU204cHZYam1ESTZjV3BDYnE4eUNMaDhtOFVncWxxYVV3SzhrNkxIMTdGRUVpVERBd00ybEIyRWg1Q3U5MUFoX0E?oc=5",
+   "source": "증권경제신문",
+   "date": "2026-10-23"
+  },
+  {
    "title": "OK저축은행, 33일 만기 단기 적금 'OK마이펫' 출시...최고 연 15% 금리 - 아시아에이",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrN0F2U0FiUTltTHlSZ0JLMjFQYTFEWWVBeVJGcV93MUswa3JLcUxubFJra2ZsZGtvUExtSXpmV2djVDlaTThCZG82d3U3c0xzcThQWFVQMDVObWFnUTY4WVMwYUNDX2VxMGfSAW5BVV95cUxQVWlHMHlwcE1GRmUtRndRckVEQVY4azZHTHozMER4bXA0RmZ5WGEyQXA5RFNFT05iNzdUV3NkX2ltZ1VvWGx2ZUsyRHNjRmpFa3oxb0NpbG5HcWdBMm9nbWIzcEhRYlpGZzhYZWZoUQ?oc=5",
    "source": "아시아에이",
@@ -2592,23 +2604,9 @@
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5OekhKZVdnTU9CZFVkclN1bkhoNDhvUzVHUXFyaG4wTG85ZTRDbTFvbnhLZEx6S1g2Q3drOFptSVJmbzU3SWY3Rkwtd0xQMFJ5WXB5dk5wdkdSNWo4S0dabm5rUE5Sb1p3UHRpYThR?oc=5",
    "source": "일요경제",
    "date": "2026-10-23"
-  },
-  {
-   "title": "OK저축은행, 반려동물 콘셉트 'OK마이펫적금' 출시…최고 연 15% 금리 - 뉴스티앤티",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WSnVZMkk1M3gtRnB2b0hVVV9jeWpfNklmTlVYV1ZEcjdGUW5Oc0lFQnpCQXRLVG5aTkNLUll4VGR6d1l4d01WY2hnb0RIZnVXVXl3RUVheFh6bTRlT29PNkhLeFQ0R3JLX2c?oc=5",
-   "source": "뉴스티앤티",
-   "date": "2026-10-24"
-  },
-  {
-   "title": "OK저축은행, 반려동물 콘셉트 'OK마이펫적금' 출시…최고 연 15% 금리",
-   "link": "https://www.newstnt.com/news/articleView.html?idxno=724703",
-   "source": "네이버뉴스",
-   "date": "2026-10-24"
   }
  ],
  "news_seen": [
-  "a061bf92d545f302",
-  "1fdf7f9c48862a1f",
   "9bfcbfa0cbcfd04c",
   "6721466fa6b27ca5",
   "b517702d42266f12",
@@ -3406,7 +3404,9 @@
   "1dc0180c62d30ce2",
   "2b064a111097ce36",
   "c0f4bbf1d57335bd",
-  "c2ce443c49b13465"
+  "c2ce443c49b13465",
+  "e4616c05ba7c91f7",
+  "131a50c03d993679"
  ],
  "news_seeded": true,
  "news_products": [
