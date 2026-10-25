@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-25 10:02",
+ "updated_at": "2026-10-25 14:54",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2534,6 +2534,12 @@
  ],
  "news": [
   {
+   "title": "OK저축은행, 33일 만기 단기 적금 'OK마이펫' 출시...최고 연 15% 금리 - 아시아에이",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrN0F2U0FiUTltTHlSZ0JLMjFQYTFEWWVBeVJGcV93MUswa3JLcUxubFJra2ZsZGtvUExtSXpmV2djVDlaTThCZG82d3U3c0xzcThQWFVQMDVObWFnUTY4WVMwYUNDX2VxMGfSAW5BVV95cUxQVWlHMHlwcE1GRmUtRndRckVEQVY4azZHTHozMER4bXA0RmZ5WGEyQXA5RFNFT05iNzdUV3NkX2ltZ1VvWGx2ZUsyRHNjRmpFa3oxb0NpbG5HcWdBMm9nbWIzcEhRYlpGZzhYZWZoUQ?oc=5",
+   "source": "아시아에이",
+   "date": "2026-10-25"
+  },
+  {
    "title": "OK저축은행, 33일 만기 단기 적금 'OK마이펫' 출시...최고 연 15% 금리",
    "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=267536",
    "source": "네이버뉴스",
@@ -2598,16 +2604,9 @@
    "link": "https://www.newstnt.com/news/articleView.html?idxno=724703",
    "source": "네이버뉴스",
    "date": "2026-10-24"
-  },
-  {
-   "title": "OK저축은행, 최고 연 15% 'OK마이펫적금' 출시…33일 만기 소액 적금 - 팝콘뉴스",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1EdXhpLXVETDNXSkRpWXN1a0tGNENCNlRtWFFfVE11VlF3cURwUVc2TGpOZ05PWVI3ZjRaeTdyQkdOdnpZbUZOaXJwbkt2TkVIVWh3bFotOVRVd3VMZzd0Wk1NVjdPTUo5elpXb3RxNTJ6d9IBckFVX3lxTE1EdXhpLXVETDNXSkRpWXN1a0tGNENCNlRtWFFfVE11VlF3cURwUVc2TGpOZ05PWVI3ZjRaeTdyQkdOdnpZbUZOaXJwbkt2TkVIVWh3bFotOVRVd3VMZzd0Wk1NVjdPTUo5elpXb3RxNTJ6dw?oc=5",
-   "source": "팝콘뉴스",
-   "date": "2026-10-23"
   }
  ],
  "news_seen": [
-  "3b6c412f05d82a9b",
   "a061bf92d545f302",
   "1fdf7f9c48862a1f",
   "9bfcbfa0cbcfd04c",
@@ -3406,7 +3405,8 @@
   "adbf9c66fad6a188",
   "1dc0180c62d30ce2",
   "2b064a111097ce36",
-  "c0f4bbf1d57335bd"
+  "c0f4bbf1d57335bd",
+  "c2ce443c49b13465"
  ],
  "news_seeded": true,
  "news_products": [
