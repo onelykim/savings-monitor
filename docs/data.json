@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27 10:58",
+ "updated_at": "2026-10-27 16:39",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2436,22 +2436,22 @@
      "save_trm": 3,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 1.3,
-     "intr_rate2": 1.8
+     "intr_rate": 2.6,
+     "intr_rate2": 3.1
     },
     {
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 1.8,
-     "intr_rate2": 2.3
+     "intr_rate": 2.9,
+     "intr_rate2": 3.4
     },
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 2.5,
-     "intr_rate2": 3.0
+     "intr_rate": 3.25,
+     "intr_rate2": 3.75
     },
     {
      "save_trm": 24,
@@ -2468,8 +2468,8 @@
      "intr_rate2": 3.0
     }
    ],
-   "best_rate": 3.0,
-   "best_base_rate": 2.5,
+   "best_rate": 3.75,
+   "best_base_rate": 3.25,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC%20%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC%20%EC%9E%90%EC%9C%A0%20%EC%A0%81%EA%B8%88",
    "first_seen": "2026-07-10",
@@ -2533,6 +2533,12 @@
   }
  ],
  "news": [
+  {
+   "title": "새진해새마을금고, 몽골 여행 인기 이어 ‘해외여행적금’ 출시…월 15만원으로 여행 준비 - 코리아이글뉴스",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Gd2hKekpzcGxuVjVhRE83bzJrQldWeGFPdlQ2VjJGcjdxT21FWU1lUms3TmluQWJGWWlCYl8zY2ExQ3l6MzkzZ1c0U3FaUXdPYk1QRHVmcG5pM1JvNW1fWENDTFVPbE1OcmxIU0RrREVETGc?oc=5",
+   "source": "코리아이글뉴스",
+   "date": "2026-10-27"
+  },
   {
    "title": "예가람저축은행, 핑크스파이더스 성적 따라 금리↑⋯최고 연 15% 적금 출시 - 이투데이",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9CTEdtaE1nNE45MXVmZGJNM250NXd2NEUxUmRNMGthREJ6NzE3dlotaTJUcHUwRDlJb1BjVURRTHBYVVZjbG1uaU5tTWpsQ3lqZy1lRjc0Mk95dkJtMERCeUNrdURQdjJJSTdheGJBWHNxWHVR?oc=5",
@@ -2598,16 +2604,9 @@
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9McC15V05LTjRxNmNNZTZjU0RCWlNDMm1FeEhFWm1YNUV4cTdNXzY0VmRyVXhNb2dVbDhLUG52ZzJPc1lhM3ptODJkbmtleXRyWllWRUVROUt1MHFkVF9HNi1hTjNSY05iSzM4M1ZvTXg0TTDSAXdBVV95cUxQQTNtWUpFRVJDc19pRHhwS1Juc1RFcmhVZ2ZWYVVDdERYSnNvSGpxMUxoQklFTWhtZ3ozSnVKYlBHcHN6Z1hJUExPaVV0bTZyV2w2M0xrSVhwXzZsc1pNLWFVcVhmNEtpckxERXNwYkJMNjBCaG51WQ?oc=5",
    "source": "핀포인트뉴스",
    "date": "2026-10-23"
-  },
-  {
-   "title": "OK저축은행, 최고 연 15% '마이펫적금' 출시 - 증권경제신문",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBqY3hLSmF4LUtTanBMN01hRmlNc2JMRmYzbTR6NlBEcFFZUkVCNmV0Sm80NEVwZlhoVC1KTkhXeDdISnRvMVRJTnpYdkNqclBhYWVNaF93WmNlREhwV0ZIckhzZVZHeld1VGpyX2tfWFkxZ9IBdkFVX3lxTE5sU2NROW9jRzhFal9kcE5nUEtiWDgxT0JsMmhpR1ZZU1dMS2xhbksxdmdObE0wU204cHZYam1ESTZjV3BDYnE4eUNMaDhtOFVncWxxYVV3SzhrNkxIMTdGRUVpVERBd00ybEIyRWg1Q3U5MUFoX0E?oc=5",
-   "source": "증권경제신문",
-   "date": "2026-10-23"
   }
  ],
  "news_seen": [
-  "eb58472b69ef8b75",
   "9994532c652b589e",
   "b5644d0ec7e074cb",
   "2f4c1d62f8a31f98",
@@ -3406,7 +3405,8 @@
   "78b051a7af389911",
   "f2cec358d4ce4583",
   "6a52cef59a77f05b",
-  "d0fde9881c4cabfb"
+  "d0fde9881c4cabfb",
+  "bb22b54f6757f388"
  ],
  "news_seeded": true,
  "news_products": [
