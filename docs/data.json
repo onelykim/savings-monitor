@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27 16:39",
+ "updated_at": "2026-10-27 23:20",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2534,6 +2534,18 @@
  ],
  "news": [
   {
+   "title": "\"연 26% 적금 나왔어요\" 몸부림 치는 저축은행, 불붙은 '고금리 적금' 특판 - 나남뉴스",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1acG5uRlp0X2UyWVVMY3c2UTlOSzkwbUNVVlJ1dU83Si13Q2pEMUt1bHNxSnZidmFuX24xNW1hbjVBWkFrS2dFSjRwcHNINGVPRHI2WW9YMEZlRDVhU2czQW9udmhtMXVmMFNGMQ?oc=5",
+   "source": "나남뉴스",
+   "date": "2026-10-27"
+  },
+  {
+   "title": "예가람저축은행, 핑크스파이더스 성적 따라 금리↑⋯최고 연 15% 적금 출시 - 이투데이",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uZjhYdndhRnFyUUprLXlncTlQYk43V2stS19ZYW16dXhWSnk0eS1zeWxSWHNrbWtkdWRRbi1SNk5qY0ZHVmx6UENteFlfUGJOeGRaSw?oc=5",
+   "source": "이투데이",
+   "date": "2026-10-26"
+  },
+  {
    "title": "새진해새마을금고, 몽골 여행 인기 이어 ‘해외여행적금’ 출시…월 15만원으로 여행 준비 - 코리아이글뉴스",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Gd2hKekpzcGxuVjVhRE83bzJrQldWeGFPdlQ2VjJGcjdxT21FWU1lUms3TmluQWJGWWlCYl8zY2ExQ3l6MzkzZ1c0U3FaUXdPYk1QRHVmcG5pM1JvNW1fWENDTFVPbE1OcmxIU0RrREVETGc?oc=5",
    "source": "코리아이글뉴스",
@@ -2592,23 +2604,9 @@
    "link": "https://www.newsis.com/view/NISX20261026_0003840615",
    "source": "네이버뉴스",
    "date": "2026-10-26"
-  },
-  {
-   "title": "OK저축은행, 최고 연 15% ‘OK마이펫적금’ 출시 [코주부] - 서울경제",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jVWNJN0pqM3JyWjdVYkw5N0FLLTUtTHVGOWZ5NFQyYnFwc0k5bU40ejhFMVhieFdDV25rTVljOGFIalRXdUdGanlQZzhkY014TXc?oc=5",
-   "source": "서울경제",
-   "date": "2026-10-23"
-  },
-  {
-   "title": "OK저축은행, 최고 연 15% 단기 적금 ‘마이펫적금’ 출시 - 핀포인트뉴스",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9McC15V05LTjRxNmNNZTZjU0RCWlNDMm1FeEhFWm1YNUV4cTdNXzY0VmRyVXhNb2dVbDhLUG52ZzJPc1lhM3ptODJkbmtleXRyWllWRUVROUt1MHFkVF9HNi1hTjNSY05iSzM4M1ZvTXg0TTDSAXdBVV95cUxQQTNtWUpFRVJDc19pRHhwS1Juc1RFcmhVZ2ZWYVVDdERYSnNvSGpxMUxoQklFTWhtZ3ozSnVKYlBHcHN6Z1hJUExPaVV0bTZyV2w2M0xrSVhwXzZsc1pNLWFVcVhmNEtpckxERXNwYkJMNjBCaG51WQ?oc=5",
-   "source": "핀포인트뉴스",
-   "date": "2026-10-23"
   }
  ],
  "news_seen": [
-  "9994532c652b589e",
-  "b5644d0ec7e074cb",
   "2f4c1d62f8a31f98",
   "01acda83a934059d",
   "73380d7d2a7c787a",
@@ -3406,7 +3404,9 @@
   "f2cec358d4ce4583",
   "6a52cef59a77f05b",
   "d0fde9881c4cabfb",
-  "bb22b54f6757f388"
+  "bb22b54f6757f388",
+  "34b69bbdd13b72d1",
+  "d76d29344aecb3c6"
  ],
  "news_seeded": true,
  "news_products": [
