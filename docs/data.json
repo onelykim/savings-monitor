@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28 14:23",
+ "updated_at": "2026-10-28 21:39",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2534,6 +2534,12 @@
  ],
  "news": [
   {
+   "title": "예가람저축은행, 최고 15% '핑크스파이더스 V6 적금' 출시 - 뉴시스",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5IQldyaE43Ym9uVDJGcVE1NFBIbW1TaTBOeW00alBjbGtlQjdPLUNiZ0RYVFlPMXZEb3RyRy1ORnUwVzBZUWhaWkxndjJjU1RxNlVvbVA0VlNqZFdxZXlCbUVZenBmTXh2V2xJeERnN051QUc2ek5NQdIBeEFVX3lxTE5IQldyaE43Ym9uVDJGcVE1NFBIbW1TaTBOeW00alBjbGtlQjdPLUNiZ0RYVFlPMXZEb3RyRy1ORnUwVzBZUWhaWkxndjJjU1RxNlVvbVA0VlNqZFdxZXlCbUVZenBmTXh2V2xJeERnN051QUc2ek5NQQ?oc=5",
+   "source": "뉴시스",
+   "date": "2026-10-26"
+  },
+  {
    "title": "\"연 26% 적금 나왔어요\" 몸부림 치는 저축은행, 불붙은 '고금리 적금' 특판 | - www.nanamcom.co.kr",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2WUxaLVhGM2RNb1lQeTd0Q0JBT0FpM1g3djRqdWlGMktpTHdlZWZYUzB2U3NTbjNmUjBkRFJELVdEZEFvTnFuNG9FSkh2Qmlhcll5TDZRa0lUWnJsczgtRGgwYzBlNzBaaElfM1FCWVE?oc=5",
    "source": "www.nanamcom.co.kr",
@@ -2598,16 +2604,9 @@
    "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=91826",
    "source": "네이버뉴스",
    "date": "2026-10-26"
-  },
-  {
-   "title": "[게시판] 예가람저축은행 '핑크스파이더스 V6 적금' 출시",
-   "link": "https://www.yna.co.kr/view/AKR20261026044700002?input=1195m",
-   "source": "네이버뉴스",
-   "date": "2026-10-26"
   }
  ],
  "news_seen": [
-  "01acda83a934059d",
   "73380d7d2a7c787a",
   "24eca27fab336e5f",
   "d258af76dc2c332d",
@@ -3406,7 +3405,8 @@
   "bb22b54f6757f388",
   "34b69bbdd13b72d1",
   "d76d29344aecb3c6",
-  "7bbe6a978b1e5eb9"
+  "7bbe6a978b1e5eb9",
+  "fce990f33de54679"
  ],
  "news_seeded": true,
  "news_products": [
