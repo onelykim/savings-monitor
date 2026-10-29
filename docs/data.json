@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29 08:05",
+ "updated_at": "2026-10-29 11:21",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2534,6 +2534,12 @@
  ],
  "news": [
   {
+   "title": "Sh수협은행, ‘Sh해양플라스틱Zero!예·적금’ 등 해양특화 상품 2종 리뉴얼 출시 - 어업in수산",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpY0FPdTlGSU5YLWJja2pLUUJHa191c2t6WUpjSXozdlBpN3RxdVFFcEhRTjhWXzR1ZVNPVVIxUDJHNm55bTU1ZEZwR3hNQTZ3eWZBeFZCRWtIUDhTdTRPTGFSd19ESUp4T3FIdW9fMA?oc=5",
+   "source": "어업in수산",
+   "date": "2026-10-29"
+  },
+  {
    "title": "예가람저축은행, 최고 15% '핑크스파이더스 V6 적금' 출시 - 뉴시스",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5IQldyaE43Ym9uVDJGcVE1NFBIbW1TaTBOeW00alBjbGtlQjdPLUNiZ0RYVFlPMXZEb3RyRy1ORnUwVzBZUWhaWkxndjJjU1RxNlVvbVA0VlNqZFdxZXlCbUVZenBmTXh2V2xJeERnN051QUc2ek5NQdIBeEFVX3lxTE5IQldyaE43Ym9uVDJGcVE1NFBIbW1TaTBOeW00alBjbGtlQjdPLUNiZ0RYVFlPMXZEb3RyRy1ORnUwVzBZUWhaWkxndjJjU1RxNlVvbVA0VlNqZFdxZXlCbUVZenBmTXh2V2xJeERnN051QUc2ek5NQQ?oc=5",
    "source": "뉴시스",
@@ -2598,16 +2604,9 @@
    "link": "https://www.fetv.co.kr/news/articleView.html?idxno=312416",
    "source": "네이버뉴스",
    "date": "2026-10-26"
-  },
-  {
-   "title": "\"우승하면 최고 연 15%\"…예가람저축은행, '핑크스파이더스 V6 적금' 출시",
-   "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=91826",
-   "source": "네이버뉴스",
-   "date": "2026-10-26"
   }
  ],
  "news_seen": [
-  "73380d7d2a7c787a",
   "24eca27fab336e5f",
   "d258af76dc2c332d",
   "158f67bb92fd870a",
@@ -3406,10 +3405,28 @@
   "34b69bbdd13b72d1",
   "d76d29344aecb3c6",
   "7bbe6a978b1e5eb9",
-  "fce990f33de54679"
+  "fce990f33de54679",
+  "cf413df9453c1415"
  ],
  "news_seeded": true,
  "news_products": [
+  {
+   "bank": "수협은행",
+   "name": "Sh해양플라스틱Zero!예·적금",
+   "norm": "Sh해양플라스틱Zero!예·적금",
+   "rate": null,
+   "first_news": "2026-10-29",
+   "count": 1,
+   "articles": [
+    {
+     "title": "Sh수협은행, ‘Sh해양플라스틱Zero!예·적금’ 등 해양특화 상품 2종 리뉴얼 출시 - 어업in수산",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpY0FPdTlGSU5YLWJja2pLUUJHa191c2t6WUpjSXozdlBpN3RxdVFFcEhRTjhWXzR1ZVNPVVIxUDJHNm55bTU1ZEZwR3hNQTZ3eWZBeFZCRWtIUDhTdTRPTGFSd19ESUp4T3FIdW9fMA?oc=5",
+     "source": "어업in수산",
+     "date": "2026-10-29"
+    }
+   ],
+   "in_disclosure": false
+  },
   {
    "bank": "제주은행",
    "name": "상생포용적금",
@@ -3944,29 +3961,6 @@
      "title": "카카오뱅크, '한달적금 with MMA2026' 출시…초대권 1000장 제공 - PRESS9",
      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBSM21vTFNDOHU1M3BnSlNKNEtNSXJqU1dCUjJsYy1wdkFyR1hRZFVIdzRSTGpuTDVwTTY4MDBiLVc3alN0bDYyMGxnWGJIZ2xKQmNFMXp5NEJaSmpYSjF6WTkyZDRVQQ?oc=5",
      "source": "PRESS9",
-     "date": "2026-09-07"
-    }
-   ],
-   "in_disclosure": false
-  },
-  {
-   "bank": "카카오뱅크",
-   "name": "한달적금 위드 MMA2026",
-   "norm": "한달적금위드MMA2026",
-   "rate": null,
-   "first_news": "2026-09-07",
-   "count": 2,
-   "articles": [
-    {
-     "title": "매일 납입하면 MMA 티켓이…카카오뱅크, ‘한달적금 위드 MMA2026’ 출시",
-     "link": "https://www.mk.co.kr/article/12146206",
-     "source": "네이버뉴스",
-     "date": "2026-09-07"
-    },
-    {
-     "title": "매일 납입하면 MMA 티켓이…카카오뱅크, ‘한달적금 위드 MMA2026’ 출시 - 매일경제",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WOHVkQXg0ZUhFbGR0cnlrN0NHd0IzMnNWQ0Riem5DdTgyM1pTYXRTYkhaajVWMlAtcWRVMjU5V2FqRU5vcGVqa2FfQWExMFJycnFsSw?oc=5",
-     "source": "매일경제",
      "date": "2026-09-07"
     }
    ],
