@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-30 06:43",
+ "updated_at": "2026-10-30 10:50",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2534,138 +2534,79 @@
  ],
  "news": [
   {
-   "title": "BNK경남은행, 포춘쿠키 뽑으면 최고 연 11%...BNK 포춘 적금 출시 - 파이낸셜투데이",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00cjBNRGVrejZ3RGFyYTBVVVUwMzQ1a0lKREx0RXI0VjZZUTRJSUpjNUFpQTRPQ0dJRTNtV2p6VHJLR0NKZ1haZlZ1VWdobUJJRXZOWUhCN1VYaG9SdVpnS3VqXy1OQUU0MFHSAW5BVV95cUxPblY4SHFTRUZKekZ5VGkyNTRzeGV3MUE1aVJvcDZWZUlfT3V3ZzNLdmNXRjE0ZWhLRG5WOHJZVGQ1cnN5eEpBV1ozNzVXZ1pDd1dobjRyaC1TbzQwTFhmQTRzUWx1XzdyMWhTNHlndw?oc=5",
-   "source": "파이낸셜투데이",
-   "date": "2026-10-29"
+   "title": "하나은행 ‘날아라 태권브이 적금’ 출시…최고 연 5.0% 금리 - 디지털데일리",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DT1oya0JpM0Z4QVpuaFFfVDZNa1NTSWpCcVJjWGZXMDgzZkEwQjVOZHBhU1dwOFVkS2RiejlVSGp2M2RVMnlTaW81OTRERXlBYnR0ZGNLS092Y083NlBNdUhPb3I?oc=5",
+   "source": "디지털데일리",
+   "date": "2026-10-30"
   },
   {
-   "title": "BNK경남은행, ‘BNK 포춘 적금’ 특판…최고 연 11% 금리 - 글로벌경제신문",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9SZVRXVXRRRTVpMzVpRllnX3lWb19rOExqNDZNdTNKMTVKU24waENGOUl6cnlJWEhHQ2NMeG5BQ1IzUlFEendCS0V0eXEyZ0ZBalFJSHV0VE9qU1pYeTY0bTE5bzV0ZGVGOElYWnFaU1fSAXBBVV95cUxPUmVUV1V0UUU1aTM1aUZZZ195Vm9fazhMajQ2TXUzSjE1SlNuMGhDRjlJenJ5SVhIR0NjTHhuQUNSM1JRRHp3QktFdHlxMmdGQWpRSUh1dFRPalNaWHk2NG0xOW81dGRlRjhJWFpxWlNX?oc=5",
-   "source": "글로벌경제신문",
-   "date": "2026-10-29"
+   "title": "하나은행, 태권브이 50주년 기념 최고 연 5% 적금 출시 - 뉴스핌",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZMEhTUVJMcFR5WGFuZHNfVXpvS0RwcXRuS2dVaFdyNlN3MjFMY3F1SkVPSGZibXYwazcxa3o4WllUbTYyeUVPT05fSWpHUDVheE45bXloYnBaRGtS?oc=5",
+   "source": "뉴스핌",
+   "date": "2026-10-30"
   },
   {
-   "title": "BNK경남은행, 포춘쿠키 추첨형 적금 상품 선보여 - CNB뉴스",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5kTDBhV3kzUHZnNk5HS1ljV1ZvSEpFWXlBcGxUU0JKcWN0RnQtbGdXUEw1WWFmWkxvU3VERGY0cVE3U29hbUFoX2IxZHJ4V3VTQmpYSDM0Y1VwbF9pc3Z5Z243V2pVX09Ud3pB?oc=5",
-   "source": "CNB뉴스",
-   "date": "2026-10-29"
+   "title": "하나은행, '태권브이' 적금 출시…연 최고 5%에 피규어까지 - 아시아경제",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtVEZUaU1JOS0wU0VCazI5WFFzN3hGa3puZm9rUUdfbUN2WW1lN1NfVllGRUxTNXNVRm5zM0ozZ3FOOE8wV1pmdDRkX2QtY2NLVVlEdHhMU1dlaTlSQ3lMcw?oc=5",
+   "source": "아시아경제",
+   "date": "2026-10-30"
   },
   {
-   "title": "BNK경남은행, 'BNK 포춘 적금' 특판...최고 연 11% 금리 제공 - 일요경제",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5jZlJVMkZINTF0MnZNaENZWVM4RXl2a29BVlloOXFCYm5zUFBLMXpyUFdaM1p1bUFmaFE3d2VXd3YyMEIxcmRkOXlQLVlMWXM5NTZOLWdzRWJDU1ZlRWp1QU9KZkh6c1FyUW5UZUhn?oc=5",
-   "source": "일요경제",
-   "date": "2026-10-29"
+   "title": "하나은행, 태권브이 탄생 50주년 기념 적금 출시…최고 연 5.0% - BBS불교방송",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9MWl9kNE56SU1ydnowQXdTc0Z2QzlpdnVkVGdSTGdFa3k0UXdTVzd5cmgyQ1pDSUh1aWcyZm5KbFJnVGxhUUVodUlFMnNad2xpeUs3c2ZydVZjZUNWUGthZFJCRnJlZE1GWHpF?oc=5",
+   "source": "BBS불교방송",
+   "date": "2026-10-30"
   },
   {
-   "title": "BNK경남은행, 포춘쿠키 뽑으면 최고 연 11%...BNK 포춘 적금 출시",
-   "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=368504",
-   "source": "네이버뉴스",
-   "date": "2026-10-29"
+   "title": "하나은행, '태권브이' 50주년 기념 적금 출시…최고 연 5% - 연합뉴스 한민족센터",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54dnZwMDU0NVNCZ1h6Qk5hRlJzYUx4ajV5RU4tckJobHRhNDM5aXFMek5IQzRoTGxrVDUyQmdROUtTUlUtWldNUmI1WjE4emQ0Q3lPS1pNUnBjV29VakluS19uMXB2R1JZRW9JZ3d0R0RoSnpk?oc=5",
+   "source": "연합뉴스 한민족센터",
+   "date": "2026-10-30"
   },
   {
-   "title": "BNK경남은행, 포춘쿠키 추첨형 적금 상품 선보여",
-   "link": "https://www.cnbnews.com/news/articleView.html?idxno=1021565",
-   "source": "네이버뉴스",
-   "date": "2026-10-29"
+   "title": "하나은행, ‘로봇 태권브이’ 탄생 50주년 기념 적금 출시 - 진일보 | 전남일보",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4yYkNrVl9xX09LRXhYQ2EyTXRjUGRzUENLcHlXdVJ6V0hwTjBtUnZadEhya2JsS1FOQXVUMGdWN2FBTU9nbTVpYUlWZnhEOXFuQk9hUGtRY2JhV1h5V1dxUUstRVNEaXZqLXQxVE54aw?oc=5",
+   "source": "진일보 | 전남일보",
+   "date": "2026-10-30"
   },
   {
-   "title": "BNK경남은행, 'BNK 포춘 적금' 특판…최고 연 11% 금리",
-   "link": "https://www.getnews.co.kr/news/articleView.html?idxno=885297",
-   "source": "네이버뉴스",
-   "date": "2026-10-29"
+   "title": "하나은행, 추억의 '날아라 태권브이 적금' 출시 - 디지털포스트",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CaFFVcnFLOGVMMzRyc25YS281SkZ4RzJ1Z0J0dG1DU1JhQnZyTk5zZFJjc2czdXJNbDdfaGUwbncybEF0amJCUC05dV9RaTRzVVBWNzJpZWVTWHBXdlpDSkJSSnAtOHdZZHc?oc=5",
+   "source": "디지털포스트",
+   "date": "2026-10-30"
   },
   {
-   "title": "최고 연 11% 내건 ‘BNK 포춘 적금’ 출시… 재미와 실속 사이 소비자 평...",
-   "link": "https://www.dailyt.co.kr/newsView/dlt202610290018",
-   "source": "네이버뉴스",
-   "date": "2026-10-29"
+   "title": "하나은행, ‘로보트 태권브이’ 탄생 50주년 기념 적금 출시 - 이로운넷",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93LXh1aTJBSHhMRi1HaXNrT3JnVThaTGVCZm1HZmNYU2tZbDFEamxYQVR3QVBnZlAzSHJWSE9iS0hFZEhLaWlwODd3cFdrR3FLSGpfNF84YndtS2ZtcWdpOUJUaXBqdw?oc=5",
+   "source": "이로운넷",
+   "date": "2026-10-30"
   },
   {
-   "title": "Sh수협은행, ‘Sh해양플라스틱Zero!예·적금’ 등 해양특화 상품 2종 리뉴얼 출시 - 어업in수산",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpY0FPdTlGSU5YLWJja2pLUUJHa191c2t6WUpjSXozdlBpN3RxdVFFcEhRTjhWXzR1ZVNPVVIxUDJHNm55bTU1ZEZwR3hNQTZ3eWZBeFZCRWtIUDhTdTRPTGFSd19ESUp4T3FIdW9fMA?oc=5",
-   "source": "어업in수산",
-   "date": "2026-10-29"
+   "title": "하나은행, '로보트 태권브이' 50주년 기념 적금 출시...최고 연 5% - 경인매일",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjVl82Z2dMU0w2c3BfNktKWjdqMExNUTlEWjdfTjRmQmNLWWxOWjMtdTJhZmh5aFI1TkRVdkdjc2wwSjZOd1hMYXB1TW5lSmQwLXYyR3hqQlUwZEo1UHdyWmtSZDBBc0ho?oc=5",
+   "source": "경인매일",
+   "date": "2026-10-30"
   },
   {
-   "title": "예가람저축은행, 최고 15% '핑크스파이더스 V6 적금' 출시 - 뉴시스",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5IQldyaE43Ym9uVDJGcVE1NFBIbW1TaTBOeW00alBjbGtlQjdPLUNiZ0RYVFlPMXZEb3RyRy1ORnUwVzBZUWhaWkxndjJjU1RxNlVvbVA0VlNqZFdxZXlCbUVZenBmTXh2V2xJeERnN051QUc2ek5NQdIBeEFVX3lxTE5IQldyaE43Ym9uVDJGcVE1NFBIbW1TaTBOeW00alBjbGtlQjdPLUNiZ0RYVFlPMXZEb3RyRy1ORnUwVzBZUWhaWkxndjJjU1RxNlVvbVA0VlNqZFdxZXlCbUVZenBmTXh2V2xJeERnN051QUc2ek5NQQ?oc=5",
-   "source": "뉴시스",
-   "date": "2026-10-26"
+   "title": "하나은행, 최고 연 5.0% '날아라 태권브이 적금' 출시 - 뉴스후플러스",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTb3NBeHJlREFqS1VrVVVMNzNMVlJleVBJQTRfUVg4LXBwbmtTektxVTJ5T05pbVhkSnJIUkotM2hnZGREbHZvZ2YzTDY0Tk1iTXE4X1VlV0psWFJ5NDBiT0s1aVQwSjM1UDZUNVB3?oc=5",
+   "source": "뉴스후플러스",
+   "date": "2026-10-30"
   },
   {
-   "title": "\"연 26% 적금 나왔어요\" 몸부림 치는 저축은행, 불붙은 '고금리 적금' 특판 | - www.nanamcom.co.kr",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2WUxaLVhGM2RNb1lQeTd0Q0JBT0FpM1g3djRqdWlGMktpTHdlZWZYUzB2U3NTbjNmUjBkRFJELVdEZEFvTnFuNG9FSkh2Qmlhcll5TDZRa0lUWnJsczgtRGgwYzBlNzBaaElfM1FCWVE?oc=5",
-   "source": "www.nanamcom.co.kr",
-   "date": "2026-10-27"
+   "title": "하나은행, '태권브이' 50주년 기념 최고 연 5% 적금 출시 - 조세금융신문",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9VZGczcGp5MGF1T3pVMXBFQWRtTV9VdjdsejRCWFhYUXpFcWt4aXgwNVZJQUhsWVNMd2xMdVp4bmY4am5NTTc5Q0pPeC1Wb1JBRGNhWmJLQmlMTWxrekxrVWd1MA?oc=5",
+   "source": "조세금융신문",
+   "date": "2026-10-30"
   },
   {
-   "title": "\"연 26% 적금 나왔어요\" 몸부림 치는 저축은행, 불붙은 '고금리 적금' 특판 - 나남뉴스",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1acG5uRlp0X2UyWVVMY3c2UTlOSzkwbUNVVlJ1dU83Si13Q2pEMUt1bHNxSnZidmFuX24xNW1hbjVBWkFrS2dFSjRwcHNINGVPRHI2WW9YMEZlRDVhU2czQW9udmhtMXVmMFNGMQ?oc=5",
-   "source": "나남뉴스",
-   "date": "2026-10-27"
+   "title": "하나은행, 로보트 태권브이 50주년 기념 ‘날아라 태권브이 적금’ 출시 - 매일일보",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Ed2ZuT3VOZ2tCQlBWN1BZMVlHMHp5UDJpRFp2YkpSM2xYMWE2SkVhVXFBd0FtUHpZQjB6QjNObGYyUTJRWUJpT3Vva3FCX2dsa2dDUlAzdTdCWUdIVWxIX3RLdDk?oc=5",
+   "source": "매일일보",
+   "date": "2026-10-30"
   }
  ],
  "news_seen": [
-  "f64e79e045b61e46",
-  "50eae1c16d06119b",
-  "b7fb3f3d3422b433",
-  "db1b4fedd83e1f06",
-  "0688b389d437a0e2",
-  "c8588d32165d48b6",
-  "8e2760620995f59f",
-  "3ad9450976d91f0b",
-  "2149abec7c01ec9d",
-  "8cb6e74d6e70aa50",
-  "e0c795afb9102da2",
-  "9decab2a02493911",
-  "87453e4f35eb169e",
-  "4a5283071ce721c3",
-  "ab99069ed6cedc08",
-  "f60f91ed61a73697",
-  "7896a3baf01b2122",
-  "a110e2bf259fe7a7",
-  "e97773c2e3ed5254",
-  "86d90d06b098d729",
-  "ccb7d70d8631a3f6",
-  "14c522e53e6e2757",
-  "305006f38fdacbfe",
-  "6cbf7488de3c0d2d",
-  "9ded5d6365e31278",
-  "636ee763aa16c4d2",
-  "56f3ec6fdc5b4933",
-  "dd691a07a8284211",
-  "0f82747bbcbfabac",
-  "a4c5bf4f4f777797",
-  "0d94d19d9ef03389",
-  "7c20abe1b77d797b",
-  "a12838a412418fc3",
-  "6cade398c77e68cb",
-  "54de2dcdde023280",
-  "96286ee34b1ba8ca",
-  "249a8b3d23373ccb",
-  "d24c90f66c1dea75",
-  "40e8047d0b79840d",
-  "989f72b0ba65d644",
-  "c180288f068f52ec",
-  "6a3aba948938369e",
-  "fd2ce246d054b178",
-  "22a4a5730e377f81",
-  "5bdb2486a92b962d",
-  "9763bb97c265bb85",
-  "c01ef229c1b8be54",
-  "d39c55f9b795f201",
-  "74bea3343150016e",
-  "b2706818d0fe82b9",
-  "dec4f85697d5c0e6",
-  "b0cdff09f0d08cc5",
-  "d18bf4365468312b",
-  "c7f117bb7e2ef186",
-  "2cdcc80fc17c6420",
-  "945bd72d7daccdc8",
-  "00a8ad3800815d98",
-  "ccb431806b48d722",
-  "ffd0cdd00f3b7870",
   "14a4111f6974d388",
   "e789df1f90adf481",
   "5b8dc4835dcd925d",
@@ -3406,10 +3347,104 @@
   "c9136b56d741479a",
   "4f7bfe47b6a15bab",
   "a563a5db382ea025",
-  "aa85b1c7284ee1d3"
+  "aa85b1c7284ee1d3",
+  "78789480c4b0ec8e",
+  "0cb4ed5da3178579",
+  "abdfd5f1f10cb786",
+  "2b08cb34abde9a0f",
+  "6ef041a3c6c935ae",
+  "dc210608bd813289",
+  "b2ab8ed8be46b4a8",
+  "750fd4f9b8749682",
+  "f330953281bd19b2",
+  "d8d8e64642d87315",
+  "7b3f813b2c404813",
+  "80d85c10832274a9",
+  "5525f8306eb2b723",
+  "e584c7d11db43828",
+  "d8d94874405784d9",
+  "4f946b04744bb658",
+  "04b3feba80ef59b7",
+  "807e647ecb1ec2dd",
+  "9d19c5ed607a0355",
+  "39b31c140ca1a370",
+  "b81b7cabaf2e2812",
+  "199d942c1367037c",
+  "fbc9c5e19916db59",
+  "ba4f118b17ebb907",
+  "3706dcda1441847d",
+  "77b54f8f0807b1de",
+  "9c96498ea7edd135",
+  "40630249853e8d5f",
+  "1e3d0d63d5ba307d",
+  "b1a80797d285b137",
+  "11478b2a2c344935",
+  "ae7d50fe7daee9a6",
+  "c088e1844dcdaa6e",
+  "f584f4716bca2ba1",
+  "7d581e549912f7a4",
+  "d433c6a164d50995",
+  "55fe9d2b48063f7f",
+  "e4ed5865c767a349",
+  "9161dc9edbfbaf2a",
+  "2bc4c312ed9cce9a",
+  "967cb600dcd69e3b",
+  "b919d6cdd9395cdd",
+  "792bb7f7840f796c",
+  "6369194a5867b2b9",
+  "617f7a0b0b803507",
+  "d195a42f3275bb89",
+  "009ad44c4b963ef2",
+  "b78992597bf8c491",
+  "fbf4d98a85727450",
+  "e27d1d9931fd8c1f",
+  "8456c1a3319e7795",
+  "d430088f777a57c7",
+  "801a820f47d13b97",
+  "cae405571601856f",
+  "06bb701d96800c73",
+  "7e2f3a04181b6418",
+  "2309c45517a306a6",
+  "f013a858120db700",
+  "2a59067babb82749"
  ],
  "news_seeded": true,
  "news_products": [
+  {
+   "bank": "하나은행",
+   "name": "날아라 태권브이 적금",
+   "norm": "날아라태권브이적금",
+   "rate": 5.0,
+   "first_news": "2026-10-30",
+   "count": 46,
+   "articles": [
+    {
+     "title": "하나은행 ‘날아라 태권브이 적금’ 출시…최고 연 5.0% 금리 - 디지털데일리",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DT1oya0JpM0Z4QVpuaFFfVDZNa1NTSWpCcVJjWGZXMDgzZkEwQjVOZHBhU1dwOFVkS2RiejlVSGp2M2RVMnlTaW81OTRERXlBYnR0ZGNLS092Y083NlBNdUhPb3I?oc=5",
+     "source": "디지털데일리",
+     "date": "2026-10-30"
+    },
+    {
+     "title": "하나은행, 태권브이 50주년 기념 최고 연 5% 적금 출시 - 뉴스핌",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZMEhTUVJMcFR5WGFuZHNfVXpvS0RwcXRuS2dVaFdyNlN3MjFMY3F1SkVPSGZibXYwazcxa3o4WllUbTYyeUVPT05fSWpHUDVheE45bXloYnBaRGtS?oc=5",
+     "source": "뉴스핌",
+     "date": "2026-10-30"
+    },
+    {
+     "title": "하나은행, '태권브이' 적금 출시…연 최고 5%에 피규어까지 - 아시아경제",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtVEZUaU1JOS0wU0VCazI5WFFzN3hGa3puZm9rUUdfbUN2WW1lN1NfVllGRUxTNXNVRm5zM0ozZ3FOOE8wV1pmdDRkX2QtY2NLVVlEdHhMU1dlaTlSQ3lMcw?oc=5",
+     "source": "아시아경제",
+     "date": "2026-10-30"
+    },
+    {
+     "title": "하나은행, 태권브이 탄생 50주년 기념 적금 출시…최고 연 5.0% - BBS불교방송",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9MWl9kNE56SU1ydnowQXdTc0Z2QzlpdnVkVGdSTGdFa3k0UXdTVzd5cmgyQ1pDSUh1aWcyZm5KbFJnVGxhUUVodUlFMnNad2xpeUs3c2ZydVZjZUNWUGthZFJCRnJlZE1GWHpF?oc=5",
+     "source": "BBS불교방송",
+     "date": "2026-10-30"
+    }
+   ],
+   "in_disclosure": false
+  },
   {
    "bank": "수협은행",
    "name": "Sh해양플라스틱Zero!예·적금",
@@ -3948,23 +3983,6 @@
     }
    ],
    "in_disclosure": true
-  },
-  {
-   "bank": "케이뱅크",
-   "name": "연 10% 적금",
-   "norm": "연10%적금",
-   "rate": 10.0,
-   "first_news": "2026-09-08",
-   "count": 1,
-   "articles": [
-    {
-     "title": "케이뱅크 '연 10% 적금' 특판 재출시...선착순 3만좌 - catchnews.kr",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GMmkzb09RVzltN1BEZVUxRlNmZUt4dGlVQzZVcnNfazNNNHRrdHRVbmJGcGZUNUxEcXVDRk83cTQxSWtrS1pCaklOd1VfTUd6endocTdhRk1sNmkwSUdPUVFPaTZyR1RRaUHSAW5BVV95cUxPSWp4UWNkWUEyWTc5VFJHeGlQVFVwbjZGMDcxSHBOUlBBT0xudkVQajR2bjRqS29zTnktN2JESWtPY2Fod2tLS0ZBTVpITVJvNTR3SjMzYVgtTXVWa1A4em9KVlZOcThpazh2QUpVQQ?oc=5",
-     "source": "catchnews.kr",
-     "date": "2026-09-08"
-    }
-   ],
-   "in_disclosure": false
   }
  ]
 }
