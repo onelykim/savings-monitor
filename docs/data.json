@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31 15:53",
+ "updated_at": "2026-10-31 22:32",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2534,6 +2534,24 @@
  ],
  "news": [
   {
+   "title": "하나은행, 최고 연 5% ‘태권브이 적금’ 출시 - ER 이코노믹리뷰",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yNUFrMHNoT3VUWGFwZ3AwdVdRbTRla3ZxZmYwNlNzdlhIZGExUWREYzlodjBJdzBEUEpKR0VWU0lNTjZ5R3VMd3ptUmVZTGhXOW90NEo2MkdYZnRNUDhiVzBWcERqQTJiYzZIVw?oc=5",
+   "source": "ER 이코노믹리뷰",
+   "date": "2026-10-31"
+  },
+  {
+   "title": "하나은행, 최고 연 5% '태권브이 적금' 출시",
+   "link": "https://www.econovill.com/news/articleView.html?idxno=755581",
+   "source": "네이버뉴스",
+   "date": "2026-10-31"
+  },
+  {
+   "title": "“태권브이 탄생 50년, 저축하면 금리 최고 5%”…하나은행, 3만좌 한정 적금 출시 - 더게이트",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IaG51Rmo1V1JRTmNWN1NuMHdyd1cwZ0FFMW1pQnRtcU95cTN4WUY4dHNuU2VWYW5LMlV0Z2dmS3JaZi1YWXRsOTBmN3pDRUthczZvQWRMSUdOU3dhRFhRcmlDaExzVzNo0gFsQVVfeXFMT3ZtU2Vhcl92QWxfZ3M5MFVYNjVaSnh4MEkwQmZLODUxN096OHBPRERSTkxUUG44VThVREZPRWNJenJPV2t4MjNGV0ZQOXZiS3dpOE94d0dkM24wVnFfVW13U0RlQkRmazZxcUtR?oc=5",
+   "source": "더게이트",
+   "date": "2026-10-30"
+  },
+  {
    "title": "하나은행, 날아라 태권브이 적금 출시…최고 연 5% - 아주경제",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9RRHJSdEw2SGgtQWtwU21QU1RDajRHc0tlZkh0UFYxdUhKc0VucVBTVWs3X21vdFdKNzdZaHJqaGhXOTVwTkNLZGRyTHJxX0F3cHdEb2pLNUHSAVhBVV95cUxPUURyUnRMNkhoLUFrcFNtUFNUQ2o0R3NLZWZIdFBWMXVISnNFbnFQU1VrN19tb3RXSjc3WWhyamhoVzk1cE5DS2RkckxycV9Bd3B3RG9qSzVB?oc=5",
    "source": "아주경제",
@@ -2586,30 +2604,9 @@
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PNUdkTEhTZE9fd3B5YWdLaUR3dF9zNHcwQ0RTUGtYRWtnaWg1UTB4ekdrOTlmUmUtdERwbFU4SXhQOU90aG1iOWJHbEE5YjlyOW84VkNGQVhhUdIBWEFVX3lxTE9RRHJSdEw2SGgtQWtwU21QU1RDajRHc0tlZkh0UFYxdUhKc0VucVBTVWs3X21vdFdKNzdZaHJqaGhXOTVwTkNLZGRyTHJxX0F3cHdEb2pLNUE?oc=5",
    "source": "아주경제",
    "date": "2026-10-31"
-  },
-  {
-   "title": "연 15% 이색 적금에 3.9% 특판까지… 은행들 예금 유치전 - IT조선",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5bjhjU1pVa29lQl9rbS00ekNlMnp6dWhleHptWWN3S3ZCNlNPRWhNNkdISEZEVzhJSExHR3dKQXV6R2tLd3FwSTVXdElIVC1BaDJacXFOYlJWamRFbzlQd0M2aXNPVWRtNV96dG9ZTTXSAXRBVV95cUxNYzhhOW1mdW5GVjdQbkU2d0FJcWNOZ21yOHRGQXZZX2xBVVpVUTUxUXVnd2F5elhmMHFRRnJrdnV3VnctY0FpdXN4WWpkYmtRdkVEYzJuZ2lMcXpXcWo4Qnh2VGt3enRzVzRkYTAtMnUzUmhaQg?oc=5",
-   "source": "IT조선",
-   "date": "2026-10-31"
-  },
-  {
-   "title": "하나은행, '날아라 태권브이 적금' 출시…최고 연 5%",
-   "link": "https://www.ajunews.com/view/20261030140450634",
-   "source": "네이버뉴스",
-   "date": "2026-10-31"
-  },
-  {
-   "title": "하나은행, '태권브이 50주년' 적금 출시…최고 연 5.0% 금리",
-   "link": "https://www.fetv.co.kr/news/articleView.html?idxno=312803",
-   "source": "네이버뉴스",
-   "date": "2026-10-31"
   }
  ],
  "news_seen": [
-  "c09d69b1bce68b95",
-  "b96f960b8433da0c",
-  "2f88fcd8dbf6cef2",
   "e028dcdde231057e",
   "8d00c2a78711c268",
   "d3427dea29e0b288",
@@ -3406,7 +3403,10 @@
   "6475e480a70ff607",
   "7ed191a4de420e63",
   "e3595f411e70e0c4",
-  "8e99d68f46cb2668"
+  "8e99d68f46cb2668",
+  "6d055b5f97571de0",
+  "1d72472d2284be28",
+  "aad5eba05058f832"
  ],
  "news_seeded": true,
  "news_products": [
@@ -3416,7 +3416,7 @@
    "norm": "날아라태권브이적금",
    "rate": 5.0,
    "first_news": "2026-10-30",
-   "count": 97,
+   "count": 100,
    "articles": [
     {
      "title": "하나은행 ‘날아라 태권브이 적금’ 출시…최고 연 5.0% 금리 - 디지털데일리",
