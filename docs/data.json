@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-01 11:04",
+ "updated_at": "2026-11-01 18:05",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2534,6 +2534,12 @@
  ],
  "news": [
   {
+   "title": "하나은행, 최고 연 5% ‘태권브이 적금’ 출시…3만좌 한정 판매 - 소비자를 위한 신문",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1neVNvc2xVUEF2aE42T0drRllmVmh2eW5XOFJWNlluelR1ZlVZWWdwb05ENE1uSFZ3RzI5emNmVWx5WU9ZZTNkZQ?oc=5",
+   "source": "소비자를 위한 신문",
+   "date": "2026-11-01"
+  },
+  {
    "title": "하나은행, '날아라 태권브이 적금' 출시…최고 연 5.0% 금리·3만좌 한정 판매 - 금융계",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1seVZUSU9UZlV6R2ZnTzdYX19wZHcwaXA5OVZ1YktTWVQ2Z2pKZFBkSVh0UEZTa1JzVTQ4eU5MLVpDdnZFMjVPV2oxOFBmWE13TmZkMDc2TXhHeEw2ekloWWp2bUVaRFnSAWtBVV95cUxPRkVHMkgzQWEtcUhKT2Fnd3ZOanhPZjREVHJoNy1GZ3NfbXgyTFN5d2pfaXFVanZwRnRJTk9xcTR4S0lhM1YwTkptVzlfT0cyMXpNNDZ5bWZ6NWlvV2F6N2tXTll6M2VTMlA0dw?oc=5",
    "source": "금융계",
@@ -2598,16 +2604,9 @@
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yMFNNQzNJR1hjVFFrNXNyU1Rqd3MyNTZNOWhuTFlwNVgyQkFnMnUyeDB5VnppbUxONjUzWlpZTlFHSWVoS3FTUnNCc3l6Skwxc1dxX0k4X2tsSnhWRXktRVB5bGRSc0Z0Qmc?oc=5",
    "source": "데일리팝",
    "date": "2026-10-31"
-  },
-  {
-   "title": "하나은행, '날아라 태권브이 적금' 출시…최고 연 5% 금리 - 뉴시스",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oUGFMOHpNUmVQRXI1aFFrTHRJLXdRUGtSa3pFOEZiMTVqMndWYWVSdTdYWncyS0NrUXVFV2dFMWpjZEtmS2kzUkZfQlVMTVFIU210ZV9QNndscmFTOWdUYdIBeEFVX3lxTFA5MEdNRFBGRFUxWlQwdUh3UzNHS20yTUQzOEl3dFpGNk9WYmdzREg1UmVyWTlwU2EtSEhXOG50RXU4aHdUSXRvdzMxR25CbDZLd1RSVmkxZzFpMnVURi1DZ3hUT2E0dDdZakJPaTBBdTUyVnVUT0tPYw?oc=5",
-   "source": "뉴시스",
-   "date": "2026-10-30"
   }
  ],
  "news_seen": [
-  "bf04b81a965646a4",
   "92f92e9ffbfe3252",
   "9f9689c27dd33886",
   "256b9d71927b3001",
@@ -3406,7 +3405,8 @@
   "77d1b62b64c98628",
   "86b5faaf5c45b5b9",
   "a79fa1b1331fae27",
-  "efb11839d7447973"
+  "efb11839d7447973",
+  "f44d9da7f291f4bd"
  ],
  "news_seeded": true,
  "news_products": [
@@ -3416,7 +3416,7 @@
    "norm": "날아라태권브이적금",
    "rate": 5.0,
    "first_news": "2026-10-30",
-   "count": 101,
+   "count": 102,
    "articles": [
     {
      "title": "하나은행 ‘날아라 태권브이 적금’ 출시…최고 연 5.0% 금리 - 디지털데일리",
