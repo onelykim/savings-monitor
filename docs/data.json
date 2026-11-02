@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02 09:31",
+ "updated_at": "2026-11-02 16:33",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -1162,34 +1162,34 @@
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
-     "intr_rate": 3.06,
-     "intr_rate2": 3.06
+     "intr_rate": 3.07,
+     "intr_rate2": 3.07
     },
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
-     "intr_rate": 3.64,
-     "intr_rate2": 3.64
+     "intr_rate": 3.68,
+     "intr_rate2": 3.68
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
-     "intr_rate": 3.65,
-     "intr_rate2": 3.65
+     "intr_rate": 3.63,
+     "intr_rate2": 3.63
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
-     "intr_rate": 3.72,
-     "intr_rate2": 3.72
+     "intr_rate": 3.68,
+     "intr_rate2": 3.68
     }
    ],
-   "best_rate": 3.72,
-   "best_base_rate": 3.72,
-   "best_term": 36,
+   "best_rate": 3.68,
+   "best_base_rate": 3.68,
+   "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%ED%95%9C%EA%B5%AD%EC%82%B0%EC%97%85%EC%9D%80%ED%96%89%20KDB%20%EA%B8%B0%EC%97%85%EC%A0%95%EA%B8%B0%EC%A0%81%EA%B8%88",
    "first_seen": "2026-07-10",
    "is_baseline": true
@@ -1225,33 +1225,33 @@
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.36,
-     "intr_rate2": 3.36
+     "intr_rate": 3.37,
+     "intr_rate2": 3.37
     },
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.84,
-     "intr_rate2": 3.84
+     "intr_rate": 3.88,
+     "intr_rate2": 3.88
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.75,
-     "intr_rate2": 3.75
+     "intr_rate": 3.73,
+     "intr_rate2": 3.73
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.82,
-     "intr_rate2": 3.82
+     "intr_rate": 3.78,
+     "intr_rate2": 3.78
     }
    ],
-   "best_rate": 3.84,
-   "best_base_rate": 3.84,
+   "best_rate": 3.88,
+   "best_base_rate": 3.88,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%ED%95%9C%EA%B5%AD%EC%82%B0%EC%97%85%EC%9D%80%ED%96%89%20KDB%20%EC%9E%90%EC%9C%A0%EC%A0%81%EA%B8%88",
    "first_seen": "2026-07-10",
@@ -2534,6 +2534,30 @@
  ],
  "news": [
   {
+   "title": "우리아메리카, 고이자 적금 상품 출시",
+   "link": "https://www.koreatimes.com/article/11629954?utm_source=naver",
+   "source": "네이버뉴스",
+   "date": "2026-11-02"
+  },
+  {
+   "title": "우리아메리카, 고이자 상품 출시…웰컴 하이-일드 1년 만기 적금",
+   "link": "https://www.koreadaily.com/article/20261101190043143",
+   "source": "네이버뉴스",
+   "date": "2026-11-02"
+  },
+  {
+   "title": "우리아메리카, 고이자 적금 상품 출시 - 미주한국일보",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HVGNwdW1PQ3BCa1dpbmRSUjI0Z1hkNjRvU1hoUEU4a2l4bHd6X3pTaXMycWVCVVphS25DbVRyS1NjSUdiRjVxcHJfajNrQU5idVR1X2Fn?oc=5",
+   "source": "미주한국일보",
+   "date": "2026-11-01"
+  },
+  {
+   "title": "하나은행, 로보트 태권브이 50주년 기념 ‘날아라 태권브이 적금’ 출시 - 한국인포맥스",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qdVUyQVBOb0pHSDNjZ3ZxV0hIM1l3TXotUkFyQ3VYaGNKcG0zMzlUNWJwd1BHUXZQQXRGS3FpNDNjczlHcDNBWGlrQzRTM0ZnbTRXTFczVnJ6RU9HZ2RaUmVVOWc2Y0dadHJ4aw?oc=5",
+   "source": "한국인포맥스",
+   "date": "2026-10-30"
+  },
+  {
    "title": "하나은행, 최고 연 5% ‘태권브이 적금’ 출시 - 이뉴스투데이",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9tSEZ5cVNzeXJVcDJqX3NMZnVraEZyS3JnY1NlbE9TWTJ3UktWYlkyejZwQUlIM0Z5dTJnWFNmbjJmdjI5UDh5eko1MWtSN0JqUWpqYWtmZEJhdDdsX1BXQzlUNnQ0VGs4UjN2cmlxYW11Ni1H0gF0QVVfeXFMT21IRnlxU3N5clVwMmpfc0xmdWtoRnJLcmdjU2VsT1NZMndSS1ZiWTJ6NnBBSUgzRnl1MmdYU2ZuMmZ2MjlQOHl6SjUxa1I3QmpRampha2ZkQmF0N2xfUFdDOVQ2dDRUazhSM3ZyaXFhbXU2LUc?oc=5",
    "source": "이뉴스투데이",
@@ -2580,37 +2604,9 @@
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5wcENWamdnQkZlUjRNSXRCS1BUNzRkeE5KdWdHOWdPM2d1TktGR1VzUXFUSDZQZ1ltQkNUSnlYaWlGaThRbVNuVWowbE5POTdNMldpaDJjRG1POVRXNGlldUhpV3VOakVHaDBENmtYbXBLUdIBb0FVX3lxTE94YU1jZGJuZmhfdXJSUDhiTWVjRTBpb1ZYeWFiSUdVckZXTUJBR1Jxc1Z0bzNET21SVXY4MTBVUF8xdHl4eHgwSTFtMHd2V0d2VllrTW5IclNlaFVRM1ZoYjNUMnNERHlJYUVxSklLUQ?oc=5",
    "source": "시민일보",
    "date": "2026-10-30"
-  },
-  {
-   "title": "하나은행, 최고 연 5% ‘태권브이 적금’ 출시 - ER 이코노믹리뷰",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yNUFrMHNoT3VUWGFwZ3AwdVdRbTRla3ZxZmYwNlNzdlhIZGExUWREYzlodjBJdzBEUEpKR0VWU0lNTjZ5R3VMd3ptUmVZTGhXOW90NEo2MkdYZnRNUDhiVzBWcERqQTJiYzZIVw?oc=5",
-   "source": "ER 이코노믹리뷰",
-   "date": "2026-10-31"
-  },
-  {
-   "title": "하나은행, 최고 연 5% '태권브이 적금' 출시",
-   "link": "https://www.econovill.com/news/articleView.html?idxno=755581",
-   "source": "네이버뉴스",
-   "date": "2026-10-31"
-  },
-  {
-   "title": "“태권브이 탄생 50년, 저축하면 금리 최고 5%”…하나은행, 3만좌 한정 적금 출시 - 더게이트",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IaG51Rmo1V1JRTmNWN1NuMHdyd1cwZ0FFMW1pQnRtcU95cTN4WUY4dHNuU2VWYW5LMlV0Z2dmS3JaZi1YWXRsOTBmN3pDRUthczZvQWRMSUdOU3dhRFhRcmlDaExzVzNo0gFsQVVfeXFMT3ZtU2Vhcl92QWxfZ3M5MFVYNjVaSnh4MEkwQmZLODUxN096OHBPRERSTkxUUG44VThVREZPRWNJenJPV2t4MjNGV0ZQOXZiS3dpOE94d0dkM24wVnFfVW13U0RlQkRmazZxcUtR?oc=5",
-   "source": "더게이트",
-   "date": "2026-10-30"
-  },
-  {
-   "title": "하나은행, 날아라 태권브이 적금 출시…최고 연 5% - 아주경제",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9RRHJSdEw2SGgtQWtwU21QU1RDajRHc0tlZkh0UFYxdUhKc0VucVBTVWs3X21vdFdKNzdZaHJqaGhXOTVwTkNLZGRyTHJxX0F3cHdEb2pLNUHSAVhBVV95cUxPUURyUnRMNkhoLUFrcFNtUFNUQ2o0R3NLZWZIdFBWMXVISnNFbnFQU1VrN19tb3RXSjc3WWhyamhoVzk1cE5DS2RkckxycV9Bd3B3RG9qSzVB?oc=5",
-   "source": "아주경제",
-   "date": "2026-10-31"
   }
  ],
  "news_seen": [
-  "f5bb723de1cd7e05",
-  "4d8f759d8d31055b",
-  "9275544005e270ea",
-  "c851d1605edd45e0",
   "99db82e186fed850",
   "d30d8844526d5061",
   "f837b088631d2d34",
@@ -3406,7 +3402,11 @@
   "f44d9da7f291f4bd",
   "0a49f9ce5994f939",
   "32f8c563dbb09ac6",
-  "bfe7b59deb94c210"
+  "bfe7b59deb94c210",
+  "ca41f5fe3e3c8fee",
+  "45591435462141a4",
+  "3fa8facf283426c5",
+  "6e2371cc10bf2563"
  ],
  "news_seeded": true,
  "news_products": [
@@ -3416,7 +3416,7 @@
    "norm": "날아라태권브이적금",
    "rate": 5.0,
    "first_news": "2026-10-30",
-   "count": 104,
+   "count": 105,
    "articles": [
     {
      "title": "하나은행 ‘날아라 태권브이 적금’ 출시…최고 연 5.0% 금리 - 디지털데일리",
