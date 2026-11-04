@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-04 23:17",
+ "updated_at": "2026-11-05 06:13",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2534,6 +2534,12 @@
  ],
  "news": [
   {
+   "title": "신협, 최고 7% 금융취약계층 지원 '동행사랑적금' 출시 - 파이낸셜뉴스",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tbW1tOXNIY3ZLN1g1S21FNlFmeTlHT0tDV0IwUWFOODVhSXY0U3p6OV9fUzR6b2E2OHRibmpYNmJtbUxPbkFnenRpV0xQdmJZSUo5QkZ5dmMyQQ?oc=5",
+   "source": "파이낸셜뉴스",
+   "date": "2026-11-03"
+  },
+  {
    "title": "신협, 금융취약계층 대상 최고 연 7% 적금 출시…2만좌 한정 - 마켓인",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9raTBEVmp3SWg2Z091MkJpNU80UDJ2b3ctWGRMbWl4Z2dNTW84cFJ1eF95OVlBNVh3X3NpTzZDTFFKVndDaW50Tjh4anV6T3JELXp5aHNHcDFKNXZVRTBGcUszWnB5ZFpnRnVGeHI0T3l3Q1E?oc=5",
    "source": "마켓인",
@@ -2598,16 +2604,9 @@
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13QjRHMl84TWtBM3VseTZVNUNjOWhHMUkxNmJyRHZSRlhPNHJwM1lvR3hrNDV4dVZRalg3RkY2YzZnakZ1OVpQNHdQcF9mNDN6dDFQcFdJSVRuaTJaQ1p0STQydHBRcUgxaDcw0gFrQVVfeXFMTXdCNEcyXzhNa0EzdWx5NlU1Q2M5aEcxSTE2YnJEdlJGWE80cnAzWW9HeGs0NXh1VlFqWDdGRjZjNmdqRnU5WlA0d1BwX2Y0M3p0MVBwV0lJVG5pMlpDWnRJNDJ0cFFxSDFoNzA?oc=5",
    "source": "금융계",
    "date": "2026-11-03"
-  },
-  {
-   "title": "금융업계, 우수 수출입 기업 임직원-가족 초청 캠핑 행사 개최·금융취약계층 대상 ‘동행사랑적금’ 출시·‘대학생 홍보대사 16기’ 글로벌 금융 소통 실천 - 여성소비자신문",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KdEhqRjlHbjRfSFpxZk42S0E2MXlrMFJQWE5ONEJGNzNqUy16a2tvTjRXTFV3QjBhcGJ2VGxwSnJua0hpd0pmUXpFTERaeXBRQnJsNkF1dmI0WUdKcXJ6aFNxcE9Idw?oc=5",
-   "source": "여성소비자신문",
-   "date": "2026-11-03"
   }
  ],
  "news_seen": [
-  "85819a8c1d6d19e8",
   "e3f9db38e7651990",
   "2bbb2f2f02786620",
   "37d48c4235b16cfa",
@@ -3406,7 +3405,8 @@
   "8a8cd559b9ddd1fb",
   "dc845f876a62b20a",
   "de5915a9f3a7cfc5",
-  "f4000e3184b0f02d"
+  "f4000e3184b0f02d",
+  "08376deb02a837fc"
  ],
  "news_seeded": true,
  "news_products": [
