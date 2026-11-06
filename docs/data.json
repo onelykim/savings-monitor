@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-06 09:03",
+ "updated_at": "2026-11-06 15:23",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2534,107 +2534,79 @@
  ],
  "news": [
   {
-   "title": "\"취약계층 목돈 마련 돕는다\"…신협, 최고 연 7% 적금 출시 - 데일리안",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aMVRMa054bnFRMW9ndTU5aFJ6MzR3VUVFU2VZcDlWUVYtY3ZPZWJENlYyb0E5OGtTSFVXZ0poWk5qV3lDYzFDck5Qeld1b2M5S0FV?oc=5",
-   "source": "데일리안",
-   "date": "2026-11-03"
+   "title": "부산은행, BNK썸농구단 우승 기원 적금 출시…최고 4.9% 금리 - 연합뉴스",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1reEJMOG9sTEJQRVk2MGlpa0xnZkZUckE4ZTJuV0JYQWJScVVVcG1LZlVtSmt1VXFoZzk4dVpzZGNER3M4Q212T0czRjFsdEM2Q2JSRUdiNm9FR3hFSm5fS9IBYEFVX3lxTE1reEJMOG9sTEJQRVk2MGlpa0xnZkZUckE4ZTJuV0JYQWJScVVVcG1LZlVtSmt1VXFoZzk4dVpzZGNER3M4Q212T0czRjFsdEM2Q2JSRUdiNm9FR3hFSm5fSw?oc=5",
+   "source": "연합뉴스",
+   "date": "2026-11-06"
   },
   {
-   "title": "바이낸스, 최대 10% APR 고정 이더리움 적금 출시...혜택은? (+ETH, 이더리움, 적금, APR) - 민심뉴스",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VWDFhemdnbEVOa29Jam15NDVLcmdZejhNTTNCUWxhMl92QVJ3dklSaC1YN3oySGw3dkp6Z0NUdjg2M0EzOVB1MVlBVXR3Tjl3TUZ5UFk0cmhXbUlKUFYwUWpsVkh0MkJtV0V2Sw?oc=5",
-   "source": "민심뉴스",
-   "date": "2026-11-05"
+   "title": "BNK부산은행, 농구 응원하면 금리 ‘쑥’…최고 연 4.9% 적금 출시 - 인더스트리뉴스",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZY2Q1OG1fU0RtYjRfWnpjeTYzeS1xS3F3c09mTWg3X201bTJMRVd4aTUwc2FnNHg0Q1NFMW4yUkQtN1JJdjU0aWFSc1AzNFZqSE94R1ZoX3BZdjRPeGNRTmZaMEJINmtNdktGR3k3UjlBZw?oc=5",
+   "source": "인더스트리뉴스",
+   "date": "2026-11-06"
   },
   {
-   "title": "신협, 최고 7% 금융취약계층 지원 '동행사랑적금' 출시 - 파이낸셜뉴스",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tbW1tOXNIY3ZLN1g1S21FNlFmeTlHT0tDV0IwUWFOODVhSXY0U3p6OV9fUzR6b2E2OHRibmpYNmJtbUxPbkFnenRpV0xQdmJZSUo5QkZ5dmMyQQ?oc=5",
+   "title": "응원하면 우대이자…'BNK썸농구단 우승기원' 적금 출시 - CNB뉴스",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2TV9Ud1lmTkpSS0t5SmFDdmlwQkxxdE04YjdkME9QTDdIM2haRjFsYS04TVN1dVJPSktVSDlyRnBtaFh4NXdBeDkyRFRlWmZnblRsSi1fM1diRVdTbWtIejNpdTA1MVF0cWNr?oc=5",
+   "source": "CNB뉴스",
+   "date": "2026-11-06"
+  },
+  {
+   "title": "BNK부산은행, 농구장 찾으면 금리 올라가는 적금 출시 - Korea IT Times",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ORFN1SUV1LVo4Q2lLbEtvMFc1RE9TV0x6OUhXUHhQWTQyeWlXOUJxNWZ5ZWdDYWJ4RkhiUmVadDlhRHZFZktST1ZYTHJQSF9nTWp3NENHa2Y3S3F3SzhWLVFnOGd0UmE1a2ZVTW9IaDI?oc=5",
+   "source": "Korea IT Times",
+   "date": "2026-11-06"
+  },
+  {
+   "title": "[부산소식]부산은행, BNK썸농구단 우승기원적금 출시 등 - 뉴시스",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9FV3J2aHFEc0FKSFpmNHJYaTZpQVZGX0lQYURRRXlEQzZMd0RJY3RTM2F2UVNSelJibWZ1WXlnVHBzaGJYRVRudnR0UkNxejM2NEFNcl91Y21leVJ6dTdUMjQxWTdiUXZDWkZ0OEctNV9LMnBwSmw2R9IBeEFVX3lxTE9FV3J2aHFEc0FKSFpmNHJYaTZpQVZGX0lQYURRRXlEQzZMd0RJY3RTM2F2UVNSelJibWZ1WXlnVHBzaGJYRVRudnR0UkNxejM2NEFNcl91Y21leVJ6dTdUMjQxWTdiUXZDWkZ0OEctNV9LMnBwSmw2Rw?oc=5",
+   "source": "뉴시스",
+   "date": "2026-11-06"
+  },
+  {
+   "title": "BNK부산은행, ‘BNK썸농구단 우승기원적금’ 출시 - 한국경제",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02SmFfMXFDMDg4REpYM3VxMUkyQkRYSVk0TGVtdjVhellDS19obTNOaGFaWEZaWEJBLXlHVFVIUG1lM2htWGV4ejNRbkZzWHBwWGQ3blF3MmExUQ?oc=5",
+   "source": "한국경제",
+   "date": "2026-11-06"
+  },
+  {
+   "title": "부산은행 'BNK썸 농구단 우승기원적금' 출시 - 국제뉴스",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wOHFEMVI3QjcxNkcwYW5OcUFTcHhweXJRMjdVbXZyYldwWkhFVEVuMThCczFBX002WDR5ZGRTcjhFbTlwcWp4Z2RyNmoweFlUZXZmUWw2T28xRFR6UmlERTJjU3NZNnp1QlVBMHdR?oc=5",
+   "source": "국제뉴스",
+   "date": "2026-11-06"
+  },
+  {
+   "title": "BNK부산은행, BNK썸 응원 연계 적금 출시 - 로이슈",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5fSnpYckNBcTZ0aVZTVFozZlRhTzNZcTVRWTFUWlRqU3RJbWpOV1FGS3lpekhuTl9wS182NnFIYnh1eU5wcHprWHZBUkR4dXJLUm5SX1RZRWVLS1ZBVVdxY3RJa3BSazBHOENQd0ZqSjR1ZEduSEwyYTdR?oc=5",
+   "source": "로이슈",
+   "date": "2026-11-06"
+  },
+  {
+   "title": "직관하면 금리 '쑥'…부산은행, BNK썸 우승기원적금 출시 - 노컷뉴스",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkVG5ESmljQ1VPR0g2V1dxLXJpaWo3Z1J4YkFUZXhiT0tGQjdhRkw5Z083S3hfeGpDQ2FxV3E2a0JLVTIza05ZdGo3QmJQUVZ3OVE?oc=5",
+   "source": "노컷뉴스",
+   "date": "2026-11-06"
+  },
+  {
+   "title": "BNK부산은행, 'BNK썸농구단 우승기원적금' 출시...최고 연 4.9% - 파이낸셜뉴스",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FSmhfbms3a0tsWU1KeWpmNThYNlZqTUdZX19uUjVFYnBfYWdBMUdPajZkLVpGLTdmeTFGb3ZaR0dPZ2FjaWg4OXJUWElzV1R3d01JUXRlbE12dw?oc=5",
    "source": "파이낸셜뉴스",
-   "date": "2026-11-03"
+   "date": "2026-11-06"
   },
   {
-   "title": "신협, 금융취약계층 대상 최고 연 7% 적금 출시…2만좌 한정 - 마켓인",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9raTBEVmp3SWg2Z091MkJpNU80UDJ2b3ctWGRMbWl4Z2dNTW84cFJ1eF95OVlBNVh3X3NpTzZDTFFKVndDaW50Tjh4anV6T3JELXp5aHNHcDFKNXZVRTBGcUszWnB5ZFpnRnVGeHI0T3l3Q1E?oc=5",
-   "source": "마켓인",
-   "date": "2026-11-03"
+   "title": "BNK부산은행, BNK썸 여자프로농구단 선전 기원 'BNK썸농구단 우승기원적금' 출시 - 청년투데이",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkdnZPZVFWUWZva0J4eWRJMm9yRFpSckxJbGNzZVBxcFByMTRaTTRUR2F3VlJlYnZqMFZzQkFxczdHb01yY2xyWS0zaDYxcUp4Zk5aVWlLdUdvS1VNd0kwbnJUY0wzRkdLMmc?oc=5",
+   "source": "청년투데이",
+   "date": "2026-11-06"
   },
   {
-   "title": "“월 최대 20만원·연 최고 7%” 신협, 취약계층 전용 적금 출시 - 헤럴드경제",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5RHpheDF3dXU0bmdjUG4xOGxRcHRhdGs0dGFpYmxKbVhtaFlQcmp0bnpqYVA0NEhFaXI0anNvUkhaSjdNY0lDOTllOV9EVTg0UTJPMzZ3?oc=5",
-   "source": "헤럴드경제",
-   "date": "2026-11-03"
-  },
-  {
-   "title": "신협, 금융취약계층 위한 연 최고 7.0% ‘동행사랑적금’ 출시 - 사회적경제뉴스",
-   "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE4zNGRfQWdLbnRNLWx4WmVaNmFFMDJrRGprX2NyUUlXdXZsbEtRbzhPN2FlSDdwMmlRVWIxWDhyYw?oc=5",
-   "source": "사회적경제뉴스",
-   "date": "2026-11-04"
-  },
-  {
-   "title": "[이코노 브리핑] 신협, 年 최고 7% ‘동행사랑적금’ 출시 외 - 세계일보",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aRXEtem12TFdxUE9kUk10Mlg1UFpJQW9wLUQ1RVphWlVrenhIZE9veUpaMXZuWFJlTXZOYnBtbXdJLV9VSG55b191YTM2Vmk4YVVaQ2hXcm9ZVVp1NzVqa2VueU1fSU5RbG1N0gFUQVVfeXFMUHpEWHpEdEZsV2lvNVRmVVpIcENrT1BuLXZlSDZKbzU3RWYta0FiNE5zNVhRVU5ITlRlemJrMkFRLUwzWXY5aENpdGFKa3Y2RGdGYmM3?oc=5",
-   "source": "세계일보",
-   "date": "2026-11-04"
-  },
-  {
-   "title": "신협, 금융취약계층 위한 적금 출시…최대 연 7.0% - 에너지경제신문",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DNFJMM21sSHVWQmQ1NWJVSWZDRmlOSElqa0R5ak9YckFpZHA2blZNR050N2Vnb29kaUl0Qm1ka2Y0ODl5akdZZUhaaFM2ZURXZUw5b0JpeUpNR3c?oc=5",
-   "source": "에너지경제신문",
-   "date": "2026-11-03"
-  },
-  {
-   "title": "하나은행, 로보트 태권브이 50주년 기념 『날아라 태권브이 적금』출시!! - 파이낸셜리더스",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JTGJZT0VvNHozMFZDejNfeDE3bkFBbElfVDFmUzBLdE56NDE2bTFyVHA0NEEzTUhhV3VDYWJ1ZG9LRXVKY08tMFVuQ3J3WXlsUkpkU2Z1TVFOeUhzYW5xQkNuVGhyMVl0NlE?oc=5",
-   "source": "파이낸셜리더스",
-   "date": "2026-11-04"
-  },
-  {
-   "title": "[이코노 브리핑] 신협, 年 최고 7% ‘동행사랑적금’ 출시 외",
-   "link": "https://www.segye.com/newsView/20261103516669?OutUrl=naver",
-   "source": "네이버뉴스",
-   "date": "2026-11-04"
-  },
-  {
-   "title": "신협, 금융취약계층 적금 '동행사랑적금' 출시…연 최고 7.0%·2만 계좌 한정 - 금융계",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oRTZNN1hUbVUtUGtvUHhITHNvaFVwYmxiZGhzSkgwalNsQlF0dXNVV05ocjYwWkhNbU5vdU9IbXR3QVVERVJ0VHpZdEFmbi1CMGljcFVnQVkySGVEYnJIMlY2X2NwTU3SAWtBVV95cUxNd0I0RzJfOE1rQTN1bHk2VTVDYzloRzFJMTZickR2UkZYTzRycDNZb0d4azQ1eHVWUWpYN0ZGNmM2Z2pGdTlaUDR3UHBfZjQzenQxUHBXSUlUbmkyWkNadEk0MnRwUXFIMWg3MA?oc=5",
-   "source": "금융계",
-   "date": "2026-11-03"
-  },
-  {
-   "title": "신협, 금융취약계층 위한 적금 출시…최대 연 7.0% - 에너지경제신문",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE90N0VkSjctcFdORFZ1QmJ1Ti1icURXRkhTYmlycTRzSDl4UGYzUWkyaV9GRWNIVEVLMEJOLVBzcGFhcHVrZF85VDZnRTBHUXpfeWdRS1d4OG1ZV1QxbXFKUFY5UQ?oc=5",
-   "source": "에너지경제신문",
-   "date": "2026-11-03"
+   "title": "\"직관 갈수록 금리가 쑥쑥\"…부산은행, 최고 연 4.9% 'BNK썸농구단 우승기원적금' 출시 - 베타뉴스",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tXzhka1gxLU90NHRSYlpReEloazB3X082andjUTFwdUpCNTFkOGRHbGozVmExVTlJSU0tWEZ0SWZ3RU1iODVVdjBxczVUWEdzWkI4RXhQSlJaMWFHTUhLcXRTSHQ?oc=5",
+   "source": "베타뉴스",
+   "date": "2026-11-06"
   }
  ],
  "news_seen": [
-  "37d48c4235b16cfa",
-  "5747394e32431ce8",
-  "fe77accfe9543c15",
-  "c27c608f36cce2f7",
-  "4fbd02b4278dcc91",
-  "a740006dc7abdca2",
-  "de08cd2b6f938e0a",
-  "91e7ebde1c560e6a",
-  "75e88b4ec9a8a8ee",
-  "9c8a292031a76a8b",
-  "8a1251b11a1007f2",
-  "52c9b1384c763f18",
-  "e9f12cb229abc9da",
-  "3c4999edafd18d3d",
-  "262b4a347f20fc53",
-  "fa68bb144b8e7adf",
-  "cabfa05d53ff6049",
-  "fb426ea78861248f",
-  "94ebba8c66e7e8a6",
-  "4e3b4036f21f63c9",
-  "9f208d7d964e7ecf",
-  "c127216867f1a955",
-  "48e804260fe65195",
-  "8d60440c56946b86",
-  "d81504ceac6ac1d1",
-  "ce44110819d8294e",
-  "2ccfee0541ca8c1d",
-  "ef49eb9adef38bf0",
   "75e4a502769ea62b",
   "d2df9259af88f67f",
   "639435f14a083f52",
@@ -3406,10 +3378,73 @@
   "f4000e3184b0f02d",
   "08376deb02a837fc",
   "79950d15f70f511a",
-  "dd8a9c29532c4737"
+  "dd8a9c29532c4737",
+  "47a0dd32b356a347",
+  "2c70603be9204b14",
+  "9f61c4a0d08be2ee",
+  "37f6389626e9aede",
+  "de597725dff3fd7e",
+  "b04bc9e35e1de857",
+  "1d7e3427fcbe4435",
+  "1adb07aaebb23c38",
+  "ccfb81a262f922c1",
+  "c367f7032e3d5eff",
+  "adb55368af4b90f3",
+  "912d79e26bb48010",
+  "130a47cbc9d68dd3",
+  "3dbb22f508fbdf98",
+  "6e52ca086304d0a8",
+  "628675366a459351",
+  "c4188e380cd40a6b",
+  "68418e8f31e63681",
+  "ec77a62643b85fdf",
+  "792b4ba8d3758a00",
+  "ece4d4721ba1f616",
+  "a5c518402a8aa320",
+  "234866fa49f4901f",
+  "7a6cbdaeb743c7ae",
+  "d158568ba352546e",
+  "68a8fdbf390658c7",
+  "130004ad2f095359",
+  "11afa21d35b5c544"
  ],
  "news_seeded": true,
  "news_products": [
+  {
+   "bank": "부산은행",
+   "name": "우승기원적금",
+   "norm": "우승기원적금",
+   "rate": 4.9,
+   "first_news": "2026-11-06",
+   "count": 18,
+   "articles": [
+    {
+     "title": "[부산소식]부산은행, BNK썸농구단 우승기원적금 출시 등 - 뉴시스",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9FV3J2aHFEc0FKSFpmNHJYaTZpQVZGX0lQYURRRXlEQzZMd0RJY3RTM2F2UVNSelJibWZ1WXlnVHBzaGJYRVRudnR0UkNxejM2NEFNcl91Y21leVJ6dTdUMjQxWTdiUXZDWkZ0OEctNV9LMnBwSmw2R9IBeEFVX3lxTE9FV3J2aHFEc0FKSFpmNHJYaTZpQVZGX0lQYURRRXlEQzZMd0RJY3RTM2F2UVNSelJibWZ1WXlnVHBzaGJYRVRudnR0UkNxejM2NEFNcl91Y21leVJ6dTdUMjQxWTdiUXZDWkZ0OEctNV9LMnBwSmw2Rw?oc=5",
+     "source": "뉴시스",
+     "date": "2026-11-06"
+    },
+    {
+     "title": "BNK부산은행, ‘BNK썸농구단 우승기원적금’ 출시 - 한국경제",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02SmFfMXFDMDg4REpYM3VxMUkyQkRYSVk0TGVtdjVhellDS19obTNOaGFaWEZaWEJBLXlHVFVIUG1lM2htWGV4ejNRbkZzWHBwWGQ3blF3MmExUQ?oc=5",
+     "source": "한국경제",
+     "date": "2026-11-06"
+    },
+    {
+     "title": "부산은행 'BNK썸 농구단 우승기원적금' 출시 - 국제뉴스",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wOHFEMVI3QjcxNkcwYW5OcUFTcHhweXJRMjdVbXZyYldwWkhFVEVuMThCczFBX002WDR5ZGRTcjhFbTlwcWp4Z2RyNmoweFlUZXZmUWw2T28xRFR6UmlERTJjU3NZNnp1QlVBMHdR?oc=5",
+     "source": "국제뉴스",
+     "date": "2026-11-06"
+    },
+    {
+     "title": "직관하면 금리 '쑥'…부산은행, BNK썸 우승기원적금 출시 - 노컷뉴스",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkVG5ESmljQ1VPR0g2V1dxLXJpaWo3Z1J4YkFUZXhiT0tGQjdhRkw5Z083S3hfeGpDQ2FxV3E2a0JLVTIza05ZdGo3QmJQUVZ3OVE?oc=5",
+     "source": "노컷뉴스",
+     "date": "2026-11-06"
+    }
+   ],
+   "in_disclosure": false
+  },
   {
    "bank": "하나은행",
    "name": "날아라 태권브이 적금",
@@ -3948,41 +3983,6 @@
     }
    ],
    "in_disclosure": false
-  },
-  {
-   "bank": "토스뱅크",
-   "name": "키워봐요 31일적금",
-   "norm": "키워봐요31일적금",
-   "rate": null,
-   "first_news": "2026-09-08",
-   "count": 25,
-   "articles": [
-    {
-     "title": "토스뱅크 '키워봐요 31일적금', 출시 한 달 만에 30만좌 돌파 - 매일일보",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfOFV2VzRUdGl2Uk5mYzg3ZU92OTluS1pVUTNQNUM3Wm00T3dkNHJPWUpicFRjX2I1QlRYXzJIQkZONGRyWUdXc1NiR0hSVmdELXM2RUlBUmhHMWhOZ3pzcmtOZUc4U1BU0gFoQVVfeXFMUF84VXZXNFR0aXZSTmZjODdlT3Y5OW5LWlVRM1A1QzdabTRPd2Q0ck9ZSmJwVGNfYjVCVFhfMkhCRk40ZHJZR1dzU2JHSFJWZ0QtczZFSUFSaEcxaE5nenNya05lRzhTUFQ?oc=5",
-     "source": "매일일보",
-     "date": "2026-09-08"
-    },
-    {
-     "title": "토스뱅크 ‘키워봐요 31일적금’, 출시 한 달 만에 30만좌 돌파 - 퍼블릭타임스",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tUVhFUG42ajB1NGVpY010OFV1UGhLVWpBaHBvRjVkcWVTUjUyOVYwaEpWdUVweTdrenJDcjBfMU9aOU8yeTE4UW5OQ1lXNS1jUjl0MnBKamloS2VXaTBzMTBJbGNIZDdVMlHSAW5BVV95cUxPQjVaTk8zQmlRVEx5ZXNkMEl2SURtTVZEcy1jcXhwUXFUaTRxTTh6WjFhUzBpNjkyOU5WQkVheXJLYjZ0czNNVkNtaHhUMTdMQmpObmNQbl9XWm1VSjcxenhMSHo5T0xRS0swbXMtdw?oc=5",
-     "source": "퍼블릭타임스",
-     "date": "2026-09-08"
-    },
-    {
-     "title": "토스뱅크 '키워봐요 31일적금', 출시 한 달 만 30만좌 넘었다 - 포인트데일리",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvb1JjTkt1ekxQUHoxTUN3SUtXSjM3ZW9uSndsVkRpbEwycU50VDBKdG1uUTZxX3pkUnIwR1p4RGs1aHBjajN5eXo2emwyQTZWZUJmNGN1aUJ6cU0xOFU2aWp5ZHAtR09kdkF1TjlmRHjSAXRBVV95cUxPOWd1OHRiYUt4dll3eERUaGpkdENQZHQ5Y08xcmY4dTV0SndsRVU5X01La1ZJQWVfdWpDRElRR2pBQXBCQzhvUUl3VEdheW5pQnhLX1pwWkctOXV3eDdtXzd4cWhfT1BaOUZ4ajdjOVlFTlhDeQ?oc=5",
-     "source": "포인트데일리",
-     "date": "2026-09-08"
-    },
-    {
-     "title": "토스뱅크, '키워봐요 31일적금' 출시 한 달 만에 30만좌 돌파 - 포인트경제",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5IQ0dSM3Q2emN4eXZNN2tZenFnd2U3anRIYzF6R1Y2Mnl6QVRSLWoxTFNSanA1MVlVTTFKSTdtNERBLVpvSVktZjVaTEhUaUlIMkluSVpUVTdwZFJiVGc4RnNhcERPZzZZMnc?oc=5",
-     "source": "포인트경제",
-     "date": "2026-09-08"
-    }
-   ],
-   "in_disclosure": true
   }
  ]
 }
