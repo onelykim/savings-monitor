@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-06 23:56",
+ "updated_at": "2026-11-07 05:48",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2534,6 +2534,18 @@
  ],
  "news": [
   {
+   "title": "BNK부산은행, ‘BNK썸농구단’ 우승기원적금 출시 - 헤럴드경제",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBldlFUWFBJeXpyM3hvOEVwTGZnMEIxak1acGlYZjByb1B0YWUwM2tRV3oxdXp4RlAxb3BSVGJPaHRGWm5iMllySnhfS3NJVkNncUNYbVFB?oc=5",
+   "source": "헤럴드경제",
+   "date": "2026-11-06"
+  },
+  {
+   "title": "\"다람쥐 키우며 연10%\" 토스뱅크 '키워봐요 31일적금' 출시 나흘만 10만좌 돌파 - https://www.catchnews.kr/",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Dcm9scEwxVzVjUk9HZUFBOGpfU05seUZ5RGxvY0dqUU85SzVkakY2dnFDcFdKMDF1LV84V1FQVDNTX0VNT0l6ekRKYVZobDBVNEZxSmhfOEF4UzZuTFo0VlVFZDV4Sk1BcFc0?oc=5",
+   "source": "https://www.catchnews.kr/",
+   "date": "2026-11-04"
+  },
+  {
    "title": "BNK부산은행, BNK썸 농구단 응원 적금 출시…최고 금리 4.90% - 뉴스핌",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5xS2VSXzJOcGp5S2dxTGpXWXlVM3g1VkdtRmVjc2FCSUttN1ExNlh3U3k5eFVOMnJNWFExcFNWeEJfakV3Sl9ucVFZM05wYVNyamJ3VU82dGpBTjBQ?oc=5",
    "source": "뉴스핌",
@@ -2592,23 +2604,9 @@
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wSy01NGE1aFNXNUxUYW9tb3gtUk1idXVJWjJKY0tRcXhiZV9PeXJvMzh0UmlYbGhCMzg1QkZ3bEhIN2JTSXdDWjhBcGo3SVpzaEJMTGcyTkUxNkNsWHpWdENEbHU?oc=5",
    "source": "지이코노미",
    "date": "2026-11-06"
-  },
-  {
-   "title": "BNK부산은행, 농구 응원하면 우대금리…최고 연 4.9% 적금 출시 - 이코노미사이언스",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54QTctX3hjM2paWFhwaUp4eUhuQ3g3VlZTcHl0OXh3UWczUllwN0tvVFNad2dfN280RjlqS3dsV29wZ1FrX0VKZFA1S21TVWNzcjFHT0xWS3oxWEYzUkhHNHVfTmQ5Qy04SG9OTVg5bw?oc=5",
-   "source": "이코노미사이언스",
-   "date": "2026-11-06"
-  },
-  {
-   "title": "\"직관하고 하트 누르면 금리가 쑥\"…BNK부산은행, 'BNK썸농구단 우승기원적금' 출시 - 더페어",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54bXQ3VlE2NmJZaU5DSUZaU29oMUw0Uy1GM1hGSWMtUHRLQXBuUVMyeF9JV1ozeGc1SEhVdUFZV1ZTLVo5UVFOZWdUNUVyUmNELXVPVjJxZENhVHhYbzFjTEJSVzc2NU1DVDQ4UVJIb3o?oc=5",
-   "source": "더페어",
-   "date": "2026-11-06"
   }
  ],
  "news_seen": [
-  "4fd8e81f3f9aa2c7",
-  "c17de26585c86c1f",
   "f53bbc9d03cfe5b8",
   "3930e0f15b6c65d1",
   "df936dc20fb7c46e",
@@ -3406,7 +3404,9 @@
   "e9fe97d4642c5691",
   "5631b5ec177cc6b9",
   "a873d095a5be5d4b",
-  "992e578e25f65570"
+  "992e578e25f65570",
+  "0da0b93b72b228e9",
+  "65f45d6ad3fe8618"
  ],
  "news_seeded": true,
  "news_products": [
@@ -3416,7 +3416,7 @@
    "norm": "우승기원적금",
    "rate": 4.9,
    "first_news": "2026-11-06",
-   "count": 39,
+   "count": 40,
    "articles": [
     {
      "title": "[부산소식]부산은행, BNK썸농구단 우승기원적금 출시 등 - 뉴시스",
@@ -3444,6 +3444,23 @@
     }
    ],
    "in_disclosure": false
+  },
+  {
+   "bank": "토스뱅크",
+   "name": "키워봐요 31일적금",
+   "norm": "키워봐요31일적금",
+   "rate": 10.0,
+   "first_news": "2026-11-04",
+   "count": 1,
+   "articles": [
+    {
+     "title": "\"다람쥐 키우며 연10%\" 토스뱅크 '키워봐요 31일적금' 출시 나흘만 10만좌 돌파 - https://www.catchnews.kr/",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Dcm9scEwxVzVjUk9HZUFBOGpfU05seUZ5RGxvY0dqUU85SzVkakY2dnFDcFdKMDF1LV84V1FQVDNTX0VNT0l6ekRKYVZobDBVNEZxSmhfOEF4UzZuTFo0VlVFZDV4Sk1BcFc0?oc=5",
+     "source": "https://www.catchnews.kr/",
+     "date": "2026-11-04"
+    }
+   ],
+   "in_disclosure": true
   },
   {
    "bank": "하나은행",
@@ -3960,29 +3977,6 @@
     }
    ],
    "in_disclosure": true
-  },
-  {
-   "bank": "카카오뱅크",
-   "name": "금도 적금처럼",
-   "norm": "금도적금처럼",
-   "rate": null,
-   "first_news": "2026-09-11",
-   "count": 2,
-   "articles": [
-    {
-     "title": "\"금도 적금처럼\"…카카오뱅크, 26주 '금 모으기' 출시 - 네이트",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5oNXVMM3JVWEt4SWowTlVob2RJOGluY2oxOWN5WlBOS1dWUDlHbzNaejNlWkNYalB0VERkSklSRUQyM1pHc2l6TWE2X3Y3dndRUndz?oc=5",
-     "source": "네이트",
-     "date": "2026-09-11"
-    },
-    {
-     "title": "\"금도 적금처럼\"…카카오뱅크, 26주 '금 모으기' 출시",
-     "link": "http://www.joseilbo.com/news/news_read.php?uid=575516&class=51&grp=",
-     "source": "네이버뉴스",
-     "date": "2026-09-11"
-    }
-   ],
-   "in_disclosure": false
   }
  ]
 }
