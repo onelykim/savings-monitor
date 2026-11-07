@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-07 22:53",
+ "updated_at": "2026-11-08 03:38",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2534,6 +2534,12 @@
  ],
  "news": [
   {
+   "title": "\"연 13% 적금까지 나왔다\" 우리은행, 월 50만원 저축 가능한 '고금리 특판' 출시 - 나남뉴스",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBveG1MczJUc3hnRTJqVllnb2c3VWlBZjBBV0ZrZnNUM0VGR3ltVEhwLXhBV01aU0RPQ3k5dTJkYk13dk5ndWNTVmpiSTFwREJ6RzZRbHdtMzZ4NC05NkJoQmdkaHpReml3UGtMUg?oc=5",
+   "source": "나남뉴스",
+   "date": "2026-11-07"
+  },
+  {
    "title": "부산은행, BNK썸농구단 우승 기원 적금 출시…최고 4.9% 금리 - 연합뉴스",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uQmdYVnNfWTF4cUNtMkh4ZFQxLUg1dDI3cWJjMDJQZ2ROd1NwOXB6UHJiM3BwVENmUW9SNjFjMlJGUlFjUmVicEZnY29QNXBaODd3Q0N6aG9Jb1nSAWBBVV95cUxNa3hCTDhvbExCUEVZNjBpaWtMZ2ZGVHJBOGUybldCWEFiUnFVVXBtS2ZVbUprdVVxaGc5OHVac2RjREdzOENtdk9HM0YxbHRDNkNiUkVHYjZvRUd4RUpuX0s?oc=5",
    "source": "연합뉴스",
@@ -2598,16 +2604,9 @@
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT04xSG1lZy1LQURKTXJQOUIxM2JVVjZKdFhKMnBhcVNCRzF4OXM2SW1tYWZROWpGaV9EU0o5alE0b0xjbWNLWmlxRXNsQThpVUtmeldkMjh4ZE8tSlI5OWFrM0xjVVF0OHB6dmlSMW9qSlp2T0dvVURMNDZUNHpwdTA5TlctWmtTTUxyMUJn?oc=5",
    "source": "국제신문",
    "date": "2026-11-06"
-  },
-  {
-   "title": "부산은행, ‘BNK썸농구단 우승기원적금’ 출시…최고 연 4.9% 금리 제공 - 비즈월드",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1MY18takI5b0pGMkh5NmlBZjhoZ2xWdzRESUFIM0NkcVRNRzZCaHBnQl9NMmNKeEc2MFNseFpmSXByb0JqdlF5R2ZtcHpEOWRHM29lS2laRzc4aXRqanMtblFCNHBrRTVsWHc?oc=5",
-   "source": "비즈월드",
-   "date": "2026-11-06"
   }
  ],
  "news_seen": [
-  "afae85310be5a01c",
   "a4ce0aaa0726499d",
   "02e4af5d6e4d9842",
   "5722f6d34410bede",
@@ -3406,10 +3405,28 @@
   "76293aaffe55b7f1",
   "9e0f8a32ef922ea8",
   "bd6c05c71ba009f7",
-  "6d202b9531190c43"
+  "6d202b9531190c43",
+  "3270d454aed195a1"
  ],
  "news_seeded": true,
  "news_products": [
+  {
+   "bank": "우리은행",
+   "name": "연 13% 적금까지 나왔다",
+   "norm": "연13%적금까지나왔다",
+   "rate": 13.0,
+   "first_news": "2026-11-07",
+   "count": 1,
+   "articles": [
+    {
+     "title": "\"연 13% 적금까지 나왔다\" 우리은행, 월 50만원 저축 가능한 '고금리 특판' 출시 - 나남뉴스",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBveG1MczJUc3hnRTJqVllnb2c3VWlBZjBBV0ZrZnNUM0VGR3ltVEhwLXhBV01aU0RPQ3k5dTJkYk13dk5ndWNTVmpiSTFwREJ6RzZRbHdtMzZ4NC05NkJoQmdkaHpReml3UGtMUg?oc=5",
+     "source": "나남뉴스",
+     "date": "2026-11-07"
+    }
+   ],
+   "in_disclosure": false
+  },
   {
    "bank": "부산은행",
    "name": "우승기원적금",
@@ -3942,41 +3959,6 @@
     }
    ],
    "in_disclosure": false
-  },
-  {
-   "bank": "케이뱅크",
-   "name": "궁금한 적금",
-   "norm": "궁금한적금",
-   "rate": 6.7,
-   "first_news": "2026-09-14",
-   "count": 18,
-   "articles": [
-    {
-     "title": "케이뱅크, '궁금한 적금' 쎄봉라마 테마 출시…최대 연 6.7% - 뉴스핌",
-     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE43TXljMmQ3SGt0ai1BYzlLa0o4RUVqY2Z3LVpGdUphVlhmMkdvem5xak9pSmZzQ203Y1VBbU5odThhVnBzSFMtVHplNzRrNTktYWotMnVGWklEVEtG?oc=5",
-     "source": "뉴스핌",
-     "date": "2026-09-14"
-    },
-    {
-     "title": "케이뱅크, '궁금한 적금' 시즌8 출시…쎄봉라마 테마 추가 - 핀포인트뉴스",
-     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9udVY4VHFpRzFBSnRaa2R4clpwRERQS0lDTE0wM1liMm94NTJpLUtBSVhLX1JWSVhrQWViUjFQTVNiVHlNUUt5OGlFUldXbjJfVDZZWmRELVdrWGpOTVlpNGVISGZHT1RaV1pUdjY1WDA5aFHSAXdBVV95cUxNU2JyUVVRTWk4TUR4ekZJUDl6UUh0SVRIZ3RGQ3hNajBHMnNDd2NlTGVELUFZdVFZZjJDMmdzdUd6UWpkdU1xMllTS0NSWmJqOUxrN1M3QmloRWVYdEpzWE12UWRqd3NSQ2dqdHJOdEV3Nm84LXJkRQ?oc=5",
-     "source": "핀포인트뉴스",
-     "date": "2026-09-14"
-    },
-    {
-     "title": "케이뱅크, '궁금한 적금' 시즌8 출시…쎄봉라마 테마 추가",
-     "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=486648",
-     "source": "네이버뉴스",
-     "date": "2026-09-14"
-    },
-    {
-     "title": "케이뱅크, '궁금한 적금' 쎄봉라마 테마 출시…최대 연 6.7%",
-     "link": "https://www.newspim.com/news/view/20260914000261",
-     "source": "네이버뉴스",
-     "date": "2026-09-14"
-    }
-   ],
-   "in_disclosure": true
   }
  ]
 }
