@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-09 09:42",
+ "updated_at": "2026-11-09 16:50",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -1162,33 +1162,33 @@
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
-     "intr_rate": 3.07,
-     "intr_rate2": 3.07
+     "intr_rate": 3.14,
+     "intr_rate2": 3.14
     },
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
-     "intr_rate": 3.68,
-     "intr_rate2": 3.68
+     "intr_rate": 3.7,
+     "intr_rate2": 3.7
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
-     "intr_rate": 3.63,
-     "intr_rate2": 3.63
+     "intr_rate": 3.61,
+     "intr_rate2": 3.61
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
-     "intr_rate": 3.68,
-     "intr_rate2": 3.68
+     "intr_rate": 3.63,
+     "intr_rate2": 3.63
     }
    ],
-   "best_rate": 3.68,
-   "best_base_rate": 3.68,
+   "best_rate": 3.7,
+   "best_base_rate": 3.7,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%ED%95%9C%EA%B5%AD%EC%82%B0%EC%97%85%EC%9D%80%ED%96%89%20KDB%20%EA%B8%B0%EC%97%85%EC%A0%95%EA%B8%B0%EC%A0%81%EA%B8%88",
    "first_seen": "2026-07-10",
@@ -1211,47 +1211,47 @@
      "save_trm": 1,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.06,
-     "intr_rate2": 3.06
+     "intr_rate": 3.08,
+     "intr_rate2": 3.08
     },
     {
      "save_trm": 3,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.06,
-     "intr_rate2": 3.06
+     "intr_rate": 3.08,
+     "intr_rate2": 3.08
     },
     {
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.37,
-     "intr_rate2": 3.37
+     "intr_rate": 3.44,
+     "intr_rate2": 3.44
     },
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.88,
-     "intr_rate2": 3.88
+     "intr_rate": 3.9,
+     "intr_rate2": 3.9
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.73,
-     "intr_rate2": 3.73
+     "intr_rate": 3.71,
+     "intr_rate2": 3.71
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.78,
-     "intr_rate2": 3.78
+     "intr_rate": 3.73,
+     "intr_rate2": 3.73
     }
    ],
-   "best_rate": 3.88,
-   "best_base_rate": 3.88,
+   "best_rate": 3.9,
+   "best_base_rate": 3.9,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%ED%95%9C%EA%B5%AD%EC%82%B0%EC%97%85%EC%9D%80%ED%96%89%20KDB%20%EC%9E%90%EC%9C%A0%EC%A0%81%EA%B8%88",
    "first_seen": "2026-07-10",
@@ -1659,8 +1659,8 @@
      "save_trm": 12,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.38,
-     "intr_rate2": 4.18
+     "intr_rate": 3.39,
+     "intr_rate2": 4.19
     },
     {
      "save_trm": 24,
@@ -1677,8 +1677,8 @@
      "intr_rate2": 3.5
     }
    ],
-   "best_rate": 4.18,
-   "best_base_rate": 3.38,
+   "best_rate": 4.19,
+   "best_base_rate": 3.39,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EB%86%8D%ED%98%91%EC%9D%80%ED%96%89%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20NH%EC%A7%81%EC%9E%A5%EC%9D%B8%EC%9B%94%EB%B3%B5%EB%A6%AC%EC%A0%81%EA%B8%88",
    "first_seen": "2026-07-10",
@@ -2534,104 +2534,79 @@
  ],
  "news": [
   {
-   "title": "[부산소식]부산은행, BNK썸농구단 우승기원적금 출시 등 - 뉴시스",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlUXFQVzcwbzlhY0x4TDgtZEZzZzFIcFYwNV81SW9zcFpyVVJYaHFpbHo4X09IMktZU3hEWlcwV2hVMnNqcVRmTlV2QkxaVTJsX0lTbTBmVXlQN0pzRWVBdtIBeEFVX3lxTE9FV3J2aHFEc0FKSFpmNHJYaTZpQVZGX0lQYURRRXlEQzZMd0RJY3RTM2F2UVNSelJibWZ1WXlnVHBzaGJYRVRudnR0UkNxejM2NEFNcl91Y21leVJ6dTdUMjQxWTdiUXZDWkZ0OEctNV9LMnBwSmw2Rw?oc=5",
-   "source": "뉴시스",
-   "date": "2026-11-06"
+   "title": "'순천대 의대 건립 동행 특판적금' 출시…금리 최대 5.91% 적용 - LG헬로비전",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE45UTk4cGZEdGhfNFBGaUhpYk5FMWF2Szg0WTNyVFFJRFJMS1piRWRUQW5MQjd5U1NfeFZhMU52WG9mN1lQRWFXVEpFVE8zN0xxRHBCVUNxRmRhMjhmNXRQUGY4N2NUQlJJSkYtVkllVVdYT0nSAXZBVV95cUxNT0E0R3hKT01rV2dSV2lORzY3aXRTT0daTHBIVE5kWW1lRVgzeklNdTByaUNqZVBpWV9hNHpVeGlYQ3BYQ0g1QWc3UXdXX3lhdXFmQ1FXTFRYSkVtdUV6aVZDMDRyTi1tMzRQQ2JPMWtkVzItaVpn?oc=5",
+   "source": "LG헬로비전",
+   "date": "2026-11-09"
   },
   {
-   "title": "응원도 금리도 높인다···BNK부산은행, '썸농구단 우승기원적금' 출시 - 데일리한국",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE15bHZraUNiNEQxVnpQY3dYclNiTENVakpOeU5sb09nMlRRM3lVaHJvTnZ3ME42WDBKVVZyZXROQlJxQ3B3MmYxekE1dGlYLW93MjM1aUdKWVVWRmdpWnVTZThLMFNKTENDN0lzQUJvc9IBc0FVX3lxTFBtNXQ0c05fYmR2UGkteGNCYlprSWNkTUNVbDNkWWZROTQ5OS1RMUs3Nml1Y3NFSWNkSzdiaDh1RWFSS3VJc0xqTXVYbmpuT0pHWnFkSHljb0hIS3ptZUFVTUZJbk8tR28zZEtYc2JSb2Q2Smc?oc=5",
-   "source": "데일리한국",
-   "date": "2026-11-06"
+   "title": "순천대 의대 설립 염원 담았다…순천농협 특판적금 출시 - BBS불교방송",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xYjRRX1hwY0YwWDlZVko1S1NxTTlDdEEzNFBWbXlkYVFhdHpaNE05RGMwRU9SX2huZmE0aF9oSjdFRjVHc1VBcjEycjlkeUdpZU82bGZFcVVpaUxRM3lkb091THJwMTE1TF9V?oc=5",
+   "source": "BBS불교방송",
+   "date": "2026-11-09"
   },
   {
-   "title": "\"연 13% 적금까지 나왔다\" 우리은행, 월 50만원 저축 가능한 '고금리 특판' 출시 - 나남뉴스",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBveG1MczJUc3hnRTJqVllnb2c3VWlBZjBBV0ZrZnNUM0VGR3ltVEhwLXhBV01aU0RPQ3k5dTJkYk13dk5ndWNTVmpiSTFwREJ6RzZRbHdtMzZ4NC05NkJoQmdkaHpReml3UGtMUg?oc=5",
-   "source": "나남뉴스",
-   "date": "2026-11-07"
+   "title": "순천대 의대 특판적금 출시…이제는 실행력이다 - 뉴스후플러스",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9GWXlIWWJQZW5maEd1Q0xzM3pEZU8zOXBaM0QyeFY3Nlo3Ym1tdTFqUGFnT1NIX1owd2dIQ0lEMFpWd3lQdWxoTGhmYzFkZTRvS0hGZy11Y0xXbTVTbUFkYmdaeVBYSUZTYXdmcUZB?oc=5",
+   "source": "뉴스후플러스",
+   "date": "2026-11-09"
   },
   {
-   "title": "부산은행, BNK썸농구단 우승 기원 적금 출시…최고 4.9% 금리 - 연합뉴스",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uQmdYVnNfWTF4cUNtMkh4ZFQxLUg1dDI3cWJjMDJQZ2ROd1NwOXB6UHJiM3BwVENmUW9SNjFjMlJGUlFjUmVicEZnY29QNXBaODd3Q0N6aG9Jb1nSAWBBVV95cUxNa3hCTDhvbExCUEVZNjBpaWtMZ2ZGVHJBOGUybldCWEFiUnFVVXBtS2ZVbUprdVVxaGc5OHVac2RjREdzOENtdk9HM0YxbHRDNkNiUkVHYjZvRUd4RUpuX0s?oc=5",
+   "title": "순천대 의대 신설에 금융권도 동행…순천농협, 최고 연 5.91% 적금 출시 - 폴리뉴스 Polinews",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQMm5wZ1VMUFNhYl9LLUlFcmN2UHlKbWo0M3plX011YUZFVUF4OUZvQUF3WW1lNXppSENQV203OFNCMXdiX2VnVFVpV2lLendzc0NkTHg0RkxvNEk5eGNyZ3B2b3p0YUQ5VDN4bkRR?oc=5",
+   "source": "폴리뉴스 Polinews",
+   "date": "2026-11-09"
+  },
+  {
+   "title": "순천시·순천농협, 순천대 의대 건립 기념 특판적금 출시 - 오늘경제",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBlSXRlRjBwN3VBY1RsWGVmSGc0eTJVTkhKQlJYU2M2bEVOSUJLNE50QWI4d1hHWnJOb0NwUU8ybUpZOGo3dmxwSF9IOUJJbzVTcVNzaFdpREhVWWExMVZBaEVmcnFUT0JSQndqN1NxV1g0Rzg?oc=5",
+   "source": "오늘경제",
+   "date": "2026-11-09"
+  },
+  {
+   "title": "손훈모 순천시장, ‘순천대 의대 건립 동행 특판적금’ 공동 1호 가입 - 세계환경신문",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HYjR0clBMZ2NMOU12TGpFMXpOdzNRQ2ZfcGIzM3R4bnhTZmZkalFsQ1RUOXVtQk1qSGdGR09pMXQ5Y1pncEhMdTh6eDlnbm9EU1poaXhNd216MkZGY0cw?oc=5",
+   "source": "세계환경신문",
+   "date": "2026-11-09"
+  },
+  {
+   "title": "순천시장·순천대 총장, 농협 의대 신설 특판 적금 1호 가입 - 연합뉴스",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DRUl2czkzNkVYU0xyVTBZWWxSUzh0SW52X29LVGpNcFF0VHZsS0JOOHhldUpWV2lrN0FSc2FlY1VIZC1obDNfUDlLTzR2WGNvaG5BdGtOZVZhXzNrdVZFLdIBYEFVX3lxTE9DRUl2czkzNkVYU0xyVTBZWWxSUzh0SW52X29LVGpNcFF0VHZsS0JOOHhldUpWV2lrN0FSc2FlY1VIZC1obDNfUDlLTzR2WGNvaG5BdGtOZVZhXzNrdVZFLQ?oc=5",
    "source": "연합뉴스",
-   "date": "2026-11-06"
+   "date": "2026-11-09"
   },
   {
-   "title": "부산은행 'BNK썸농구단 우승기원적금' 출시…최대 연 4.9% 금리 - 파이낸셜뉴스",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkWkozMUxBVURPRi03Yl9Od0FfQ0syNWN6cTRmaDg1ZnZxOFM3aExfUnVxa2FBN21FaVlZOFFiOXZGLVpBYnFoSmhhZGtXbG1IWE9NUXpydWV1UQ?oc=5",
-   "source": "파이낸셜뉴스",
-   "date": "2026-11-06"
+   "title": "‘순천대 의대 건립 동행 특판적금’ 공동 1호 가입자는 누구? - 순천독립신문",
+   "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQbkVzWVd2VmtFWWVKOVFQZ2tvOEc4LXh5d2FCUXQ3QnRXSWl1ejlvTkV1ZVhCRE9EMDBvRDJJQ3RrSG8zaG4wOHRFQkxTdkhSaUpNNGlxRUZnUmRaRG9WeGZvcG5OWEtyMHV4aTFOdHdjMzA2RmtVdHNROVBrM0VLUjc3NVdYV0tBNDFrYVg3MWhpN2tDcGViNkhwdktTQmoxcFY2dFpVeVpGZW1ZdkptWndmRFBHSlEtakNMVWNSNFl1TXAzQUx1eVZ0ZU15dHFab3NzdmZHX01xdUlVSzdYd1VUMW1WeU54M1hCMnZnTjFUb2xrVkk4VTRvV05IWU1BYzk3bFJzY2t2d214TE5XQjhMblRHaGlYajdpRGE3X0MzZ0YwWTFXcWRZTV8yd1dqX1pVbDJOemJfWnJ2clltdC0zYlRTc0doc2tXZ21hckw2ZzBSX1VQdmltUUxuUW9rZlozLUFVOTVrbHlDM2V3?oc=5",
+   "source": "순천독립신문",
+   "date": "2026-11-09"
   },
   {
-   "title": "“BNK썸 응원하면 금리가 쑥”…부산은행, 최고 연 4.9% 적금 출시 - 펜앤마이크",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9jVE5od1RqaDFHcWc5STFNZDFtdGxOd21wT1BDTXh5YmFINXhCSHNHeDJmQXNfcC1uNk9BRmVET3Z2REVtbG9zNjNkRGdadnFpeU9DMUVhODdqM1Z5cjRpYTlicW9yaFpDNXRB0gFvQVVfeXFMT3laM0dPZ1FNS0cwZ2dPRzM5LXV0d3RVcEtvUzBZOXBDUTJqWHJNN2RNR0wySkdoYy1iazhhdHRXMXZJX0FUYVZ1R29Xd05fS3p6ejNmWjVabnZpUEFuWEtuTThzY19WZElzZWQ5V0JZ?oc=5",
-   "source": "펜앤마이크",
-   "date": "2026-11-07"
+   "title": "손훈모 시장·이병운 총장, 농협 '순천대 의대 신설' 특판적금 1호 가입 - 뉴스1",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBaQndmSm1HWEljZFY4ZGlNUGdiVENpbjVKdktURlhOUnZkb2dVVjV4MjZ0RWx5WG1tWFFTZDhQWF9VcEN6MXZWTklBOWF5T1kxVmdDOWY0QjZNdGFWMWtN?oc=5",
+   "source": "뉴스1",
+   "date": "2026-11-09"
   },
   {
-   "title": "부산은행 우승 기원 적금 출시…최고 연 4.9% : 금융 - 재경일보",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ocGZtZGpFWDc0TVcxYkUwU2N1cEw1aXp5cGdxT3pCQzNFVGMxa044RXNkbWZxbXJmSVNyTmt1S2k3X3Jqbk9hWVRKWQ?oc=5",
-   "source": "재경일보",
-   "date": "2026-11-07"
+   "title": "'순천대 의대건립' 특판적금 나왔다…금리 최고 연 5.91% - 뉴시스",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UdGd0LV9TWFN3RGJBVnJPMVFaQVR6N3lBRG12TXlCd0o0aVpBUHJnWnJHMGJYTEZ1UkhCUlZnUjIxYnZwOUllSkdCeV9xVGkzbjdlY1B4QXNLT0l1a3RkNtIBeEFVX3lxTE5LOFduTk5MRXlRaVhSRGh0WU1ldjVfWTJmUkdoZnluekZfczRGNy1EQzI2d2xoYjhlb08tb3JQQ0t3a1BzaTM5ZE9MY1oxM05QRmhQVWZrS1loUlJKVG52S29PVmVLOVlaTEJWRHJRQ1lZbXRISDVJTQ?oc=5",
+   "source": "뉴시스",
+   "date": "2026-11-09"
   },
   {
-   "title": "\"BNK썸 응원하면 금리가 쑥\"…부산은행, 최고 연 4.9% 적금 출시",
-   "link": "https://www.pennmike.com/news/articleView.html?idxno=131208",
-   "source": "네이버뉴스",
-   "date": "2026-11-07"
+   "title": "손훈모 순천시장, 순천대 의대 건립 특판적금 공동 1호 가입 - 선데이뉴스신문",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5SLWFMUkFMallEYTBQS0otY1V1NmZacUFaZGRfdzgzMi0zUlBSUFduaVdxd0c0VDJsTWxDVkpOb0pOcmJ1azRYWlBTUlZRTkZMWFZpYnZMLS10VjQ?oc=5",
+   "source": "선데이뉴스신문",
+   "date": "2026-11-09"
   },
   {
-   "title": "부산은행, ‘BNK썸농구단 우승기원적금’ 출시…최고 연 4.9% 금리 제공 - 비즈월드",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1QeTdhdkpwX2tzLXNwZmVmSnI5eFAwdFV3YzJzUHZvYk1yX0k2aVEzNEJCeEM4Ykt6cnQzS25RSUNha0Y2YmJhQXI1ZkNMS013cG4wTkdQYjdxbjh3dW0ycHlsdXRiWTktSm9r?oc=5",
-   "source": "비즈월드",
-   "date": "2026-11-06"
-  },
-  {
-   "title": "부산은행, BNK썸 우승기원적금 출시…최고 연 4.9% - SR타임스",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44Q0pnbFhQSjBITG9LNHg1cFltc1RDS2F5N25Bc1pDdVBFU2swSm9ORjVMY25BTm1zQWd1d2V6dy1nQjJwUEx0Q2REOWpUa280TlRlZXZRTExVX19DM1dYS3JTUUlKNUHSAWtBVV95cUxQX2JUMHE5eXh0UHNpLV9BMVNnckNtcWo3b0JQek5kV3djRTA5RXZCVlRpNlc1M0hqUXk2T3czcTVKa012RTJ0M3RFa1RRUV9fbzV2RWdES3IwWGQtX1ZOd3VNemtHWFhpb3dkNA?oc=5",
-   "source": "SR타임스",
-   "date": "2026-11-06"
-  },
-  {
-   "title": "BNK부산은행, ‘BNK썸농구단’ 우승기원적금 출시 - 헤럴드경제",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBldlFUWFBJeXpyM3hvOEVwTGZnMEIxak1acGlYZjByb1B0YWUwM2tRV3oxdXp4RlAxb3BSVGJPaHRGWm5iMllySnhfS3NJVkNncUNYbVFB?oc=5",
-   "source": "헤럴드경제",
-   "date": "2026-11-06"
-  },
-  {
-   "title": "\"다람쥐 키우며 연10%\" 토스뱅크 '키워봐요 31일적금' 출시 나흘만 10만좌 돌파 - https://www.catchnews.kr/",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Dcm9scEwxVzVjUk9HZUFBOGpfU05seUZ5RGxvY0dqUU85SzVkakY2dnFDcFdKMDF1LV84V1FQVDNTX0VNT0l6ekRKYVZobDBVNEZxSmhfOEF4UzZuTFo0VlVFZDV4Sk1BcFc0?oc=5",
-   "source": "https://www.catchnews.kr/",
-   "date": "2026-11-04"
+   "title": "손훈모 순천시장, 순천대 의대 설립 기원 특판적금 첫 가입 - 전남인터넷신문",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1GLTJwcF9Dck1tYTA2R1BWRExPbjJnVi1TUEFHLTE2SXBzTFJlS0x2bUpaTkNRbERnbnBoQTN0aURKN0FaUFVfYzJ1ajZaM2FoYi1LTmttUHBiNHhx?oc=5",
+   "source": "전남인터넷신문",
+   "date": "2026-11-09"
   }
  ],
  "news_seen": [
-  "5722f6d34410bede",
-  "6eeba3d017db123a",
-  "4056e16c574d3df6",
-  "7da137ab1f3a3b35",
-  "0ea3d3c6464fac23",
-  "2891d6ae6bc7f88a",
-  "d5a2d2378da8c1d1",
-  "9cf99b9d6783e944",
-  "a2073b9fc9cf4d3d",
-  "5a9e607e481fa37f",
-  "a2eac25360ca234d",
-  "c0d79933aa4dc728",
-  "ab5d25ef094792eb",
-  "4de50370004890b6",
-  "5ef49cc4a60fe1c6",
-  "44f02a06e729ab41",
-  "a4dd55bd9498f7f8",
-  "461ee070514114c6",
-  "4658557f0982a662",
-  "cfb88428e3011e74",
-  "dacf6b4c196c7cd0",
-  "59a7bc9b5fd10cae",
-  "a392c026649d6197",
-  "5919386c566a31ee",
-  "10d6bfe4ee18d62c",
   "bf8d436b51b06349",
   "984d886a3d67820a",
   "229ba5048a39e56c",
@@ -3406,7 +3381,32 @@
   "6d202b9531190c43",
   "3270d454aed195a1",
   "99f4dec2946e1833",
-  "04bffa6efb358115"
+  "04bffa6efb358115",
+  "6414fc0051de9b7c",
+  "f74a9772d655fb2f",
+  "f267380d3900daac",
+  "24af4c4847efb5aa",
+  "25fa548fc4995308",
+  "ff2dfa5497ff2fa4",
+  "72cec7c81ebc34e8",
+  "89786f45ef95d5e9",
+  "4b8247fd4de08b04",
+  "5f4c4d5dbfb27080",
+  "ee905001c9caddfa",
+  "80158ff87e7616bb",
+  "5eb9863338f217c5",
+  "ebd52a0cacacd070",
+  "471235f2e0d11e6d",
+  "555404f98410bb7d",
+  "bad967bc420e7478",
+  "e9940318c928b701",
+  "e54fd042c832150a",
+  "19fba6eca8612902",
+  "f0a0fae9a9025688",
+  "f69642169909ced5",
+  "fad5d7daba93468c",
+  "c3fbff6c0bb62d2f",
+  "501a9821e6718ce7"
  ],
  "news_seeded": true,
  "news_products": [
@@ -3433,7 +3433,7 @@
    "norm": "우승기원적금",
    "rate": 4.9,
    "first_news": "2026-11-06",
-   "count": 49,
+   "count": 51,
    "articles": [
     {
      "title": "[부산소식]부산은행, BNK썸농구단 우승기원적금 출시 등 - 뉴시스",
