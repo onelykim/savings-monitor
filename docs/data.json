@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-09 06:01",
+ "updated_at": "2026-11-09 09:42",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2534,6 +2534,12 @@
  ],
  "news": [
   {
+   "title": "[부산소식]부산은행, BNK썸농구단 우승기원적금 출시 등 - 뉴시스",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlUXFQVzcwbzlhY0x4TDgtZEZzZzFIcFYwNV81SW9zcFpyVVJYaHFpbHo4X09IMktZU3hEWlcwV2hVMnNqcVRmTlV2QkxaVTJsX0lTbTBmVXlQN0pzRWVBdtIBeEFVX3lxTE9FV3J2aHFEc0FKSFpmNHJYaTZpQVZGX0lQYURRRXlEQzZMd0RJY3RTM2F2UVNSelJibWZ1WXlnVHBzaGJYRVRudnR0UkNxejM2NEFNcl91Y21leVJ6dTdUMjQxWTdiUXZDWkZ0OEctNV9LMnBwSmw2Rw?oc=5",
+   "source": "뉴시스",
+   "date": "2026-11-06"
+  },
+  {
    "title": "응원도 금리도 높인다···BNK부산은행, '썸농구단 우승기원적금' 출시 - 데일리한국",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE15bHZraUNiNEQxVnpQY3dYclNiTENVakpOeU5sb09nMlRRM3lVaHJvTnZ3ME42WDBKVVZyZXROQlJxQ3B3MmYxekE1dGlYLW93MjM1aUdKWVVWRmdpWnVTZThLMFNKTENDN0lzQUJvc9IBc0FVX3lxTFBtNXQ0c05fYmR2UGkteGNCYlprSWNkTUNVbDNkWWZROTQ5OS1RMUs3Nml1Y3NFSWNkSzdiaDh1RWFSS3VJc0xqTXVYbmpuT0pHWnFkSHljb0hIS3ptZUFVTUZJbk8tR28zZEtYc2JSb2Q2Smc?oc=5",
    "source": "데일리한국",
@@ -2598,16 +2604,9 @@
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Dcm9scEwxVzVjUk9HZUFBOGpfU05seUZ5RGxvY0dqUU85SzVkakY2dnFDcFdKMDF1LV84V1FQVDNTX0VNT0l6ekRKYVZobDBVNEZxSmhfOEF4UzZuTFo0VlVFZDV4Sk1BcFc0?oc=5",
    "source": "https://www.catchnews.kr/",
    "date": "2026-11-04"
-  },
-  {
-   "title": "BNK부산은행, BNK썸 농구단 응원 적금 출시…최고 금리 4.90% - 뉴스핌",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5xS2VSXzJOcGp5S2dxTGpXWXlVM3g1VkdtRmVjc2FCSUttN1ExNlh3U3k5eFVOMnJNWFExcFNWeEJfakV3Sl9ucVFZM05wYVNyamJ3VU82dGpBTjBQ?oc=5",
-   "source": "뉴스핌",
-   "date": "2026-11-06"
   }
  ],
  "news_seen": [
-  "02e4af5d6e4d9842",
   "5722f6d34410bede",
   "6eeba3d017db123a",
   "4056e16c574d3df6",
@@ -3406,7 +3405,8 @@
   "bd6c05c71ba009f7",
   "6d202b9531190c43",
   "3270d454aed195a1",
-  "99f4dec2946e1833"
+  "99f4dec2946e1833",
+  "04bffa6efb358115"
  ],
  "news_seeded": true,
  "news_products": [
@@ -3433,7 +3433,7 @@
    "norm": "우승기원적금",
    "rate": 4.9,
    "first_news": "2026-11-06",
-   "count": 48,
+   "count": 49,
    "articles": [
     {
      "title": "[부산소식]부산은행, BNK썸농구단 우승기원적금 출시 등 - 뉴시스",
