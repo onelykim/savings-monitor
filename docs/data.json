@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-11 08:08",
+ "updated_at": "2026-11-11 14:55",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2534,6 +2534,12 @@
  ],
  "news": [
   {
+   "title": "순천농협, 의대 신설 특판적금…출시 이틀 만에 ‘완판’ - 남도닷컴",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBKblpGN2dsNlM4QUU4WllITWgyZmVGdTl3RXdOdGxjbnhjOW1mSXJaYVlKS0hYblVSSzRGdFJXQUNFYVBsSWZyb0NkaDI4ZEkwbWlUZFQzQ2ZheHJZdTk0Yzh0OW00UDgtNzRF?oc=5",
+   "source": "남도닷컴",
+   "date": "2026-11-11"
+  },
+  {
    "title": "순천시, 국립순천대 의대 신설 기념 '동행 특판적금' 공동 1호 가입 - 한국사회복지저널",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sTDFhRW9SdWFabUpjYXdYR2lzYkMtQjE3RE1zaGpOeDR3Z2x1ZFZGMW0tV3FyYXJXUW1pNkVTQWtlWHZaVG93WE9EZTZIbEtrZnZNSmVGUFFCbWZtOW44VkFJWnMzUVNpZzEteQ?oc=5",
    "source": "한국사회복지저널",
@@ -2598,16 +2604,9 @@
    "link": "https://www.m-i.kr/news/articleView.html?idxno=2016399",
    "source": "네이버뉴스",
    "date": "2026-11-10"
-  },
-  {
-   "title": "“순천대 의대 신설 응원” 최고 연 5.91% 특판적금 출시… 손훈모 시장 1호 가입 - 작은뉴스",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16WF91eHNPeXlTS1lEbXVGcHVLQVJSXzg4YlN1RDNEcEwybl9FNGpOQy1MU0xaZFdIcHFFeHlESExoUzJhN05zbUY1QjFHYkVBRGQ1N1FUbEpEdnNzeDFWVnE5OXJEYmZGR19IRA?oc=5",
-   "source": "작은뉴스",
-   "date": "2026-11-09"
   }
  ],
  "news_seen": [
-  "fabc784cf3630be9",
   "fcfc5af490d206f2",
   "74a4df4b0ff3d69f",
   "72813ade357db495",
@@ -3406,7 +3405,8 @@
   "541853a7ba4c7167",
   "e8d477a8316397c2",
   "20f67f8946689d64",
-  "a41f0706bef25772"
+  "a41f0706bef25772",
+  "9363f4c64a473665"
  ],
  "news_seeded": true,
  "news_products": [
