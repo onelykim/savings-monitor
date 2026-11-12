@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-12 06:13",
+ "updated_at": "2026-11-12 11:49",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2534,6 +2534,24 @@
  ],
  "news": [
   {
+   "title": "우리은행, 삼성금융 모니모 전용 예·적금 3종 출시 - 더트래커",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qM3R1ZXdWZjMyVDlJblFmaUp3S2xHeVVJdWdfT0l3bVJRWU9BbWR5ZXhoejlDeG1INnIyNm9IZW1PcUNtalFWeEJUMy1RZTExbWtrZXlkd2k?oc=5",
+   "source": "더트래커",
+   "date": "2026-11-12"
+  },
+  {
+   "title": "우리은행, 모니모 전용 금융상품 3종 출시…적금 최고 연 8.5%",
+   "link": "https://sateconomy.co.kr/news/view/1065578160641200",
+   "source": "네이버뉴스",
+   "date": "2026-11-12"
+  },
+  {
+   "title": "우리은행, 삼성금융 모니모 전용 예·적금 3종 출시",
+   "link": "https://thetracker.co.kr/View.aspx?No=4309102",
+   "source": "네이버뉴스",
+   "date": "2026-11-12"
+  },
+  {
    "title": "충북농협, 농업인의 날 맞아 ‘농심천심’ 예·적금 출시 - 농민신문",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NZW1iMlM5UEtzeThKR1hXZHE3dVJza3ZRQ0dxWER1c3liYkZ0aEN0REVzWllSYWZsb2pxSVNhaGJKa1FCcEtYRkQxdU8xVEttZms3WlBESHE3dw?oc=5",
    "source": "농민신문",
@@ -2586,30 +2604,9 @@
    "link": "https://www.nongmin.com/article/20261111500458",
    "source": "네이버뉴스",
    "date": "2026-11-11"
-  },
-  {
-   "title": "충북농협, 농심천심예금·적금 출시",
-   "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1110576",
-   "source": "네이버뉴스",
-   "date": "2026-11-11"
-  },
-  {
-   "title": "농업인의 날 맞은 충북농협 ‘농심천심예적금’ 출시",
-   "link": "http://www.inews24.com/view/2025157",
-   "source": "네이버뉴스",
-   "date": "2026-11-11"
-  },
-  {
-   "title": "충북농협, 농업인의 날 맞아 '농심천심예적금' 출시 홍보 행사",
-   "link": "https://www.nocutnews.co.kr/news/6605541?utm_source=naver&utm_medium=article&utm_campaign=20261111181259",
-   "source": "네이버뉴스",
-   "date": "2026-11-11"
   }
  ],
  "news_seen": [
-  "a9ff79edd8bcf9f2",
-  "551db8dd7bb3eb4d",
-  "8afc15247f6e99f5",
   "0d0af21b57aecc25",
   "9435ae65df2f42cd",
   "b564550f0e599ca8",
@@ -3406,7 +3403,10 @@
   "b960abe048c9fe17",
   "717c0206c4569a77",
   "4cf581adc214db7e",
-  "acbe0d9ac0735019"
+  "acbe0d9ac0735019",
+  "d981ca0252c52654",
+  "6b9fd5d3bdba5664",
+  "07697eedcbcc3db3"
  ],
  "news_seeded": true,
  "news_products": [
