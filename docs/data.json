@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-12 19:52",
+ "updated_at": "2026-11-13 03:47",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2534,6 +2534,18 @@
  ],
  "news": [
   {
+   "title": "카카오뱅크, '외국인통장' 출시 한 달 만에 2만 좌 돌파…내년 예·적금 확대 - FETV",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPLThCMXBJTXM0d2xxTGVGWlFibG9DWlB5T2tBR29zWjI2aldIdllNQjlmbThNbkdiTFRnQk9LWWxHVnAxUFljb2RLMGFmQVBvREdjODl1NEJMdFpKZk96LXNsQ2FBR2tj?oc=5",
+   "source": "FETV",
+   "date": "2026-11-12"
+  },
+  {
+   "title": "우리은행, 삼성 '모니모' 전용 금융상품 출시…적금 최고 연 8.5% - 핀포인트뉴스",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5oVzVhMXRRaEpEQjliSEV3T3BvWFZMcm12Y21BbURIUE80Vk9JQ3JDdTRYeUVRVnJaWHI0Zi1aMDU4ZnRiRThlNWxxcnB1TkxaZzQtbWNQQ19WdjNpbk9WQzRNblByRzJ2VU5GZkw3YlkzcEVVQ0pn0gF3QVVfeXFMTmhXNWExdFFoSkRCOWJIRXdPcG9YVkxybXZjbUFtREhQTzRWT0lDckN1NFh5RVFWclpYcjRmLVowNThmdGJFOGU1bHFycHVOTFpnNC1tY1BDX1Z2M2luT1ZDNE1uUHJHMnZVTkZmTDdiWTNwRVVDSmc?oc=5",
+   "source": "핀포인트뉴스",
+   "date": "2026-11-12"
+  },
+  {
    "title": "우리은행, '모니모' 전용 예·적금 3종 출시…매일이자 통장 연 최대 4% - 뉴스핌",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Cd053NWtiMm1RUnpHTVQ2NHR3OWZ2Y2p5WWJuZldmRW9fdWJMQXZmSlhydmktMmUtM2ZtdWJQcmlER091ZUNsUUpJZW85ZWtfWDk4ck1iUko3WjNm?oc=5",
    "source": "뉴스핌",
@@ -2592,23 +2604,9 @@
    "link": "https://www.kbmaeil.com/article/20261112500455",
    "source": "네이버뉴스",
    "date": "2026-11-12"
-  },
-  {
-   "title": "손훈모 순천시장, ‘순천대 의대 건립 동행 특판적금’ 공동 1호 가입 !! - NGTV",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBkMnNBQ05MTmVIZXB6RFYwMjZXTmxBdEh6VVJMRS05ZV9ud1dVbktHT0hONkQ0cTZiZ3cyaUtaa3pBQTgxYlNkTk8wSDFxNks3MERyT2dEZGlzT0w0ZF9ENHp3RQ?oc=5",
-   "source": "NGTV",
-   "date": "2026-11-10"
-  },
-  {
-   "title": "손훈모 순천시장, ‘순천대 의대 건립 동행 특판적금’ 공동 1호 가입 - 서울일보",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE93MFhIT1Y3SldHT3FvZnNhMzFtcnJyU1NXUHM4VFJ6SllHc0FKNlBJRGVwNm51MllLZ1BQeFVEdG9zUl9oSVp2YWFDaDdVXzhmd2lXWTVHemV4Y3NsR3ZQRldyMGs2bERLR2dN0gFvQVVfeXFMUGg2MWJSejNSbDZTc2lEV0xKNU4zd2gtaEtCRjBiYjMxd01Bd2JTU19PNk03OEhWdDN1VzV4ZDRXR05XbHZoQWJIc05PZHdVcVBhZWtTU1NpV3U2UjdoUUNWRlY3dVhNNUhkWFNyU204?oc=5",
-   "source": "서울일보",
-   "date": "2026-11-10"
   }
  ],
  "news_seen": [
-  "070565b6149010e2",
-  "c0ac3965abc3a977",
   "b122da82a2bb869a",
   "986241f43b0ad239",
   "6fa7d747a37f5efe",
@@ -3406,7 +3404,9 @@
   "4f4eadd2f3009a53",
   "6261842008cbc0a7",
   "0d5ca673627d7d5c",
-  "3b6632ce1e101e4c"
+  "3b6632ce1e101e4c",
+  "3c98fa296da82620",
+  "e908bff83f9a8095"
  ],
  "news_seeded": true,
  "news_products": [
