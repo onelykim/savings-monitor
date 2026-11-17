@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-17 22:04",
+ "updated_at": "2026-11-18 06:41",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2534,6 +2534,18 @@
  ],
  "news": [
   {
+   "title": "하나은행·JYP, K팝 팬들과 함께하는 '나눔 적금' 출시…최고 연 6% - https://www.ppss.kr/",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zdnZfd2dveVNYczhlU1RVaXQ3Z1ZMaEN6NHE1ekxPTFd3amxyeS1QYjFSUVFZTjJpNTNEaUY0Y08wQXlReGJFUDZYb3U2a3kyVk03Yk84azhLMU02MlRNQTI5TmM?oc=5",
+   "source": "https://www.ppss.kr/",
+   "date": "2026-11-17"
+  },
+  {
+   "title": "저축하면 다이슨 할인 혜택이 줄줄이…카뱅, 제휴 적금 출시 - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1aS0w4Xy1tR21UbmpaZmNYd1dTT2dpS0w2VmxhdVU1ZXctMjBhR1JVNnpKakJxTnhkODk4eDVEdHVTT2RhZms2Y3l4TUw2Z3hkYl93c2Z5YXh2bDB0aHdtcXJrWHdwMnRL?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-16"
+  },
+  {
    "title": "하나은행, JYP와 손잡고 최고 연 6% '나눔 적금' 출시 - 오피니언뉴스",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56bVVzb19EZzFRMERwa3ltcU41Mk5SY2RjMmlic0RjTUEwQld2YmFxTkJLdVZzV0U2MHdPTkl4cnVOMGQtYkhvYWpvcEJLNG1iSlc0bWZwQUR1VXcxU0U5SThadU9Yczl0VUJnVGlqelo?oc=5",
    "source": "오피니언뉴스",
@@ -2592,23 +2604,9 @@
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8tOWdhZ0Vyb0VQWVoxT2ZZVGVJUWRfVzBtRTJQajh4TWlYWXhEUWc1dEVwMEFMQ0lFRHpucFJHNDFOMU9FRHhhZ2tab3JYYWlIZnNfeVB2eTdPUnFsNTFDRkotR3JCeGxDNk1jOG5B?oc=5",
    "source": "S저널",
    "date": "2026-11-17"
-  },
-  {
-   "title": "하나은행, JYP엔터와 '나눔 적금' 출시…최고 연 6% 금리 - SBS Biz",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9SVmhxVDk3YzBrZzlkemlHMTVHMC02ZUljcWhiMmxjV09FUnJTbEhVby1GZ0E2NHgwUkU5RmhERGdiczNKU2lkTUx6QUoyLTJRYXhGcVdmamPSAVhBVV95cUxPUlZocVQ5N2Mwa2c5ZHppRzE1RzAtNmVJY3FoYjJsY1dPRVJyU2xIVW8tRmdBNjR4MFJFOUZoRERnYnMzSlNpZE1MekFKMi0yUWF4RnFXZmpj?oc=5",
-   "source": "SBS Biz",
-   "date": "2026-11-17"
-  },
-  {
-   "title": "하나은행, JYP와 '나눔 적금' 출시... 최고 연 6% 금리에 기부까지 - 법률방송뉴스",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1oMk5KN2F0WS1DZ01RUnprd3pTOEJnSjdtTlBrNFdaZ0drOExXQnZ6UjZQNVZtVThzeDUwQ2JYTWRUc1BwWE5tYldadjVEYjczZWs2QWtsN2dMRnlic3hjMUp1Nkg?oc=5",
-   "source": "법률방송뉴스",
-   "date": "2026-11-17"
   }
  ],
  "news_seen": [
-  "1165f94e86059f53",
-  "b6799dad5af05f55",
   "23c9b1643753fc83",
   "de4cea5d36585a1f",
   "e32606e497fcb628",
@@ -3406,7 +3404,9 @@
   "a2b929bdea79652a",
   "23822d55a7f38654",
   "71ef60079351c554",
-  "12153cc421fc0073"
+  "12153cc421fc0073",
+  "e549e22d3537d995",
+  "ed69f43eec7df5ed"
  ],
  "news_seeded": true,
  "news_products": [
@@ -3416,7 +3416,7 @@
    "norm": "EDM나눔적금",
    "rate": 6.0,
    "first_news": "2026-11-17",
-   "count": 78,
+   "count": 79,
    "articles": [
     {
      "title": "하나은행, JYP와 최고 연 6.0% 금리 'EDM 나눔 적금' 출시",
