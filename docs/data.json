@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-20 06:21",
+ "updated_at": "2026-11-20 11:58",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2534,6 +2534,42 @@
  ],
  "news": [
   {
+   "title": "[기획] \"출시 한달 10만좌 돌파\"…카카오뱅크 'AI 목표적금' 사용해 보니",
+   "link": "http://www.newswatch.kr/news/articleView.html?idxno=81965",
+   "source": "네이버뉴스",
+   "date": "2026-11-20"
+  },
+  {
+   "title": "하나은행, JYP EDM 나눔 적금 출시...최고 연 6% 금리 - 뉴스브라이트",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Pa1BHd29ITWljMVVZRmxDajNkSWMyS3dyZFRYM2lGVy10RFkxYjVXdzA4N05zVGJqOWZRVTg3NDFnN3UyODEySEpKMHdFdFMyNlFZdmZhMEhuUktYamJ4U09PWm52MUQtNXBlcw?oc=5",
+   "source": "뉴스브라이트",
+   "date": "2026-11-18"
+  },
+  {
+   "title": "﻿하나은행, JYP와 손잡고 ‘JYP EDM 나눔 적금’ 출시 - 비즈니스리포트",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rWVc3NjM5ZVUzNkxpSWJjVThKVDY5ZHhGYkJrZnpHMVRzaHBRQUlwVFZiV09MTi1YN2hHTFI1YXhwOXZieGdrNFJlajlMSEF5dnctV1k4Wmo1em9EMDRfYWExMTh6UzFPS2t5OTJoTUE?oc=5",
+   "source": "비즈니스리포트",
+   "date": "2026-11-17"
+  },
+  {
+   "title": "카카오뱅크 ‘AI 목표적금’, 출시 한 달 만에 고객 호응 - 팝콘뉴스",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBBZXl2MmlMSFNMLW16Sm0zOTMzY2lOdDI0aWdLbzdHZnViQVZBTUFkbEM0UWVsRXdRRmo3U0I5UFVWakFtZHlKNGpfQUFpUG91ZmdRUW1DdExibEhxSnRyMHRuWFQxcEJrZWVPNFNUZ1N3UdIBckFVX3lxTFBBZXl2MmlMSFNMLW16Sm0zOTMzY2lOdDI0aWdLbzdHZnViQVZBTUFkbEM0UWVsRXdRRmo3U0I5UFVWakFtZHlKNGpfQUFpUG91ZmdRUW1DdExibEhxSnRyMHRuWFQxcEJrZWVPNFNUZ1N3UQ?oc=5",
+   "source": "팝콘뉴스",
+   "date": "2026-11-17"
+  },
+  {
+   "title": "하나은행, 'JYP EDM 나눔 적금' 출시 - 한스경제",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYVzhrWnZxYi1SZnZFSE96dDVyWnJRZ3ZmVnE3dVk2NVlTX0RrTHRac0duWXU5S1pLXzItMW9SWnFWUk14c19aWmtFMmJBNmpaRWxWOU90cml0VFlFWFRfclVQaUkwU2RYSE5iedIBb0FVX3lxTFBwdjlXWnd6UWVrV05wQjFjcktmQkZISFB1Rm5tSzAwUk1xZHdSQWFLOEkxblkzTjRxdTM0czVZemJHR3NjZS1jaXAwWlRMMDFpLWg5RXdaNnhMeUtKR0g5YkJiQ3JxbWJoR0V2NGVPaw?oc=5",
+   "source": "한스경제",
+   "date": "2026-11-17"
+  },
+  {
+   "title": "하나은행, JYP 협업 나눔 적금 출시, 최고 연 6.0% 제공 - Traders Union",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYzNjRjlpbWhPUXNyUjFjblJsRElJVEhVNlhsSmN5SV91MTRodC1QR1pqWFdJaXJmeDMzelpkUjVfeVhjRy04UHR5TUtTTEZrcGFVMk0yTlJZTWpuSFp2Z0dkX0l6eU9vcUdPRDFTVHdDSE9KWmxRbUhFUDdveVhiUE5pNFVqN3RwdDNrWnpMVTFxS3dqUXZfX1lB?oc=5",
+   "source": "Traders Union",
+   "date": "2026-11-17"
+  },
+  {
    "title": "하나은행, JYP엔터와 '나눔 적금' 출시…최고 연 6% 금리 - SBS Biz",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LSmZkWWdDVHl3c1c0LTIyckJoWUY0a29acXBYOVpfZ0VnM19YZndFQTlWREFuZGVwWWk3cE83MnMyM3lLU0FFcnBhWVlRY1pWVGg40gFYQVVfeXFMT1JWaHFUOTdjMGtnOWR6aUcxNUcwLTZlSWNxaGIybGNXT0VSclNsSFVvLUZnQTY0eDBSRTlGaEREZ2JzM0pTaWRNTHpBSjItMlFheEZxV2ZqYw?oc=5",
    "source": "SBS Biz",
@@ -2568,51 +2604,9 @@
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GanV6V2txZW5ZRVRkbkgzYk9ISjBUVk5ueEFDTXZZRmxYMDJIQ1gwSEN2NWhXbHBkUnR6ZmE3WmdBS1dIYkRVRTFRbTZhRDlvbjBDMzF6aXp2QklVZDhtdFdyTDk?oc=5",
    "source": "매일일보",
    "date": "2026-11-17"
-  },
-  {
-   "title": "[금융 HOT 뉴스] 카카오뱅크, ‘AI 목표적금’ 출시 한 달 가입자 10만명 넘어 - 비즈월드",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9OMmphZXBfLXRqR19vVmxVYXJKSXNwUGJLMXlmVWdrcVlLVnVRNzBKb05pVDVGVzJDLVFkRy01VmR5TFAya1U4cHdUb3ZfWjYta1ctSUYzV0NmLXY2VWxhX19MQTBJbHN0SmNF?oc=5",
-   "source": "비즈월드",
-   "date": "2026-11-17"
-  },
-  {
-   "title": "하나은행, JYP와 손잡고 최고 연 6% 나눔 적금 출시 - 현대경제신문",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HeFpLeHhkdkxENFpSOWhZNmF1eUZjZW9oRFhzdDV3N1VySklFc2RWRmRxUDcydUpMYWkyc0ZJOUd2QlRTLXJPYU1CLUFqS2FQbm1xS0FvWmlBellxTUwycUN1ZUZsRkHSAWtBVV95cUxQUGQ5OEo2N1JuM2xpRGFYQ1BhVzY4UjhUZy1lVEpMU1VSRGhTSUdlY1ZQeFNnMzloeC1yTkk0VGtnVkpfelJPOWRhdWcyaXBtaG9pb2tCYi1BNXBaYzl0aldIV3Z1VHdCUU84dw?oc=5",
-   "source": "현대경제신문",
-   "date": "2026-11-17"
-  },
-  {
-   "title": "부산은행, ‘르노코리아 우대적금’ 출시···최고 연 4.3% - 이뉴스투데이",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1lWnB1bHd6OXhXeWx6QkllbWlja2lpdm9Vc3gzeVZ3bHdHaW5PR1BLV0Ruc1ZjSEY0RUs2a0tHM1VfYXZfajEyRUtjM1pXQWRIUElXakY1MXVqQnFwQTVtQTdUZG5jMTJiMW9ES3pRdFh1Z9IBdEFVX3lxTE5taHdhaW11VV8zM1RrZkphLVgzbk9SdlRBV2RlQldrNXh4MWpWMGI1Q3BkdDFlYk85Y2x1TE9rOTQ5b1p5d2FyU0JJUDN4c2tudmd2dGxHcEszUEV5eGpJckRZUzZmYk1NMlpWYl9lWE85eks0?oc=5",
-   "source": "이뉴스투데이",
-   "date": "2026-11-16"
-  },
-  {
-   "title": "하나은행, JYP와 손잡고 ‘EDM 나눔 적금’ 출시…최고 연 6.0% - 핸드메이커",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fOFItTzhVb05zdlROODdlZm9aWm1YandpeU03ZHdfbWpjRlF2VWdCY2ZfREtaM1RYWjdPUXdWV0UyZ3VYdVBTSG9qX18tMzJ6TU16NmhzdF9rWWVjUm0tbzJWSW9JNnPSAWtBVV95cUxQWjVDQllzbF9yaWw3amFoOXRwVmV6YnRpRnltYzVnUWc1dDdNbnBDTGRLWnN3SXFoNDB1REp4a0Nya3hYUUxBM2prNkQtUmt4OFROMmd1SmdzQVJuZ3JzUVZOUmU2RkRfVGx3dw?oc=5",
-   "source": "핸드메이커",
-   "date": "2026-11-18"
-  },
-  {
-   "title": "하나은행, 최고 연 6.0% ‘JYP EDM 나눔 적금’ 출시…최대 3천만원 기부금 조성 - 더퍼블릭",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TMWpqblVvanNHOEkwMFQ2ZHVrYThPeThiU3hnTnE3YlEzdzZPSUtudktGOWtUMEQ5MkluRFF0TWwwUHFLTjMwVnhiY0lCSVFzQ1RSY0tQMjBqckxRSG1YTnB3QjV1aTIxUUUtWUN6a9IBb0FVX3lxTE5TMWpqblVvanNHOEkwMFQ2ZHVrYThPeThiU3hnTnE3YlEzdzZPSUtudktGOWtUMEQ5MkluRFF0TWwwUHFLTjMwVnhiY0lCSVFzQ1RSY0tQMjBqckxRSG1YTnB3QjV1aTIxUUUtWUN6aw?oc=5",
-   "source": "더퍼블릭",
-   "date": "2026-11-18"
-  },
-  {
-   "title": "하나은행, ‘JYP EDM 나눔 적금’ 출시…최고 연 6.0%의 금리 제공 - 비즈월드",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9OLVRKMVFUcWJrajR4d0pSVzFRTGdGNlZTdU1ORTJmcFdiOFd1aWg2dzdvaDhIbVQxSVhsY1pfNU1ILXM3cEdjalFMV2xGZGlmSGZWYkQxVHNpWElSSWRjelBORUJlVjFIT3k4?oc=5",
-   "source": "비즈월드",
-   "date": "2026-11-17"
   }
  ],
  "news_seen": [
-  "22cb33bb97c29f11",
-  "20c580b617a36b88",
-  "eec322227de97584",
-  "a10bf3acca0907e2",
-  "c010848876ecf739",
-  "84b3681d3c4e458c",
   "152fb0a02a07091e",
   "e2d73018b02490b0",
   "5996d9ced0011684",
@@ -3406,7 +3400,13 @@
   "8cf5de7dc57dc9a0",
   "ffdf2966f6b59d58",
   "54949e1421443a60",
-  "3ec36e968cc57577"
+  "3ec36e968cc57577",
+  "3ce369cfa66557f6",
+  "872c8690c603bbf7",
+  "14ef48ac8c6a7d1c",
+  "1cf1bade3e514cc5",
+  "040d6ae0dfdc007b",
+  "f6fbcc286b36b59e"
  ],
  "news_seeded": true,
  "news_products": [
@@ -3416,7 +3416,7 @@
    "norm": "EDM나눔적금",
    "rate": 6.0,
    "first_news": "2026-11-17",
-   "count": 97,
+   "count": 101,
    "articles": [
     {
      "title": "하나은행, JYP와 최고 연 6.0% 금리 'EDM 나눔 적금' 출시",
@@ -3798,7 +3798,7 @@
    "norm": "AI목표적금",
    "rate": 5.0,
    "first_news": "2026-10-13",
-   "count": 83,
+   "count": 85,
    "articles": [
     {
      "title": "카카오뱅크, AI가 저축 관리하는 'AI 목표적금' 출시…최고 연 5%",
