@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-23 17:52",
+ "updated_at": "2026-11-24 06:11",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2541,6 +2541,12 @@
  ],
  "news": [
   {
+   "title": "BNK부산은행, 르노코리아 고객 대상 연 4.3% 적금 출시 - 부산일보",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Bal9CNGJUWHRHa3poZkJpUG40V2tvN2ExNTZvT1p0c29wZWg0QWpHTnlWazZqVFVwd29GXzJqRS1NY24wVDlWbVZmeFhwMHJ0Z1NqN2Jxc1FnNFZFZXo5LXNNaDFNY2VSVjQzdEdKTGZvQ1dJ?oc=5",
+   "source": "부산일보",
+   "date": "2026-11-23"
+  },
+  {
    "title": "BNK부산은행, 르노코리아 고객 대상 연 4.3% 적금 출시",
    "link": "https://www.busan.com/view/busan/view.php?code=2026112317404464595",
    "source": "네이버뉴스",
@@ -2605,16 +2611,9 @@
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYVzhrWnZxYi1SZnZFSE96dDVyWnJRZ3ZmVnE3dVk2NVlTX0RrTHRac0duWXU5S1pLXzItMW9SWnFWUk14c19aWmtFMmJBNmpaRWxWOU90cml0VFlFWFRfclVQaUkwU2RYSE5iedIBb0FVX3lxTFBwdjlXWnd6UWVrV05wQjFjcktmQkZISFB1Rm5tSzAwUk1xZHdSQWFLOEkxblkzTjRxdTM0czVZemJHR3NjZS1jaXAwWlRMMDFpLWg5RXdaNnhMeUtKR0g5YkJiQ3JxbWJoR0V2NGVPaw?oc=5",
    "source": "한스경제",
    "date": "2026-11-17"
-  },
-  {
-   "title": "하나은행, JYP 협업 나눔 적금 출시, 최고 연 6.0% 제공 - Traders Union",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYzNjRjlpbWhPUXNyUjFjblJsRElJVEhVNlhsSmN5SV91MTRodC1QR1pqWFdJaXJmeDMzelpkUjVfeVhjRy04UHR5TUtTTEZrcGFVMk0yTlJZTWpuSFp2Z0dkX0l6eU9vcUdPRDFTVHdDSE9KWmxRbUhFUDdveVhiUE5pNFVqN3RwdDNrWnpMVTFxS3dqUXZfX1lB?oc=5",
-   "source": "Traders Union",
-   "date": "2026-11-17"
   }
  ],
  "news_seen": [
-  "b188292660775661",
   "3e73ef033ded982b",
   "4442b837fd56ffe5",
   "28a212fee8c7efb8",
@@ -3413,7 +3412,8 @@
   "57751cac12c12078",
   "5eae255bf3fbaa24",
   "0a41aa7c9c793c7c",
-  "fb110b2f0273fac6"
+  "fb110b2f0273fac6",
+  "86f23bfcbb9cd147"
  ],
  "news_seeded": true,
  "news_products": [
@@ -3545,7 +3545,7 @@
    "norm": "르노코리아우대적금",
    "rate": 4.3,
    "first_news": "2026-11-16",
-   "count": 20,
+   "count": 21,
    "articles": [
     {
      "title": "BNK부산은행, '르노코리아 우대적금' 출시...최고 연 4.3% 금리 - 파이낸셜뉴스",
